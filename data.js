@@ -764,7 +764,7 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "E",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "Vineland adaptive behavior scale The Vineland Adaptive Behavior Scale is used for those 0 to 19 years old to provide a standard score measuring adaptive behavior and communication, skills of daily living, and socialization. There are separate standardization groups for normal, visually handicapped, hearing impaired, emotionally disturbed, and those with intellectual disability. The BASC has teacher and parent rating scales as well as a child self- report of personality across various domains at home, school, and the community in those ages 4 to 18 years. The HSQ-R is a test of attentional capacity in which parents rate the child\u0027s specific problems with attention and concentration. The LNNB:C tests sensory-motor, perceptual and cognitive functioning. The TAT is a type of projective test that can assess interpersonal functioning. (82, 83)"
     },
     {
@@ -1004,7 +1004,7 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "B",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "Breathlessness with little changes in exertion In conducting a medical review of systems during a psychiatric interview it is important to tease apart obstructive airway and other organic pulmonary diseases from breathing problems due to psychiatric conditions. In depression, breathlessness is experienced at rest and shows little change with exertion and can fluctuate in minutes. Often, a history can show the breathing problems coincided with the depressive episode and is accompanied by panic attacks including symptoms such as dizziness, sweating, palpitations, and paresthesias. Often with depression, the emphasis is placed on struggles with inspiration, whereas in true pulmonary disease the difficulty is with expiration. In pulmonary obstructive airway disease, the onset is typically insidious. Of course, when in doubt of the origin of respiratory symptoms, a referral should be made to the primary care doctor or pulmonologist. (19)"
     },
     {
@@ -1458,7 +1458,7 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "C",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "Change to another SSRI The child displays symptoms consistent with a diagnosis of persistent depressive disorder that is resistant to treatment. According to both the Treatment of SSRI- Resistant Depression in Adolescents (TORDIA) study and a consensus group from the Texas Children\u0027s Medication Algorithm Project (TMAP), the next step is a change to another SSRI. If this is unsuccessful, the next step would be to consider augmenting with psychotherapy and/or changing from an SSRI to a different class of medication, though the argument could be made that she should have been started on a combination of an SSRI and psychotherapy. (175, 177- 179)"
     },
     {
@@ -1675,7 +1675,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Marijuana",
-        "explanation":  "Multiple studies have now suggested a causative link between marijuana and schizophrenia, with others supporting an exacerbating effect of marijuana on schizophrenia                                     ( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC74420 38/ ). Other risks of chronic marijuana use include poor cognitive functioning, higher rates of motor vehicle accidents, impaired respiratory functioning, and increased risk for cardiovascular disease. (213)"
+        "explanation":  "Multiple studies have now suggested a causative link between marijuana and schizophrenia, with others supporting an exacerbating effect of marijuana on schizophrenia ( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC74420 38/ ). Other risks of chronic marijuana use include poor cognitive functioning, higher rates of motor vehicle accidents, impaired respiratory functioning, and increased risk for cardiovascular disease. (213)"
     },
     {
         "id":  "k-2.29",
@@ -2439,7 +2439,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Major depressive",
-        "explanation":  "Approximately  to - of those with opioid abuse or dependence and about 40% of those with alcohol abuse or dependence meet criteria for a major depressive disorder. Those with substance use alone are 20 times more likely to die by suicide than the general population, with a total of around 15% of those with alcohol abuse or dependence committing suicide. The frequency of suicide in substance use is only secondary to that in major depressive disorder. (272)"
+        "explanation":  "Approximately to - of those with opioid abuse or dependence and about 40% of those with alcohol abuse or dependence meet criteria for a major depressive disorder. Those with substance use alone are 20 times more likely to die by suicide than the general population, with a total of around 15% of those with alcohol abuse or dependence committing suicide. The frequency of suicide in substance use is only secondary to that in major depressive disorder. (272)"
     },
     {
         "id":  "k-4.3",
@@ -3014,7 +3014,7 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "A",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "Drowsiness is minimal Opioid substitution therapy, including methadone and buprenorphine, can eliminate the need to use opioids in illegal and injectable forms, minimizing HIV and hepatitis risk. Other positives include that they cause minimal euphoria and drowsiness and can help the patient to engage in employment instead of criminal activity to obtain the opioid. These agonists are utilized for both inpatient and outpatient detoxification and buprenorphine comes in a parenteral form. They do still carry risks of dependence and abuse. The combination of buprenorphine plus naloxone can help decrease the risk of diversion and abuse. Often, a period of at least 4 weeks is needed with demonstration of stabilization prior to lowering the dose of the agonist. (295-296)"
     },
     {
@@ -3038,7 +3038,7 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "B",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "MAOIs An idiosyncratic drug interaction between meperidine, an opioid, and MAOIs (monoamine oxidase inhibitors) can result in autonomic instability, agitation, seizures, coma, and death. These two medications should never be given together. (297)"
     },
     {
@@ -3550,7 +3550,7 @@ const QUESTIONS = ﻿[
         "chapter":  5,
         "chapterTitle":  "Schizophrenia Spectrum and Other Psychotic Disorders",
         "qnum":  10,
-        "question":  "A 43-year-old man is emergently admitted to an inpatient psychiatric facility for the fifth time in 12 months after EMS was called to his parents\u0027 house due to him running naked in living room and overturning furniture. When told to stop, he ran outside and started pulling up clumps of grass out of the lawn. He was first diagnosed with schizophrenia at age 22, and has been treated with haloperidol,     fluphenazine,  aripiprazole, aripiprazole lauroxil, and paliperidone. He is currently on paliperidone palmitate every month. The previous medications have either been ineffective or partially effective at maximum doses. His parents assure the admitting physician that they made sure he took his oral medication daily, and that they take him to follow-up appointments. \"No medicine has worked for him for long.\" He has mild hypercholesterolemia. Comprehensive metabolic panel is within normal limits. What should be the next step in his medication regimen?",
+        "question":  "A 43-year-old man is emergently admitted to an inpatient psychiatric facility for the fifth time in 12 months after EMS was called to his parents\u0027 house due to him running naked in living room and overturning furniture. When told to stop, he ran outside and started pulling up clumps of grass out of the lawn. He was first diagnosed with schizophrenia at age 22, and has been treated with haloperidol, fluphenazine, aripiprazole, aripiprazole lauroxil, and paliperidone. He is currently on paliperidone palmitate every month. The previous medications have either been ineffective or partially effective at maximum doses. His parents assure the admitting physician that they made sure he took his oral medication daily, and that they take him to follow-up appointments. \"No medicine has worked for him for long.\" He has mild hypercholesterolemia. Comprehensive metabolic panel is within normal limits. What should be the next step in his medication regimen?",
         "choices":  [
                         "Augment with an oral first-generation antipsychotic",
                         "Change to a first-generation long-acting injection",
@@ -4263,7 +4263,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Hyperthyroidism",
-        "explanation":  "Many medical disorders, such as hypo- or hyperthyroidism,  hyperparathyroidism,  and pheochromocytomas, can have symptoms that resemble panic attacks. This patient increased heart rate and hypertension, which are signs of hyperthyroidism. Episodic hypoglycemia associated with insulinomas, but not diabetes in general can cause symptoms that mimic panic attacks. Pancreatic cancer can lead to a feeling of doom and anxiety, but not usually panic attacks. Syphilis and lupus are not known to cause panic attacks. (406)"
+        "explanation":  "Many medical disorders, such as hypo- or hyperthyroidism, hyperparathyroidism, and pheochromocytomas, can have symptoms that resemble panic attacks. This patient increased heart rate and hypertension, which are signs of hyperthyroidism. Episodic hypoglycemia associated with insulinomas, but not diabetes in general can cause symptoms that mimic panic attacks. Pancreatic cancer can lead to a feeling of doom and anxiety, but not usually panic attacks. Syphilis and lupus are not known to cause panic attacks. (406)"
     },
     {
         "id":  "k-9.1",
@@ -4598,7 +4598,7 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "E",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "Persistent symptoms exist for at least 1 month Many people experience PTSD symptoms including shock, nightmares, and flashbacks after a traumatic event. However, most resolve on their own and some will meet criteria for an acute stress disorder. A diagnosis of PTSD can only be made if the symptoms persist for at least 1 month. It is normal for symptoms to fluctuate with various degrees of intensity over time. PTSD may or may not be associated with comorbid anxiety or depression. Two negative mood/cognition and two arousal alteration symptoms are required to make a diagnosis of PTSD though only one symptom of intrusion and one of avoidance are required. A rapid presentation of symptoms is not required. There is a modifier criterion for delayed expression with symptoms not presenting until at least 6 months after the trauma. (431, 434)"
     },
     {
@@ -4814,8 +4814,8 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "C",
-        "answerText":  null,
-        "explanation":  "Serotonin reuptake inhibitors Those with depersonalization and derealization disorders might partially respond to medication including  serotonin      reupdate      inhibitors, benzodiazepines, and stimulants. Also, there is some evidence for opioid antagonists and cognitive enhancers in helping with depersonalization and derealization disorders. There is absolutely no empirical evidence to support the use of either typical or atypical antipsychotics and these medications may increase feelings of emotional deadness. (446)"
+        "answerText":  "",
+        "explanation":  "Serotonin reuptake inhibitors Those with depersonalization and derealization disorders might partially respond to medication including serotonin reupdate inhibitors, benzodiazepines, and stimulants. Also, there is some evidence for opioid antagonists and cognitive enhancers in helping with depersonalization and derealization disorders. There is absolutely no empirical evidence to support the use of either typical or atypical antipsychotics and these medications may increase feelings of emotional deadness. (446)"
     },
     {
         "id":  "k-11.7",
@@ -4863,7 +4863,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Depersonalization/derealization and flashbacks",
-        "explanation":  "DBT was developed for the treatment of borderline personality disorder. Given many patients with borderline personality disorder report trauma histories, it has been thought that DBT might help those with dissociative identity disorder as well. DBT focuses on safety, therapy-interfering behaviors, affect regulation strategies, distress tolerance, and radical acceptance, all of which can be helpful in the treatment of dissociative identity disorder. However, one limitation is that it does not directly focus on the main symptoms of dissociative identity         disorder,  including depersonalization/derealization and dissociative amnesia, along with flashbacks, and trauma-based symptoms. (447)"
+        "explanation":  "DBT was developed for the treatment of borderline personality disorder. Given many patients with borderline personality disorder report trauma histories, it has been thought that DBT might help those with dissociative identity disorder as well. DBT focuses on safety, therapy-interfering behaviors, affect regulation strategies, distress tolerance, and radical acceptance, all of which can be helpful in the treatment of dissociative identity disorder. However, one limitation is that it does not directly focus on the main symptoms of dissociative identity disorder, including depersonalization/derealization and dissociative amnesia, along with flashbacks, and trauma-based symptoms. (447)"
     },
     {
         "id":  "k-11.9",
@@ -6408,14 +6408,14 @@ const QUESTIONS = ﻿[
         "chapter":  16,
         "chapterTitle":  "Human Sexuality and Sexual Dysfunctions",
         "qnum":  12,
-        "question":  "What ages of the child and patient and age difference between them are required for a diagnosis of pedophilia? Child  Patient   Age difference",
+        "question":  "What ages of the child and patient and age difference between them are required for a diagnosis of pedophilia? Child Patient Age difference",
         "choices":  [
-                        "\u003c10 years     16 years  3 years",
-                        "\u003c14 years     18 years  3 years",
-                        "\u003c10 years     18 years  N/A",
-                        "\u003c14 years     16 years  5 years",
-                        "\u003c10 years     16 years  N/A",
-                        "\u003c14 years     18 years  5 years"
+                        "\u003c10 years 16 years 3 years",
+                        "\u003c14 years 18 years 3 years",
+                        "\u003c10 years 18 years N/A",
+                        "\u003c14 years 16 years 5 years",
+                        "\u003c10 years 16 years N/A",
+                        "\u003c14 years 18 years 5 years"
                     ],
         "choiceLetters":  [
                               "A",
@@ -6426,7 +6426,7 @@ const QUESTIONS = ﻿[
                               "F"
                           ],
         "correctLetter":  "D",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "\u003c14 years 16 years 5 years To make a diagnosis of pedophilia, the child must be under 14 years old, the patient must be at least 16 years old, and there must be at least a 5-year age difference. These age requirements can be different than those for statutory rape, which can vary from state to state. (535)"
     },
     {
@@ -6758,7 +6758,7 @@ const QUESTIONS = ﻿[
                               "F"
                           ],
         "correctLetter":  "C",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "Family therapy and an SSRI The treatment most likely to be successful for intermittent explosive disorder is a combination of psychotherapy and medication. For a young adult living at home, family therapy is particularly useful, though cognitive behavioral therapy and contingency management may also be effective. SSRIs are helpful in reducing impulsivity and aggression. Antipsychotics and anticonvulsants both have mixed results. (557)"
     },
     {
@@ -6998,7 +6998,7 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "D",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "Identify diffusion Though features of borderline and histrionic personality disorders overlap, identity diffusion, suicide attempts, and brief psychotic episodes are more common in borderline personality disorder. (568)"
     },
     {
@@ -7046,7 +7046,7 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "A",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "Schizoid The patient described above has avoidant personality disorder. Paranoid, schizotypal, schizoid, dependent, and borderline are the most commonly co-occurring personality disorder with avoidant personality disorder. (569)"
     },
     {
@@ -7118,7 +7118,7 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "B",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "Phone consultation Dialectical behavioral therapy has the most empirical support for treating borderline personality disorder. It involves utilizing four modalities: group skill training, individual therapy, phone consultation, and a consultation team. Contingency management is useful for treating antisocial personality disorder. Mentalization-based therapy (MBT) is another type of therapy used to treat borderline personality disorder, as is transference-focused psychotherapy (TFP), in which the therapy relies on the use of clarification and confrontation in working with the patient using a psychodynamic approach. (573)"
     },
     {
@@ -7312,7 +7312,7 @@ const QUESTIONS = ﻿[
                               "F"
                           ],
         "correctLetter":  "B",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "Gaining free room and board at a hospital, C. Getting worker\u0027s compensation, and F. Obtaining drugs for abuse Malingering involves faking psychological or physical symptoms or secondary gain. Common causes of faking symptoms include to obtain drugs for abuse, or faking psychiatric symptoms to get free room and board in a hospital if homeless. Other cause of malingering includes faking injury to get money, or to get out of testifying in court. When there is no clear secondary gain and enjoyment of the sick role is noted, factitious disorder should be considered. Munchausen disorder by proxy should be considered if the adult is inflicting medical tests on a child and lying about their medical symptoms. (580, 581)"
     },
     {
@@ -7721,7 +7721,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Inhibition of sodium current into myocardial cells",
-        "explanation":  "Tricyclic antidepressants (TCAs) have largely been replaced by SSRIs due to the safety profile of the latter. A concern with TCAs is suicide by overdose, with death being caused by cardiac toxicity. The overall mechanism of death is hypotension caused by a reduction in peripheral resistance and QRS complex prolongation due to an inhibition of sodium into myocardial cells. Acute hypothalamic dopamine blockade is the mechanism behind neuroleptic malignant syndrome. Stimulation of postsynaptic 5-HT1A and 5-HT2A receptors is the mechanism behind serotonin syndrome. Acute norepinephrine release following tyramine ingestion is the mechanism of a hypertensive crisis caused by some monoamine oxidase inhibitors (MAOIs). A delayed type IV hypersensitivity reaction is a theoretical mechanism of  Stevens-Johnson    syndrome. https://emj.bmj.com/content/18/4/236 (600)"
+        "explanation":  "Tricyclic antidepressants (TCAs) have largely been replaced by SSRIs due to the safety profile of the latter. A concern with TCAs is suicide by overdose, with death being caused by cardiac toxicity. The overall mechanism of death is hypotension caused by a reduction in peripheral resistance and QRS complex prolongation due to an inhibition of sodium into myocardial cells. Acute hypothalamic dopamine blockade is the mechanism behind neuroleptic malignant syndrome. Stimulation of postsynaptic 5-HT1A and 5-HT2A receptors is the mechanism behind serotonin syndrome. Acute norepinephrine release following tyramine ingestion is the mechanism of a hypertensive crisis caused by some monoamine oxidase inhibitors (MAOIs). A delayed type IV hypersensitivity reaction is a theoretical mechanism of Stevens-Johnson syndrome. https://emj.bmj.com/content/18/4/236 (600)"
     },
     {
         "id":  "k-21.10",
@@ -7865,7 +7865,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Ziprasidone",
-        "explanation":  "Bioavailability of ziprasidone doubles when taken with food of at least 500 calories. Though it was originally believed that the calories had to be high in fat, that was not  supported          in  studies. https://pubmed.ncbi.nlm.nih.gov/18007569/ (612)"
+        "explanation":  "Bioavailability of ziprasidone doubles when taken with food of at least 500 calories. Though it was originally believed that the calories had to be high in fat, that was not supported in studies. https://pubmed.ncbi.nlm.nih.gov/18007569/ (612)"
     },
     {
         "id":  "k-21.16",
@@ -7960,7 +7960,7 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "D",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "Change to a different, nonclozapine, serotonin-dopamine antagonist The patient appears to have gotten no therapeutic benefit from 8 weeks of aripiprazole, with 4 of them being at the maximum dosage. At this point, aripiprazole can be considered a treatment failure, and would likely be no more effective with additional time on the medication. Had he shown any improvement, continuing the current dose for another 4 weeks, or augmentation with a first- generation antipsychotic would have been reasonable. Clozapine is used once a person has been shown to be refractory to several antipsychotic medications. The treatment of choice at this time would be to change to a different serotonin-dopamine antagonist. (615)"
     },
     {
@@ -7992,7 +7992,7 @@ const QUESTIONS = ﻿[
         "chapter":  21,
         "chapterTitle":  "Psychopharmacology",
         "qnum":  21,
-        "question":  "What is the usual mechanism of orthostatic hypotension      from  first-generation antipsychotics?",
+        "question":  "What is the usual mechanism of orthostatic hypotension from first-generation antipsychotics?",
         "choices":  [
                         "Beta-2 receptor agonism",
                         "D2 receptor antagonism",
@@ -8582,7 +8582,7 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "C",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "About 12 hours after taking a dose Blood levels for lithium, like that for carbamazepine and valproic acid, should be drawn at the trough, right before the next dose. In twice-a-day dosing, that would usually be about 12 hours after a given dose. (654)"
     },
     {
@@ -9061,7 +9061,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Naltrexone",
-        "explanation":  "The patient cites alcohol cravings as the main reason for relapse, which opioid receptor antagonists can reduce, especially when paired with an SSRI, according to some studies. Diazepam, like alprazolam and chlordiazepoxide, is often used in protocols such as the Clinical Institute Withdrawal Assessment Alcohol Scale Revised to treat agitation from withdrawal and prevent seizures. Clonidine is used in the treatment of some acute symptoms of opioid withdrawal. The COMBINE study did not show evidence for an increased benefit from acamprosate over naltrexone. Disulfiram does not help                  with  cravings. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC29458 72/ (691, 693)"
+        "explanation":  "The patient cites alcohol cravings as the main reason for relapse, which opioid receptor antagonists can reduce, especially when paired with an SSRI, according to some studies. Diazepam, like alprazolam and chlordiazepoxide, is often used in protocols such as the Clinical Institute Withdrawal Assessment Alcohol Scale Revised to treat agitation from withdrawal and prevent seizures. Clonidine is used in the treatment of some acute symptoms of opioid withdrawal. The COMBINE study did not show evidence for an increased benefit from acamprosate over naltrexone. Disulfiram does not help with cravings. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC29458 72/ (691, 693)"
     },
     {
         "id":  "k-21.66",
@@ -9662,7 +9662,7 @@ const QUESTIONS = ﻿[
         "chapter":  23,
         "chapterTitle":  "Psychotherapy",
         "qnum":  8,
-        "question":  "A family has started therapy together for help in managing one of their children with attention- deficit/hyperactivity  disorder  (ADHD), oppositional defiant disorder (ODD), and worsening behavior problems. The patient is being bullied in school and the therapist externalizes the problem and helps the family to focus on the outside stressors and diagnoses. Each family member writes a therapeutic letter to another family member in hopes of resolving the conflict within the family and enhancing insight about the story that each member is going through. Which school of family therapy is most likely being employed?",
+        "question":  "A family has started therapy together for help in managing one of their children with attention- deficit/hyperactivity disorder (ADHD), oppositional defiant disorder (ODD), and worsening behavior problems. The patient is being bullied in school and the therapist externalizes the problem and helps the family to focus on the outside stressors and diagnoses. Each family member writes a therapeutic letter to another family member in hopes of resolving the conflict within the family and enhancing insight about the story that each member is going through. Which school of family therapy is most likely being employed?",
         "choices":  [
                         "Cognitive behavioral",
                         "Experiential-humanistic",
@@ -9702,7 +9702,7 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "C",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "Reframing This is an example of a therapist using a technique called reframing. It is also known as positive connotation and involves relabeling of all negatively expressed feelings or behaviors as positive. It helps the family member to have a new frame of reference and can lead to change. (762)"
     },
     {
@@ -9726,7 +9726,7 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "C",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "Dialectical behavioral therapy (DBT) The patient described above most likely has borderline personality disorder (BPD). DBT is the gold standard to help those with BPD live a life worth living and can help with self-injurious and parasuicidal behavior. DBT includes individual, group, telephone, and team consultation, and helps increase skillful behavior, improve motivation for changing maladaptive behaviors, and improve emotional dysregulation. (764)"
     },
     {
@@ -9751,7 +9751,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Autogenic training",
-        "explanation":  "Autogenic training can help with relaxation by having the patient direct attention to specific body areas and think phrases to help them relax (i.e., My forehead is cool.). The patient progresses through six themes including heaviness, warmth, cardiac regulation, breathing adjustment, solar plexus, and forehead. Applied tension involves tensing the muscles and releasing them, but not to the point of relaxation. It can help with situations such as fainting. Progressive muscular relaxation involves tensing and then relaxing the muscles working the way up the body. Relaxation therapy involves immobilizing the body, drawing focus and attention, and cultivating a nonjudgmental, contemplative state of mind. Biofeedback involves the recognition and display of small changes in physical levels  (i.e.,  electromyography     [EMG], electroencephalography [EEG] monitoring) to help bring the autonomic nervous system under voluntary control through operant conditioning. (766)"
+        "explanation":  "Autogenic training can help with relaxation by having the patient direct attention to specific body areas and think phrases to help them relax (i.e., My forehead is cool.). The patient progresses through six themes including heaviness, warmth, cardiac regulation, breathing adjustment, solar plexus, and forehead. Applied tension involves tensing the muscles and releasing them, but not to the point of relaxation. It can help with situations such as fainting. Progressive muscular relaxation involves tensing and then relaxing the muscles working the way up the body. Relaxation therapy involves immobilizing the body, drawing focus and attention, and cultivating a nonjudgmental, contemplative state of mind. Biofeedback involves the recognition and display of small changes in physical levels (i.e., electromyography [EMG], electroencephalography [EEG] monitoring) to help bring the autonomic nervous system under voluntary control through operant conditioning. (766)"
     },
     {
         "id":  "k-23.12",
@@ -10038,7 +10038,7 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "A",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "They actively facilitate job acquisition Federal run supportive employment programs differ from other vocational approaches by helping anyone who wants work to actively acquire a job. Supportive employment program approaches include accompanying clients on interviews and providing ongoing support once the person is employed. Intermediate prevocational, transitional employment, or sheltered workshops are not provided by supportive employment programs. (792)"
     },
     {
@@ -11160,7 +11160,7 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "D",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "Deviation from the standard of care caused damage to the patient To prove malpractice, The 4 Ds, must be proven--duty, deviation, damage, and direct causation (i.e., the deviation from the standard of care directly caused damage to the patient). If the doctor did not inform a patient of the risks of medication, there may be grounds for malpractice. Thus, it should always be documented that potential medication side effects have been reviewed. While one should strive for excellent care, only the standard of care needs to be met, and if not, malpractice can occur. Split treatment can be allowed, but the psychiatrist should be aware that they assume a collaborative or supervisory role with another mental health worker and that the patient\u0027s full responsibility lies in their care in split-treatment situations. (836)"
     },
     {
@@ -11328,7 +11328,7 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "E",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "Least restrictive alternative The principle of least restrictive alternative holds that patients have the right to receive treatment using the least restrictive means (i.e., they should be treated as an outpatient, if possible, in an open ward, instead of seclusion, etc.). This principle should be considered when utilizing involuntary medication, seclusions, or restraints. (841)"
     },
     {
@@ -11472,7 +11472,7 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "D",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "The act was caused by a delusion that led the accused to feel he was acting in self- defense The M\u0027Naghten rule gives guidelines for pleading insanity as a defense against criminal responsibility. To establish a defense of insanity, it must be clearly proven that at the time of committing the act, the patient acted under a defect of reason from an idea of the mind and did not know what he was doing was wrong. This can apply to a person if they have a partial delusion as well. The question is not whether the defendant knows the difference between right and wrong in general, but at the time of the act if the delusion caused them to not know right from wrong and feel they were acting in self- defense. (844)"
     },
     {
@@ -12092,7 +12092,7 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "B",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "Young female in a rural area In China, suicide is the leading cause of death for people between 15 to 34 years old. China is the only country where suicide rates in women are consistently higher than those in men, especially in rural areas. (875)"
     },
     {
@@ -12140,7 +12140,7 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "D",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "HIV/AIDS According to the DALY (Disability-adjusted life years) scale, for the year 2030, HIV/AIDS is the leading cause of disability at 12.1%. Depression comes in as the 2nd leading cause of disability at 5.7%. (877)"
     },
     {
@@ -12452,7 +12452,7 @@ const QUESTIONS = ﻿[
                               "E"
                           ],
         "correctLetter":  "C",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "Concrete operational The four Piaget states of cognitive development include the sensorimotor stage (birth to 2 years old), preoperational (2 to 7 years old), concrete operational (7 to 11 years old), and formal operational (11 to 19 years old). Preproduction is a stage of language, not cognitive development. Cognitive achievements in the concrete stage are highlighted above, including principles of reversibility (i.e., can play games backward and forward), conservation (i.e., can understand conservation of matter), and decentration (i.e., worrying about small details). (890)"
     },
     {
@@ -13194,10 +13194,10 @@ const QUESTIONS = ﻿[
         "chapter":  33,
         "chapterTitle":  "Contributions from the Neurosciences",
         "qnum":  18,
-        "question":  "A 62-year-old man with a 30-year history of drinking three to five beers a day would be expected to have what profile of N-methyl-D- aspartate (NMDA) and gamma-aminobutyric acid (GABA) receptor regulation? GABA            NMDA Upregulation",
+        "question":  "A 62-year-old man with a 30-year history of drinking three to five beers a day would be expected to have what profile of N-methyl-D- aspartate (NMDA) and gamma-aminobutyric acid (GABA) receptor regulation? GABA NMDA Upregulation",
         "choices":  [
-                        "Upregulation    Downregulation Downregulation",
-                        "Upregulation    Upregulation",
+                        "Upregulation Downregulation Downregulation",
+                        "Upregulation Upregulation",
                         "Downregulation",
                         "Downregulation"
                     ],
@@ -13208,7 +13208,7 @@ const QUESTIONS = ﻿[
                               "D"
                           ],
         "correctLetter":  "D",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "GABA Downregulation, NMDA Upregulation Long-term ethanol use results in the downregulation of GABA receptors and upregulation of NMDA receptors. The latter leaves the patient in a hyperexcitable state in the case of abrupt alcohol discontinuation, which can contribute to delirium tremens. (964)"
     },
     {
@@ -13850,10 +13850,10 @@ const QUESTIONS = ﻿[
         "qnum":  15,
         "question":  "A 40-year-old female with amnesia is shown a picture of a woman in a bright red dress holding an umbrella on a rainy day. Also in the scene is a lake with ducks and a boat in the distance. The next day, she is asked to read out loud a set of words as quickly as possible. The set includes the words \"duck,\" \"umbrella,\" and \"dress.\" A patient without amnesia would read words represented in the picture more quickly than neutral words, and remember being shown the picture. How will this patient most likely perform? Quicker reading speed Remember picture",
         "choices":  [
-                        "Yes  No",
-                        "Yes  Yes",
-                        "No   Yes",
-                        "No   No"
+                        "Yes No",
+                        "Yes Yes",
+                        "No Yes",
+                        "No No"
                     ],
         "choiceLetters":  [
                               "A",
@@ -13862,7 +13862,7 @@ const QUESTIONS = ﻿[
                               "D"
                           ],
         "correctLetter":  "A",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "Quicker reading speed, not remembering the picture The patient is participating in an experiment to measure the effect of priming, which is the facilitation of the ability to detect or identify a particular stimulus based on a specific recent experience. Studies have shown that the effect of this type of priming remains intact in participants with amnesia, as demonstrated by increased reading speed of words represented in the priming picture. However, as expected, the participant would not remember being shown the picture. (1027)"
     },
     {
@@ -13920,13 +13920,13 @@ const QUESTIONS = ﻿[
         "qnum":  18,
         "question":  "In self-reports of memory difficulty, how do patients with depression report their performance with new learning capacity and immediate and remote recall? New learning Immediate Remote",
         "choices":  [
-                        "Impaired  Normal    Normal",
-                        "Normal    Impaired  Normal",
-                        "Normal    Normal    Impaired",
-                        "Impaired  Impaired  Normal",
-                        "Normal    Impaired  Impaired",
-                        "Impaired  Normal    Impaired",
-                        "Impaired  Impaired  Impaired"
+                        "Impaired Normal Normal",
+                        "Normal Impaired Normal",
+                        "Normal Normal Impaired",
+                        "Impaired Impaired Normal",
+                        "Normal Impaired Impaired",
+                        "Impaired Normal Impaired",
+                        "Impaired Impaired Impaired"
                     ],
         "choiceLetters":  [
                               "A",
@@ -13938,7 +13938,7 @@ const QUESTIONS = ﻿[
                               "G"
                           ],
         "correctLetter":  "G",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "Impaired Impaired Impaired Patients with depression who report problems with memory as a symptom tend to endorse difficulty in all three domains of new learning capacity, immediate recall, and remote recall. In contrast, patients with amnesia do not report difficulty with immediate and remote memory, as those domains are not usually deficient. (1032)"
     },
     {
@@ -14162,10 +14162,10 @@ const QUESTIONS = ﻿[
         "chapter":  34,
         "chapterTitle":  "Contributions from the Behavioral and Social Sciences",
         "qnum":  28,
-        "question":  "Data from the National Comorbidity Study shows that, in comparison to Whites, African Americans have what relative risk for developing substance use, anxiety, and depressive disorders and what degree of persistence once a mental illness is developed? Relative risk  Persistence Lower",
+        "question":  "Data from the National Comorbidity Study shows that, in comparison to Whites, African Americans have what relative risk for developing substance use, anxiety, and depressive disorders and what degree of persistence once a mental illness is developed? Relative risk Persistence Lower",
         "choices":  [
-                        "Lower          Higher Lower",
-                        "Lower          Higher",
+                        "Lower Higher Lower",
+                        "Lower Higher",
                         "Higher",
                         "Higher"
                     ],
@@ -14176,7 +14176,7 @@ const QUESTIONS = ﻿[
                               "D"
                           ],
         "correctLetter":  "B",
-        "answerText":  null,
+        "answerText":  "",
         "explanation":  "Lower relative risk, higher persistence Though African Americans were found to have lower rates of substance use disorder, anxiety, and depression than Whites, they tend to have more persistent disorders. A notable exception is schizophrenia, in which African Americans are diagnosed at three times the rate of Whites. (1050)"
     },
     {

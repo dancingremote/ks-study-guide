@@ -55,6 +55,7 @@
   let currentScreen = 'landing';
   let searchTerm = '';
   let browseRevealed = false;
+  let pendingSelection = [];
 
   function saveState() {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
@@ -62,6 +63,23 @@
 
   function setKey() {
     return `${state.chapter}|${state.view}`;
+  }
+
+  function lettersEqual(a, b) {
+    if (!a || !b || a.length !== b.length) return false;
+    const bSet = new Set(b);
+    return a.every(x => bSet.has(x));
+  }
+
+  function toggleSelection(current, letter, isMulti) {
+    if (!isMulti) return [letter];
+    const idx = current.indexOf(letter);
+    if (idx >= 0) { const copy = current.slice(); copy.splice(idx, 1); return copy; }
+    return current.concat([letter]);
+  }
+
+  function requiresSubmit(q) {
+    return q.isMultiSelect;
   }
 
   function matchesSearch(q, term) {
@@ -102,6 +120,15 @@
       .replace(/>/g, '&gt;');
   }
 
+  function formatExplanation(q) {
+    const explanation = q.explanation || '';
+    if (q.answerText && explanation.startsWith(q.answerText)) {
+      const rest = explanation.slice(q.answerText.length).trim();
+      return `<strong>${escapeHtml(q.answerText)}</strong>${escapeHtml(rest)}`;
+    }
+    return escapeHtml(explanation);
+  }
+
   function populateChapterSelect() {
     const allOpt = document.createElement('option');
     allOpt.value = 'all';
@@ -116,19 +143,15 @@
     chapterSelect.value = String(state.chapter);
   }
 
-  function isCorrectAnswer(q, letter) {
-    return letter === q.correctLetter;
-  }
-
   function questionStatus(q) {
     const submitted = !!state.testSubmitted[setKey()];
     if (state.mode === 'test') {
       if (submitted) {
         const sel = state.testAnswers[q.id];
-        if (!sel) return 'omitted';
-        return isCorrectAnswer(q, sel) ? 'correct' : 'incorrect';
+        if (!sel || !sel.length) return 'omitted';
+        return lettersEqual(sel, q.correctLetters) ? 'correct' : 'incorrect';
       }
-      return state.testAnswers[q.id] ? 'answered' : 'unanswered';
+      return (state.testAnswers[q.id] && state.testAnswers[q.id].length) ? 'answered' : 'unanswered';
     }
     const a = state.answered[q.id];
     if (!a) return 'unanswered';
@@ -139,7 +162,7 @@
     const list = currentList();
     list.forEach(q => {
       const sel = state.testAnswers[q.id];
-      if (sel && !isCorrectAnswer(q, sel)) state.missed[q.id] = true;
+      if (sel && sel.length && !lettersEqual(sel, q.correctLetters)) state.missed[q.id] = true;
     });
     state.testSubmitted[setKey()] = true;
   }
@@ -149,6 +172,7 @@
     if (!list.length) return;
     if (state.atSummary) return;
     browseRevealed = false;
+    pendingSelection = [];
     if (state.index < list.length - 1) {
       state.index += 1;
     } else {
@@ -163,6 +187,7 @@
     const list = currentList();
     if (!list.length) return;
     browseRevealed = false;
+    pendingSelection = [];
     if (state.atSummary) {
       state.atSummary = false;
       state.index = list.length - 1;
@@ -175,6 +200,7 @@
 
   function jumpTo(i) {
     browseRevealed = false;
+    pendingSelection = [];
     state.atSummary = false;
     state.index = i;
     saveState();
@@ -184,6 +210,7 @@
   function switchView(view) {
     clearSearch();
     browseRevealed = false;
+    pendingSelection = [];
     state.view = view;
     state.index = 0;
     state.atSummary = false;
@@ -193,6 +220,7 @@
 
   function switchMode(mode) {
     browseRevealed = false;
+    pendingSelection = [];
     state.mode = mode;
     state.atSummary = false;
     saveState();
@@ -302,6 +330,7 @@
   function enterStudy(chapter, view) {
     clearSearch();
     browseRevealed = false;
+    pendingSelection = [];
     const resuming = state.chapter === chapter && state.view === view;
     state.chapter = chapter;
     state.view = view;
@@ -434,32 +463,43 @@
     const submitted = !!state.testSubmitted[setKey()];
     const answer = state.answered[q.id];
     const isRevealedBrowse = browseRevealed;
-    const testSelected = state.testAnswers[q.id];
+    const testSelected = state.testAnswers[q.id] || [];
+    const needsSubmit = requiresSubmit(q);
 
     let showAnswer = false;
     if (state.mode === 'browse') showAnswer = isRevealedBrowse;
     else if (state.mode === 'quiz') showAnswer = !!answer;
     else if (state.mode === 'test') showAnswer = submitted;
 
+    const quizPending = state.mode === 'quiz' && needsSubmit && !answer;
+
     const choicesHtml = q.choices.map((choiceText, i) => {
       const letter = q.choiceLetters[i];
       let cls = 'choice';
-      if (state.mode === 'quiz' && !answer) cls += ' clickable';
+      const badge = needsSubmit || q.isMultiSelect ? `<span class="checkbox">${letter}</span>` : `<span class="letter">${letter}</span>`;
+
+      if (state.mode === 'quiz' && !needsSubmit && !answer) cls += ' clickable';
+      if (state.mode === 'quiz' && quizPending) cls += ' clickable';
       if (state.mode === 'test' && !submitted) cls += ' clickable';
 
-      if (state.mode === 'test' && !submitted) {
-        if (testSelected === letter) cls += ' selected-test';
+      if (quizPending) {
+        if (pendingSelection.includes(letter)) cls += ' selected-multi';
+      } else if (state.mode === 'test' && !submitted) {
+        if (testSelected.includes(letter)) cls += ' selected-multi';
       } else if (showAnswer) {
-        if (letter === q.correctLetter) cls += ' correct';
-        const selectedLetter = state.mode === 'test' ? testSelected : (answer ? answer.selectedLetter : null);
-        if (selectedLetter === letter && letter !== q.correctLetter) cls += ' incorrect';
+        const selectedLetters = state.mode === 'test' ? testSelected : (answer ? answer.selectedLetters : []);
+        const isCorrectChoice = q.correctLetters.includes(letter);
+        const wasSelected = selectedLetters.includes(letter);
+        if (isCorrectChoice && wasSelected) cls += ' correct';
+        else if (isCorrectChoice && !wasSelected) cls += ' missed-correct';
+        else if (!isCorrectChoice && wasSelected) cls += ' incorrect';
       }
       if ((state.mode === 'quiz' && answer) || (state.mode === 'test' && submitted)) cls += ' locked';
       const eliminatedLetters = state.eliminated[q.id] || [];
       if (eliminatedLetters.includes(letter)) cls += ' eliminated';
 
       return `<button type="button" class="${cls}" data-letter="${letter}">
-        <span class="letter">${letter}</span><span>${escapeHtml(choiceText)}</span>
+        ${badge}<span>${escapeHtml(choiceText)}</span>
       </button>`;
     }).join('');
 
@@ -469,32 +509,35 @@
       if (state.mode === 'quiz' && answer) {
         resultLine = answer.correct
           ? '<div class="result correct-result">Correct</div>'
-          : `<div class="result incorrect-result">Incorrect — correct answer is ${q.correctLetter}</div>`;
+          : `<div class="result incorrect-result">Incorrect — correct answer is ${q.correctLetters.join(', ')}</div>`;
       } else if (state.mode === 'test' && submitted) {
-        if (!testSelected) {
-          resultLine = `<div class="result incorrect-result">Omitted — correct answer is ${q.correctLetter}</div>`;
+        if (!testSelected.length) {
+          resultLine = `<div class="result incorrect-result">Omitted — correct answer is ${q.correctLetters.join(', ')}</div>`;
         } else {
-          resultLine = isCorrectAnswer(q, testSelected)
+          resultLine = lettersEqual(testSelected, q.correctLetters)
             ? '<div class="result correct-result">Correct</div>'
-            : `<div class="result incorrect-result">Incorrect — correct answer is ${q.correctLetter}</div>`;
+            : `<div class="result incorrect-result">Incorrect — correct answer is ${q.correctLetters.join(', ')}</div>`;
         }
       }
       answerPanelHtml = `
         <div class="answer-panel">
           ${resultLine}
-          <div class="explanation">${escapeHtml(q.explanation || '')}</div>
+          <div class="explanation">${formatExplanation(q)}</div>
         </div>`;
     }
 
     let actionsHtml = '';
     if (state.mode === 'browse' && !isRevealedBrowse) {
       actionsHtml = `<div class="actions"><button class="btn-primary" id="revealBtn">Show Answer</button></div>`;
+    } else if (quizPending) {
+      actionsHtml = `<div class="actions"><button class="btn-primary" id="submitBtn" ${pendingSelection.length ? '' : 'disabled'}>Submit</button></div>`;
     } else if (state.mode === 'test' && !submitted) {
-      actionsHtml = `<p class="test-hint">Select an answer, then use Next to continue. Your answer won't be scored until you click Finish Test.</p>`;
+      actionsHtml = `<p class="test-hint">Select ${q.isMultiSelect ? 'your answers' : 'an answer'}, then use Next to continue. Your answer won't be scored until you click Finish Test.</p>`;
     }
 
     const isFlagged = !!state.flagged[q.id];
     const canRetry = state.mode === 'quiz' && !!answer && state.view === 'study';
+    const multiHint = q.isMultiSelect && !showAnswer ? `<p class="multi-select-hint">Select ${q.correctLetters.length} answer${q.correctLetters.length === 1 ? '' : 's'}.</p>` : '';
 
     content.innerHTML = `
       <div class="card">
@@ -506,6 +549,7 @@
           </div>
         </div>
         <p class="question-text">${escapeHtml(q.question)}</p>
+        ${multiHint}
         <div class="choices">${choicesHtml}</div>
         ${actionsHtml}
         ${answerPanelHtml}
@@ -523,6 +567,7 @@
     if (retryBtn) {
       retryBtn.addEventListener('click', () => {
         delete state.answered[q.id];
+        pendingSelection = [];
         saveState();
         render();
       });
@@ -538,13 +583,13 @@
       }
     }
 
-    if (state.mode === 'quiz' && !answer) {
+    if (state.mode === 'quiz' && !needsSubmit && !answer) {
       content.querySelectorAll('.choice').forEach(btn => {
         btn.addEventListener('click', () => {
           if (state.answered[q.id]) return;
           const letter = btn.getAttribute('data-letter');
-          const correct = letter === q.correctLetter;
-          state.answered[q.id] = { selectedLetter: letter, correct };
+          const correct = letter === q.correctLetters[0];
+          state.answered[q.id] = { selectedLetters: [letter], correct };
           if (!correct) state.missed[q.id] = true;
           else delete state.missed[q.id];
           saveState();
@@ -553,11 +598,34 @@
       });
     }
 
+    if (quizPending) {
+      content.querySelectorAll('.choice').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const letter = btn.getAttribute('data-letter');
+          pendingSelection = toggleSelection(pendingSelection, letter, q.isMultiSelect);
+          render();
+        });
+      });
+      const submitBtn = document.getElementById('submitBtn');
+      if (submitBtn) {
+        submitBtn.addEventListener('click', () => {
+          if (!pendingSelection.length) return;
+          const correct = lettersEqual(pendingSelection, q.correctLetters);
+          state.answered[q.id] = { selectedLetters: pendingSelection.slice(), correct };
+          if (!correct) state.missed[q.id] = true;
+          else delete state.missed[q.id];
+          pendingSelection = [];
+          saveState();
+          render();
+        });
+      }
+    }
+
     if (state.mode === 'test' && !submitted) {
       content.querySelectorAll('.choice').forEach(btn => {
         btn.addEventListener('click', () => {
           const letter = btn.getAttribute('data-letter');
-          state.testAnswers[q.id] = letter;
+          state.testAnswers[q.id] = toggleSelection(state.testAnswers[q.id] || [], letter, q.isMultiSelect);
           saveState();
           render();
         });
@@ -568,6 +636,7 @@
   chapterSelect.addEventListener('change', () => {
     clearSearch();
     browseRevealed = false;
+    pendingSelection = [];
     state.chapter = chapterSelect.value === 'all' ? 'all' : Number(chapterSelect.value);
     state.index = 0;
     state.atSummary = false;
@@ -579,6 +648,7 @@
     searchTerm = searchInput.value.trim().toLowerCase();
     clearSearchBtn.style.display = searchTerm ? '' : 'none';
     browseRevealed = false;
+    pendingSelection = [];
     state.index = 0;
     state.atSummary = false;
     render();
@@ -587,6 +657,7 @@
   clearSearchBtn.addEventListener('click', () => {
     clearSearch();
     browseRevealed = false;
+    pendingSelection = [];
     state.index = 0;
     render();
   });
@@ -661,6 +732,7 @@
     });
     delete state.testSubmitted[setKey()];
     browseRevealed = false;
+    pendingSelection = [];
     state.atSummary = false;
     state.index = 0;
     saveState();
@@ -677,6 +749,7 @@
     state.missed = {};
     state.eliminated = {};
     browseRevealed = false;
+    pendingSelection = [];
     state.atSummary = false;
     state.view = 'study';
     state.index = 0;

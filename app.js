@@ -300,10 +300,13 @@
   function enterStudy(chapter, view) {
     clearSearch();
     browseRevealed = false;
+    const resuming = state.chapter === chapter && state.view === view;
     state.chapter = chapter;
     state.view = view;
-    state.index = 0;
-    state.atSummary = false;
+    if (!resuming) {
+      state.index = 0;
+      state.atSummary = false;
+    }
     chapterSelect.value = String(chapter);
     saveState();
     showScreen('study');
@@ -594,6 +597,14 @@
 
   prevBtn.addEventListener('click', goPrev);
   nextBtn.addEventListener('click', goNext);
+
+  document.addEventListener('keydown', (e) => {
+    if (currentScreen !== 'study') return;
+    const tag = document.activeElement && document.activeElement.tagName;
+    if (tag === 'INPUT' || tag === 'TEXTAREA') return;
+    if (e.key === 'ArrowLeft') { e.preventDefault(); goPrev(); }
+    else if (e.key === 'ArrowRight') { e.preventDefault(); goNext(); }
+  });
 
   finishTestBtn.addEventListener('click', () => {
     finishTest();

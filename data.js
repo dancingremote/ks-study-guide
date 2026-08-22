@@ -21,7 +21,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Obtain consent from the patient",
-        "explanation":  "After introductions, consent to proceed with the interview should be obtained. The nature of the interview and length of time should be discussed and then the patient should be encouraged to give feedback regarding altering elements in the process. While discussion of limits of confidentiality and performing a safety assessment should be included in all interviews, these are not the initial steps that need to be done. If a family member wants to be involved, it is typically best to have the patient present, though this is often best suited for the end of the interview. (1)"
+        "explanation":  "Obtain consent from the patient After introductions, consent to proceed with the interview should be obtained. The nature of the interview and length of time should be discussed and then the patient should be encouraged to give feedback regarding altering elements in the process. While discussion of limits of confidentiality and performing a safety assessment should be included in all interviews, these are not the initial steps that need to be done. If a family member wants to be involved, it is typically best to have the patient present, though this is often best suited for the end of the interview. (1)"
     },
     {
         "id":  "k-1.2",
@@ -45,7 +45,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Ability to maintain objectivity",
-        "explanation":  "The ability to maintain objectivity is crucial in a therapeutic relationship and can differentiate empathy from identification. With identification, psychiatrists experience as well as understand the emotion, which can lead to boundary problems along with physician burnout. (2)"
+        "explanation":  "Ability to maintain objectivity The ability to maintain objectivity is crucial in a therapeutic relationship and can differentiate empathy from identification. With identification, psychiatrists experience as well as understand the emotion, which can lead to boundary problems along with physician burnout. (2)"
     },
     {
         "id":  "k-1.3",
@@ -69,7 +69,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Strengths",
-        "explanation":  "A psychiatric interview should be person centered to best help understand the patient and their goals. A person- centered approach focuses on strengths and assets, as well as deficits, compared to a traditional medical approach focusing only on illness and deficits. (4)"
+        "explanation":  "Strengths A psychiatric interview should be person centered to best help understand the patient and their goals. A person- centered approach focuses on strengths and assets, as well as deficits, compared to a traditional medical approach focusing only on illness and deficits. (4)"
     },
     {
         "id":  "k-1.4",
@@ -93,7 +93,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Have you ever failed to remember things after drinking?",
-        "explanation":  "The RAPS4 and CAGE are brief standardized questionnaires that psychiatrists can use to assess substance abuse or dependence. There is some overlap between the two. The RAPS4 includes the following four questions: Have you ever felt guilty after drinking (Remorse), could not remember things did or said (Amnesia), failed to do what was normally expected after drinking (Perform), or had a morning drink (Starter)? The CAGE also includes four questions: Have you ever cut down on your drinking (Cut)? Have people annoyed you by criticizing your drinking (Annoyed)? Have you ever felt bad about your drinking (Guilty)? Have you ever needed a drink first thing in the morning (Eye-opener)? Though driving drunk or getting arrested for drinking can be a sign of abuse or dependence, it is not part of these screening tools. (7)"
+        "explanation":  "Have you ever failed to remember things after drinking? The RAPS4 and CAGE are brief standardized questionnaires that psychiatrists can use to assess substance abuse or dependence. There is some overlap between the two. The RAPS4 includes the following four questions: Have you ever felt guilty after drinking (Remorse), could not remember things did or said (Amnesia), failed to do what was normally expected after drinking (Perform), or had a morning drink (Starter)? The CAGE also includes four questions: Have you ever cut down on your drinking (Cut)? Have people annoyed you by criticizing your drinking (Annoyed)? Have you ever felt bad about your drinking (Guilty)? Have you ever needed a drink first thing in the morning (Eye-opener)? Though driving drunk or getting arrested for drinking can be a sign of abuse or dependence, it is not part of these screening tools. (7)"
     },
     {
         "id":  "k-1.5",
@@ -117,7 +117,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Hyperthyroidism",
-        "explanation":  "Obtaining a past medical history is a key part of all psychiatric interviews. Some medical illness can contribute to or mimic psychiatric disorders, or they might be caused by treatment of a psychiatric disorder. A classic psychiatric disorder that can resemble an anxiety disorder is hyperthyroidism. The other disorders listed are more likely to mimic or cause depressive symptoms. (7)"
+        "explanation":  "Hyperthyroidism Obtaining a past medical history is a key part of all psychiatric interviews. Some medical illness can contribute to or mimic psychiatric disorders, or they might be caused by treatment of a psychiatric disorder. A classic psychiatric disorder that can resemble an anxiety disorder is hyperthyroidism. The other disorders listed are more likely to mimic or cause depressive symptoms. (7)"
     },
     {
         "id":  "k-1.6",
@@ -141,7 +141,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Diabetes",
-        "explanation":  "Obtaining a family history is essential in helping to define the patient\u0027s risk factors for psychiatric illness and can also be useful in guiding medication choices. A family history of diabetes or hyperlipidemia might make one utilize an atypical antipsychotic with caution due to risk of worsening both conditions, along with causing other metabolic side effects. (8)"
+        "explanation":  "Diabetes Obtaining a family history is essential in helping to define the patient\u0027s risk factors for psychiatric illness and can also be useful in guiding medication choices. A family history of diabetes or hyperlipidemia might make one utilize an atypical antipsychotic with caution due to risk of worsening both conditions, along with causing other metabolic side effects. (8)"
     },
     {
         "id":  "k-1.7",
@@ -165,7 +165,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Mania",
-        "explanation":  "An increase in the amount of speech on mental status examinations could be a sign of mania or hypomania. A decrease in the amount of speech can be from depression, anxiety, or disinterest. Decreased speech could also be a sign of thought blocking or psychosis. (9)"
+        "explanation":  "Mania An increase in the amount of speech on mental status examinations could be a sign of mania or hypomania. A decrease in the amount of speech can be from depression, anxiety, or disinterest. Decreased speech could also be a sign of thought blocking or psychosis. (9)"
     },
     {
         "id":  "k-1.8",
@@ -189,7 +189,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Clang association",
-        "explanation":  "s Thought process is the way in which thoughts are organized, formed, or expressed. Clang associations are when words are put together by the sound of the words rather than for the meaning (i.e., rhyming is prominent). Neologisms are new words or combinations of a few words that are not actually understandable or true words. Perseveration is the repetition of words out of context. Tangential thought process means never returning to the previous statement. Thought blocking appears when a patient stops and the thought is unable to come out, often leading to a stop midsentence. (10)"
+        "explanation":  "Clang association s Thought process is the way in which thoughts are organized, formed, or expressed. Clang associations are when words are put together by the sound of the words rather than for the meaning (i.e., rhyming is prominent). Neologisms are new words or combinations of a few words that are not actually understandable or true words. Perseveration is the repetition of words out of context. Tangential thought process means never returning to the previous statement. Thought blocking appears when a patient stops and the thought is unable to come out, often leading to a stop midsentence. (10)"
     },
     {
         "id":  "k-1.9",
@@ -261,7 +261,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Denial of intent to act on the thoughts",
-        "explanation":  "A suicide assessment should be performed for all patients during the initial interview. The patient should be asked about any current thoughts of suicide and if present, what the intent is. If a patient has thoughts of suicide but denies intent to act on these thoughts or denies a wish to be dead, that is referred to as passive suicidal ideation. Higher-risk patients include those who have specific plans to end their life and access to the means to complete the plan, along with those who have taken preparatory steps to move forward with the plan. (17)"
+        "explanation":  "Denial of intent to act on the thoughts A suicide assessment should be performed for all patients during the initial interview. The patient should be asked about any current thoughts of suicide and if present, what the intent is. If a patient has thoughts of suicide but denies intent to act on these thoughts or denies a wish to be dead, that is referred to as passive suicidal ideation. Higher-risk patients include those who have specific plans to end their life and access to the means to complete the plan, along with those who have taken preparatory steps to move forward with the plan. (17)"
     },
     {
         "id":  "k-1.12",
@@ -309,7 +309,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Comments on countertransference and dreams",
-        "explanation":  "Psychotherapy notes include details of transference, countertransference, fantasies, dreams, and personal information about name of contacts of the patient, etc., which would not be included in the actual progress notes in the medical record. Unlike progress notes, psychotherapy notes should be kept separate from the rest of the medical record and the data in them should not be disclosed to any person, including the patient. Detailed assessments and plans should be included in progress notes, not the psychotherapy note. (27)"
+        "explanation":  "Comments on countertransference and dreams Psychotherapy notes include details of transference, countertransference, fantasies, dreams, and personal information about name of contacts of the patient, etc., which would not be included in the actual progress notes in the medical record. Unlike progress notes, psychotherapy notes should be kept separate from the rest of the medical record and the data in them should not be disclosed to any person, including the patient. Detailed assessments and plans should be included in progress notes, not the psychotherapy note. (27)"
     },
     {
         "id":  "k-1.14",
@@ -333,7 +333,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Bipolar disorder",
-        "explanation":  "The SCID, Structured Clinical Interview for DSM, is designed to be administered by an experienced clinician, requires training and is primarily focused on research and is used to verify diagnoses in clinical trials. Reliability data suggests that it performs better on more severe disorders and alcohol dependence compared to milder disorders, such as dysthymia. (31)"
+        "explanation":  "Bipolar disorder The SCID, Structured Clinical Interview for DSM, is designed to be administered by an experienced clinician, requires training and is primarily focused on research and is used to verify diagnoses in clinical trials. Reliability data suggests that it performs better on more severe disorders and alcohol dependence compared to milder disorders, such as dysthymia. (31)"
     },
     {
         "id":  "k-1.15",
@@ -357,7 +357,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Brief Psychiatric Rating Scale (BPRS)",
-        "explanation":  "The BPRS was developed in the late 1960s as a short scale to measure the severity of psychiatric symptomatology and is primarily designed to assess changes in psychotic inpatients. However, good reliability is difficult to achieve without extensive training and this scale is often only suitable for patients with a fairly significant level of clinical impairment. The HAM-A is often used to monitor treatment response in clinical trials and in some clinical settings for generalized anxiety disorders. The PANSS was designed to remedy the deficits in the BPRS in the assessment of positive and negative symptoms in schizophrenia and other psychotic disorders by adding additional items and providing anchors for each. It is a highly reliable tool which has become the standard for assessing clinical outcomes in treatment studies for schizophrenia and other psychotic disorders. The SAPS and the Scale for the Assessment of Negative Symptoms (SANS) provide a detailed assessment of positive and negative symptoms in schizophrenia, with the SAPS assessing for hallucinations, delusions, thought disorders, etc., and the SANS assessing for poverty of speech, apathy, anhedonia, etc. The SCID, Structured Clinical Interview for DSM, is primarily used in research and to verify a variety of diagnoses in clinical trials. (38)"
+        "explanation":  "Brief Psychiatric Rating Scale (BPRS) The BPRS was developed in the late 1960s as a short scale to measure the severity of psychiatric symptomatology and is primarily designed to assess changes in psychotic inpatients. However, good reliability is difficult to achieve without extensive training and this scale is often only suitable for patients with a fairly significant level of clinical impairment. The HAM-A is often used to monitor treatment response in clinical trials and in some clinical settings for generalized anxiety disorders. The PANSS was designed to remedy the deficits in the BPRS in the assessment of positive and negative symptoms in schizophrenia and other psychotic disorders by adding additional items and providing anchors for each. It is a highly reliable tool which has become the standard for assessing clinical outcomes in treatment studies for schizophrenia and other psychotic disorders. The SAPS and the Scale for the Assessment of Negative Symptoms (SANS) provide a detailed assessment of positive and negative symptoms in schizophrenia, with the SAPS assessing for hallucinations, delusions, thought disorders, etc., and the SANS assessing for poverty of speech, apathy, anhedonia, etc. The SCID, Structured Clinical Interview for DSM, is primarily used in research and to verify a variety of diagnoses in clinical trials. (38)"
     },
     {
         "id":  "k-1.16",
@@ -381,7 +381,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "A clinical diagnosis",
-        "explanation":  "The CBCL includes different self-rated versions for parents, teachers, and children to help assess preschoolers through adolescents. It does not generate diagnoses, rather it suggests cut-off scores for problems in the clinical range and provides a good overall view of symptomatology and can be used to track changes over time. (45, 46)"
+        "explanation":  "A clinical diagnosis The CBCL includes different self-rated versions for parents, teachers, and children to help assess preschoolers through adolescents. It does not generate diagnoses, rather it suggests cut-off scores for problems in the clinical range and provides a good overall view of symptomatology and can be used to track changes over time. (45, 46)"
     },
     {
         "id":  "k-1.17",
@@ -405,7 +405,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Attention deficit hyperactivity",
-        "explanation":  "The Connors Rating Scale includes teacher-, parent-, and self-reported measures and assesses a range of childhood and adolescent psychopathology. The Connors Scale is most commonly used in screening for ADHD in schools and in clinical populations, and can be used to follow changes in symptom severity over time. (47)"
+        "explanation":  "Attention deficit hyperactivity The Connors Rating Scale includes teacher-, parent-, and self-reported measures and assesses a range of childhood and adolescent psychopathology. The Connors Scale is most commonly used in screening for ADHD in schools and in clinical populations, and can be used to follow changes in symptom severity over time. (47)"
     },
     {
         "id":  "k-1.18",
@@ -429,7 +429,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Gerstmann",
-        "explanation":  "Aside from language, the left hemisphere is responsible for limb apraxia. Lesions in the left hemisphere can result in finger agnosia, dyscalculia, dysgraphia, and right-left disorientation, referred to as Gerstmann syndrome. Dressing apraxia is associated with special deficits from right hemisphere damage and include right-left confusion and difficulty putting limbs into clothing. Hurler syndrome, an autosomal recessive condition, includes symptoms such as hirsutism, corneal clouding, coarse facial features, and moderate-to-severe intellectual disability. Neglect syndromes are most commonly associated with right hemisphere damage in the parietal region and include failure to detect visual or tactile stimuli, or to move the limb in the contralateral hemispace. Pickwickian syndrome is recognized by a puffy appearance, as seen in hypothyroidism, obesity, and periodic respirations. (21, 47, 49, 87)"
+        "explanation":  "Gerstmann Aside from language, the left hemisphere is responsible for limb apraxia. Lesions in the left hemisphere can result in finger agnosia, dyscalculia, dysgraphia, and right-left disorientation, referred to as Gerstmann syndrome. Dressing apraxia is associated with special deficits from right hemisphere damage and include right-left confusion and difficulty putting limbs into clothing. Hurler syndrome, an autosomal recessive condition, includes symptoms such as hirsutism, corneal clouding, coarse facial features, and moderate-to-severe intellectual disability. Neglect syndromes are most commonly associated with right hemisphere damage in the parietal region and include failure to detect visual or tactile stimuli, or to move the limb in the contralateral hemispace. Pickwickian syndrome is recognized by a puffy appearance, as seen in hypothyroidism, obesity, and periodic respirations. (21, 47, 49, 87)"
     },
     {
         "id":  "k-1.19",
@@ -453,7 +453,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Fluency",
-        "explanation":  "Broca aphasia, or nonfluent or expressive aphasia, caused by a left inferior frontal convolution lesion, is characterized by nonfluent speech (i.e., telegraphic or agrammatism) with intact auditory comprehension. This is in contrast to Wernicke aphasia, caused by a superior temporal gyrus lesion, which has fluent speech but impaired comprehension. Repetition can be somewhat impaired in both aphasias. Unlike those with Broca aphasia, those with Wernicke are not typically aware of their communication deficits. (48)"
+        "explanation":  "Fluency Broca aphasia, or nonfluent or expressive aphasia, caused by a left inferior frontal convolution lesion, is characterized by nonfluent speech (i.e., telegraphic or agrammatism) with intact auditory comprehension. This is in contrast to Wernicke aphasia, caused by a superior temporal gyrus lesion, which has fluent speech but impaired comprehension. Repetition can be somewhat impaired in both aphasias. Unlike those with Broca aphasia, those with Wernicke are not typically aware of their communication deficits. (48)"
     },
     {
         "id":  "k-1.20",
@@ -477,7 +477,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Parietal",
-        "explanation":  "lobe Failure to bisect a line placed midline is an example of a neglect syndrome. It is characterized by failure to detect visual or tactile stimuli or move the limb in the contralateral hemisphere. It is most commonly associated with right hemisphere damage in the parietal region, though other areas in the cortex and subcortical areas can also cause it. (49)"
+        "explanation":  "Parietal lobe Failure to bisect a line placed midline is an example of a neglect syndrome. It is characterized by failure to detect visual or tactile stimuli or move the limb in the contralateral hemisphere. It is most commonly associated with right hemisphere damage in the parietal region, though other areas in the cortex and subcortical areas can also cause it. (49)"
     },
     {
         "id":  "k-1.21",
@@ -501,7 +501,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Planning and organization",
-        "explanation":  "The clock-drawing technique is widely used in elderly individuals at risk for dementia as a test that is a sensitive measure of planning and organization. More subtle difficulties can also be detected when comparing performance to premorbid expectations such as perseveration and neglect. Double simultaneous stimulation of visual and auditory modalities can test for sensory and motor functions and can also test for neglect. The WMS-III can measure attention, memory, and new learning. Expressive language is often measured by testing verbal fluency, via generating words within semantic and phonetic categories. Conducting a digit span is a measure of attention. (54)"
+        "explanation":  "Planning and organization The clock-drawing technique is widely used in elderly individuals at risk for dementia as a test that is a sensitive measure of planning and organization. More subtle difficulties can also be detected when comparing performance to premorbid expectations such as perseveration and neglect. Double simultaneous stimulation of visual and auditory modalities can test for sensory and motor functions and can also test for neglect. The WMS-III can measure attention, memory, and new learning. Expressive language is often measured by testing verbal fluency, via generating words within semantic and phonetic categories. Conducting a digit span is a measure of attention. (54)"
     },
     {
         "id":  "k-1.22",
@@ -525,7 +525,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Criterion validity",
-        "explanation":  "Face validity refers to the content of the test items and if they measure what they intend to measure. While it refers to the degree the items on the surface measure what the instrument is supposed to, criterion validity uses data outside the test to measure validity. Discriminant validity tells whether the test can discriminate between groups of patients at times (i.e., discriminate between mild, moderate, vs. severe major depressive disorder). Factor validity utilizes a multivariate statistical technique, factor analysis, to determine if a group of items on a test empirically cluster together. (56/57)"
+        "explanation":  "Criterion validity Face validity refers to the content of the test items and if they measure what they intend to measure. While it refers to the degree the items on the surface measure what the instrument is supposed to, criterion validity uses data outside the test to measure validity. Discriminant validity tells whether the test can discriminate between groups of patients at times (i.e., discriminate between mild, moderate, vs. severe major depressive disorder). Factor validity utilizes a multivariate statistical technique, factor analysis, to determine if a group of items on a test empirically cluster together. (56/57)"
     },
     {
         "id":  "k-1.23",
@@ -549,7 +549,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "fMRI (functional magnetic resonance imaging)",
-        "explanation":  "fMRIs measure regional cerebral blood flow by measuring heme molecules as an endogenous contrast agent. MRA creates a 3-D map of brain blood flow and is typically used by neurologists and neurosurgeons. MRS is a research method used to measure brain metabolism and is done in an MRI machine with additional software to allow signals from protons to be suppressed and signals from other compounds to be measured. PET scans involve the detection of emitted positron radiation, typically by using FDG (fluorodeoxyglucose) to measure regional brain glucose metabolism. SPECT scans are not typically used to study the brain. They are more commonly used to study other organs. (61)"
+        "explanation":  "fMRI (functional magnetic resonance imaging) fMRIs measure regional cerebral blood flow by measuring heme molecules as an endogenous contrast agent. MRA creates a 3-D map of brain blood flow and is typically used by neurologists and neurosurgeons. MRS is a research method used to measure brain metabolism and is done in an MRI machine with additional software to allow signals from protons to be suppressed and signals from other compounds to be measured. PET scans involve the detection of emitted positron radiation, typically by using FDG (fluorodeoxyglucose) to measure regional brain glucose metabolism. SPECT scans are not typically used to study the brain. They are more commonly used to study other organs. (61)"
     },
     {
         "id":  "k-1.24",
@@ -573,7 +573,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Toluene",
-        "explanation":  "Inhalants, such as toluene, as found in paints, glues, and cleaning solutions, can cause significant brain damage, as well as damage to other organs, such as the liver, kidneys, lung, bone marrow, etc. It can lead to hypoxia and can cause a loss of gray-white matter and brain atrophy on MRIs. Chronic use can also be associated with panic attacks and personality changes. (63)"
+        "explanation":  "Toluene Inhalants, such as toluene, as found in paints, glues, and cleaning solutions, can cause significant brain damage, as well as damage to other organs, such as the liver, kidneys, lung, bone marrow, etc. It can lead to hypoxia and can cause a loss of gray-white matter and brain atrophy on MRIs. Chronic use can also be associated with panic attacks and personality changes. (63)"
     },
     {
         "id":  "k-1.25",
@@ -597,7 +597,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Ammonia",
-        "explanation":  "While valproate (valproic acid, Depakene; divalproex, Depakote) can cause hematologic abnormalities including leukopenia and thrombocytopenia, if a patient is presenting as lethargic or has a change in mental status, ammonia levels should be checked urgently, as valproate can increase ammonia levels. Elevated liver function tests (LFTs) and acute pancreatitis are also risks of valproate treatment. (64)"
+        "explanation":  "Ammonia While valproate (valproic acid, Depakene; divalproex, Depakote) can cause hematologic abnormalities including leukopenia and thrombocytopenia, if a patient is presenting as lethargic or has a change in mental status, ammonia levels should be checked urgently, as valproate can increase ammonia levels. Elevated liver function tests (LFTs) and acute pancreatitis are also risks of valproate treatment. (64)"
     },
     {
         "id":  "k-1.26",
@@ -621,7 +621,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Liver function tests (LFTs)",
-        "explanation":  "Treatment with MAOIs can occasionally be associated with hepatotoxicity. Thus, LFTs are usually obtained at the initiation of treatment and periodically after. Blood pressure should also be obtained before initiating treatment and monitored afterward. (64)"
+        "explanation":  "Liver function tests (LFTs) Treatment with MAOIs can occasionally be associated with hepatotoxicity. Thus, LFTs are usually obtained at the initiation of treatment and periodically after. Blood pressure should also be obtained before initiating treatment and monitored afterward. (64)"
     },
     {
         "id":  "k-1.27",
@@ -669,7 +669,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Hypomagnesemia",
-        "explanation":  "A QTc measurement on an EKG greater than 500 milliseconds is considered prolonged and can increase the risk of a severe arrhythmia. Factors that can prolong QTc include certain drugs, in addition to bradycardia, hypokalemia, or hypomagnesemia. (67)"
+        "explanation":  "Hypomagnesemia A QTc measurement on an EKG greater than 500 milliseconds is considered prolonged and can increase the risk of a severe arrhythmia. Factors that can prolong QTc include certain drugs, in addition to bradycardia, hypokalemia, or hypomagnesemia. (67)"
     },
     {
         "id":  "k-1.29",
@@ -693,7 +693,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "A recent myocardial infarction",
-        "explanation":  "Ziprasidone (Geodon) is associated with a dose-related prolongation of the QTc interval and can lead to fatal arrhythmias. An EKG should be checked before initiation. Ziprasidone is contraindicated in patients with a history of known QTc prolongation, recent myocardial infarctions, and uncompensated heart failure. It should also be used with caution in those with bradycardia, hypokalemia, hypomagnesemia, or those on other QTc prolonging drugs. (67)"
+        "explanation":  "A recent myocardial infarction Ziprasidone (Geodon) is associated with a dose-related prolongation of the QTc interval and can lead to fatal arrhythmias. An EKG should be checked before initiation. Ziprasidone is contraindicated in patients with a history of known QTc prolongation, recent myocardial infarctions, and uncompensated heart failure. It should also be used with caution in those with bradycardia, hypokalemia, hypomagnesemia, or those on other QTc prolonging drugs. (67)"
     },
     {
         "id":  "k-1.30",
@@ -717,7 +717,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Calcifications",
-        "explanation":  "MRIs are typically preferred over CTs for most purposes due to a lack of radiation exposure. CTs are primarily used in emergent situations. The only component of the brain seen better on CT scans are calcifications, which can be invisible on MRIs. (70)"
+        "explanation":  "Calcifications MRIs are typically preferred over CTs for most purposes due to a lack of radiation exposure. CTs are primarily used in emergent situations. The only component of the brain seen better on CT scans are calcifications, which can be invisible on MRIs. (70)"
     },
     {
         "id":  "k-1.31",
@@ -741,7 +741,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Language",
-        "explanation":  "When using instruments such as the Gesell Infact Scale, the Bayley Cales of Infant and Toddler Development, and the Denver Developmental Screening Test with very young infants the tests focus on sensorimotor and social responses to objects and interactions. When used for older infants and preschoolers, the emphasis is on language acquisition. (81)"
+        "explanation":  "Language When using instruments such as the Gesell Infact Scale, the Bayley Cales of Infant and Toddler Development, and the Denver Developmental Screening Test with very young infants the tests focus on sensorimotor and social responses to objects and interactions. When used for older infants and preschoolers, the emphasis is on language acquisition. (81)"
     },
     {
         "id":  "k-1.32",
@@ -789,7 +789,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Paternal origin of 15q12",
-        "explanation":  "Prader-Willi syndrome involves a deletion in 15q2 of paternal origin and presents with hypotonia, failure to thrive in infancy, then obesity, small hands and feet, and microorchidism. Compulsive behavior, hyperphagia, hoarding, and anxiety/aggression, and skin picking are also features of Prader-Willi syndrome. Rubinstein- Taybi syndrome is sporadic or likely autosomal dominated, though there have been microdeletions documented in some cases at 16q13.3. It presents with short stature, microcephaly, broad thumb, big toes, etc., feeding difficulties, seizures, distractibility and expressive language difficulties. Often these kids are loving and responsive to music. Cri-du-chat syndrome is from a partial deletion on 5p including the elastin locus on 7q11-23 and presents with a round face, hypertelorism, epicanthal folds, slanting palpebral fissures, a broad flat nose, etc. along with congenital heart disease, severe intellectual disability, self-injury, and an infant-like cry. Cornelia de Lange syndrome is due to a lack of PAPPA linked to chromosome 9q33 and presents with a continuous eyebrow, thin downturning of the upper lip, microcephaly and short stature, etc. along with failure to thrive, self-injury, language delays, profound intellectual disability, etc. (86)"
+        "explanation":  "Paternal origin of 15q12 Prader-Willi syndrome involves a deletion in 15q2 of paternal origin and presents with hypotonia, failure to thrive in infancy, then obesity, small hands and feet, and microorchidism. Compulsive behavior, hyperphagia, hoarding, and anxiety/aggression, and skin picking are also features of Prader-Willi syndrome. Rubinstein- Taybi syndrome is sporadic or likely autosomal dominated, though there have been microdeletions documented in some cases at 16q13.3. It presents with short stature, microcephaly, broad thumb, big toes, etc., feeding difficulties, seizures, distractibility and expressive language difficulties. Often these kids are loving and responsive to music. Cri-du-chat syndrome is from a partial deletion on 5p including the elastin locus on 7q11-23 and presents with a round face, hypertelorism, epicanthal folds, slanting palpebral fissures, a broad flat nose, etc. along with congenital heart disease, severe intellectual disability, self-injury, and an infant-like cry. Cornelia de Lange syndrome is due to a lack of PAPPA linked to chromosome 9q33 and presents with a continuous eyebrow, thin downturning of the upper lip, microcephaly and short stature, etc. along with failure to thrive, self-injury, language delays, profound intellectual disability, etc. (86)"
     },
     {
         "id":  "k-1.34",
@@ -813,7 +813,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Inactivation of the FMR-1 gene",
-        "explanation":  "The child depicted has fragile X syndrome, which is caused by an inactivation of the FMR-1 gene at X q27.3. Features consist of a long face, large ears, midface hypoplasia, a high-arched palate, short stature, and macroorchidism. Mitral valve prolapse, joint laxity, and strabismus are other features. ADHD symptoms of hyperactivity and inattention are often noted along with anxiety, speech and language delays, and learning disorders. Deletion of 15q12 of maternal origin causes Angelman syndrome. Fair hair and blue eyes are common along with dysmorphic facial features of wide- smiling mouth, thin upper lip, and pointed chin. The syndrome is notable for a happy disposition and paroxysmal laughter and hand flapping. Deletions that include the elastin locus on chromones 7q11-23 include features such as short stature, broad forehead, depressed nasal bridge, and elf-like features. It presents with anxiety and hyperactivity. Cri-du chat involves a partial deletion on 5p and signs include an infantile cry, severe intellectual disability, and a round face with hypertelorism and epicanthal folds. Down syndrome features include upward-slanted palpebral fissures, midface depression, and a flat, wide nausea bridge, along with short stature. Hyperactivity and increased depression and Alzheimer are notable in down syndrome which is caused by trisomy 21. (86)"
+        "explanation":  "Inactivation of the FMR-1 gene The child depicted has fragile X syndrome, which is caused by an inactivation of the FMR-1 gene at X q27.3. Features consist of a long face, large ears, midface hypoplasia, a high-arched palate, short stature, and macroorchidism. Mitral valve prolapse, joint laxity, and strabismus are other features. ADHD symptoms of hyperactivity and inattention are often noted along with anxiety, speech and language delays, and learning disorders. Deletion of 15q12 of maternal origin causes Angelman syndrome. Fair hair and blue eyes are common along with dysmorphic facial features of wide- smiling mouth, thin upper lip, and pointed chin. The syndrome is notable for a happy disposition and paroxysmal laughter and hand flapping. Deletions that include the elastin locus on chromones 7q11-23 include features such as short stature, broad forehead, depressed nasal bridge, and elf-like features. It presents with anxiety and hyperactivity. Cri-du chat involves a partial deletion on 5p and signs include an infantile cry, severe intellectual disability, and a round face with hypertelorism and epicanthal folds. Down syndrome features include upward-slanted palpebral fissures, midface depression, and a flat, wide nausea bridge, along with short stature. Hyperactivity and increased depression and Alzheimer are notable in down syndrome which is caused by trisomy 21. (86)"
     },
     {
         "id":  "k-1.35",
@@ -837,7 +837,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Loneliness",
-        "explanation":  "Suicide is a leading cause of death in the elderly, and loneliness is the most common reason cited by older adults who consider suicide. Feelings of loneliness, worthlessness, hopelessness, and helplessness are all symptoms of depression, which is highly linked to suicide. Approximately 75% of those who complete suicide suffer from depression and/or alcohol abuse. (88)"
+        "explanation":  "Loneliness Suicide is a leading cause of death in the elderly, and loneliness is the most common reason cited by older adults who consider suicide. Feelings of loneliness, worthlessness, hopelessness, and helplessness are all symptoms of depression, which is highly linked to suicide. Approximately 75% of those who complete suicide suffer from depression and/or alcohol abuse. (88)"
     },
     {
         "id":  "k-1.36",
@@ -861,7 +861,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Phenothiazine",
-        "explanation":  "Mental status examination symptoms of adverse effects of phenothiazine medication include a pill-rolling tremor, shuffling gait, stooped posture, and body asymmetry, along with abnormal movements of the mouth and tongue. (88)"
+        "explanation":  "Phenothiazine Mental status examination symptoms of adverse effects of phenothiazine medication include a pill-rolling tremor, shuffling gait, stooped posture, and body asymmetry, along with abnormal movements of the mouth and tongue. (88)"
     },
     {
         "id":  "k-1.37",
@@ -909,7 +909,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Phenylalanine",
-        "explanation":  "Phenylketonuria involves a defect in phenylalanine hydroxylase or biopterin, resulting in accumulation of phenylalanine. It typically presents in those with fair skin, blue eyes, blond hair, and rashes and if untreated can lead to intellectual disability, language delays, self- injury, and hyperactivity. Generalized seizures can occur later in development. Galactosemia is caused by a defect in galactose-1-phosphate uridyltransferase or galactokinase and presents as vomiting, jaundice, hepatosplenomegaly, cataracts, food refusal, increased intracranial pressure, langue disorders, behavioral problems, and anxiety. Hurler syndrome is caused by a deficiency in alpha-L-iduronidase activity resulting in short stature, hepatosplenomegaly, hirsutism, corneal clouding, dwarfism, coarse facial features, and typically death before 10 years old. Hunter syndrome is caused by a deficiency in iduronate sulfatase resulting in a coarse face with flat nasal bridge, hearing loss, ataxia, enlarged liver and spleen, recurrent infections, hyperactivity, sleep abnormalities and intellectual disability. Uric acid builds up in Lesch-Nyhan syndrome due to a defect in hypoxanthine guanine phosphoribosyl-transferase, resulting in ataxia, chorea, kidney failure, gout, along with aggression and self-biting. (87)"
+        "explanation":  "Phenylalanine Phenylketonuria involves a defect in phenylalanine hydroxylase or biopterin, resulting in accumulation of phenylalanine. It typically presents in those with fair skin, blue eyes, blond hair, and rashes and if untreated can lead to intellectual disability, language delays, self- injury, and hyperactivity. Generalized seizures can occur later in development. Galactosemia is caused by a defect in galactose-1-phosphate uridyltransferase or galactokinase and presents as vomiting, jaundice, hepatosplenomegaly, cataracts, food refusal, increased intracranial pressure, langue disorders, behavioral problems, and anxiety. Hurler syndrome is caused by a deficiency in alpha-L-iduronidase activity resulting in short stature, hepatosplenomegaly, hirsutism, corneal clouding, dwarfism, coarse facial features, and typically death before 10 years old. Hunter syndrome is caused by a deficiency in iduronate sulfatase resulting in a coarse face with flat nasal bridge, hearing loss, ataxia, enlarged liver and spleen, recurrent infections, hyperactivity, sleep abnormalities and intellectual disability. Uric acid builds up in Lesch-Nyhan syndrome due to a defect in hypoxanthine guanine phosphoribosyl-transferase, resulting in ataxia, chorea, kidney failure, gout, along with aggression and self-biting. (87)"
     },
     {
         "id":  "k-1.39",
@@ -933,7 +933,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Williams",
-        "explanation":  "The symptoms are consistent with a diagnosis of Williams syndrome, caused by a deletion that includes the elastin locus on chromosome 7q11-23 and is inherited in an autosomal dominant fashion. Cri-du-chat syndrome, caused by a partial deletion in 5p presents with a round face with hypertelorism, epicanthal folds and slanting palpebral fissures along with heart disease, GI abnormalities, severe intellectual disability, self- injury, and cat-like cries. Fragile X is due to inactivation of FMR-1 gene at Xq27.3 de ot CGG base repeats, accounts for 10% to 12% of intellectual disability in males and presents with a long face, large ears, midface hypoplasia, a high-arched palate, etc. Prader-Willi syndrome presents with a 15q12 deletion of paternal origin and symptoms include hypotonia, obesity, small hands and feet, microorchidism, short stature, almond- shaped eyes, hyperphagia, hoarding, aggression and skin picking. Smith-Magenis syndrome is caused by a complete or partial deletion of 17p11.2 and presents with a broad face and hands, small toes, a deep voice, severe intellectual disability, hyperactivity, severe self-injury including hand biting and head banging. (86)"
+        "explanation":  "Williams The symptoms are consistent with a diagnosis of Williams syndrome, caused by a deletion that includes the elastin locus on chromosome 7q11-23 and is inherited in an autosomal dominant fashion. Cri-du-chat syndrome, caused by a partial deletion in 5p presents with a round face with hypertelorism, epicanthal folds and slanting palpebral fissures along with heart disease, GI abnormalities, severe intellectual disability, self- injury, and cat-like cries. Fragile X is due to inactivation of FMR-1 gene at Xq27.3 de ot CGG base repeats, accounts for 10% to 12% of intellectual disability in males and presents with a long face, large ears, midface hypoplasia, a high-arched palate, etc. Prader-Willi syndrome presents with a 15q12 deletion of paternal origin and symptoms include hypotonia, obesity, small hands and feet, microorchidism, short stature, almond- shaped eyes, hyperphagia, hoarding, aggression and skin picking. Smith-Magenis syndrome is caused by a complete or partial deletion of 17p11.2 and presents with a broad face and hands, small toes, a deep voice, severe intellectual disability, hyperactivity, severe self-injury including hand biting and head banging. (86)"
     },
     {
         "id":  "k-1.40",
@@ -957,7 +957,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Luria-Nebraska",
-        "explanation":  "The Luria-Nebraska Neuropsychological Battery: Children\u0027s Revision (LNNB:C) provides standard measure for sensory-motor, perceptual, and cognitive tests. The Millon Adolescent Personality Inventory (MAPI) provides standard scores for personality styles, expressed concerns, and behavioral correlates. The Mullen Scales of Early Learning is a test of language and visual scales for receptive and expressive ability in newborns to 5 year olds. The Rotter Incomplete Sentences Blank Test is a qualitative projective test for children and adolescents, with an adult version as well. The Thematic Apperception Test (TAT) is also a projective test involving generating stories for 6 year olds and up and can give data regarding interpersonal functioning. (83)"
+        "explanation":  "Luria-Nebraska The Luria-Nebraska Neuropsychological Battery: Children\u0027s Revision (LNNB:C) provides standard measure for sensory-motor, perceptual, and cognitive tests. The Millon Adolescent Personality Inventory (MAPI) provides standard scores for personality styles, expressed concerns, and behavioral correlates. The Mullen Scales of Early Learning is a test of language and visual scales for receptive and expressive ability in newborns to 5 year olds. The Rotter Incomplete Sentences Blank Test is a qualitative projective test for children and adolescents, with an adult version as well. The Thematic Apperception Test (TAT) is also a projective test involving generating stories for 6 year olds and up and can give data regarding interpersonal functioning. (83)"
     },
     {
         "id":  "k-1.41",
@@ -981,7 +981,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Thought content",
-        "explanation":  "Both suicidality and homicidality fall under the category of thought content. Obsessional thoughts and compulsions also go under thought content, along with delusions. Mood is what the patient reports as their internal emotional state. Thought process does not describe what the patient is thinking, rather how the thoughts are formulated, organized, or expressed. Perceptual disturbances include hallucinations, illusions, depersonalization, and derealization. Judgment refers to the patient\u0027s capacity to make good decision and act on them. (10)"
+        "explanation":  "Thought content Both suicidality and homicidality fall under the category of thought content. Obsessional thoughts and compulsions also go under thought content, along with delusions. Mood is what the patient reports as their internal emotional state. Thought process does not describe what the patient is thinking, rather how the thoughts are formulated, organized, or expressed. Perceptual disturbances include hallucinations, illusions, depersonalization, and derealization. Judgment refers to the patient\u0027s capacity to make good decision and act on them. (10)"
     },
     {
         "id":  "k-1.42",
@@ -1029,7 +1029,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "The extent of her social functioning",
-        "explanation":  "In addition to cognitive testing, which provides an IQ score, a diagnosis of intellectual disability requires an assessment of adaptive functioning, which includes social functioning and performance of everyday tasks. The psychological testing should include a standardized measure of adaptive functioning. As the concern is whether or not the child has an intellectual disability, the etiology, such as from chronic exposure to leaded paint in an old home, or low exposure to language, would not alter the diagnosis, though it could alter the prognosis. A child can have an intellectual disability with or without difficulty with physical milestones. (93, 96)"
+        "explanation":  "The extent of her social functioning In addition to cognitive testing, which provides an IQ score, a diagnosis of intellectual disability requires an assessment of adaptive functioning, which includes social functioning and performance of everyday tasks. The psychological testing should include a standardized measure of adaptive functioning. As the concern is whether or not the child has an intellectual disability, the etiology, such as from chronic exposure to leaded paint in an old home, or low exposure to language, would not alter the diagnosis, though it could alter the prognosis. A child can have an intellectual disability with or without difficulty with physical milestones. (93, 96)"
     },
     {
         "id":  "k-2.2",
@@ -1053,7 +1053,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "50 to 69",
-        "explanation":  "Approximately 85% of individuals with intellectual disability are in the mild range, with an IQ between 50 and 69, and mild deficits in social and communication skills. About 10% are in the moderate range, with an IQ between 35 and 49. About 4% are in the severe range, with an IQ between 20 and 34, and about 1% fall in the profound range, with an IQ less than 20. An IQ between 70 and 80 was called borderline intellectual functioning in the DSM-IV. This is now no longer a diagnosis in the DSM-V-TR. (95)"
+        "explanation":  "50 to 69 Approximately 85% of individuals with intellectual disability are in the mild range, with an IQ between 50 and 69, and mild deficits in social and communication skills. About 10% are in the moderate range, with an IQ between 35 and 49. About 4% are in the severe range, with an IQ between 20 and 34, and about 1% fall in the profound range, with an IQ less than 20. An IQ between 70 and 80 was called borderline intellectual functioning in the DSM-IV. This is now no longer a diagnosis in the DSM-V-TR. (95)"
     },
     {
         "id":  "k-2.3",
@@ -1077,7 +1077,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Risperidone",
-        "explanation":  "Antipsychotics, particularly risperidone and aripiprazole, have shown effectiveness in the reduction of aggressive and self-injurious behaviors and explosive rage. Though the antipsychotics haloperidol and olanzapine could theoretically be effective, they have not been as studied for this indication in children as risperidone and aripiprazole. Melatonin is often used in children with autism spectrum disorder to help regulate sleep, but has no evidence for helping with aggression. Anticonvulsants do not have conclusive data for aggression. (99)"
+        "explanation":  "Risperidone Antipsychotics, particularly risperidone and aripiprazole, have shown effectiveness in the reduction of aggressive and self-injurious behaviors and explosive rage. Though the antipsychotics haloperidol and olanzapine could theoretically be effective, they have not been as studied for this indication in children as risperidone and aripiprazole. Melatonin is often used in children with autism spectrum disorder to help regulate sleep, but has no evidence for helping with aggression. Anticonvulsants do not have conclusive data for aggression. (99)"
     },
     {
         "id":  "k-2.4",
@@ -1101,7 +1101,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Senile plaques",
-        "explanation":  "Individuals with Down syndrome who are over age 40 have a high incidence of neurofibrillary tangles and senile plaques, which correlates with a decline in memory, self-care skills, and language, similar to that seen in individuals with Alzheimer dementia. There are anecdotal reports of arteriovenous malformations in individuals with Down syndrome, but this is not common. Decreased pigmentation of the substantia nigra is associated with Rett syndrome. Ventriculomegaly has been shown in some Down syndrome mice, but is not common in humans. Optic gliomas are seen in neurofibromatosis. (102)"
+        "explanation":  "Senile plaques Individuals with Down syndrome who are over age 40 have a high incidence of neurofibrillary tangles and senile plaques, which correlates with a decline in memory, self-care skills, and language, similar to that seen in individuals with Alzheimer dementia. There are anecdotal reports of arteriovenous malformations in individuals with Down syndrome, but this is not common. Decreased pigmentation of the substantia nigra is associated with Rett syndrome. Ventriculomegaly has been shown in some Down syndrome mice, but is not common in humans. Optic gliomas are seen in neurofibromatosis. (102)"
     },
     {
         "id":  "k-2.5",
@@ -1125,7 +1125,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Phenylketonuria (PKU)",
-        "explanation":  "This child\u0027s presentation is classic for PKU, which presents with severe intellectual disability if not diagnosed in the first few months of life. The musty breath is caused by a buildup of phenylketones in the body. Eczema is often present. Pale skin is due to phenylalanine not being converted into melanin. Neurologic problems can include seizures. Treatment consists of a low-phenylalanine diet. Though fragile X, Rett, autism spectrum disorder, and adrenoleukodystrophy all are causes of intellectual disability, their presentations are markedly different from PKU. Persons with fragile X have relatively strong communication skills. Rett overwhelmingly affects females, and presents with a decrease in communication skills around 12 months, as opposed to failure to develop those skills. Adrenoleukodystrophy symptoms begin around 5 to 8 years old, and intellectual disability is mild. The intellectual deficits of childhood disintegrative disorder begin around 3 to 4 years of age after normal intellectual development. (102)"
+        "explanation":  "Phenylketonuria (PKU) This child\u0027s presentation is classic for PKU, which presents with severe intellectual disability if not diagnosed in the first few months of life. The musty breath is caused by a buildup of phenylketones in the body. Eczema is often present. Pale skin is due to phenylalanine not being converted into melanin. Neurologic problems can include seizures. Treatment consists of a low-phenylalanine diet. Though fragile X, Rett, autism spectrum disorder, and adrenoleukodystrophy all are causes of intellectual disability, their presentations are markedly different from PKU. Persons with fragile X have relatively strong communication skills. Rett overwhelmingly affects females, and presents with a decrease in communication skills around 12 months, as opposed to failure to develop those skills. Adrenoleukodystrophy symptoms begin around 5 to 8 years old, and intellectual disability is mild. The intellectual deficits of childhood disintegrative disorder begin around 3 to 4 years of age after normal intellectual development. (102)"
     },
     {
         "id":  "k-2.6",
@@ -1173,7 +1173,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Hearing test",
-        "explanation":  "Though the child appears to have a mixed receptive and expressive language disorder, an audiogram must be done first to rule out a hearing impairment, as deafness or hard of hearing can account for the child\u0027s presentation. Once that step has been completed, further laboratory and imaging procedures may be warranted based on history and observation of the child. (112)"
+        "explanation":  "Hearing test Though the child appears to have a mixed receptive and expressive language disorder, an audiogram must be done first to rule out a hearing impairment, as deafness or hard of hearing can account for the child\u0027s presentation. Once that step has been completed, further laboratory and imaging procedures may be warranted based on history and observation of the child. (112)"
     },
     {
         "id":  "k-2.8",
@@ -1197,7 +1197,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Observation only",
-        "explanation":  "The child has speech sound disorder, which he will likely naturally outgrow in a year or two. If the phonologic difficulty continues past that time, he should start speech therapy. Given that he is showing no other speech difficulties, an audiogram or neurologic testing is not needed at this time. He is showing no signs of intellectual delay, so an IQ test is not needed. (116)"
+        "explanation":  "Observation only The child has speech sound disorder, which he will likely naturally outgrow in a year or two. If the phonologic difficulty continues past that time, he should start speech therapy. Given that he is showing no other speech difficulties, an audiogram or neurologic testing is not needed at this time. He is showing no signs of intellectual delay, so an IQ test is not needed. (116)"
     },
     {
         "id":  "k-2.9",
@@ -1219,7 +1219,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Pragmatics",
-        "explanation":  "Autism spectrum disorder, by definition, includes social communication deficits. Pragmatics involves the skill of using language, including discerning intent behind words and understanding the context of what is being expressed. Phonology is the ability to produce sounds to make words. Deficits in this domain are seen in language disorders such as expressive (such as speech sound disorder) or mixed expressive-receptive language disorders. Grammar refers to the organization and rules of word placement to form language. Semantics involves the acquisition of words and the meaning of words or sentences. (107, 120)"
+        "explanation":  "Pragmatics Autism spectrum disorder, by definition, includes social communication deficits. Pragmatics involves the skill of using language, including discerning intent behind words and understanding the context of what is being expressed. Phonology is the ability to produce sounds to make words. Deficits in this domain are seen in language disorders such as expressive (such as speech sound disorder) or mixed expressive-receptive language disorders. Grammar refers to the organization and rules of word placement to form language. Semantics involves the acquisition of words and the meaning of words or sentences. (107, 120)"
     },
     {
         "id":  "k-2.10",
@@ -1243,7 +1243,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Autism spectrum disorder (ASD)",
-        "explanation":  "The confluence of symptoms is most consistent with ASD. About 30% of children with ASD are intellectually disabled, so this is not a necessary feature of the diagnosis. An IQ of 85 is not in the range of mild intellectual disability. Though he has difficulty with social communication, it is in the context of other symptoms of ASD such as repetitive movements and restricted interests. Given that his verbal abilities are normal, it is unlikely that he has a hearing deficit. He demonstrates stereotypic movements, but similar to the social communication deficits, this is in the context of ASD, so that is the most likely diagnosis. (125-127)"
+        "explanation":  "Autism spectrum disorder (ASD) The confluence of symptoms is most consistent with ASD. About 30% of children with ASD are intellectually disabled, so this is not a necessary feature of the diagnosis. An IQ of 85 is not in the range of mild intellectual disability. Though he has difficulty with social communication, it is in the context of other symptoms of ASD such as repetitive movements and restricted interests. Given that his verbal abilities are normal, it is unlikely that he has a hearing deficit. He demonstrates stereotypic movements, but similar to the social communication deficits, this is in the context of ASD, so that is the most likely diagnosis. (125-127)"
     },
     {
         "id":  "k-2.11",
@@ -1267,7 +1267,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Stimulant medication",
-        "explanation":  "The child is exhibiting symptoms of attention-deficit hyperactivity disorder (ADHD), inattentive type, for which stimulant medication is the first-line treatment. Nonstimulant medications, such as atomoxetine or alpha-agonists, are considered second or third line. If she were to show features of absence seizures, then a neurologic referral, and possibly an anticonvulsant, would be warranted. Behavior modification and parent management training can be helpful psychosocial treatment adjuncts to medication. (135-138)"
+        "explanation":  "Stimulant medication The child is exhibiting symptoms of attention-deficit hyperactivity disorder (ADHD), inattentive type, for which stimulant medication is the first-line treatment. Nonstimulant medications, such as atomoxetine or alpha-agonists, are considered second or third line. If she were to show features of absence seizures, then a neurologic referral, and possibly an anticonvulsant, would be warranted. Behavior modification and parent management training can be helpful psychosocial treatment adjuncts to medication. (135-138)"
     },
     {
         "id":  "k-2.12",
@@ -1291,7 +1291,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Stimulant medication",
-        "explanation":  "Similar to pharmacological treatment of ADHD in children, stimulant medications, particularly long-acting preparations, are first line. Modafinil has scant evidence for treatment efficacy in adults and no FDA approval for ADHD. (141)"
+        "explanation":  "Stimulant medication Similar to pharmacological treatment of ADHD in children, stimulant medications, particularly long-acting preparations, are first line. Modafinil has scant evidence for treatment efficacy in adults and no FDA approval for ADHD. (141)"
     },
     {
         "id":  "k-2.13",
@@ -1315,7 +1315,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Standardized reading testing",
-        "explanation":  "IQ testing is helpful in that it allows for comparison of the child\u0027s specific deficits to their overall cognitive performance. However, for all specific learning disorders, standardized testing in that cognitive domain (also known as achievement testing) must be obtained. For specific learning disorder with impairment in reading, that would include spelling, writing, language, and design copying assessments. Observation of the child could be helpful to assist with student and teacher strategies to help him become less frustrated with reading. Adaptive function testing is used to assess social and life-skills functioning, and is necessary for the diagnosis of intellectual disability. Continuous performance testing is used to track progress with treatment for attention-deficit hyperactivity disorder (ADHD). (142-143)"
+        "explanation":  "Standardized reading testing IQ testing is helpful in that it allows for comparison of the child\u0027s specific deficits to their overall cognitive performance. However, for all specific learning disorders, standardized testing in that cognitive domain (also known as achievement testing) must be obtained. For specific learning disorder with impairment in reading, that would include spelling, writing, language, and design copying assessments. Observation of the child could be helpful to assist with student and teacher strategies to help him become less frustrated with reading. Adaptive function testing is used to assess social and life-skills functioning, and is necessary for the diagnosis of intellectual disability. Continuous performance testing is used to track progress with treatment for attention-deficit hyperactivity disorder (ADHD). (142-143)"
     },
     {
         "id":  "k-2.14",
@@ -1339,7 +1339,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Parental psychoeducation",
-        "explanation":  "This child\u0027s presentation and time course of tics are consistent with a diagnosis of Tourette syndrome. Because the child does not appear bothered by the motor and vocal tics, and social and school functioning do not appear to be impaired, treatment is not necessary. Instead, the parents should be given information about Tourette, including the most likely course of the disorder and when treatment should begin. If the tics were of moderate severity, behavioral interventions such as habit reversal training would be indicated. If they were severe and causing disruptions in school and social functioning, medication, such as risperidone, which is considered first-line pharmacologic treatment due to evidence and efficacy, may be warranted. Cognitive behavioral therapy has not been shown to reduce tics without some other concurrent intervention. (159-160)"
+        "explanation":  "Parental psychoeducation This child\u0027s presentation and time course of tics are consistent with a diagnosis of Tourette syndrome. Because the child does not appear bothered by the motor and vocal tics, and social and school functioning do not appear to be impaired, treatment is not necessary. Instead, the parents should be given information about Tourette, including the most likely course of the disorder and when treatment should begin. If the tics were of moderate severity, behavioral interventions such as habit reversal training would be indicated. If they were severe and causing disruptions in school and social functioning, medication, such as risperidone, which is considered first-line pharmacologic treatment due to evidence and efficacy, may be warranted. Cognitive behavioral therapy has not been shown to reduce tics without some other concurrent intervention. (159-160)"
     },
     {
         "id":  "k-2.15",
@@ -1363,7 +1363,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Order a swallowing study",
-        "explanation":  "The child is displaying signs of avoidant/restrictive food intake disorder (ARFID), which consists of a lack of interest in and/or avoidance of food. Signs include failure to gain weight as expected, food refusal, and eating too little. Because infants with ARFID become irritable or withdrawn when feeding, mothers may subsequently not engage as much during feeding as they would otherwise. This child is starting to fall off of her growth curve, but not drastically, so hospitalization is not warranted at this time. There are no signs of abuse or neglect, so child protective services does not need to be involved. One of the first steps in the workup is to rule out medical causes, so a swallowing study should be ordered to make sure there is not a structural etiology. Though referral to a psychiatrist or a home health nurse may eventually become part of the treatment plan, a medical cause should still first be ruled out. (166-167)"
+        "explanation":  "Order a swallowing study The child is displaying signs of avoidant/restrictive food intake disorder (ARFID), which consists of a lack of interest in and/or avoidance of food. Signs include failure to gain weight as expected, food refusal, and eating too little. Because infants with ARFID become irritable or withdrawn when feeding, mothers may subsequently not engage as much during feeding as they would otherwise. This child is starting to fall off of her growth curve, but not drastically, so hospitalization is not warranted at this time. There are no signs of abuse or neglect, so child protective services does not need to be involved. One of the first steps in the workup is to rule out medical causes, so a swallowing study should be ordered to make sure there is not a structural etiology. Though referral to a psychiatrist or a home health nurse may eventually become part of the treatment plan, a medical cause should still first be ruled out. (166-167)"
     },
     {
         "id":  "k-2.16",
@@ -1387,7 +1387,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Disinhibited social engagement disorder",
-        "explanation":  "The child is displaying signs of disinhibited social engagement disorder, in which she has little hesitation around adult strangers, willingness to go off with an adult stranger, increased familiarity with adult strangers, and lack of checking back with her parents in this unfamiliar situation. She also has been subject to neglect and likely deprivation. A normally developing child would protest being taken away from her parents by a stranger, even from abusive parents, and would not be overly familiar with adult strangers. These same circumstances could have resulted in reactive attachment disorder and caused her to behave in the opposite manner toward adults, that of not responding to comfort and showing little affect and social responsiveness. Not enough is known about her history or current functioning to diagnose PTSD, and given that she was just rescued, it would be difficult to argue that the traumatic event is truly over. (167-168)"
+        "explanation":  "Disinhibited social engagement disorder The child is displaying signs of disinhibited social engagement disorder, in which she has little hesitation around adult strangers, willingness to go off with an adult stranger, increased familiarity with adult strangers, and lack of checking back with her parents in this unfamiliar situation. She also has been subject to neglect and likely deprivation. A normally developing child would protest being taken away from her parents by a stranger, even from abusive parents, and would not be overly familiar with adult strangers. These same circumstances could have resulted in reactive attachment disorder and caused her to behave in the opposite manner toward adults, that of not responding to comfort and showing little affect and social responsiveness. Not enough is known about her history or current functioning to diagnose PTSD, and given that she was just rescued, it would be difficult to argue that the traumatic event is truly over. (167-168)"
     },
     {
         "id":  "k-2.17",
@@ -1411,7 +1411,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Cognitive behavioral therapy (CBT)",
-        "explanation":  "Though sertraline is FDA approved for PTSD in adults, there is little evidence to support its use in children and adolescents. There is also little to no evidence for alpha- agonists and antipsychotics for the core symptoms of PTSD in children. CBT, specifically trauma-focused CBT, has demonstrated efficacy in the treatment of childhood PTSD. Though EMDR shows efficacy in some studies, it is not considered first line, and is somewhat controversial. (172)"
+        "explanation":  "Cognitive behavioral therapy (CBT) Though sertraline is FDA approved for PTSD in adults, there is little evidence to support its use in children and adolescents. There is also little to no evidence for alpha- agonists and antipsychotics for the core symptoms of PTSD in children. CBT, specifically trauma-focused CBT, has demonstrated efficacy in the treatment of childhood PTSD. Though EMDR shows efficacy in some studies, it is not considered first line, and is somewhat controversial. (172)"
     },
     {
         "id":  "k-2.18",
@@ -1435,7 +1435,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Irritability",
-        "explanation":  "The criteria for major depressive disorder in children are the same for that in adults with the exception that irritability can be used as a symptom instead of depressed mood. Though depressed children may demonstrate aggression, regression, crying, and oppositional behavior, those behaviors are not sufficient to make the diagnosis. (174)"
+        "explanation":  "Irritability The criteria for major depressive disorder in children are the same for that in adults with the exception that irritability can be used as a symptom instead of depressed mood. Though depressed children may demonstrate aggression, regression, crying, and oppositional behavior, those behaviors are not sufficient to make the diagnosis. (174)"
     },
     {
         "id":  "k-2.19",
@@ -1483,7 +1483,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Emergently admit the child to a hospital",
-        "explanation":  "The patient is currently suicidal with an explicitly stated plan with the most lethal and often-used means, for males, that results in suicide completion. He meets criteria for major depressive disorder with loss of interest in activities, depressed mood, decreased appetite, sleep and energy, and suicidal ideation. He should be emergently admitted to a hospital for safety until the acute risk of a suicide attempt has passed. While he will likely be started on an SSRI as well as psychotherapy in the hospital, the acuteness of the situation precludes waiting for either treatment modality to take effect. Given the information that the child and parents have already provided, no further evaluation in an ER is necessary. (180)"
+        "explanation":  "Emergently admit the child to a hospital The patient is currently suicidal with an explicitly stated plan with the most lethal and often-used means, for males, that results in suicide completion. He meets criteria for major depressive disorder with loss of interest in activities, depressed mood, decreased appetite, sleep and energy, and suicidal ideation. He should be emergently admitted to a hospital for safety until the acute risk of a suicide attempt has passed. While he will likely be started on an SSRI as well as psychotherapy in the hospital, the acuteness of the situation precludes waiting for either treatment modality to take effect. Given the information that the child and parents have already provided, no further evaluation in an ER is necessary. (180)"
     },
     {
         "id":  "k-2.21",
@@ -1507,7 +1507,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Disruptive mood dysregulation disorder (DMDD)",
-        "explanation":  "The boy is showing signs of DMDD. One of the most challenging aspects of making the diagnosis is the differential (185-186). Children with this presentation are often diagnosed with bipolar disorder. However, bipolar disorder consists of distinct mood episodes, as opposed to chronic irritability and moodiness. ODD, by definition, includes defiance to authority figures. Children with DMDD can have outbursts that are provoked by nonauthority figures as well. DMDD also requires that the outbursts be present in at least two settings, as opposed to just one for ODD. While DMDD outbursts can also result in physical harm to others, conduct disorder involves intentionally violating the rights of others by physical aggression or other means (189). Though children with intermittent explosive disorder also respond to a situation with aggression grossly disproportionate to the precipitating factor, after and between episodes, the episodes are discrete, with no aggression between them. (553)"
+        "explanation":  "Disruptive mood dysregulation disorder (DMDD) The boy is showing signs of DMDD. One of the most challenging aspects of making the diagnosis is the differential (185-186). Children with this presentation are often diagnosed with bipolar disorder. However, bipolar disorder consists of distinct mood episodes, as opposed to chronic irritability and moodiness. ODD, by definition, includes defiance to authority figures. Children with DMDD can have outbursts that are provoked by nonauthority figures as well. DMDD also requires that the outbursts be present in at least two settings, as opposed to just one for ODD. While DMDD outbursts can also result in physical harm to others, conduct disorder involves intentionally violating the rights of others by physical aggression or other means (189). Though children with intermittent explosive disorder also respond to a situation with aggression grossly disproportionate to the precipitating factor, after and between episodes, the episodes are discrete, with no aggression between them. (553)"
     },
     {
         "id":  "k-2.22",
@@ -1531,7 +1531,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "2.5 years",
-        "explanation":  "Normal separation anxiety typically peaks between 9 and 18 months of age and diminishes by around 2.5 years of age. This is in contrast to separation anxiety disorder, which can be diagnosed when normal separation anxiety is no longer developmentally appropriate, and anxiety significantly interferes with daily social and/or school functioning, if applicable. While children would be expected to have a flare of separation anxiety when introduced to a novel situation in which they are apart from their parents, such as starting school, this anxiety typically soon resolves. (194-195)"
+        "explanation":  "2.5 years Normal separation anxiety typically peaks between 9 and 18 months of age and diminishes by around 2.5 years of age. This is in contrast to separation anxiety disorder, which can be diagnosed when normal separation anxiety is no longer developmentally appropriate, and anxiety significantly interferes with daily social and/or school functioning, if applicable. While children would be expected to have a flare of separation anxiety when introduced to a novel situation in which they are apart from their parents, such as starting school, this anxiety typically soon resolves. (194-195)"
     },
     {
         "id":  "k-2.23",
@@ -1555,7 +1555,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Suicidality",
-        "explanation":  "In October 2004, the FDA placed a \"black-box\" warning indicating that the use of certain antidepressants to treat major depressive disorder in adolescents may increase the risk of suicidal ideations and behaviors. In 2007, the FDA amended the black-box warning to state that depression carries an increased risk of suicide itself. To date, no childhood study of anxiety has found a statistically significant increase in suicidal thoughts or behaviors after treatment with an SSRI. (199)"
+        "explanation":  "Suicidality In October 2004, the FDA placed a \"black-box\" warning indicating that the use of certain antidepressants to treat major depressive disorder in adolescents may increase the risk of suicidal ideations and behaviors. In 2007, the FDA amended the black-box warning to state that depression carries an increased risk of suicide itself. To date, no childhood study of anxiety has found a statistically significant increase in suicidal thoughts or behaviors after treatment with an SSRI. (199)"
     },
     {
         "id":  "k-2.24",
@@ -1579,7 +1579,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Cognitive behavioral therapy (CBT)",
-        "explanation":  "The child is displaying symptoms of severe social anxiety, in that both social and occupational (school) functioning are disrupted. Evidence-based studies support the concurrent use of an SSRI and CBT. Though beta-blockers and buspirone have been used anecdotally in children for performance anxiety, no data support their efficacy. Interpersonal therapy is a treatment for major depressive disorder. Exposure and response prevention is the treatment of choice for obsessive- compulsive disorder. To date, randomized controlled clinical trials have shown no differences in symptom reduction in youth using benzodiazepines, though they are sometimes used for this purpose. (195, 198-200)"
+        "explanation":  "Cognitive behavioral therapy (CBT) The child is displaying symptoms of severe social anxiety, in that both social and occupational (school) functioning are disrupted. Evidence-based studies support the concurrent use of an SSRI and CBT. Though beta-blockers and buspirone have been used anecdotally in children for performance anxiety, no data support their efficacy. Interpersonal therapy is a treatment for major depressive disorder. Exposure and response prevention is the treatment of choice for obsessive- compulsive disorder. To date, randomized controlled clinical trials have shown no differences in symptom reduction in youth using benzodiazepines, though they are sometimes used for this purpose. (195, 198-200)"
     },
     {
         "id":  "k-2.25",
@@ -1603,7 +1603,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Cognitive behavioral therapy",
-        "explanation":  "Selective mutism is diagnosed when a child does not speak in certain situations, usually those of high stress such as school, but speaks normally in other, less- stressful situations. To that end, hearing is not an issue. The first-line treatment for school-aged children is cognitive behavioral therapy. SSRIs may be helpful for selective mutism, but this has not to date been borne out by the evidence. Family education can be beneficial, but it is not first line. Children with selective mutism may have delayed speech and language acquisition, but their speech is fluent, and speech therapy is not usually indicated. Beta-blockers have not been studied in selective mutism. (201-203)"
+        "explanation":  "Cognitive behavioral therapy Selective mutism is diagnosed when a child does not speak in certain situations, usually those of high stress such as school, but speaks normally in other, less- stressful situations. To that end, hearing is not an issue. The first-line treatment for school-aged children is cognitive behavioral therapy. SSRIs may be helpful for selective mutism, but this has not to date been borne out by the evidence. Family education can be beneficial, but it is not first line. Children with selective mutism may have delayed speech and language acquisition, but their speech is fluent, and speech therapy is not usually indicated. Beta-blockers have not been studied in selective mutism. (201-203)"
     },
     {
         "id":  "k-2.26",
@@ -1627,7 +1627,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Tourette",
-        "explanation":  "OCD in children is often comorbid with anxiety disorders, ADHD, and Tourette syndrome. The level of comorbidity among ADHD, OCD, and Tourette is high enough that the possibility of a shared genetic vulnerability is being studied. (204)"
+        "explanation":  "Tourette OCD in children is often comorbid with anxiety disorders, ADHD, and Tourette syndrome. The level of comorbidity among ADHD, OCD, and Tourette is high enough that the possibility of a shared genetic vulnerability is being studied. (204)"
     },
     {
         "id":  "k-2.27",
@@ -1651,7 +1651,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Chronic deterioration",
-        "explanation":  "The child\u0027s symptoms are consistent with childhood- onset schizophrenia, which is rare at this age and should be, as in adults, a diagnosis of exclusion. A younger age of onset is associated with a more chronic, severe course, with worse outcomes in cognitive and social domains than those of adult-onset schizophrenia, and increased severity of brain abnormalities. (207)"
+        "explanation":  "Chronic deterioration The child\u0027s symptoms are consistent with childhood- onset schizophrenia, which is rare at this age and should be, as in adults, a diagnosis of exclusion. A younger age of onset is associated with a more chronic, severe course, with worse outcomes in cognitive and social domains than those of adult-onset schizophrenia, and increased severity of brain abnormalities. (207)"
     },
     {
         "id":  "k-2.28",
@@ -1675,7 +1675,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Marijuana",
-        "explanation":  "Multiple studies have now suggested a causative link between marijuana and schizophrenia, with others supporting an exacerbating effect of marijuana on schizophrenia ( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC74420 38/ ). Other risks of chronic marijuana use include poor cognitive functioning, higher rates of motor vehicle accidents, impaired respiratory functioning, and increased risk for cardiovascular disease. (213)"
+        "explanation":  "Marijuana Multiple studies have now suggested a causative link between marijuana and schizophrenia, with others supporting an exacerbating effect of marijuana on schizophrenia ( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC74420 38/ ). Other risks of chronic marijuana use include poor cognitive functioning, higher rates of motor vehicle accidents, impaired respiratory functioning, and increased risk for cardiovascular disease. (213)"
     },
     {
         "id":  "k-2.29",
@@ -1699,7 +1699,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Moderate",
-        "explanation":  "The man\u0027s intellectual deficits place him in the moderate range of intellectual disability. As expected, he is able to perform unskilled or semiskilled tasks under appropriate supervision. Cognitive functioning, including speech, has not progressed beyond the third-grade level. An individual with mild intellectual disability would perform cognitively around the sixth-grade level, and would be expected to achieve minimal self-support. (94- 95)"
+        "explanation":  "Moderate The man\u0027s intellectual deficits place him in the moderate range of intellectual disability. As expected, he is able to perform unskilled or semiskilled tasks under appropriate supervision. Cognitive functioning, including speech, has not progressed beyond the third-grade level. An individual with mild intellectual disability would perform cognitively around the sixth-grade level, and would be expected to achieve minimal self-support. (94- 95)"
     },
     {
         "id":  "k-2.30",
@@ -1723,7 +1723,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Seizures",
-        "explanation":  "Individuals with intellectual disability are more likely to have seizures than those in the general population. Alzheimer disease and hypotonia (in newborns) are found more in Down syndrome than in the general population. Decreased pigmentation of the substantia nigra, which can lead to Parkinson disease, is found in Rett syndrome. Ataxia is often found in adrenoleukodystrophy. (98)"
+        "explanation":  "Seizures Individuals with intellectual disability are more likely to have seizures than those in the general population. Alzheimer disease and hypotonia (in newborns) are found more in Down syndrome than in the general population. Decreased pigmentation of the substantia nigra, which can lead to Parkinson disease, is found in Rett syndrome. Ataxia is often found in adrenoleukodystrophy. (98)"
     },
     {
         "id":  "k-2.31",
@@ -1747,7 +1747,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Rubella",
-        "explanation":  "Cataracts, congenital heart defects, and microcephaly are symptoms of an infant born to a mother who was infected with rubella during the first trimester, especially the first month, of pregnancy. Other symptoms include hearing difficulties and microphthalmia. Acquired rubella is the primary cause of intellectual disability caused by maternal infection. The other acquired infections are also causes of intellectual disability. (104)"
+        "explanation":  "Rubella Cataracts, congenital heart defects, and microcephaly are symptoms of an infant born to a mother who was infected with rubella during the first trimester, especially the first month, of pregnancy. Other symptoms include hearing difficulties and microphthalmia. Acquired rubella is the primary cause of intellectual disability caused by maternal infection. The other acquired infections are also causes of intellectual disability. (104)"
     },
     {
         "id":  "k-2.32",
@@ -1769,7 +1769,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "\u003c34",
-        "explanation":  "About 30% of children with autism spectrum disorder have intellectual disability, with 45% to 50% of those in the severe (IQ 20 to 34)-to-profound (IQ \u003c20) range, making it the most common level of intellectual disability. An additional 30% of those with intellectual disability have IQs in the mild-to-moderate range. (124)"
+        "explanation":  "\u003c34 About 30% of children with autism spectrum disorder have intellectual disability, with 45% to 50% of those in the severe (IQ 20 to 34)-to-profound (IQ \u003c20) range, making it the most common level of intellectual disability. An additional 30% of those with intellectual disability have IQs in the mild-to-moderate range. (124)"
     },
     {
         "id":  "k-2.33",
@@ -1793,7 +1793,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Speech therapy",
-        "explanation":  "The child shows symptoms consistent with autism spectrum disorder: restricted/fixed interests (the rocking horse), deficits in emotional reciprocity (poor engagement with parents), and an inability to adapt to change (insistence on the same food for every meal). Acquiring meaningful communicative language by ages 5 to 7 years will give her the best prognosis. As she is not deaf and has an IQ of 70, she will likely be able to make progress with verbal communication. Social skills training will likely be helpful, but is not the factor that leads to the best prognosis. Risperidone could be helpful for severe irritability. Neurofeedback is being studied for use in attention-deficit hyperactivity disorder (ADHD) and anxiety. CBT is being studied to help with anxiety, depression, and obsessive-compulsive disorder (OCD) in children with autism spectrum disorder. (127)"
+        "explanation":  "Speech therapy The child shows symptoms consistent with autism spectrum disorder: restricted/fixed interests (the rocking horse), deficits in emotional reciprocity (poor engagement with parents), and an inability to adapt to change (insistence on the same food for every meal). Acquiring meaningful communicative language by ages 5 to 7 years will give her the best prognosis. As she is not deaf and has an IQ of 70, she will likely be able to make progress with verbal communication. Social skills training will likely be helpful, but is not the factor that leads to the best prognosis. Risperidone could be helpful for severe irritability. Neurofeedback is being studied for use in attention-deficit hyperactivity disorder (ADHD) and anxiety. CBT is being studied to help with anxiety, depression, and obsessive-compulsive disorder (OCD) in children with autism spectrum disorder. (127)"
     },
     {
         "id":  "k-2.34",
@@ -1817,7 +1817,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Norepinephrine reuptake inhibition",
-        "explanation":  "Atomoxetine is a norepinephrine reuptake inhibitor used in the treatment of ADHD. Clonidine and guanfacine are alpha-2 agonists. Bupropion inhibits reuptake of norepinephrine and dopamine. Modafinil is a dopamine reuptake inhibitor. Amphetamine facilitates dopamine release. (135)"
+        "explanation":  "Norepinephrine reuptake inhibition Atomoxetine is a norepinephrine reuptake inhibitor used in the treatment of ADHD. Clonidine and guanfacine are alpha-2 agonists. Bupropion inhibits reuptake of norepinephrine and dopamine. Modafinil is a dopamine reuptake inhibitor. Amphetamine facilitates dopamine release. (135)"
     },
     {
         "id":  "k-2.35",
@@ -1841,7 +1841,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Heroin withdrawal",
-        "explanation":  "Physical heroin withdrawal symptoms consist of nausea and vomiting, dilated pupils, sweating, anxiety, abdominal cramping, insomnia, diarrhea, and muscle aches. Symptoms begin a few hours after ingestion, peak 48 to 72 hours later, and last about a week, depending on chronicity of use. Cocaine intoxication also includes dilated pupils, increased heart rate, and hypertension, but also hyperthermia, so history in timing of symptoms is crucial for making the diagnosis. Similarly, MDMA intoxication can result in tachycardia and hyperthermia as well as fatigue and muscle spasms. LSD overdose can produce visual hallucinations and delusions. Alcohol withdrawal can include nausea, vomiting, sweating, and insomnia around 6 hours after the last drink. Symptoms 2 days afterward can include fever, heavy sweating, and hypertension, and delirium tremens in a chronic drinker. Given all of the similarities in this syndrome with other drug intoxication/withdrawal syndromes, the muscle aches and piloerection are distinguishing features. (213)"
+        "explanation":  "Heroin withdrawal Physical heroin withdrawal symptoms consist of nausea and vomiting, dilated pupils, sweating, anxiety, abdominal cramping, insomnia, diarrhea, and muscle aches. Symptoms begin a few hours after ingestion, peak 48 to 72 hours later, and last about a week, depending on chronicity of use. Cocaine intoxication also includes dilated pupils, increased heart rate, and hypertension, but also hyperthermia, so history in timing of symptoms is crucial for making the diagnosis. Similarly, MDMA intoxication can result in tachycardia and hyperthermia as well as fatigue and muscle spasms. LSD overdose can produce visual hallucinations and delusions. Alcohol withdrawal can include nausea, vomiting, sweating, and insomnia around 6 hours after the last drink. Symptoms 2 days afterward can include fever, heavy sweating, and hypertension, and delirium tremens in a chronic drinker. Given all of the similarities in this syndrome with other drug intoxication/withdrawal syndromes, the muscle aches and piloerection are distinguishing features. (213)"
     },
     {
         "id":  "k-2.36",
@@ -1865,7 +1865,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Alcohol",
-        "explanation":  "By senior year of high school, 92% of males and 73% of females have tried alcohol, making it the most often- tried substance. Less than half of high school seniors have tried marijuana and cigarettes, though the use of cigarettes is plummeting while the use of vaping is rising. Less than 20% have used inhalants. (212)"
+        "explanation":  "Alcohol By senior year of high school, 92% of males and 73% of females have tried alcohol, making it the most often- tried substance. Less than half of high school seniors have tried marijuana and cigarettes, though the use of cigarettes is plummeting while the use of vaping is rising. Less than 20% have used inhalants. (212)"
     },
     {
         "id":  "k-3.1",
@@ -1889,7 +1889,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Acetylcholine",
-        "explanation":  "Sundowning is a type of delirium that occurs usually in elderly who have a diagnosis of dementia. The phenomenon is marked by confusion and behavioral changes. Though symptoms are often mitigated with an antipsychotic, which acts primarily on dopamine and, in some medications, serotonin, the primary neurotransmitter involved in delirium is thought to be acetylcholine. (226)"
+        "explanation":  "Acetylcholine Sundowning is a type of delirium that occurs usually in elderly who have a diagnosis of dementia. The phenomenon is marked by confusion and behavioral changes. Though symptoms are often mitigated with an antipsychotic, which acts primarily on dopamine and, in some medications, serotonin, the primary neurotransmitter involved in delirium is thought to be acetylcholine. (226)"
     },
     {
         "id":  "k-3.2",
@@ -1913,7 +1913,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Metronidazole",
-        "explanation":  "The patient is displaying symptoms of delirium, including waxing and waning of consciousness, visual hallucinations, and impaired judgment. When possible, the underlying cause should be treated. In this case, the likely underlying cause is the urinary tract infection, as opposed to being off of HCTZ, memantine, and metformin for a week. Though haloperidol may temporarily alleviate the symptoms, it will not ultimately resolve them. (228)"
+        "explanation":  "Metronidazole The patient is displaying symptoms of delirium, including waxing and waning of consciousness, visual hallucinations, and impaired judgment. When possible, the underlying cause should be treated. In this case, the likely underlying cause is the urinary tract infection, as opposed to being off of HCTZ, memantine, and metformin for a week. Though haloperidol may temporarily alleviate the symptoms, it will not ultimately resolve them. (228)"
     },
     {
         "id":  "k-3.3",
@@ -1937,7 +1937,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Memory",
-        "explanation":  "Though dementia can affect many cognitive functions such as attention, executive function, social cognition, and language, memory is usually an early and prominent feature. (233)"
+        "explanation":  "Memory Though dementia can affect many cognitive functions such as attention, executive function, social cognition, and language, memory is usually an early and prominent feature. (233)"
     },
     {
         "id":  "k-3.4",
@@ -1961,7 +1961,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Consciousness",
-        "explanation":  "Whereas, by definition, delirium involves a waxing and waning of consciousness, consciousness is preserved and remains clear in dementia. Deficits in attention, orientation, memory, and social skills can be present in both dementia and delirium. (233)"
+        "explanation":  "Consciousness Whereas, by definition, delirium involves a waxing and waning of consciousness, consciousness is preserved and remains clear in dementia. Deficits in attention, orientation, memory, and social skills can be present in both dementia and delirium. (233)"
     },
     {
         "id":  "k-3.5",
@@ -1985,7 +1985,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Vascular dementia",
-        "explanation":  "Memory problems to the extent that he gets lost driving home cannot be attributed to normal aging, as he is demonstrating significant impairment in functioning. The son does not report changes in consciousness, which rules out delirium. Though Alzheimer is the most common dementia, it is characterized by a gradual, progressive course of symptoms, as opposed to vascular dementia, in which symptoms typically occur in a stepwise fashion. Because he is not recovering between episodes, these are not transient ischemic attacks, after which function is regained. (236)"
+        "explanation":  "Vascular dementia Memory problems to the extent that he gets lost driving home cannot be attributed to normal aging, as he is demonstrating significant impairment in functioning. The son does not report changes in consciousness, which rules out delirium. Though Alzheimer is the most common dementia, it is characterized by a gradual, progressive course of symptoms, as opposed to vascular dementia, in which symptoms typically occur in a stepwise fashion. Because he is not recovering between episodes, these are not transient ischemic attacks, after which function is regained. (236)"
     },
     {
         "id":  "k-3.6",
@@ -2009,7 +2009,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "8 years",
-        "explanation":  "Alzheimer dementia is a terminal illness, as the accumulation of plaques and tangles throughout the brain and the loss of brain tissue leads to progressive severity of impairment. Affected individuals lose the ability to swallow, which greatly increases the risk of aspiration pneumonia, dehydration, and cachexia. Other causes of death include pulmonary embolism and cardiovascular disease. The average life expectancy after diagnosis is 8 years. (238)"
+        "explanation":  "8 years Alzheimer dementia is a terminal illness, as the accumulation of plaques and tangles throughout the brain and the loss of brain tissue leads to progressive severity of impairment. Affected individuals lose the ability to swallow, which greatly increases the risk of aspiration pneumonia, dehydration, and cachexia. Other causes of death include pulmonary embolism and cardiovascular disease. The average life expectancy after diagnosis is 8 years. (238)"
     },
     {
         "id":  "k-3.7",
@@ -2033,7 +2033,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Lewy inclusion bodies in the cerebral cortex",
-        "explanation":  "Memory impairment with the presence of visual hallucinations, autonomic disturbances, and Parkinsonian symptoms (cogwheeling, resting tremor, bradykinesia) are symptoms of Lewy body disease. The Lewy inclusion bodies are found in the cerebral cortex. Parkinson disease, with its blanching of the substantia nigra, is not associated with visual hallucinations. Alzheimer disease, characterized by amyloid plaques in the cortex and hippocampus, also does not usually feature visual hallucinations. Subcortical white matter infarctions are the hallmark of Binswanger disease, also called subcortical arteriosclerotic encephalopathy, in which the main characteristic is psychomotor slowness. The Pick bodies are the pathognomonic sign of frontotemporal dementia, which is marked by personality and behavioral changes. (242-244)"
+        "explanation":  "Lewy inclusion bodies in the cerebral cortex Memory impairment with the presence of visual hallucinations, autonomic disturbances, and Parkinsonian symptoms (cogwheeling, resting tremor, bradykinesia) are symptoms of Lewy body disease. The Lewy inclusion bodies are found in the cerebral cortex. Parkinson disease, with its blanching of the substantia nigra, is not associated with visual hallucinations. Alzheimer disease, characterized by amyloid plaques in the cortex and hippocampus, also does not usually feature visual hallucinations. Subcortical white matter infarctions are the hallmark of Binswanger disease, also called subcortical arteriosclerotic encephalopathy, in which the main characteristic is psychomotor slowness. The Pick bodies are the pathognomonic sign of frontotemporal dementia, which is marked by personality and behavioral changes. (242-244)"
     },
     {
         "id":  "k-3.8",
@@ -2057,7 +2057,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "\"Flag, ball, tree. Can you repeat those three words?\"",
-        "explanation":  "Short-term and recent memory are usually impaired in amnestic disorder, so a person likely would not be able to answer questions about what they ate that day or what activities they engaged in the day before. In severe amnestic disorder, orientation to place and time can be impaired. However, immediate memory remains intact, so a person can recall numbers or words right after they are said. The person would likely not be able to remember them for a 5-minute recall. (246)"
+        "explanation":  "\"Flag, ball, tree. Can you repeat those three words?\" Short-term and recent memory are usually impaired in amnestic disorder, so a person likely would not be able to answer questions about what they ate that day or what activities they engaged in the day before. In severe amnestic disorder, orientation to place and time can be impaired. However, immediate memory remains intact, so a person can recall numbers or words right after they are said. The person would likely not be able to remember them for a 5-minute recall. (246)"
     },
     {
         "id":  "k-3.9",
@@ -2081,7 +2081,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Thiamine replacement",
-        "explanation":  "The amnesia is most likely due to poor nutritional deficiency and lack of thiamine in the diet, which is the cause of Korsakoff syndrome. This is often seen with chronic alcohol use. One of the hallmarks is confabulation, in which a person tries to cover up memory loss by filling in the gaps with a story, which can range from completely plausible to completely implausible. The proper treatment is to replace thiamine, which may lead to improvement after 3 months. Cholinesterase inhibitors and NMDA receptor antagonists can be useful for Alzheimer dementia. An SSRI could be helpful if depression were thought to be the reason for the cognitive deficits. Better hypertension control could be helpful for vascular dementia. (246)"
+        "explanation":  "Thiamine replacement The amnesia is most likely due to poor nutritional deficiency and lack of thiamine in the diet, which is the cause of Korsakoff syndrome. This is often seen with chronic alcohol use. One of the hallmarks is confabulation, in which a person tries to cover up memory loss by filling in the gaps with a story, which can range from completely plausible to completely implausible. The proper treatment is to replace thiamine, which may lead to improvement after 3 months. Cholinesterase inhibitors and NMDA receptor antagonists can be useful for Alzheimer dementia. An SSRI could be helpful if depression were thought to be the reason for the cognitive deficits. Better hypertension control could be helpful for vascular dementia. (246)"
     },
     {
         "id":  "k-3.10",
@@ -2105,7 +2105,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "\"What were the three words I just asked you?\"",
-        "explanation":  "ECT is associated with anterograde amnesia for a few hours after a treatment. During this time, the patient may have difficulty forming new memories, and would therefore have trouble with a three-word recall. The patient would likely also have trouble remembering past events that occurred a few minutes before the treatment. (247)"
+        "explanation":  "\"What were the three words I just asked you?\" ECT is associated with anterograde amnesia for a few hours after a treatment. During this time, the patient may have difficulty forming new memories, and would therefore have trouble with a three-word recall. The patient would likely also have trouble remembering past events that occurred a few minutes before the treatment. (247)"
     },
     {
         "id":  "k-3.11",
@@ -2129,7 +2129,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "\"What accident?\"",
-        "explanation":  "If a head injury results in amnesia, it will most likely be for the period of time leading up to the event and for the event itself. Therefore, the child is most likely simply not going to remember the accident. Confabulating a story (being in a car accident) would be most associated with Korsakoff syndrome. It is unlikely that he would forget his parents, who he has known all of his life. (247)"
+        "explanation":  "\"What accident?\" If a head injury results in amnesia, it will most likely be for the period of time leading up to the event and for the event itself. Therefore, the child is most likely simply not going to remember the accident. Confabulating a story (being in a car accident) would be most associated with Korsakoff syndrome. It is unlikely that he would forget his parents, who he has known all of his life. (247)"
     },
     {
         "id":  "k-3.12",
@@ -2153,7 +2153,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Medial thalamus",
-        "explanation":  "Cerebrovascular diseases which affect the bilateral medial thalamus are often associated with amnestic disorder. In addition to the hippocampus, lesions affecting the cerebellum, amygdala, and prefrontal cortex could also affect different types of memory. The suprachiasmatic nucleus is associated with circadian rhythm. The substantia nigra is associated with movement disorders such as Parkinson. Lesions affecting the corpus callosum can be associated with a myriad of dysfunctions. The arcuate nucleus regulates several functions of homeostasis. (247)"
+        "explanation":  "Medial thalamus Cerebrovascular diseases which affect the bilateral medial thalamus are often associated with amnestic disorder. In addition to the hippocampus, lesions affecting the cerebellum, amygdala, and prefrontal cortex could also affect different types of memory. The suprachiasmatic nucleus is associated with circadian rhythm. The substantia nigra is associated with movement disorders such as Parkinson. Lesions affecting the corpus callosum can be associated with a myriad of dysfunctions. The arcuate nucleus regulates several functions of homeostasis. (247)"
     },
     {
         "id":  "k-3.13",
@@ -2177,7 +2177,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "She will make a complete recovery",
-        "explanation":  "Transient global amnesia is marked by an abrupt onset of both retrograde and anterograde amnesia in the absence of delirium. Occasionally, the person may not be able to perform well-learned tasks. The vast majority of people make a complete recovery within 24 hours. (247)"
+        "explanation":  "She will make a complete recovery Transient global amnesia is marked by an abrupt onset of both retrograde and anterograde amnesia in the absence of delirium. Occasionally, the person may not be able to perform well-learned tasks. The vast majority of people make a complete recovery within 24 hours. (247)"
     },
     {
         "id":  "k-3.14",
@@ -2199,7 +2199,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Semantic memory",
-        "explanation":  "Dementia of the Alzheimer type leads to more severe loss of function and memory than amnestic disorder. While both can affect anterograde, retrograde, and episodic memory, amnestic disorders do not lead to loss of language, general knowledge (semantic memory), or praxis (the planning of movement to achieve a purpose). (248)"
+        "explanation":  "Semantic memory Dementia of the Alzheimer type leads to more severe loss of function and memory than amnestic disorder. While both can affect anterograde, retrograde, and episodic memory, amnestic disorders do not lead to loss of language, general knowledge (semantic memory), or praxis (the planning of movement to achieve a purpose). (248)"
     },
     {
         "id":  "k-3.15",
@@ -2223,7 +2223,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Alcohol",
-        "explanation":  "Benzodiazepines are the most commonly used prescription drugs that can cause amnesia. This effect is magnified when combined with alcohol, which can lead to anterograde and retrograde amnesia. (249)"
+        "explanation":  "Alcohol Benzodiazepines are the most commonly used prescription drugs that can cause amnesia. This effect is magnified when combined with alcohol, which can lead to anterograde and retrograde amnesia. (249)"
     },
     {
         "id":  "k-3.16",
@@ -2247,7 +2247,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Personality changes",
-        "explanation":  "The person in the scenario is having complex partial seizures, the most common type of seizure in adults. As she has repeated episodes, she can be diagnosed with epilepsy. The most common psychiatric manifestation between episodes is personality changes, though interictal psychoses, violence, and mood disorder symptoms can also occur. The presence of these interictal phenomena should lead to questions about medication side effects and compliance. (251)"
+        "explanation":  "Personality changes The person in the scenario is having complex partial seizures, the most common type of seizure in adults. As she has repeated episodes, she can be diagnosed with epilepsy. The most common psychiatric manifestation between episodes is personality changes, though interictal psychoses, violence, and mood disorder symptoms can also occur. The presence of these interictal phenomena should lead to questions about medication side effects and compliance. (251)"
     },
     {
         "id":  "k-3.17",
@@ -2271,7 +2271,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Simple partial",
-        "explanation":  "Seizures are characterized as generalized if they affect the entire brain, and partial if the seizure activity occurs in a circumscribed area. Partial seizures are complex if they involve a change in consciousness and simple if consciousness is preserved. The seizures in this patient would therefore be described as simple partial. Though absence seizures can have a similar presentation, they involve brief disruptions of consciousness during which the person loses contact with the environment. Psychogenic nonepileptic seizures would not show up on an EEG. (249-251)"
+        "explanation":  "Simple partial Seizures are characterized as generalized if they affect the entire brain, and partial if the seizure activity occurs in a circumscribed area. Partial seizures are complex if they involve a change in consciousness and simple if consciousness is preserved. The seizures in this patient would therefore be described as simple partial. Though absence seizures can have a similar presentation, they involve brief disruptions of consciousness during which the person loses contact with the environment. Psychogenic nonepileptic seizures would not show up on an EEG. (249-251)"
     },
     {
         "id":  "k-3.18",
@@ -2295,7 +2295,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Temporal",
-        "explanation":  "A temporal lobe tumor could cause problems with memory loss and speech. A frontal lobe tumor could cause problems with personality and executive functioning. A parietal lobe tumor could cause problems with speaking and understanding and reading/writing. Occipital lobe tumors could cause problems with sight, and a cerebellar tumor could cause problems with coordination and dizziness. (253)"
+        "explanation":  "Temporal A temporal lobe tumor could cause problems with memory loss and speech. A frontal lobe tumor could cause problems with personality and executive functioning. A parietal lobe tumor could cause problems with speaking and understanding and reading/writing. Occipital lobe tumors could cause problems with sight, and a cerebellar tumor could cause problems with coordination and dizziness. (253)"
     },
     {
         "id":  "k-3.19",
@@ -2319,7 +2319,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Decreased information processing speed",
-        "explanation":  "The most common type of head trauma is blunt force, in which motor vehicle accidents are the most common cause. As with many brain injuries due to head trauma, there is an initial period of posttraumatic amnesia. Afterward, cognitive symptoms can arise, the most common of which are decreased information processing speed, and other frontal lobe symptoms such as impaired attention, increased distractibility, and problems sustaining effort. Language disabilities can also occur. (254)"
+        "explanation":  "Decreased information processing speed The most common type of head trauma is blunt force, in which motor vehicle accidents are the most common cause. As with many brain injuries due to head trauma, there is an initial period of posttraumatic amnesia. Afterward, cognitive symptoms can arise, the most common of which are decreased information processing speed, and other frontal lobe symptoms such as impaired attention, increased distractibility, and problems sustaining effort. Language disabilities can also occur. (254)"
     },
     {
         "id":  "k-3.20",
@@ -2343,7 +2343,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Penicillin",
-        "explanation":  "One of the reasons that physicians test for syphilis in new-onset personality and behavior changes is because neurosyphilis can lead to general paresis, which appears 10 to 15 years after the infection (but can occur at any stage of infection) and affects the frontal lobes. Executive functioning is disrupted, leading to symptoms such as poor judgment, irritability, and decreased care for self. Untreated neurosyphilis can also lead to tabes dorsalis, a condition in which the nerves in the dorsal columns of the spinal cord degenerate, leading to ataxia, poor coordination, weakness, and diminished reflexes. General paresis and tabes dorsalis can coexist. The Argyll Robertson pupil (small bilateral pupils accommodate to focus on a near object but react poorly to light) is specific for neurosyphilis. Treatment is with penicillin for 10 to 14 days to eradicate the Treponema infection, though some symptoms may be permanent. Doxycycline would be used to treat Lyme disease, which can cause impaired cognition, irritability, and nerve pain, but not a change in reflexes or pupils. Acyclovir is used to treat herpes simplex encephalitis, which also leads to personality changes, memory loss, and psychotic symptoms, and can include seizures, headaches, and focal neurologic deficits. Dolutegravir/rilpivirine is used to treat HIV, which untreated, can lead to HIV mild neurocognitive disorder and HIV-associated dementia. Clinical manifestations of neurosyphilis in a person with HIV infection may be more common. If this patient were also affected with HIV, he would likely be showing many more signs and symptoms of that infection. Radioactive iodine is used to treat hyperthyroidism, which can present with anxiety, irritability, and tremulousness, but not ataxia or the other neurologic symptoms exhibited by the patient. (255)"
+        "explanation":  "Penicillin One of the reasons that physicians test for syphilis in new-onset personality and behavior changes is because neurosyphilis can lead to general paresis, which appears 10 to 15 years after the infection (but can occur at any stage of infection) and affects the frontal lobes. Executive functioning is disrupted, leading to symptoms such as poor judgment, irritability, and decreased care for self. Untreated neurosyphilis can also lead to tabes dorsalis, a condition in which the nerves in the dorsal columns of the spinal cord degenerate, leading to ataxia, poor coordination, weakness, and diminished reflexes. General paresis and tabes dorsalis can coexist. The Argyll Robertson pupil (small bilateral pupils accommodate to focus on a near object but react poorly to light) is specific for neurosyphilis. Treatment is with penicillin for 10 to 14 days to eradicate the Treponema infection, though some symptoms may be permanent. Doxycycline would be used to treat Lyme disease, which can cause impaired cognition, irritability, and nerve pain, but not a change in reflexes or pupils. Acyclovir is used to treat herpes simplex encephalitis, which also leads to personality changes, memory loss, and psychotic symptoms, and can include seizures, headaches, and focal neurologic deficits. Dolutegravir/rilpivirine is used to treat HIV, which untreated, can lead to HIV mild neurocognitive disorder and HIV-associated dementia. Clinical manifestations of neurosyphilis in a person with HIV infection may be more common. If this patient were also affected with HIV, he would likely be showing many more signs and symptoms of that infection. Radioactive iodine is used to treat hyperthyroidism, which can present with anxiety, irritability, and tremulousness, but not ataxia or the other neurologic symptoms exhibited by the patient. (255)"
     },
     {
         "id":  "k-3.21",
@@ -2367,7 +2367,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "B3 (niacin)",
-        "explanation":  "Delirium, diarrhea, dermatitis, and dementia are four of the \"five Ds\" in pellagra, the disease caused by niacin deficiency (the fifth is death). Though relatively rare in developed nations, this disease can present in persons in conditions that can lead to chronic malnourishment, such as anorexia, alcohol abuse, and homelessness. Though the psychiatric manifestations of pellagra can be seen in other dietary deficiencies, the dermatitis is almost pathognomonic for pellagra. Scurvy, due to a deficiency of vitamin C, presents with delirium if untreated for a long time. B12 deficiency often presents with neurologic symptoms such as muscle weakness, unsteady movements, and numbness and tingling in addition to mental confusion. Thiamine deficiency leads to Wernicke-Korsakoff syndrome, which can present with delirium and dementia. Vitamin A deficiency does not have psychiatric manifestations. (261-262)"
+        "explanation":  "B3 (niacin) Delirium, diarrhea, dermatitis, and dementia are four of the \"five Ds\" in pellagra, the disease caused by niacin deficiency (the fifth is death). Though relatively rare in developed nations, this disease can present in persons in conditions that can lead to chronic malnourishment, such as anorexia, alcohol abuse, and homelessness. Though the psychiatric manifestations of pellagra can be seen in other dietary deficiencies, the dermatitis is almost pathognomonic for pellagra. Scurvy, due to a deficiency of vitamin C, presents with delirium if untreated for a long time. B12 deficiency often presents with neurologic symptoms such as muscle weakness, unsteady movements, and numbness and tingling in addition to mental confusion. Thiamine deficiency leads to Wernicke-Korsakoff syndrome, which can present with delirium and dementia. Vitamin A deficiency does not have psychiatric manifestations. (261-262)"
     },
     {
         "id":  "k-3.22",
@@ -2415,7 +2415,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Use",
-        "explanation":  "In the past, various DSM terms have been used to refer to those with substance abuse. Alcohol/substance dependence and abuse were terms used in previous DSM editions. The word addiction or addict is not an official medical term. Substance use disorder is a DSM-5 term referring to prolonged use and abuse of a substance and the specific substance should be specified. Criteria include two or more physiologic symptoms, symptoms of addition, and/or psychological sequelae of use for a period of 12 months, leading to psychosocial impairment. Some symptoms include tolerance, withdrawal, cravings, using more than intended, difficulty stopping, etc. along with those mentioned above such as using in spite of health problems or adverse social or occupational consequences. Substance intoxication is the diagnosis used to describe specific signs or symptoms from recent exposure to the substance. (1, 2)"
+        "explanation":  "Use In the past, various DSM terms have been used to refer to those with substance abuse. Alcohol/substance dependence and abuse were terms used in previous DSM editions. The word addiction or addict is not an official medical term. Substance use disorder is a DSM-5 term referring to prolonged use and abuse of a substance and the specific substance should be specified. Criteria include two or more physiologic symptoms, symptoms of addition, and/or psychological sequelae of use for a period of 12 months, leading to psychosocial impairment. Some symptoms include tolerance, withdrawal, cravings, using more than intended, difficulty stopping, etc. along with those mentioned above such as using in spite of health problems or adverse social or occupational consequences. Substance intoxication is the diagnosis used to describe specific signs or symptoms from recent exposure to the substance. (1, 2)"
     },
     {
         "id":  "k-4.2",
@@ -2439,7 +2439,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Major depressive",
-        "explanation":  "Approximately to - of those with opioid abuse or dependence and about 40% of those with alcohol abuse or dependence meet criteria for a major depressive disorder. Those with substance use alone are 20 times more likely to die by suicide than the general population, with a total of around 15% of those with alcohol abuse or dependence committing suicide. The frequency of suicide in substance use is only secondary to that in major depressive disorder. (272)"
+        "explanation":  "Major depressive Approximately to - of those with opioid abuse or dependence and about 40% of those with alcohol abuse or dependence meet criteria for a major depressive disorder. Those with substance use alone are 20 times more likely to die by suicide than the general population, with a total of around 15% of those with alcohol abuse or dependence committing suicide. The frequency of suicide in substance use is only secondary to that in major depressive disorder. (272)"
     },
     {
         "id":  "k-4.3",
@@ -2463,7 +2463,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Varenicline",
-        "explanation":  "Along with nicotine delivery devices and bupropion, varenicline can help with tobacco dependence. Acamprosate, disulfiram, and naltrexone can help with alcoholism. Levomethadyl acetate can help with heroin addiction. (273)"
+        "explanation":  "Varenicline Along with nicotine delivery devices and bupropion, varenicline can help with tobacco dependence. Acamprosate, disulfiram, and naltrexone can help with alcoholism. Levomethadyl acetate can help with heroin addiction. (273)"
     },
     {
         "id":  "k-4.4",
@@ -2487,7 +2487,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "American Indians",
-        "explanation":  "In the United States, the highest lifetime rate of substance use is among American Indians or Alaska Natives. Caucasians have higher rates compared to African Americans. (274)"
+        "explanation":  "American Indians In the United States, the highest lifetime rate of substance use is among American Indians or Alaska Natives. Caucasians have higher rates compared to African Americans. (274)"
     },
     {
         "id":  "k-4.5",
@@ -2511,7 +2511,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Opioids",
-        "explanation":  "The locus ceruleus, the largest group of adrenergic neurons, is thought to mediate the effects of the opiates and opioids. The dopaminergic neurons in the ventral tegmental area (VTA) are involved with the sensation of reward and may represent a mediation of the effects of amphetamines and cocaine. (274)"
+        "explanation":  "Opioids The locus ceruleus, the largest group of adrenergic neurons, is thought to mediate the effects of the opiates and opioids. The dopaminergic neurons in the ventral tegmental area (VTA) are involved with the sensation of reward and may represent a mediation of the effects of amphetamines and cocaine. (274)"
     },
     {
         "id":  "k-4.6",
@@ -2535,7 +2535,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "80 to 100 mg/dL",
-        "explanation":  "The legal definition of intoxication in most states in the United States is a blood alcohol concentration of 80 to 100 mg ethanol per deciliter, or 0.08 to 0.10 g/dL. At levels between 80 and 200 mg/dL, typically incoordination is increased and judgment errors are more likely to occur, along with mood instability and a deterioration in cognitive status. Levels of 20 to 30 mg/dL can lead to slowed motor performance and decreased ability to think. Levels of 30 to 80 mg/dL can lead to increased motor and cognitive problems. Nystagmus, slurred speech, and blackouts can occur at levels between 200 and 300 mg/dL and above 300 mg/dL vital signs are impaired and death can occur. (276)"
+        "explanation":  "80 to 100 mg/dL The legal definition of intoxication in most states in the United States is a blood alcohol concentration of 80 to 100 mg ethanol per deciliter, or 0.08 to 0.10 g/dL. At levels between 80 and 200 mg/dL, typically incoordination is increased and judgment errors are more likely to occur, along with mood instability and a deterioration in cognitive status. Levels of 20 to 30 mg/dL can lead to slowed motor performance and decreased ability to think. Levels of 30 to 80 mg/dL can lead to increased motor and cognitive problems. Nystagmus, slurred speech, and blackouts can occur at levels between 200 and 300 mg/dL and above 300 mg/dL vital signs are impaired and death can occur. (276)"
     },
     {
         "id":  "k-4.7",
@@ -2559,7 +2559,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Tremors",
-        "explanation":  "Classic signs of alcohol withdrawal include irritability, nausea, vomiting, and autonomic hyperactivity, including sweating, facial flushing, mydriasis, tachycardia, and hypertension. An alcohol withdrawal tremor can look like either a physiologic tremor (i.e., continuous, high amplitude, more than 8 Hz) or a familial tremor (i.e., bursts of activity, slower than 8 Hz). (276)"
+        "explanation":  "Tremors Classic signs of alcohol withdrawal include irritability, nausea, vomiting, and autonomic hyperactivity, including sweating, facial flushing, mydriasis, tachycardia, and hypertension. An alcohol withdrawal tremor can look like either a physiologic tremor (i.e., continuous, high amplitude, more than 8 Hz) or a familial tremor (i.e., bursts of activity, slower than 8 Hz). (276)"
     },
     {
         "id":  "k-4.8",
@@ -2583,7 +2583,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Na",
-        "explanation":  "Seizures in long-term alcohol abuse can be caused by hyponatremia, as well as by hypoglycemia and hypomagnesemia. (276)"
+        "explanation":  "Na Seizures in long-term alcohol abuse can be caused by hyponatremia, as well as by hypoglycemia and hypomagnesemia. (276)"
     },
     {
         "id":  "k-4.9",
@@ -2631,7 +2631,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Education",
-        "explanation":  "Most alcohol-induced depressions, even severe, resolve within a few days to a month of abstinence without treatment. Typically, education and cognitive behavioral therapy (CBT) are the initial appropriate treatment options and there should be a 2- to 4-week trial of abstinence, education, and CBT before initiation of antidepressants. (278)"
+        "explanation":  "Education Most alcohol-induced depressions, even severe, resolve within a few days to a month of abstinence without treatment. Typically, education and cognitive behavioral therapy (CBT) are the initial appropriate treatment options and there should be a 2- to 4-week trial of abstinence, education, and CBT before initiation of antidepressants. (278)"
     },
     {
         "id":  "k-4.11",
@@ -2655,7 +2655,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Thiamine",
-        "explanation":  "Patients with a history of heavy alcohol use and the above symptoms should be checked for a thiamine deficiency (vitamin B1). Thiamine deficiency can cause pellagra and when it gets to the point of alcoholic pellagra encephalopathy with features of Wernicke- Korsakoff, often there is no response to thiamine treatment. Symptoms of alcohol pellagra include general symptoms such as fatigue, anorexia, insomnia, irritability, etc. along with physical findings noted above such as myoclonus and oppositional hypertonia. Confusion seen with thiamine deficiency can range from mild all the way to a severe delirium. (279)"
+        "explanation":  "Thiamine Patients with a history of heavy alcohol use and the above symptoms should be checked for a thiamine deficiency (vitamin B1). Thiamine deficiency can cause pellagra and when it gets to the point of alcoholic pellagra encephalopathy with features of Wernicke- Korsakoff, often there is no response to thiamine treatment. Symptoms of alcohol pellagra include general symptoms such as fatigue, anorexia, insomnia, irritability, etc. along with physical findings noted above such as myoclonus and oppositional hypertonia. Confusion seen with thiamine deficiency can range from mild all the way to a severe delirium. (279)"
     },
     {
         "id":  "k-4.12",
@@ -2703,7 +2703,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Motivational interviewing",
-        "explanation":  "The above approach is most in line with motivational interviewing. This can help the patient to recognize the adverse consequences of drinking and be motivated to stop. The therapist should explore the adverse consequences of alcohol with the patient in a persistent but nonjudgmental manner. (281)"
+        "explanation":  "Motivational interviewing The above approach is most in line with motivational interviewing. This can help the patient to recognize the adverse consequences of drinking and be motivated to stop. The therapist should explore the adverse consequences of alcohol with the patient in a persistent but nonjudgmental manner. (281)"
     },
     {
         "id":  "k-4.14",
@@ -2727,7 +2727,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Benzodiazepines",
-        "explanation":  "After having a neurologic evaluation to rule out a comorbid or nonalcohol-related cause of the seizure, benzodiazepines (i.e., lorazepam, chlordiazepoxide, diazepam, etc.) are the treatment of choice that should be used for managing alcohol- related withdrawal seizures. Anticonvulsants are not thought to offer additional benefits. Any CNS depressant such as benzodiazepines, barbiturates, or alcohol can help minimize alcohol withdrawal, though benzodiazepines are thought to be safer and offer better control of the withdrawal symptoms. While carbamazepine at a dose of 800 mg daily has been shown to be as effective as benzodiazepines with less abuse potential and is being used more often now, currently the standard is still a benzodiazepine. (281)"
+        "explanation":  "Benzodiazepines After having a neurologic evaluation to rule out a comorbid or nonalcohol-related cause of the seizure, benzodiazepines (i.e., lorazepam, chlordiazepoxide, diazepam, etc.) are the treatment of choice that should be used for managing alcohol- related withdrawal seizures. Anticonvulsants are not thought to offer additional benefits. Any CNS depressant such as benzodiazepines, barbiturates, or alcohol can help minimize alcohol withdrawal, though benzodiazepines are thought to be safer and offer better control of the withdrawal symptoms. While carbamazepine at a dose of 800 mg daily has been shown to be as effective as benzodiazepines with less abuse potential and is being used more often now, currently the standard is still a benzodiazepine. (281)"
     },
     {
         "id":  "k-4.15",
@@ -2751,7 +2751,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Day-to-day life issues",
-        "explanation":  "Treatment for alcohol rehab should be the same regardless of the setting. Initial counseling for the first few months should focus on day-to-day life stressors and helping the patient to function and maintain abstinence. Psychotherapy to get at the root cause of the disorder (i.e., no single event is the sole cause of alcoholism), focusing on depression that caused it (i.e., often it is the other way around, the alcohol contributed to the mood disorder), or insight-oriented therapy that can provoke anxiety can get in the way of abstinence and is not indicated within the first 3 to 6 months of treatment. (282)"
+        "explanation":  "Day-to-day life issues Treatment for alcohol rehab should be the same regardless of the setting. Initial counseling for the first few months should focus on day-to-day life stressors and helping the patient to function and maintain abstinence. Psychotherapy to get at the root cause of the disorder (i.e., no single event is the sole cause of alcoholism), focusing on depression that caused it (i.e., often it is the other way around, the alcohol contributed to the mood disorder), or insight-oriented therapy that can provoke anxiety can get in the way of abstinence and is not indicated within the first 3 to 6 months of treatment. (282)"
     },
     {
         "id":  "k-4.16",
@@ -2775,7 +2775,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Behavior modification",
-        "explanation":  "After detoxification, unless the patient has an independent psychiatric disorder, an antidepressant or antianxiety medications should not be prescribed. Behavior modification and reassurance are the best approaches to treat residual anxiety and insomnia, as the effect of these medications may be short term and put the patient at risk to escalate the dose. The patient should be counseled that lingering sadness and mood swings can occur for a few months when abstinence begins and that behavioral therapy and continued abstinence are most effective. (283)"
+        "explanation":  "Behavior modification After detoxification, unless the patient has an independent psychiatric disorder, an antidepressant or antianxiety medications should not be prescribed. Behavior modification and reassurance are the best approaches to treat residual anxiety and insomnia, as the effect of these medications may be short term and put the patient at risk to escalate the dose. The patient should be counseled that lingering sadness and mood swings can occur for a few months when abstinence begins and that behavioral therapy and continued abstinence are most effective. (283)"
     },
     {
         "id":  "k-4.17",
@@ -2799,7 +2799,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Currently using opioids",
-        "explanation":  "Contraindications to using naltrexone include currently using opioids or withdrawing from opioids, or an anticipated need for opioid medications. Liver failure or hepatitis is also a contraindication for use. The other contraindications listed are for alternative medications used to treat alcohol dependence including acamprosate (i.e., severe renal impairment) or disulfiram (i.e., use with alcohol or metronidazole, coronary artery disease, or a severe myocardial infarction). (284)"
+        "explanation":  "Currently using opioids Contraindications to using naltrexone include currently using opioids or withdrawing from opioids, or an anticipated need for opioid medications. Liver failure or hepatitis is also a contraindication for use. The other contraindications listed are for alternative medications used to treat alcohol dependence including acamprosate (i.e., severe renal impairment) or disulfiram (i.e., use with alcohol or metronidazole, coronary artery disease, or a severe myocardial infarction). (284)"
     },
     {
         "id":  "k-4.18",
@@ -2847,7 +2847,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Delayed reaction time",
-        "explanation":  "Cannabis intoxication can impair cognition and performance and result in impaired reaction times and perceptions, along with motor coordination issues. During a classic cannabis \"high,\" many experience mild euphoria and relaxation, not tenseness. Depression can be a symptom of cannabis withdrawal. Short-term memory impairment is common along with difficulty sustaining goal- directed mental activity. (288)"
+        "explanation":  "Delayed reaction time Cannabis intoxication can impair cognition and performance and result in impaired reaction times and perceptions, along with motor coordination issues. During a classic cannabis \"high,\" many experience mild euphoria and relaxation, not tenseness. Depression can be a symptom of cannabis withdrawal. Short-term memory impairment is common along with difficulty sustaining goal- directed mental activity. (288)"
     },
     {
         "id":  "k-4.20",
@@ -2871,7 +2871,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Personality",
-        "explanation":  "While transient paranoia is common with cannabis use, a cannabis-induced psychotic disorder is rare and is typically associated with a pre-existing personality disorder. Unlike hallucinogens, cannabis use is rarely associated with an adverse psychological reaction. (289)"
+        "explanation":  "Personality While transient paranoia is common with cannabis use, a cannabis-induced psychotic disorder is rare and is typically associated with a pre-existing personality disorder. Unlike hallucinogens, cannabis use is rarely associated with an adverse psychological reaction. (289)"
     },
     {
         "id":  "k-4.21",
@@ -2895,7 +2895,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Cannabis",
-        "explanation":  "Amotivational syndrome can be seen with cannabis use. It is unclear if the amotivation symptoms are directly an effect of the cannabis use versus traits of those who use cannabis heavily. Symptoms include apathy, anergia, and weight gain, with a slothful appearance. (289)"
+        "explanation":  "Cannabis Amotivational syndrome can be seen with cannabis use. It is unclear if the amotivation symptoms are directly an effect of the cannabis use versus traits of those who use cannabis heavily. Symptoms include apathy, anergia, and weight gain, with a slothful appearance. (289)"
     },
     {
         "id":  "k-4.22",
@@ -2919,7 +2919,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Nausea in chemotherapy",
-        "explanation":  "The FDA has approved dronabinol, a synthetic form of THC, for treatment of chemotherapy-related nausea and vomiting. While it is also approved for anorexia-related weight loss in HIV, it is not approved for weight loss due to other medical or psychiatric conditions including anorexia nervosa. Dronabinol is being studied as a treatment for obstructive sleep apnea, though is not yet approved. Other countries have approved other synthetic THC versions to help with neuropathic pain and multiple sclerosis. (290)"
+        "explanation":  "Nausea in chemotherapy The FDA has approved dronabinol, a synthetic form of THC, for treatment of chemotherapy-related nausea and vomiting. While it is also approved for anorexia-related weight loss in HIV, it is not approved for weight loss due to other medical or psychiatric conditions including anorexia nervosa. Dronabinol is being studied as a treatment for obstructive sleep apnea, though is not yet approved. Other countries have approved other synthetic THC versions to help with neuropathic pain and multiple sclerosis. (290)"
     },
     {
         "id":  "k-4.23",
@@ -2991,7 +2991,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Naloxone",
-        "explanation":  "The above signs and symptoms are consistent with opioid intoxication. Naloxone is a short-acting intravenous medication that can reverse opioid overdoses. Often repeat doses are needed given the duration of action is short compared to the long half-life of many opioids. Naltrexone is a long- acting agent that is used after detox to help prevent a relapse. N-acetylcysteine is used in Tylenol overdoses. Flumazenil is used to reverse benzodiazepine overdoses. Varenicline is used to treat nicotine dependence. (293)"
+        "explanation":  "Naloxone The above signs and symptoms are consistent with opioid intoxication. Naloxone is a short-acting intravenous medication that can reverse opioid overdoses. Often repeat doses are needed given the duration of action is short compared to the long half-life of many opioids. Naltrexone is a long- acting agent that is used after detox to help prevent a relapse. N-acetylcysteine is used in Tylenol overdoses. Flumazenil is used to reverse benzodiazepine overdoses. Varenicline is used to treat nicotine dependence. (293)"
     },
     {
         "id":  "k-4.26",
@@ -3087,7 +3087,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Catecholamines",
-        "explanation":  "Bath salts release a variety of chemicals including cathinone and cathine. Similar to the mechanism of action of cocaine, the cathinones increase synaptic catecholamine levels by inhibiting dopamine, serotonin, and norepinephrine reuptake transporters. (303)"
+        "explanation":  "Catecholamines Bath salts release a variety of chemicals including cathinone and cathine. Similar to the mechanism of action of cocaine, the cathinones increase synaptic catecholamine levels by inhibiting dopamine, serotonin, and norepinephrine reuptake transporters. (303)"
     },
     {
         "id":  "k-4.30",
@@ -3111,7 +3111,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Stimulants",
-        "explanation":  "The above signs and symptoms are classic for stimulant intoxication, along with others such as euphoria, dangerous sexual behavior, and possible mania. Alcohol, barbiturates, and opioids are sedatives. Pinpoint pupils are associated with opioid intoxication. (304)"
+        "explanation":  "Stimulants The above signs and symptoms are classic for stimulant intoxication, along with others such as euphoria, dangerous sexual behavior, and possible mania. Alcohol, barbiturates, and opioids are sedatives. Pinpoint pupils are associated with opioid intoxication. (304)"
     },
     {
         "id":  "k-4.31",
@@ -3135,7 +3135,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Methamphetamine",
-        "explanation":  "With intranasal use, methamphetamine can cause vasoconstriction which can lead to mucosal alteration and bruxism (tooth grinding), resulting in poor dentition, also referred to as \"meth mouth.\" (307)"
+        "explanation":  "Methamphetamine With intranasal use, methamphetamine can cause vasoconstriction which can lead to mucosal alteration and bruxism (tooth grinding), resulting in poor dentition, also referred to as \"meth mouth.\" (307)"
     },
     {
         "id":  "k-4.32",
@@ -3159,7 +3159,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Polacrilex gum",
-        "explanation":  "Nicotine replacement therapies double the rates of cessation. Nicotine polacrilex gum would be a good choice for this patient since the other medications are contraindicated given her medical and psychiatric history. Bupropion, an antidepressant medication is contraindicated in those with a history of bulimia (or anorexia nervosa), due to increased risk of seizures. Varenicline can relieve cravings and withdrawal. It has a small but increased risk of causing cardiovascular events in those with pre-existing disease. Nicotine patches should be avoided in this patient as rashes are common adverse side effects. Nicotine nasal spray should also be avoided in this patient as it can cause watery eyes and coughing in up to 70% of patients. (310)"
+        "explanation":  "Polacrilex gum Nicotine replacement therapies double the rates of cessation. Nicotine polacrilex gum would be a good choice for this patient since the other medications are contraindicated given her medical and psychiatric history. Bupropion, an antidepressant medication is contraindicated in those with a history of bulimia (or anorexia nervosa), due to increased risk of seizures. Varenicline can relieve cravings and withdrawal. It has a small but increased risk of causing cardiovascular events in those with pre-existing disease. Nicotine patches should be avoided in this patient as rashes are common adverse side effects. Nicotine nasal spray should also be avoided in this patient as it can cause watery eyes and coughing in up to 70% of patients. (310)"
     },
     {
         "id":  "k-4.33",
@@ -3183,7 +3183,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Cerebrovascular events",
-        "explanation":  "LSD can cause death via cardiac or cerebrovascular pathology given it is a sympathomimetic, which can lead to hypertension, as well as hyperthermia. There is no evidence that LSD can cause chronic psychosis, though it can lead to chronic depression and anxiety. While cross- tolerance between certain hallucinogens can develop, it is not found to develop between LSD and amphetamines. (319)"
+        "explanation":  "Cerebrovascular events LSD can cause death via cardiac or cerebrovascular pathology given it is a sympathomimetic, which can lead to hypertension, as well as hyperthermia. There is no evidence that LSD can cause chronic psychosis, though it can lead to chronic depression and anxiety. While cross- tolerance between certain hallucinogens can develop, it is not found to develop between LSD and amphetamines. (319)"
     },
     {
         "id":  "k-4.34",
@@ -3231,7 +3231,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Hallucinogens",
-        "explanation":  "Long after ingesting hallucinogens, flashbacks of the symptoms can be experienced in 15% to 80% of users, known as hallucinogen-persisting perception disorder. DSM-5 criteria include reexperiencing symptoms following cessation of use, causing significant distress or functional impairment. Complications of this disorder can include major depression and suicidal ideation, along with panic disorder. (322)"
+        "explanation":  "Hallucinogens Long after ingesting hallucinogens, flashbacks of the symptoms can be experienced in 15% to 80% of users, known as hallucinogen-persisting perception disorder. DSM-5 criteria include reexperiencing symptoms following cessation of use, causing significant distress or functional impairment. Complications of this disorder can include major depression and suicidal ideation, along with panic disorder. (322)"
     },
     {
         "id":  "k-4.36",
@@ -3255,7 +3255,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Migraines",
-        "explanation":  "The patient described above has hallucinogen- persisting perception disorder. Migraines and seizures can lead to flashback-like experiences and are important medical conditions that should be ruled out prior to diagnosing this disorder. Posttraumatic stress disorder can also cause flashbacks and should be ruled out. (322)"
+        "explanation":  "Migraines The patient described above has hallucinogen- persisting perception disorder. Migraines and seizures can lead to flashback-like experiences and are important medical conditions that should be ruled out prior to diagnosing this disorder. Posttraumatic stress disorder can also cause flashbacks and should be ruled out. (322)"
     },
     {
         "id":  "k-4.37",
@@ -3279,7 +3279,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Rhabdomyolysis",
-        "explanation":  "Trapping ionized PCP via urinary acidification has been used for treatment of PCP intoxication. This strategy is no longer recommended because metabolic acidosis can lead to rhabdomyolysis and result in renal failure. Trapping ionized PCP in the stomach via NG suction is also not recommended due to induction of electrolyte imbalances. Administration of charcoal is now the treatment of choice for PCP intoxication. (324)"
+        "explanation":  "Rhabdomyolysis Trapping ionized PCP via urinary acidification has been used for treatment of PCP intoxication. This strategy is no longer recommended because metabolic acidosis can lead to rhabdomyolysis and result in renal failure. Trapping ionized PCP in the stomach via NG suction is also not recommended due to induction of electrolyte imbalances. Administration of charcoal is now the treatment of choice for PCP intoxication. (324)"
     },
     {
         "id":  "k-4.38",
@@ -3303,7 +3303,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Inhalants",
-        "explanation":  "The diagnostic criteria for inhalant intoxication include a maladaptive behavioral change and at least two physical symptoms. Behavioral changes can include apathy, impaired judgment or functioning, or aggression. Physical symptoms include nausea, anorexia, nystagmus, diplopia, and decreased reflexes. Rashes around the nose and mouth and an unusual breath odor, along with findings of residue on the hands, face, or close, are all signs of inhalant abuse. (326)"
+        "explanation":  "Inhalants The diagnostic criteria for inhalant intoxication include a maladaptive behavioral change and at least two physical symptoms. Behavioral changes can include apathy, impaired judgment or functioning, or aggression. Physical symptoms include nausea, anorexia, nystagmus, diplopia, and decreased reflexes. Rashes around the nose and mouth and an unusual breath odor, along with findings of residue on the hands, face, or close, are all signs of inhalant abuse. (326)"
     },
     {
         "id":  "k-4.39",
@@ -3327,7 +3327,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Inhalants",
-        "explanation":  "Chronic inhalants can cause many dangerous medical complications, including death. Chronic inhalant use can lead to a leukoencephalopathy showing diffuse cerebral, cerebellar, and brainstem atrophy on neuroimaging. (327)"
+        "explanation":  "Inhalants Chronic inhalants can cause many dangerous medical complications, including death. Chronic inhalant use can lead to a leukoencephalopathy showing diffuse cerebral, cerebellar, and brainstem atrophy on neuroimaging. (327)"
     },
     {
         "id":  "k-5.1",
@@ -3351,7 +3351,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Auditory",
-        "explanation":  "The patient is displaying classic symptoms of catatonia, which were preceded by a several-month history of withdrawing from family and friends. Given the history, his age, his current presentation, and the negative extensive medical workup, he most likely has a schizophrenia spectrum disorder, in which auditory, then visual hallucinations, are most common by far. Gustatory, olfactory, and tactile hallucinations, especially in the absence of auditory and or visual hallucinations, may indicate that further workup is needed. (338-339)"
+        "explanation":  "Auditory The patient is displaying classic symptoms of catatonia, which were preceded by a several-month history of withdrawing from family and friends. Given the history, his age, his current presentation, and the negative extensive medical workup, he most likely has a schizophrenia spectrum disorder, in which auditory, then visual hallucinations, are most common by far. Gustatory, olfactory, and tactile hallucinations, especially in the absence of auditory and or visual hallucinations, may indicate that further workup is needed. (338-339)"
     },
     {
         "id":  "k-5.2",
@@ -3399,7 +3399,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Schizoaffective disorder",
-        "explanation":  "The most likely diagnosis is schizoaffective disorder. She reports a steady baseline of symptoms of schizophrenia, including persistent auditory hallucinations most days, and displays negative symptoms of poor eye contact and flat affect. In addition, she has endorsed enough symptoms to have met criteria for major depressive disorder in the past, and usually has somewhat of a depressed mood. Though schizophrenia can have a mood component with it, given that she meets full criteria for both schizophrenia and depression, schizoaffective disorder is still the better diagnosis. In major depressive disorder with psychotic features, once the depression remits, so should the psychosis, but her psychotic symptoms are almost ever-present. Schizophreniform disorder lasts less than 6 months. Though the most recent hallucinations have been present for only 4 days, this is in the context of a 10-year history of hallucinations. (342)"
+        "explanation":  "Schizoaffective disorder The most likely diagnosis is schizoaffective disorder. She reports a steady baseline of symptoms of schizophrenia, including persistent auditory hallucinations most days, and displays negative symptoms of poor eye contact and flat affect. In addition, she has endorsed enough symptoms to have met criteria for major depressive disorder in the past, and usually has somewhat of a depressed mood. Though schizophrenia can have a mood component with it, given that she meets full criteria for both schizophrenia and depression, schizoaffective disorder is still the better diagnosis. In major depressive disorder with psychotic features, once the depression remits, so should the psychosis, but her psychotic symptoms are almost ever-present. Schizophreniform disorder lasts less than 6 months. Though the most recent hallucinations have been present for only 4 days, this is in the context of a 10-year history of hallucinations. (342)"
     },
     {
         "id":  "k-5.4",
@@ -3423,7 +3423,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Delusional disorder",
-        "explanation":  "What separates delusional disorder from a psychotic disorder such as schizophrenia or schizoaffective disorder is that the delusion is nonbizarre, and that there could possibly have been a kernel of truth at the beginning of the delusion. Also, aside from the impact of the delusions or its ramifications, function is not markedly impaired. (It\u0027s possible that the TV anchor could be in love with her, vs. being virtually impossible that aliens are contacting her through the radio.) Major depressive episodes are episodic, and the psychotic features would likely be more out of touch with reality. Individuals with schizotypal personality disorder usually are loners, prefer to keep to themselves, and have few, if any, close relationships. (345-346)"
+        "explanation":  "Delusional disorder What separates delusional disorder from a psychotic disorder such as schizophrenia or schizoaffective disorder is that the delusion is nonbizarre, and that there could possibly have been a kernel of truth at the beginning of the delusion. Also, aside from the impact of the delusions or its ramifications, function is not markedly impaired. (It\u0027s possible that the TV anchor could be in love with her, vs. being virtually impossible that aliens are contacting her through the radio.) Major depressive episodes are episodic, and the psychotic features would likely be more out of touch with reality. Individuals with schizotypal personality disorder usually are loners, prefer to keep to themselves, and have few, if any, close relationships. (345-346)"
     },
     {
         "id":  "k-5.5",
@@ -3447,7 +3447,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Perform a medical workup",
-        "explanation":  "Though it is tempting to assume that the patient\u0027s presenting problems are due to an exacerbation of schizophrenia, given that he is displaying new, uncharacteristic behaviors and new psychotic symptoms (visual vs. auditory hallucinations), a medical workup is warranted. A long-standing diagnosis of schizophrenia does not preclude someone from having a medical cause of psychotic symptoms, such as substance intoxication, infections, metabolic issues, etc., so the same medical workup should be done as if the person did not have a schizophrenia diagnosis. (347)"
+        "explanation":  "Perform a medical workup Though it is tempting to assume that the patient\u0027s presenting problems are due to an exacerbation of schizophrenia, given that he is displaying new, uncharacteristic behaviors and new psychotic symptoms (visual vs. auditory hallucinations), a medical workup is warranted. A long-standing diagnosis of schizophrenia does not preclude someone from having a medical cause of psychotic symptoms, such as substance intoxication, infections, metabolic issues, etc., so the same medical workup should be done as if the person did not have a schizophrenia diagnosis. (347)"
     },
     {
         "id":  "k-5.6",
@@ -3471,7 +3471,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Admission to the hospital",
-        "explanation":  "The patient is acutely psychotic, and is a danger to herself due to neglect, as evidenced by poor hygiene so chronic that her hair is matted, dehydration, and weight loss. Until the psychosis clears and her baseline can be determined, she needs to be hospitalized for her own safety, whether on a psychiatric inpatient unit for psychosis or a medical unit for further workup to determine diagnosis. Given that she lives alone, if she does not return to presymptomatic functioning, the family and a social worker should meet to discuss disposition options, including living with her son, living at an assisted living facility, or living at home with a home health aide, depending on the severity of her residual symptoms and efficacy of treatment. (351)"
+        "explanation":  "Admission to the hospital The patient is acutely psychotic, and is a danger to herself due to neglect, as evidenced by poor hygiene so chronic that her hair is matted, dehydration, and weight loss. Until the psychosis clears and her baseline can be determined, she needs to be hospitalized for her own safety, whether on a psychiatric inpatient unit for psychosis or a medical unit for further workup to determine diagnosis. Given that she lives alone, if she does not return to presymptomatic functioning, the family and a social worker should meet to discuss disposition options, including living with her son, living at an assisted living facility, or living at home with a home health aide, depending on the severity of her residual symptoms and efficacy of treatment. (351)"
     },
     {
         "id":  "k-5.7",
@@ -3495,7 +3495,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Propranolol",
-        "explanation":  "The woman is suffering from akathisia, a feeling of restlessness and needing to move, especially in the legs. This is most often caused by antipsychotics, usually those of the first generation, such as haloperidol. Treatment is first to try to decrease or stop the offending agent. If that is not feasible, then the next is to use a beta-blocker such as propranolol. Ropinirole is used for restless legs syndrome. Though the symptoms are largely the same, they typically occur in the evening or nighttime, as opposed to all day. Benztropine is used for the stiffness of extrapyramidal symptoms. Trihexyphenidyl is used for sialorrhea, and valbenazine for tardive dyskinesia. (351)"
+        "explanation":  "Propranolol The woman is suffering from akathisia, a feeling of restlessness and needing to move, especially in the legs. This is most often caused by antipsychotics, usually those of the first generation, such as haloperidol. Treatment is first to try to decrease or stop the offending agent. If that is not feasible, then the next is to use a beta-blocker such as propranolol. Ropinirole is used for restless legs syndrome. Though the symptoms are largely the same, they typically occur in the evening or nighttime, as opposed to all day. Benztropine is used for the stiffness of extrapyramidal symptoms. Trihexyphenidyl is used for sialorrhea, and valbenazine for tardive dyskinesia. (351)"
     },
     {
         "id":  "k-5.8",
@@ -3519,7 +3519,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Change to clozapine",
-        "explanation":  "The patient is displaying severe tardive dyskinesia, which is not unexpected given a 10-year history of being on a first-generation antipsychotic starting at a relatively young age. The treatment of choice is to decrease the offending agent. However, for him, this cannot be done without risking an exacerbation. The next treatment is to change to a second-generation antipsychotic, if possible. Given the severity of his movements, he needs to change to clozapine, as that is both a second-generation antipsychotic and is effective in reducing severe tardive dyskinesia. Given that he has already been on two vesicular monoamine transport-2 (VMAT-2) inhibitors, and due to the severity of his movements, it is reasonable to guess that trying a third (tetrabenazine) also will not be effective. He should not be changed to another first- generation antipsychotic (haloperidol). Though aripiprazole is a second-generation antipsychotic, the severity of the movements again makes clozapine a better choice. (354)"
+        "explanation":  "Change to clozapine The patient is displaying severe tardive dyskinesia, which is not unexpected given a 10-year history of being on a first-generation antipsychotic starting at a relatively young age. The treatment of choice is to decrease the offending agent. However, for him, this cannot be done without risking an exacerbation. The next treatment is to change to a second-generation antipsychotic, if possible. Given the severity of his movements, he needs to change to clozapine, as that is both a second-generation antipsychotic and is effective in reducing severe tardive dyskinesia. Given that he has already been on two vesicular monoamine transport-2 (VMAT-2) inhibitors, and due to the severity of his movements, it is reasonable to guess that trying a third (tetrabenazine) also will not be effective. He should not be changed to another first- generation antipsychotic (haloperidol). Though aripiprazole is a second-generation antipsychotic, the severity of the movements again makes clozapine a better choice. (354)"
     },
     {
         "id":  "k-5.9",
@@ -3543,7 +3543,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "\"You should stay on the medication indefinitely because you\u0027re likely to have another episode if you don\u0027t.\"",
-        "explanation":  "The patient has now had two acute psychotic episodes with a diagnosis of schizophrenia. Furthermore, her interepisode functioning is high enough that she is able to maintain a job. Given those factors, most experts recommend that consideration be given for indefinite treatment. (354)"
+        "explanation":  "\"You should stay on the medication indefinitely because you\u0027re likely to have another episode if you don\u0027t.\" The patient has now had two acute psychotic episodes with a diagnosis of schizophrenia. Furthermore, her interepisode functioning is high enough that she is able to maintain a job. Given those factors, most experts recommend that consideration be given for indefinite treatment. (354)"
     },
     {
         "id":  "k-5.10",
@@ -3567,7 +3567,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Change to clozapine",
-        "explanation":  "The patient has adequately tried and failed over four different first- and second-generation antipsychotics, in both oral and long-acting injectable forms. Given that his parents are diligent about making sure he takes his oral medications and taking him to appointments, clozapine should be the next consideration. Changing to a longer- acting form of a medication he is currently not doing well on is likely to be just as ineffective, especially since he has already been on both first-generation antipsychotics that are available as a long-acting injection. He should try what is considered the most effective antipsychotic as monotherapy before combining two antipsychotics. (354)"
+        "explanation":  "Change to clozapine The patient has adequately tried and failed over four different first- and second-generation antipsychotics, in both oral and long-acting injectable forms. Given that his parents are diligent about making sure he takes his oral medications and taking him to appointments, clozapine should be the next consideration. Changing to a longer- acting form of a medication he is currently not doing well on is likely to be just as ineffective, especially since he has already been on both first-generation antipsychotics that are available as a long-acting injection. He should try what is considered the most effective antipsychotic as monotherapy before combining two antipsychotics. (354)"
     },
     {
         "id":  "k-5.11",
@@ -3591,7 +3591,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Three months",
-        "explanation":  "An adequate trial of an antipsychotic medication is 4 to 6 weeks at an adequate dose. If the patient shows improvement, they should remain on that medication for at least 3 and up to 6 months, as improvements can continue to occur over that length of time. (355)"
+        "explanation":  "Three months An adequate trial of an antipsychotic medication is 4 to 6 weeks at an adequate dose. If the patient shows improvement, they should remain on that medication for at least 3 and up to 6 months, as improvements can continue to occur over that length of time. (355)"
     },
     {
         "id":  "k-5.12",
@@ -3615,7 +3615,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Enlarged ventricles",
-        "explanation":  "Enlarged third and lateral ventricles are a consistent finding in the brains of individuals with schizophrenia. Many structures, such as those of the limbic system (amygdala, hippocampus, and parahippocampal gyrus) and the thalamus are reduced in size. However, there is an increase in the D2 receptor density in the caudate, putamen, and nucleus accumbens. (358)"
+        "explanation":  "Enlarged ventricles Enlarged third and lateral ventricles are a consistent finding in the brains of individuals with schizophrenia. Many structures, such as those of the limbic system (amygdala, hippocampus, and parahippocampal gyrus) and the thalamus are reduced in size. However, there is an increase in the D2 receptor density in the caudate, putamen, and nucleus accumbens. (358)"
     },
     {
         "id":  "k-5.13",
@@ -3639,7 +3639,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Complete blood count with differential",
-        "explanation":  "Though rare, the 0.3% incidence of agranulocytosis in patients taking clozapine is enough to mandate weekly complete blood counts with differential for the first 6 months, biweekly for the next 6, then monthly. If one lab draw is missed, the pharmacy will not dispense the next dose of the medication, and the monitoring schedule resets. A comprehensive metabolic panel, or at least a basic one, lipid profile, and A1c are important for monitoring metabolic side effects. Clozapine is not known to affect the liver. (354)"
+        "explanation":  "Complete blood count with differential Though rare, the 0.3% incidence of agranulocytosis in patients taking clozapine is enough to mandate weekly complete blood counts with differential for the first 6 months, biweekly for the next 6, then monthly. If one lab draw is missed, the pharmacy will not dispense the next dose of the medication, and the monitoring schedule resets. A comprehensive metabolic panel, or at least a basic one, lipid profile, and A1c are important for monitoring metabolic side effects. Clozapine is not known to affect the liver. (354)"
     },
     {
         "id":  "k-6.1",
@@ -3663,7 +3663,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "The need for hospitalization",
-        "explanation":  "The main differences between manic and hypomanic episodes are no marked impairment in functioning and no need for hospitalization in the latter. However, a person with bipolar II disorder can have marked impairment and need hospitalization during the depressive episode. The number of symptoms needed to diagnose a manic or hypomanic episode is the same. There is no difference in episode length or onset. (368)"
+        "explanation":  "The need for hospitalization The main differences between manic and hypomanic episodes are no marked impairment in functioning and no need for hospitalization in the latter. However, a person with bipolar II disorder can have marked impairment and need hospitalization during the depressive episode. The number of symptoms needed to diagnose a manic or hypomanic episode is the same. There is no difference in episode length or onset. (368)"
     },
     {
         "id":  "k-6.2",
@@ -3687,7 +3687,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Cyclothymia",
-        "explanation":  "This patient exhibits symptoms of both depression and hypomania, but does not meet full criteria for either. Because there are some manic symptoms, she cannot be diagnosed with a unipolar depressive disorder. The manic symptoms do not appear to cause marked problems with social or occupational functioning, so she cannot be diagnosed with bipolar I. The depressive symptoms have led to problems with social functioning. However, she does not endorse enough symptoms to meet criteria for major depressive disorder, which also eliminates bipolar I. The diagnosis that most fits is cyclothymia. Though she starts by saying her moods are up and down over a period of days, she later clarifies that the distinct moods last for weeks or months at a time. Mood swings in borderline personality disorder often occur over hours to days. (369)"
+        "explanation":  "Cyclothymia This patient exhibits symptoms of both depression and hypomania, but does not meet full criteria for either. Because there are some manic symptoms, she cannot be diagnosed with a unipolar depressive disorder. The manic symptoms do not appear to cause marked problems with social or occupational functioning, so she cannot be diagnosed with bipolar I. The depressive symptoms have led to problems with social functioning. However, she does not endorse enough symptoms to meet criteria for major depressive disorder, which also eliminates bipolar I. The diagnosis that most fits is cyclothymia. Though she starts by saying her moods are up and down over a period of days, she later clarifies that the distinct moods last for weeks or months at a time. Mood swings in borderline personality disorder often occur over hours to days. (369)"
     },
     {
         "id":  "k-6.3",
@@ -3711,7 +3711,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "At least 3 months",
-        "explanation":  "An untreated manic episode lasts about 3 months, so he should be on the medication for at least that amount of time. However, given that he has had one full-blown manic episode, he has a 90% chance of having another, so many clinicians would be hesitant to discontinue medication after that length of time. (371)"
+        "explanation":  "At least 3 months An untreated manic episode lasts about 3 months, so he should be on the medication for at least that amount of time. However, given that he has had one full-blown manic episode, he has a 90% chance of having another, so many clinicians would be hesitant to discontinue medication after that length of time. (371)"
     },
     {
         "id":  "k-6.4",
@@ -3735,7 +3735,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Advanced age of onset",
-        "explanation":  "While not protective, several factors predict a better outcome in patients with bipolar I disorder. Among them is an advanced age of onset. Others are a short duration of manic episodes, few suicidal thoughts, and few coexisting psychiatric or mental health problems. Conversely, male gender, depressive features, and interepisode depressive features are all factors that predict a poor outcome. (372)"
+        "explanation":  "Advanced age of onset While not protective, several factors predict a better outcome in patients with bipolar I disorder. Among them is an advanced age of onset. Others are a short duration of manic episodes, few suicidal thoughts, and few coexisting psychiatric or mental health problems. Conversely, male gender, depressive features, and interepisode depressive features are all factors that predict a poor outcome. (372)"
     },
     {
         "id":  "k-6.5",
@@ -3759,7 +3759,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Admission to an inpatient psychiatric hospital",
-        "explanation":  "This patient is floridly manic and putting herself in danger (jogging naked in the middle of the night). The increase in alcohol use is also concerning. She needs acute hospitalization for medication that will break the manic episode as quickly as possible. Rapid titration of medications should be done in a secured medical environment for her safety, and discharge to home, even with a follow-up the next day, would not achieve that. She would also not be in a secure environment in an intensive outpatient or partial hospitalization program. (372)"
+        "explanation":  "Admission to an inpatient psychiatric hospital This patient is floridly manic and putting herself in danger (jogging naked in the middle of the night). The increase in alcohol use is also concerning. She needs acute hospitalization for medication that will break the manic episode as quickly as possible. Rapid titration of medications should be done in a secured medical environment for her safety, and discharge to home, even with a follow-up the next day, would not achieve that. She would also not be in a secure environment in an intensive outpatient or partial hospitalization program. (372)"
     },
     {
         "id":  "k-6.6",
@@ -3783,7 +3783,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Quetiapine",
-        "explanation":  "Unlike acute monopolar depression, in which an SSRI would most likely be the first line of treatment, in bipolar depression, atypical antipsychotics have shown the most efficacy. Of those medications, quetiapine has the most evidence. Lithium has only limited evidence for bipolar depression. Though olanzapine has positive studies or efficacy, it does not have the best evidence. Brexpiprazole is used as an adjunct for unipolar, not bipolar, depression. (373)"
+        "explanation":  "Quetiapine Unlike acute monopolar depression, in which an SSRI would most likely be the first line of treatment, in bipolar depression, atypical antipsychotics have shown the most efficacy. Of those medications, quetiapine has the most evidence. Lithium has only limited evidence for bipolar depression. Though olanzapine has positive studies or efficacy, it does not have the best evidence. Brexpiprazole is used as an adjunct for unipolar, not bipolar, depression. (373)"
     },
     {
         "id":  "k-6.7",
@@ -3807,7 +3807,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Electroconvulsive therapy",
-        "explanation":  "This patient is in the midst of a severe bipolar depression, has made a potentially lethal suicide attempt and is still actively suicidal, which constitutes an acute medical emergency. For those reasons, and because her history has shown that oral medication compliance is difficult for her, electroconvulsive therapy is warranted. If that were not an option, quetiapine would be the medication of choice, as it has the best evidence for bipolar depression. Though lamotrigine also has evidence, the acute nature of the depression would preclude using a medication that will take weeks to titrate. Lithium has limited evidence for bipolar depression, and valproate is indicated for acute mania. (374)"
+        "explanation":  "Electroconvulsive therapy This patient is in the midst of a severe bipolar depression, has made a potentially lethal suicide attempt and is still actively suicidal, which constitutes an acute medical emergency. For those reasons, and because her history has shown that oral medication compliance is difficult for her, electroconvulsive therapy is warranted. If that were not an option, quetiapine would be the medication of choice, as it has the best evidence for bipolar depression. Though lamotrigine also has evidence, the acute nature of the depression would preclude using a medication that will take weeks to titrate. Lithium has limited evidence for bipolar depression, and valproate is indicated for acute mania. (374)"
     },
     {
         "id":  "k-6.8",
@@ -3831,7 +3831,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Lamotrigine",
-        "explanation":  "Though lithium could be a viable option for long-term treatment, it has not shown much efficacy in acute bipolar depression. In addition, a prior diagnosis of hypothyroidism would make lithium a less attractive option given its propensity to cause hypothyroidism. Also to be avoided, if possible, is a medication that can lead to weight gain, which eliminates most atypical antipsychotics. Fluoxetine and other antidepressants are less effective for bipolar depression than for monopolar depression. Lamotrigine is effective for acute bipolar depression and not likely to lead to weight gain. Given that she is still somewhat functioning and is not presenting with a level of depression that would constitute a medical emergency, such as having active suicidal ideation, lamotrigine is an optimal choice. (375)"
+        "explanation":  "Lamotrigine Though lithium could be a viable option for long-term treatment, it has not shown much efficacy in acute bipolar depression. In addition, a prior diagnosis of hypothyroidism would make lithium a less attractive option given its propensity to cause hypothyroidism. Also to be avoided, if possible, is a medication that can lead to weight gain, which eliminates most atypical antipsychotics. Fluoxetine and other antidepressants are less effective for bipolar depression than for monopolar depression. Lamotrigine is effective for acute bipolar depression and not likely to lead to weight gain. Given that she is still somewhat functioning and is not presenting with a level of depression that would constitute a medical emergency, such as having active suicidal ideation, lamotrigine is an optimal choice. (375)"
     },
     {
         "id":  "k-7.1",
@@ -3855,7 +3855,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Decreased energy",
-        "explanation":  "The most common complaint of patients with depression is reduced energy (97%). About 80% report difficulty sleeping. Eighty-four percent report poor concentration. Many patients have decreased appetite. About 66% have suicidal ideation. (379)"
+        "explanation":  "Decreased energy The most common complaint of patients with depression is reduced energy (97%). About 80% report difficulty sleeping. Eighty-four percent report poor concentration. Many patients have decreased appetite. About 66% have suicidal ideation. (379)"
     },
     {
         "id":  "k-7.2",
@@ -3879,7 +3879,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Persistent depressive disorder",
-        "explanation":  "Though this patient is reporting being happy, it is in the context of not feeling as sad, as opposed to grandiosity. There is no history of mania, so bipolar disorder and cyclothymia would not be diagnosed. Though generalized anxiety disorder can present with difficulty concentrating and difficulty sleeping, he does not mention anxiety. He reports feeling depressed almost all of the time, which is more consistent with persistent depressive disorder than major depressive disorder, which has discrete episodes. (382)"
+        "explanation":  "Persistent depressive disorder Though this patient is reporting being happy, it is in the context of not feeling as sad, as opposed to grandiosity. There is no history of mania, so bipolar disorder and cyclothymia would not be diagnosed. Though generalized anxiety disorder can present with difficulty concentrating and difficulty sleeping, he does not mention anxiety. He reports feeling depressed almost all of the time, which is more consistent with persistent depressive disorder than major depressive disorder, which has discrete episodes. (382)"
     },
     {
         "id":  "k-7.3",
@@ -3903,7 +3903,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Major depressive disorder",
-        "explanation":  "Given the patient\u0027s relatively sudden and acute onset of cognitive difficulties, it is unlikely that she has Alzheimer dementia, or that this is normal aging, both of which would be much more gradual. She has some symptoms of generalized anxiety disorder, such as difficulty with concentration and poor sleep, attributed to worrying. However, it would be uncommon, though not impossible, for it to present for the first time in the eighth decade (median age is in the 30s). Vascular dementia could present with acute problems in cognition, but is less likely as she has no history of cardiac or other health problems. Another explanation for her symptoms of poor concentration, loss of interest in crossword puzzles, difficulty sleeping, and decreased appetite is major depressive disorder. If depression profoundly affects cognition in the elderly, it is sometimes referred to as \"pseudodementia.\" Once the depression is treated, prior cognitive functioning should return. (385)"
+        "explanation":  "Major depressive disorder Given the patient\u0027s relatively sudden and acute onset of cognitive difficulties, it is unlikely that she has Alzheimer dementia, or that this is normal aging, both of which would be much more gradual. She has some symptoms of generalized anxiety disorder, such as difficulty with concentration and poor sleep, attributed to worrying. However, it would be uncommon, though not impossible, for it to present for the first time in the eighth decade (median age is in the 30s). Vascular dementia could present with acute problems in cognition, but is less likely as she has no history of cardiac or other health problems. Another explanation for her symptoms of poor concentration, loss of interest in crossword puzzles, difficulty sleeping, and decreased appetite is major depressive disorder. If depression profoundly affects cognition in the elderly, it is sometimes referred to as \"pseudodementia.\" Once the depression is treated, prior cognitive functioning should return. (385)"
     },
     {
         "id":  "k-7.4",
@@ -3927,7 +3927,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Alcohol",
-        "explanation":  "While patients with a depressive disorder at times turn to stimulants such as cocaine and amphetamines, or to cannabis for relief of depression, alcohol use disorder frequently coexists in both major depressive disorder and bipolar I disorder, with a stronger association with depression in women than in men. People also sometimes use alcohol in a futile attempt to relieve depression. (386)"
+        "explanation":  "Alcohol While patients with a depressive disorder at times turn to stimulants such as cocaine and amphetamines, or to cannabis for relief of depression, alcohol use disorder frequently coexists in both major depressive disorder and bipolar I disorder, with a stronger association with depression in women than in men. People also sometimes use alcohol in a futile attempt to relieve depression. (386)"
     },
     {
         "id":  "k-7.5",
@@ -3951,7 +3951,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Inpatient hospitalization",
-        "explanation":  "Though the death of his wife was likely the cause of his current symptoms, he still meets criteria for major depressive disorder. The most concerning aspect is his nutritional status. Though he does not appear suicidal, he is in medical danger due to self-neglect from lack of appetite, confirmed by subjective report and objective measures of his weight and clothes. He needs to be hospitalized to begin treatment and refeeding. During hospitalization, the other measures, such as a psychiatric and social work referral and grief counseling, can be initiated. (388)"
+        "explanation":  "Inpatient hospitalization Though the death of his wife was likely the cause of his current symptoms, he still meets criteria for major depressive disorder. The most concerning aspect is his nutritional status. Though he does not appear suicidal, he is in medical danger due to self-neglect from lack of appetite, confirmed by subjective report and objective measures of his weight and clothes. He needs to be hospitalized to begin treatment and refeeding. During hospitalization, the other measures, such as a psychiatric and social work referral and grief counseling, can be initiated. (388)"
     },
     {
         "id":  "k-7.6",
@@ -3975,7 +3975,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Increase the dose of the current medication",
-        "explanation":  "The goal in treatment of major depressive disorder is remission, not reduction of symptoms. As this patient has been on the same dose of the SSRI for 8 weeks, it is unlikely that she will experience significant further improvement. The next step is to increase the dosage of the medication, as it has been somewhat helpful. If the dose increase yields no further improvement, then augmentation with another antidepressant of a different mechanism, such as a norepinephrine dopamine reuptake inhibitor, as opposed to changing medications, would be indicated given that she has some proven benefit from the current medication. Ketamine is used for treatment-resistant depression. Given that this is the patient\u0027s first medication trial, she should not yet be considered treatment resistant. (390)"
+        "explanation":  "Increase the dose of the current medication The goal in treatment of major depressive disorder is remission, not reduction of symptoms. As this patient has been on the same dose of the SSRI for 8 weeks, it is unlikely that she will experience significant further improvement. The next step is to increase the dosage of the medication, as it has been somewhat helpful. If the dose increase yields no further improvement, then augmentation with another antidepressant of a different mechanism, such as a norepinephrine dopamine reuptake inhibitor, as opposed to changing medications, would be indicated given that she has some proven benefit from the current medication. Ketamine is used for treatment-resistant depression. Given that this is the patient\u0027s first medication trial, she should not yet be considered treatment resistant. (390)"
     },
     {
         "id":  "k-7.7",
@@ -3999,7 +3999,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Begin a 1- to 2-week taper in 6 months",
-        "explanation":  "Given that the patient has experienced only one episode of major depression, which did not warrant inpatient hospitalization or did not involve suicidal ideation, she is a candidate for an attempt at medication discontinuation. An antidepressant that has led to complete remission of symptoms should be maintained for at least 6 months after remission, after which it can be tapered over 1 to 2 weeks, depending on the half-life of the medication. If she were on her second or more episode of major depression, or this episode was severe, then maintenance dosing should be considered. (390)"
+        "explanation":  "Begin a 1- to 2-week taper in 6 months Given that the patient has experienced only one episode of major depression, which did not warrant inpatient hospitalization or did not involve suicidal ideation, she is a candidate for an attempt at medication discontinuation. An antidepressant that has led to complete remission of symptoms should be maintained for at least 6 months after remission, after which it can be tapered over 1 to 2 weeks, depending on the half-life of the medication. If she were on her second or more episode of major depression, or this episode was severe, then maintenance dosing should be considered. (390)"
     },
     {
         "id":  "k-7.8",
@@ -4023,7 +4023,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Cognitive behavioral",
-        "explanation":  "A cognitive behavioral therapist examines a person\u0027s automatic thoughts (\"I\u0027m no good at anything\"), cognitive distortions (generalization), and other maladaptive beliefs and helps them develop more realistic attributions and ways of thinking. Behavior therapy usually involves operant conditioning, such as punishment and reinforcement, to shape patient responses and interactions. Behavior therapy does not have many studies supporting its use in major depressive disorder. Interpersonal therapy focuses intently on relationships and how dysfunctional relationships can perpetuate depression. Though the patient talks about his mother in this example, his distress is centered on his feelings of failure, as opposed to his relationship with her. Psychoanalytically oriented therapy focuses on the relationship between therapist and patient, with the goal of bringing about change in the patient\u0027s personality structure. Family therapy involves working with multiple family members, as opposed to just mentioning a family member during a session. (392)"
+        "explanation":  "Cognitive behavioral A cognitive behavioral therapist examines a person\u0027s automatic thoughts (\"I\u0027m no good at anything\"), cognitive distortions (generalization), and other maladaptive beliefs and helps them develop more realistic attributions and ways of thinking. Behavior therapy usually involves operant conditioning, such as punishment and reinforcement, to shape patient responses and interactions. Behavior therapy does not have many studies supporting its use in major depressive disorder. Interpersonal therapy focuses intently on relationships and how dysfunctional relationships can perpetuate depression. Though the patient talks about his mother in this example, his distress is centered on his feelings of failure, as opposed to his relationship with her. Psychoanalytically oriented therapy focuses on the relationship between therapist and patient, with the goal of bringing about change in the patient\u0027s personality structure. Family therapy involves working with multiple family members, as opposed to just mentioning a family member during a session. (392)"
     },
     {
         "id":  "k-7.9",
@@ -4047,7 +4047,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Cortisol",
-        "explanation":  "Several decades of testing of cortisol levels in depressed patients have shown a hyperactive hypothalamic- pituitary-adrenal axis, which leads to increased plasma, salivary, and urinary free cortisol levels, likely due to increased neurons in the hypothalamus. GABA, BDNF, and growth hormone are all decreased in major depression. A change in prolactin level has not been found. (394-395)"
+        "explanation":  "Cortisol Several decades of testing of cortisol levels in depressed patients have shown a hyperactive hypothalamic- pituitary-adrenal axis, which leads to increased plasma, salivary, and urinary free cortisol levels, likely due to increased neurons in the hypothalamus. GABA, BDNF, and growth hormone are all decreased in major depression. A change in prolactin level has not been found. (394-395)"
     },
     {
         "id":  "k-7.10",
@@ -4071,7 +4071,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Hippocampus",
-        "explanation":  "The increased cortisol, which occurs due to increased corticotrophin-releasing hormone from the hypothalamus, damages the hippocampus, which normally inhibits hypothalamic-pituitary-adrenal (HPA) axis activity. Therefore, in contrast to an increased number of neurons in the hypothalamus in an individual under stress, there is a resultant decrease in hippocampal volume in image studies. This then can set up a feedback loop in which the HPA axis is further activated, which propagates the neuronal hippocampal loss due to the increased amount of cortisol. The basal ganglia and periventricular regions, like the thalamus, also show hyper- versus hypointensities in structural images. (395-397)"
+        "explanation":  "Hippocampus The increased cortisol, which occurs due to increased corticotrophin-releasing hormone from the hypothalamus, damages the hippocampus, which normally inhibits hypothalamic-pituitary-adrenal (HPA) axis activity. Therefore, in contrast to an increased number of neurons in the hypothalamus in an individual under stress, there is a resultant decrease in hippocampal volume in image studies. This then can set up a feedback loop in which the HPA axis is further activated, which propagates the neuronal hippocampal loss due to the increased amount of cortisol. The basal ganglia and periventricular regions, like the thalamus, also show hyper- versus hypointensities in structural images. (395-397)"
     },
     {
         "id":  "k-7.11",
@@ -4095,7 +4095,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Loss of a parent or spouse",
-        "explanation":  "The life event most associated with the development of depression or the onset of a depressive episode is the loss of a parent before age 11 or the loss of a spouse, respectively. Unemployed persons are more likely to report depression than persons who are employed. (398)"
+        "explanation":  "Loss of a parent or spouse The life event most associated with the development of depression or the onset of a depressive episode is the loss of a parent before age 11 or the loss of a spouse, respectively. Unemployed persons are more likely to report depression than persons who are employed. (398)"
     },
     {
         "id":  "k-7.12",
@@ -4119,7 +4119,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Assisting her with learning a sense of control and mastery of the environment",
-        "explanation":  "The psychosocial theory that best fits this patient\u0027s circumstances is that of learned helplessness. She has been buffeted by several events out of her control and therefore, according to learned helplessness behaviorists, needs to learn that she has some environmental control in order to alleviate her symptoms of depression. Working through abandonment feelings and developing a more positive sense of self would be in line with a psychodynamic theory of depression. Examining cognitive distortions would be a goal of treatment from a cognitive theory, and seeing depression as adaptive would be expected from a therapist subscribing to evolutionary theory. (399-400)"
+        "explanation":  "Assisting her with learning a sense of control and mastery of the environment The psychosocial theory that best fits this patient\u0027s circumstances is that of learned helplessness. She has been buffeted by several events out of her control and therefore, according to learned helplessness behaviorists, needs to learn that she has some environmental control in order to alleviate her symptoms of depression. Working through abandonment feelings and developing a more positive sense of self would be in line with a psychodynamic theory of depression. Examining cognitive distortions would be a goal of treatment from a cognitive theory, and seeing depression as adaptive would be expected from a therapist subscribing to evolutionary theory. (399-400)"
     },
     {
         "id":  "k-8.1",
@@ -4143,7 +4143,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Specific phobia",
-        "explanation":  "Though the child shows the same symptoms as those of a panic attack, and may indeed be having full-blown panic attacks, he cannot be diagnosed with panic disorder, as the attacks are not unexpected. Because there are circumscribed triggers, specific phobia is the most likely diagnosis. He continues to leave the house and go to school, thus removing agoraphobia as a diagnosis. The fears are circumscribed and limited to the two stressors, which eliminates generalized anxiety disorder. Though he avoids some social situations due to being embarrassed if he were to have a panic attack in front of his peers, he would not be diagnosed with social anxiety, as the root cause of the fear is the specific triggers, as opposed to the social situation itself. (403-406)"
+        "explanation":  "Specific phobia Though the child shows the same symptoms as those of a panic attack, and may indeed be having full-blown panic attacks, he cannot be diagnosed with panic disorder, as the attacks are not unexpected. Because there are circumscribed triggers, specific phobia is the most likely diagnosis. He continues to leave the house and go to school, thus removing agoraphobia as a diagnosis. The fears are circumscribed and limited to the two stressors, which eliminates generalized anxiety disorder. Though he avoids some social situations due to being embarrassed if he were to have a panic attack in front of his peers, he would not be diagnosed with social anxiety, as the root cause of the fear is the specific triggers, as opposed to the social situation itself. (403-406)"
     },
     {
         "id":  "k-8.2",
@@ -4167,7 +4167,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Generalized anxiety disorder",
-        "explanation":  "Though someone experiencing a panic attack during the night would most likely experience a disruption in sleep, as would someone who encountered the trigger of a specific phobia at night, only for generalized anxiety disorder is sleep disruption a criterion in and of itself. Likewise, someone with a fear of being embarrassed in a social situation that was severe enough to warrant a diagnosis of social anxiety disorder may lose sleep the night before such a situation would occur, such as giving a speech in class the next day. (405)"
+        "explanation":  "Generalized anxiety disorder Though someone experiencing a panic attack during the night would most likely experience a disruption in sleep, as would someone who encountered the trigger of a specific phobia at night, only for generalized anxiety disorder is sleep disruption a criterion in and of itself. Likewise, someone with a fear of being embarrassed in a social situation that was severe enough to warrant a diagnosis of social anxiety disorder may lose sleep the night before such a situation would occur, such as giving a speech in class the next day. (405)"
     },
     {
         "id":  "k-8.3",
@@ -4191,7 +4191,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "20 to 30 minutes",
-        "explanation":  "Panic attacks typically begin with physiologic symptoms of sweating, tachycardia, shaking, and shortness of breath, as well as psychological symptoms of impending doom and a feeling that something is wrong. These symptoms usually peak in about 10 minutes before resolving over the period of the next 10 to 20 minutes, for an average total length of 20 to 30 minutes. (406)"
+        "explanation":  "20 to 30 minutes Panic attacks typically begin with physiologic symptoms of sweating, tachycardia, shaking, and shortness of breath, as well as psychological symptoms of impending doom and a feeling that something is wrong. These symptoms usually peak in about 10 minutes before resolving over the period of the next 10 to 20 minutes, for an average total length of 20 to 30 minutes. (406)"
     },
     {
         "id":  "k-8.4",
@@ -4215,7 +4215,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Begin a prn benzodiazepine and concurrent SSRI",
-        "explanation":  "Though beta-blockers (specifically propranolol) are often used for social anxiety disorder, the evidence for its use is scant, and SSRIs are still considered first-line treatment. Normally, the patient would be started on an SSRI alone and told that it will take the standard few weeks for it to become effective. In this case, the patient\u0027s job is dependent on her performance in the next few days, so she cannot wait several weeks. Therefore, it would be acceptable to start on a benzodiazepine for immediate relief, with the understanding that it will only be used while the SSRI takes effect, after which it will be discontinued. (407)"
+        "explanation":  "Begin a prn benzodiazepine and concurrent SSRI Though beta-blockers (specifically propranolol) are often used for social anxiety disorder, the evidence for its use is scant, and SSRIs are still considered first-line treatment. Normally, the patient would be started on an SSRI alone and told that it will take the standard few weeks for it to become effective. In this case, the patient\u0027s job is dependent on her performance in the next few days, so she cannot wait several weeks. Therefore, it would be acceptable to start on a benzodiazepine for immediate relief, with the understanding that it will only be used while the SSRI takes effect, after which it will be discontinued. (407)"
     },
     {
         "id":  "k-8.5",
@@ -4239,7 +4239,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Teaching relaxation techniques",
-        "explanation":  "The patient is suffering from a specific phobia, that of driving. The treatment of choice is graded exposure, in which the patient would be reintroduced to the elements of driving. For example, she could begin with visualizing herself behind the wheel of a car or holding the car keys in her hand and eventually progress to driving in a self- contained area, such as the office parking lot, with the end goal of fully driving by herself. One of the cornerstones of graded exposure is first learning how to deal with the anxiety that the exposures will inevitably cause. For that reason, learning relaxation techniques would be the first step in graded exposure therapy. This patient has already stated her reasons for wanting to drive, so going through those again is not likely to yield much, if any, benefit. (408)"
+        "explanation":  "Teaching relaxation techniques The patient is suffering from a specific phobia, that of driving. The treatment of choice is graded exposure, in which the patient would be reintroduced to the elements of driving. For example, she could begin with visualizing herself behind the wheel of a car or holding the car keys in her hand and eventually progress to driving in a self- contained area, such as the office parking lot, with the end goal of fully driving by herself. One of the cornerstones of graded exposure is first learning how to deal with the anxiety that the exposures will inevitably cause. For that reason, learning relaxation techniques would be the first step in graded exposure therapy. This patient has already stated her reasons for wanting to drive, so going through those again is not likely to yield much, if any, benefit. (408)"
     },
     {
         "id":  "k-8.6",
@@ -4263,7 +4263,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Hyperthyroidism",
-        "explanation":  "Many medical disorders, such as hypo- or hyperthyroidism, hyperparathyroidism, and pheochromocytomas, can have symptoms that resemble panic attacks. This patient increased heart rate and hypertension, which are signs of hyperthyroidism. Episodic hypoglycemia associated with insulinomas, but not diabetes in general can cause symptoms that mimic panic attacks. Pancreatic cancer can lead to a feeling of doom and anxiety, but not usually panic attacks. Syphilis and lupus are not known to cause panic attacks. (406)"
+        "explanation":  "Hyperthyroidism Many medical disorders, such as hypo- or hyperthyroidism, hyperparathyroidism, and pheochromocytomas, can have symptoms that resemble panic attacks. This patient increased heart rate and hypertension, which are signs of hyperthyroidism. Episodic hypoglycemia associated with insulinomas, but not diabetes in general can cause symptoms that mimic panic attacks. Pancreatic cancer can lead to a feeling of doom and anxiety, but not usually panic attacks. Syphilis and lupus are not known to cause panic attacks. (406)"
     },
     {
         "id":  "k-9.1",
@@ -4287,7 +4287,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Contamination fears",
-        "explanation":  "The most common pattern in OCD is an obsession of contamination, which is often followed by washing or compulsive avoidance of the contaminated object. Pathologic doubt is the second most common obsession seen in OCD, often followed by checking compulsions. The third most common pattern in OCD is intrusive obsessional thoughts without compulsions. (415)"
+        "explanation":  "Contamination fears The most common pattern in OCD is an obsession of contamination, which is often followed by washing or compulsive avoidance of the contaminated object. Pathologic doubt is the second most common obsession seen in OCD, often followed by checking compulsions. The third most common pattern in OCD is intrusive obsessional thoughts without compulsions. (415)"
     },
     {
         "id":  "k-9.2",
@@ -4311,7 +4311,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Concern about multiple different areas of the body",
-        "explanation":  "The most common concern in patients with body dysmorphic disorder involves the face and head and can also include the skin, nose, and hair. Most patients with body dysmorphic disorder worry about five to seven different body areas. Only about a quarter of patients are concerned with symmetry of their appearance, and only about a quarter of patients have reasonable insight. Weight- and shape-related concerns of other body areas, such as the thighs and stomach are more consistent with body dysmorphia from an eating disorder. (416)"
+        "explanation":  "Concern about multiple different areas of the body The most common concern in patients with body dysmorphic disorder involves the face and head and can also include the skin, nose, and hair. Most patients with body dysmorphic disorder worry about five to seven different body areas. Only about a quarter of patients are concerned with symmetry of their appearance, and only about a quarter of patients have reasonable insight. Weight- and shape-related concerns of other body areas, such as the thighs and stomach are more consistent with body dysmorphia from an eating disorder. (416)"
     },
     {
         "id":  "k-9.3",
@@ -4335,7 +4335,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Trichotillomania",
-        "explanation":  "While the patient above presents with some features of anorexia, the physical examination findings of a palpable abdominal mass point toward a bezoar. Most likely she is pulling and eating her hair (trichophagia) after pulling it out (trichotillomania), which is leading to an intestinal obstruction. Medical complications of trichophagy include trichobezoars, intestinal obstruction, and malnutrition. (418)"
+        "explanation":  "Trichotillomania While the patient above presents with some features of anorexia, the physical examination findings of a palpable abdominal mass point toward a bezoar. Most likely she is pulling and eating her hair (trichophagia) after pulling it out (trichotillomania), which is leading to an intestinal obstruction. Medical complications of trichophagy include trichobezoars, intestinal obstruction, and malnutrition. (418)"
     },
     {
         "id":  "k-9.4",
@@ -4359,7 +4359,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Young, single males",
-        "explanation":  "Olfactory-reference syndrome involves the preoccupation of having the false belief that one has an offensive body odor. It is most commonly found in young, single males, with an average age of onset of 25 years old. (419)"
+        "explanation":  "Young, single males Olfactory-reference syndrome involves the preoccupation of having the false belief that one has an offensive body odor. It is most commonly found in young, single males, with an average age of onset of 25 years old. (419)"
     },
     {
         "id":  "k-9.5",
@@ -4383,7 +4383,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "New-onset symptoms in older individuals",
-        "explanation":  "When OCD develops before the age of 30 years and new- onset symptoms in older individuals occur, concern should be raised for a potential neurologic disease. This can include disorders such as Sydenham chorea and Huntington disease. (420)"
+        "explanation":  "New-onset symptoms in older individuals When OCD develops before the age of 30 years and new- onset symptoms in older individuals occur, concern should be raised for a potential neurologic disease. This can include disorders such as Sydenham chorea and Huntington disease. (420)"
     },
     {
         "id":  "k-9.6",
@@ -4407,7 +4407,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Cingulate cortex",
-        "explanation":  "Hoarding can be common with certain genetic conditions including Prader-Willi syndrome and Alzheimer disease. Damage to the anterior ventromedial prefrontal cortex along with the cingulate cortex can lead to heavy hoarding behaviors. (421)"
+        "explanation":  "Cingulate cortex Hoarding can be common with certain genetic conditions including Prader-Willi syndrome and Alzheimer disease. Damage to the anterior ventromedial prefrontal cortex along with the cingulate cortex can lead to heavy hoarding behaviors. (421)"
     },
     {
         "id":  "k-9.7",
@@ -4431,7 +4431,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Anxiety that precedes and is relieved by the hairpulling",
-        "explanation":  "Per ICD-10 criteria for trichotillomania, all that is required for a diagnosis is the notice of hair loss due to hair-pulling behavior and hair-pulling behavior that is preceded by increased anxiety that is relieved by the hairpulling. For the DSM-5 criteria, there must also be recurrent hairpulling resulting in hair loss, along with repeated attempts to change the behavior, an impairment in functioning, or the behavior leading to significant distress. (422)"
+        "explanation":  "Anxiety that precedes and is relieved by the hairpulling Per ICD-10 criteria for trichotillomania, all that is required for a diagnosis is the notice of hair loss due to hair-pulling behavior and hair-pulling behavior that is preceded by increased anxiety that is relieved by the hairpulling. For the DSM-5 criteria, there must also be recurrent hairpulling resulting in hair loss, along with repeated attempts to change the behavior, an impairment in functioning, or the behavior leading to significant distress. (422)"
     },
     {
         "id":  "k-9.8",
@@ -4455,7 +4455,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Excoriation disorder",
-        "explanation":  "The patient described in the vignette has hair-pulling disorder, or trichotillomania. The most common comorbidity with it is excoriation disorder. Other common comorbidities include obsessive-compulsive disorder (OCD). More than half of those with excoriation disorder have another psychiatric disorder, most commonly a mood or anxiety disorder. (423, 424)"
+        "explanation":  "Excoriation disorder The patient described in the vignette has hair-pulling disorder, or trichotillomania. The most common comorbidity with it is excoriation disorder. Other common comorbidities include obsessive-compulsive disorder (OCD). More than half of those with excoriation disorder have another psychiatric disorder, most commonly a mood or anxiety disorder. (423, 424)"
     },
     {
         "id":  "k-9.9",
@@ -4479,7 +4479,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Aripiprazole",
-        "explanation":  "Both risperidone and aripiprazole are best supported as adjunctive treatment for obsessive-compulsive disorder (OCD) when patients fail to respond fully to selective serotonin reuptake inhibitors (SSRI) trials. High doses of SSRIs for at least 12 weeks should be utilized first. Though conflicting data, some show that the atypical antipsychotics are particularly useful when tics are comorbid with the OCD. Response to the atypical antipsychotics is typically quick (i.e., 4 weeks). Memantine and lamotrigine are experimental agents that might be promising in the future, along with other meds such as riluzole, ketamine, and NAC. (424)"
+        "explanation":  "Aripiprazole Both risperidone and aripiprazole are best supported as adjunctive treatment for obsessive-compulsive disorder (OCD) when patients fail to respond fully to selective serotonin reuptake inhibitors (SSRI) trials. High doses of SSRIs for at least 12 weeks should be utilized first. Though conflicting data, some show that the atypical antipsychotics are particularly useful when tics are comorbid with the OCD. Response to the atypical antipsychotics is typically quick (i.e., 4 weeks). Memantine and lamotrigine are experimental agents that might be promising in the future, along with other meds such as riluzole, ketamine, and NAC. (424)"
     },
     {
         "id":  "k-9.10",
@@ -4503,7 +4503,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Cortico-striatal-thalamic-cortical",
-        "explanation":  "(CSTC) It is thought that CSTC pathway plays a role in contributing to the cognitive-affective impairments in OCD, with abnormal activation and inhibition. These impairments result in cognitive inflexibility and alteration in the habit system and contribute to motor impulsivity. Medication treatment and cognitive behaivoral therapy (CBT) have been shown on imaging studies to normalize the functional alterations in the CSTC pathway in OCD. (426)"
+        "explanation":  "Cortico-striatal-thalamic-cortical (CSTC) It is thought that CSTC pathway plays a role in contributing to the cognitive-affective impairments in OCD, with abnormal activation and inhibition. These impairments result in cognitive inflexibility and alteration in the habit system and contribute to motor impulsivity. Medication treatment and cognitive behaivoral therapy (CBT) have been shown on imaging studies to normalize the functional alterations in the CSTC pathway in OCD. (426)"
     },
     {
         "id":  "k-10.1",
@@ -4551,7 +4551,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Arousal alterations",
-        "explanation":  "In addition to a history of exposure to trauma, a PTSD diagnosis requires one symptom of intrusion (i.e., reenactment, nightmares, dissociative responses, etc.), one of avoidance (i.e., avoiding memories or external reminders of the trauma), two symptoms of negative mood/cognition (i.e., negative perceptions of self, cognitive distortions, excessive guilt, decreased interest in activities, etc.), and two in arousal alterations (i.e., irritability, anger, hypervigilance, risk taking, sleep disturbances, etc.). (431)"
+        "explanation":  "Arousal alterations In addition to a history of exposure to trauma, a PTSD diagnosis requires one symptom of intrusion (i.e., reenactment, nightmares, dissociative responses, etc.), one of avoidance (i.e., avoiding memories or external reminders of the trauma), two symptoms of negative mood/cognition (i.e., negative perceptions of self, cognitive distortions, excessive guilt, decreased interest in activities, etc.), and two in arousal alterations (i.e., irritability, anger, hypervigilance, risk taking, sleep disturbances, etc.). (431)"
     },
     {
         "id":  "k-10.3",
@@ -4575,7 +4575,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "The stressor and severity descriptions",
-        "explanation":  "One of the challenges in diagnosing an adjustment disorder is that there are no clear criteria that define the stressors that are required to make this diagnosis and specific affective, cognitive, and autonomic descriptions are not specified. Another challenge is that the symptoms can be of any severity. It is defined that the symptoms need to occur within 3 months of the stressor. The disorder can occur at any age. Specific criteria are included for avoidance and hyperarousal symptoms for a posttraumatic stress disorder (PTSD) diagnosis. The symptoms for both PTSD and an adjustment disorder should result in some impairment in functioning. (433)"
+        "explanation":  "The stressor and severity descriptions One of the challenges in diagnosing an adjustment disorder is that there are no clear criteria that define the stressors that are required to make this diagnosis and specific affective, cognitive, and autonomic descriptions are not specified. Another challenge is that the symptoms can be of any severity. It is defined that the symptoms need to occur within 3 months of the stressor. The disorder can occur at any age. Specific criteria are included for avoidance and hyperarousal symptoms for a posttraumatic stress disorder (PTSD) diagnosis. The symptoms for both PTSD and an adjustment disorder should result in some impairment in functioning. (433)"
     },
     {
         "id":  "k-10.4",
@@ -4623,7 +4623,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Paroxetine",
-        "explanation":  "The patient described has a diagnosis of posttraumatic stress disorder (PTSD). The selective serotonin reuptake inhibitors (SSRIs), particularly sertraline and paroxetine have the most robust evidence for efficacy. There is some supportive evidence that the serotonin and norepinephrine reuptake inhibitors (SNRIs), such as venlafaxine and the atypical antipsychotics, such as risperidone, along with anticonvulsants, such as topiramate could be helpful. Prazosin can help with nightmares found in posttraumatic stress disorder. (434)"
+        "explanation":  "Paroxetine The patient described has a diagnosis of posttraumatic stress disorder (PTSD). The selective serotonin reuptake inhibitors (SSRIs), particularly sertraline and paroxetine have the most robust evidence for efficacy. There is some supportive evidence that the serotonin and norepinephrine reuptake inhibitors (SNRIs), such as venlafaxine and the atypical antipsychotics, such as risperidone, along with anticonvulsants, such as topiramate could be helpful. Prazosin can help with nightmares found in posttraumatic stress disorder. (434)"
     },
     {
         "id":  "k-10.6",
@@ -4647,7 +4647,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Cognitive processing therapy (CPT)",
-        "explanation":  "CPT involves correcting faulty attributions as mentioned above such as views of the world being uncontrollable and unpredictable. EMDR involves recalling distressing images of the trauma while receiving sensory inputs. Patient-centered therapy focuses on the current relationship and work challenges and does not directly address the trauma. TFCBT includes prolonged exposure therapy and involves reexperiencing the traumatic event through imaginal and in vivo exposures. (435)"
+        "explanation":  "Cognitive processing therapy (CPT) CPT involves correcting faulty attributions as mentioned above such as views of the world being uncontrollable and unpredictable. EMDR involves recalling distressing images of the trauma while receiving sensory inputs. Patient-centered therapy focuses on the current relationship and work challenges and does not directly address the trauma. TFCBT includes prolonged exposure therapy and involves reexperiencing the traumatic event through imaginal and in vivo exposures. (435)"
     },
     {
         "id":  "k-10.7",
@@ -4671,7 +4671,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Severity of or proximity to the trauma",
-        "explanation":  "While certain factors increase the risk of PTSD such as being a young adult, single, divorced, widowed, socially withdrawn, or of low socioeconomic class, the most important risk factors include the severity, duration, and proximity of a person\u0027s exposure to the trauma. While one survey showed approximately 30% of males developed PTSD from the Vietnam war, other trauma aside from war can also lead to the development of PTSD. (435)"
+        "explanation":  "Severity of or proximity to the trauma While certain factors increase the risk of PTSD such as being a young adult, single, divorced, widowed, socially withdrawn, or of low socioeconomic class, the most important risk factors include the severity, duration, and proximity of a person\u0027s exposure to the trauma. While one survey showed approximately 30% of males developed PTSD from the Vietnam war, other trauma aside from war can also lead to the development of PTSD. (435)"
     },
     {
         "id":  "k-11.1",
@@ -4695,7 +4695,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Dissociative amnesia",
-        "explanation":  "This case presents a classic description of dissociative amenia, including a patient with a history of an acute trauma and physical symptoms including alterations in consciousness, a trance state, age regression, anterograde dissociative amnesia, etc. Dissociative fugue involves a sudden, unexpected travel away from the usual place where the person resides, along with the amnesia and identity confusion. While there is no absolute way to differentiate dissociative amnesia from a factitious disorder or malingering, often there is a history of the individual trying to escape legal, financial, or personal difficulties. Often, these patients will confess spontaneously when confronted. While dissociative amnesia can be a part of an acute stress disorder, the other acute stress features are not also present in this case. Transient global amnesia involves a sudden onset of complete anterograde amnesia, along with retrograde amnesia, while there is preservation of personal identity and an anxious awareness of the memory loss. (438)"
+        "explanation":  "Dissociative amnesia This case presents a classic description of dissociative amenia, including a patient with a history of an acute trauma and physical symptoms including alterations in consciousness, a trance state, age regression, anterograde dissociative amnesia, etc. Dissociative fugue involves a sudden, unexpected travel away from the usual place where the person resides, along with the amnesia and identity confusion. While there is no absolute way to differentiate dissociative amnesia from a factitious disorder or malingering, often there is a history of the individual trying to escape legal, financial, or personal difficulties. Often, these patients will confess spontaneously when confronted. While dissociative amnesia can be a part of an acute stress disorder, the other acute stress features are not also present in this case. Transient global amnesia involves a sudden onset of complete anterograde amnesia, along with retrograde amnesia, while there is preservation of personal identity and an anxious awareness of the memory loss. (438)"
     },
     {
         "id":  "k-11.2",
@@ -4719,7 +4719,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Quick resolution of bizarre behaviors",
-        "explanation":  "While seizures should be part of the differential diagnosis for dissociate amnesia and in some cases, the diagnosis can only be clarified by EEG monitoring, for the most part, the clinical presentation of seizures differs from dissociate amnesia. With seizure, there are clear- cut ictal events and the patient can show wandering, semipurposeful, or bizarre behavior and memory problems but rarely do after postictal event. Changes in consciousness and depersonalization can be seen with dissociative amnesia and a sudden change in residence can be seen with dissociative fugue. (438, 439)"
+        "explanation":  "Quick resolution of bizarre behaviors While seizures should be part of the differential diagnosis for dissociate amnesia and in some cases, the diagnosis can only be clarified by EEG monitoring, for the most part, the clinical presentation of seizures differs from dissociate amnesia. With seizure, there are clear- cut ictal events and the patient can show wandering, semipurposeful, or bizarre behavior and memory problems but rarely do after postictal event. Changes in consciousness and depersonalization can be seen with dissociative amnesia and a sudden change in residence can be seen with dissociative fugue. (438, 439)"
     },
     {
         "id":  "k-11.3",
@@ -4743,7 +4743,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Detachment from surroundings",
-        "explanation":  "While feelings that things aren\u0027t real can be a part of depersonalization or derealization symptoms, the only other DSM-5 criteria to describe derealization includes feeling detached from one\u0027s surroundings. Depersonalization symptoms including feeling detached from oneself and feeling as if observing oneself, along with time and perceptual distortions. (441)"
+        "explanation":  "Detachment from surroundings While feelings that things aren\u0027t real can be a part of depersonalization or derealization symptoms, the only other DSM-5 criteria to describe derealization includes feeling detached from one\u0027s surroundings. Depersonalization symptoms including feeling detached from oneself and feeling as if observing oneself, along with time and perceptual distortions. (441)"
     },
     {
         "id":  "k-11.4",
@@ -4839,7 +4839,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Establishing safety and symptom stabilization",
-        "explanation":  "Psychotherapy using a phasic model to treat the complex posttraumatic disorder is mainstay treatment for dissociative identity disorder. Phase 1 consists of stabilization of the dissociative symptoms and comorbid symptoms and establishing safety. Phase 2 involves working on the traumatic memories and making sure the patient is stabilized and aware of the risk of acute worsening of PTSD symptoms. Phase 3 involves fusion, reintegration, and recovery. While hypnotherapy can alleviate some symptoms such as flashbacks and dissociative hallucinations, some controversies exist and it should not be the first step in psychotherapy. (446)"
+        "explanation":  "Establishing safety and symptom stabilization Psychotherapy using a phasic model to treat the complex posttraumatic disorder is mainstay treatment for dissociative identity disorder. Phase 1 consists of stabilization of the dissociative symptoms and comorbid symptoms and establishing safety. Phase 2 involves working on the traumatic memories and making sure the patient is stabilized and aware of the risk of acute worsening of PTSD symptoms. Phase 3 involves fusion, reintegration, and recovery. While hypnotherapy can alleviate some symptoms such as flashbacks and dissociative hallucinations, some controversies exist and it should not be the first step in psychotherapy. (446)"
     },
     {
         "id":  "k-11.8",
@@ -4863,7 +4863,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Depersonalization/derealization and flashbacks",
-        "explanation":  "DBT was developed for the treatment of borderline personality disorder. Given many patients with borderline personality disorder report trauma histories, it has been thought that DBT might help those with dissociative identity disorder as well. DBT focuses on safety, therapy-interfering behaviors, affect regulation strategies, distress tolerance, and radical acceptance, all of which can be helpful in the treatment of dissociative identity disorder. However, one limitation is that it does not directly focus on the main symptoms of dissociative identity disorder, including depersonalization/derealization and dissociative amnesia, along with flashbacks, and trauma-based symptoms. (447)"
+        "explanation":  "Depersonalization/derealization and flashbacks DBT was developed for the treatment of borderline personality disorder. Given many patients with borderline personality disorder report trauma histories, it has been thought that DBT might help those with dissociative identity disorder as well. DBT focuses on safety, therapy-interfering behaviors, affect regulation strategies, distress tolerance, and radical acceptance, all of which can be helpful in the treatment of dissociative identity disorder. However, one limitation is that it does not directly focus on the main symptoms of dissociative identity disorder, including depersonalization/derealization and dissociative amnesia, along with flashbacks, and trauma-based symptoms. (447)"
     },
     {
         "id":  "k-11.9",
@@ -4887,7 +4887,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Treat comorbid symptoms present across most personalities",
-        "explanation":  "Various medications might be useful in the treatment of dissociative identity disorder. Often nightmares are responsive to higher doses of alpha-adrenergic antagonists, such as prazosin, if tolerated. Antidepressant medications including SSRIs, tricyclics, and monoamine oxidase inhibitors (MAOIs) can be helpful in reducing depression and stabilizing mood. Atypical neuroleptics are more effective and better tolerated compared to typical ones for helping with severe anxiety and PTSD symptoms. However, the most effective strategy is to target comorbid symptoms that are present across most or all personalities. Given rapid symptom fluctuations in this disorder, it is important to avoid chasing each symptom with a new medication or change in dose. (448)"
+        "explanation":  "Treat comorbid symptoms present across most personalities Various medications might be useful in the treatment of dissociative identity disorder. Often nightmares are responsive to higher doses of alpha-adrenergic antagonists, such as prazosin, if tolerated. Antidepressant medications including SSRIs, tricyclics, and monoamine oxidase inhibitors (MAOIs) can be helpful in reducing depression and stabilizing mood. Atypical neuroleptics are more effective and better tolerated compared to typical ones for helping with severe anxiety and PTSD symptoms. However, the most effective strategy is to target comorbid symptoms that are present across most or all personalities. Given rapid symptom fluctuations in this disorder, it is important to avoid chasing each symptom with a new medication or change in dose. (448)"
     },
     {
         "id":  "k-11.10",
@@ -4911,7 +4911,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Depersonalization/derealization",
-        "explanation":  "Transient experiences of depersonalization/derealization can be prevalent in both normal and clinical populations and are the third most commonly reported psychiatric symptom following depression and anxiety. A lifetime prevalence is estimated to be anywhere from 26% to 74%. (449)"
+        "explanation":  "Depersonalization/derealization Transient experiences of depersonalization/derealization can be prevalent in both normal and clinical populations and are the third most commonly reported psychiatric symptom following depression and anxiety. A lifetime prevalence is estimated to be anywhere from 26% to 74%. (449)"
     },
     {
         "id":  "k-12.1",
@@ -4935,7 +4935,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Symptoms that cannot be medically explained",
-        "explanation":  "An older perspective for somatic disorders involved only including symptoms that could not be medically explained. We now know that patients with medically established diagnoses can have a disproportionate amount of anxiety or physical symptoms from their medical disorder. Thus, in DSM-5, it is no longer required for symptoms to be medically unexplained. Patients with somatic symptom disorder believe they have an undetected disease, and the symptoms are typically impairing their lives on a day-to-day basis. Anxiety and depression are common comorbid symptoms, in addition to the somatic symptoms with this disorder. (451)"
+        "explanation":  "Symptoms that cannot be medically explained An older perspective for somatic disorders involved only including symptoms that could not be medically explained. We now know that patients with medically established diagnoses can have a disproportionate amount of anxiety or physical symptoms from their medical disorder. Thus, in DSM-5, it is no longer required for symptoms to be medically unexplained. Patients with somatic symptom disorder believe they have an undetected disease, and the symptoms are typically impairing their lives on a day-to-day basis. Anxiety and depression are common comorbid symptoms, in addition to the somatic symptoms with this disorder. (451)"
     },
     {
         "id":  "k-12.2",
@@ -4959,7 +4959,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "No significant physical symptoms",
-        "explanation":  "Similarities between illness anxiety disorder and somatic symptom disorder include a strong belief that the person has a serious undiagnosed medical illness despite evidence to the contrary. Significant impairment in day- to-day functioning remains. These patients are often addicted to searches about their feared illness and often seek excessive reassurance from medical providers. Unlike those with somatic symptom disorder, patients with illness anxiety disorder do not have significant physical symptoms. (451)"
+        "explanation":  "No significant physical symptoms Similarities between illness anxiety disorder and somatic symptom disorder include a strong belief that the person has a serious undiagnosed medical illness despite evidence to the contrary. Significant impairment in day- to-day functioning remains. These patients are often addicted to searches about their feared illness and often seek excessive reassurance from medical providers. Unlike those with somatic symptom disorder, patients with illness anxiety disorder do not have significant physical symptoms. (451)"
     },
     {
         "id":  "k-12.3",
@@ -4983,7 +4983,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Conversion disorder",
-        "explanation":  "Patients with conversion disorders, also known as functional neurologic symptom disorder, often appear to have a neurologic condition such as a sensory or motor problem, which are found to be incompatible with true neurologic conditions The symptoms are not intentionally produced and often follow a trauma or other stressor. Paralysis, dysphasia, seizures, blindness, or deafness are common symptoms seen, along with disturbances in consciousness. (451)"
+        "explanation":  "Conversion disorder Patients with conversion disorders, also known as functional neurologic symptom disorder, often appear to have a neurologic condition such as a sensory or motor problem, which are found to be incompatible with true neurologic conditions The symptoms are not intentionally produced and often follow a trauma or other stressor. Paralysis, dysphasia, seizures, blindness, or deafness are common symptoms seen, along with disturbances in consciousness. (451)"
     },
     {
         "id":  "k-12.4",
@@ -5007,7 +5007,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "The duration of the symptoms lasts for a much longer time frame",
-        "explanation":  "While perhaps the major difference between ICD-10 somatization disorder versus DSM-5 somatic symptom disorder is that the DSM-5 omitted the criteria requiring evidence that there is no underlying medical cause of the disorder, another difference is that the symptoms for somatic symptom disorder are only required to last a relatively short amount of time, more than 6 months, whereas the ICD-10 criteria for somatization disorder require the symptoms must last for more than 2 years. Other minor differences include that for somatic symptom disorder, anxiety about the symptoms is a necessary criterion. (452)"
+        "explanation":  "The duration of the symptoms lasts for a much longer time frame While perhaps the major difference between ICD-10 somatization disorder versus DSM-5 somatic symptom disorder is that the DSM-5 omitted the criteria requiring evidence that there is no underlying medical cause of the disorder, another difference is that the symptoms for somatic symptom disorder are only required to last a relatively short amount of time, more than 6 months, whereas the ICD-10 criteria for somatization disorder require the symptoms must last for more than 2 years. Other minor differences include that for somatic symptom disorder, anxiety about the symptoms is a necessary criterion. (452)"
     },
     {
         "id":  "k-12.5",
@@ -5031,7 +5031,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "There is an absence of relative afferent pupillary defect in a patient complaining of blindness in one eye",
-        "explanation":  "In testing for true monocular blindness, the Marcus Gunn, or swinging flashlight test can be done. If no relative afferent pupillary defect is noted, it is consistent with a conversion disorder, rather than actual blindness. Even patients that are fully blind should be able to touch their index fingers together by proprioception, but often those with conversion disorder cannot when complaining of blindness. When bright lights are shown into the eyes of someone with conversion disorder who is complaining of blindness, typically flinching is noted. The Hoover test, dropping someone\u0027s hand onto the face, can test for conversion disorder if the patient\u0027s hand falls next to, instead of on the face. If the anesthesia is due to conversion disorder rather than an actual organic problem, typically the sensory loss does not conform to a specific nerve pattern. (455)"
+        "explanation":  "There is an absence of relative afferent pupillary defect in a patient complaining of blindness in one eye In testing for true monocular blindness, the Marcus Gunn, or swinging flashlight test can be done. If no relative afferent pupillary defect is noted, it is consistent with a conversion disorder, rather than actual blindness. Even patients that are fully blind should be able to touch their index fingers together by proprioception, but often those with conversion disorder cannot when complaining of blindness. When bright lights are shown into the eyes of someone with conversion disorder who is complaining of blindness, typically flinching is noted. The Hoover test, dropping someone\u0027s hand onto the face, can test for conversion disorder if the patient\u0027s hand falls next to, instead of on the face. If the anesthesia is due to conversion disorder rather than an actual organic problem, typically the sensory loss does not conform to a specific nerve pattern. (455)"
     },
     {
         "id":  "k-12.6",
@@ -5083,7 +5083,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "History of opiate prescriptions without cause",
-        "explanation":  ", D. History of working in the health care field, F. Resistance to a psychiatric assessment required for surgical clearance, and H. Request for invasive medical treatment Common signs of factitious disorder include the above answers, along with a patient seeking treatment at various hospitals, inconsistent information being given, a history of many medical tests and consultations being performed, findings consistent with self-manipulation, and at least one health care worker considering the diagnoses of factious disorder. (457)"
+        "explanation":  "History of opiate prescriptions without cause , D. History of working in the health care field, F. Resistance to a psychiatric assessment required for surgical clearance, and H. Request for invasive medical treatment Common signs of factitious disorder include the above answers, along with a patient seeking treatment at various hospitals, inconsistent information being given, a history of many medical tests and consultations being performed, findings consistent with self-manipulation, and at least one health care worker considering the diagnoses of factious disorder. (457)"
     },
     {
         "id":  "k-12.8",
@@ -5107,7 +5107,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Healing of chronic wounds when casted",
-        "explanation":  "A suggestive sign of a factious disorder can include a nonhealing wound that finally heals when casted. Dermatitis with lesions distributed in reachable areas (i.e., not on the back) could be a sign of factitious disorder. High fevers of more than 41 °C with no diaphoresis or other signs of viral infection are typical for a factious disorder. Factitious disorder is often indicated by a history of anemia, but no clear site of bleeding can be found. In a person feigning an infarction and trying to elevate the creatine kinase levels by beating themselves, and EKG would not show changes typical of an infarction. (458-460)"
+        "explanation":  "Healing of chronic wounds when casted A suggestive sign of a factious disorder can include a nonhealing wound that finally heals when casted. Dermatitis with lesions distributed in reachable areas (i.e., not on the back) could be a sign of factitious disorder. High fevers of more than 41 °C with no diaphoresis or other signs of viral infection are typical for a factious disorder. Factitious disorder is often indicated by a history of anemia, but no clear site of bleeding can be found. In a person feigning an infarction and trying to elevate the creatine kinase levels by beating themselves, and EKG would not show changes typical of an infarction. (458-460)"
     },
     {
         "id":  "k-12.9",
@@ -5131,7 +5131,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "No simulations of the reported symptoms are shown",
-        "explanation":  "Somatic symptom disorder is distinguished from factitious disorder and malingering in that those with somatic symptom disorder do not simulate the symptoms they report. La belle indifference can be a sign of conversion disorder, though is an unreliable one. Siblings showing unexplained illness can be common in factitious disorders by proxy. Symptoms of conversion disorder are transient and do not focus on a particular disease. Seeking invasive or painful procedures can be a sign of a factitious disorder. (462, 463)"
+        "explanation":  "No simulations of the reported symptoms are shown Somatic symptom disorder is distinguished from factitious disorder and malingering in that those with somatic symptom disorder do not simulate the symptoms they report. La belle indifference can be a sign of conversion disorder, though is an unreliable one. Siblings showing unexplained illness can be common in factitious disorders by proxy. Symptoms of conversion disorder are transient and do not focus on a particular disease. Seeking invasive or painful procedures can be a sign of a factitious disorder. (462, 463)"
     },
     {
         "id":  "k-12.10",
@@ -5155,7 +5155,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "25 to 50",
-        "explanation":  "It is important to note that an estimated 25% to 50% of those classified with a conversion disorder later receive a neurologic or nonpsychiatric medical diagnosis accounting for their symptoms. This should serve as a reminder that in all cases of conversion disorder, a thorough medical and neurologic workup should always be performed. (463)"
+        "explanation":  "25 to 50 It is important to note that an estimated 25% to 50% of those classified with a conversion disorder later receive a neurologic or nonpsychiatric medical diagnosis accounting for their symptoms. This should serve as a reminder that in all cases of conversion disorder, a thorough medical and neurologic workup should always be performed. (463)"
     },
     {
         "id":  "k-12.11",
@@ -5203,7 +5203,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Tricyclics",
-        "explanation":  "While CBT has been found to be most effective for the treatment of somatic symptom disorders, when psychopharmacology is required, the antidepressants seem to work, with data favoring the older antidepressants, such as the tricyclics, over the newer ones, such as the serotonin reuptake inhibitors. (465)"
+        "explanation":  "Tricyclics While CBT has been found to be most effective for the treatment of somatic symptom disorders, when psychopharmacology is required, the antidepressants seem to work, with data favoring the older antidepressants, such as the tricyclics, over the newer ones, such as the serotonin reuptake inhibitors. (465)"
     },
     {
         "id":  "k-12.13",
@@ -5227,7 +5227,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Calling child welfare services",
-        "explanation":  "In cases of factitious disorder imposed on another, often legal interventions need to be made. In cases in which the child is being harmed, notifying child welfare or child protective services is the first step. The child should not be discharged home, as they might require placement in another family for safety. The first step is to always make sure the child is safe. Often an inpatient admission is needed for safety and to institute a plan. (466)"
+        "explanation":  "Calling child welfare services In cases of factitious disorder imposed on another, often legal interventions need to be made. In cases in which the child is being harmed, notifying child welfare or child protective services is the first step. The child should not be discharged home, as they might require placement in another family for safety. The first step is to always make sure the child is safe. Often an inpatient admission is needed for safety and to institute a plan. (466)"
     },
     {
         "id":  "k-12.14",
@@ -5251,7 +5251,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Surgical referral to a psychiatry consultation service",
-        "explanation":  "Though rare in the general population, around less than 1%, conversion disorder is found in higher rate (5% to 14%) in medical or surgical referrals to a psychiatrist consultation liaison service, and in those receiving outpatient treatment in psychiatric clinics (5% to 25%). Those with conversion disorder tend to be females under the age of 35 years and children as young as 7 years old have been reported to have conversion disorder. (467)"
+        "explanation":  "Surgical referral to a psychiatry consultation service Though rare in the general population, around less than 1%, conversion disorder is found in higher rate (5% to 14%) in medical or surgical referrals to a psychiatrist consultation liaison service, and in those receiving outpatient treatment in psychiatric clinics (5% to 25%). Those with conversion disorder tend to be females under the age of 35 years and children as young as 7 years old have been reported to have conversion disorder. (467)"
     },
     {
         "id":  "k-13.1",
@@ -5275,7 +5275,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Anorexia nervosa, binge/purge subtype",
-        "explanation":  "Though reporting wanting to gain weight, the girl described in the vignette above has behaviors consistent with restricting and she lost a large amount of weight and is currently underweight, and has lost her periods. The increased frequency of going to the bathroom and excessively eating large quantities of food after the restricting is suspicious for a binge/purge subtype of anorexia nervosa. With the other disorders listed (bulimia nervosa, night eating syndromes, and purging disorder) the weight would be stable. Purging and night eating disorders do not include restricting and binging. Other specific feeding or eating disorders (OSFEDs) can include night eating and purging disorder, along with atypical anorexia nervosa, which would have similar features to anorexia nervosa, including weight loss, but the weight would appear normal or overweight even after the weight loss. (469)"
+        "explanation":  "Anorexia nervosa, binge/purge subtype Though reporting wanting to gain weight, the girl described in the vignette above has behaviors consistent with restricting and she lost a large amount of weight and is currently underweight, and has lost her periods. The increased frequency of going to the bathroom and excessively eating large quantities of food after the restricting is suspicious for a binge/purge subtype of anorexia nervosa. With the other disorders listed (bulimia nervosa, night eating syndromes, and purging disorder) the weight would be stable. Purging and night eating disorders do not include restricting and binging. Other specific feeding or eating disorders (OSFEDs) can include night eating and purging disorder, along with atypical anorexia nervosa, which would have similar features to anorexia nervosa, including weight loss, but the weight would appear normal or overweight even after the weight loss. (469)"
     },
     {
         "id":  "k-13.2",
@@ -5303,7 +5303,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Bradycardia",
-        "explanation":  ", B. Hypercholesterolemia, and F. Lanugo The patient described meets criteria for classic anorexia nervosa, restricting subtype. Common medical complications include bradycardia, hypotension, and arrhythmias and these patients are at increased risk of death, mainly from cardiac complications. Hypothermia, decreased gastric emptying, and leukopenia are other associated findings with malnutrition. Despite decreased cholesterol intake, due to liver damage from the malnutrition, cholesterol is typically increased. (470, 471)"
+        "explanation":  "Bradycardia , B. Hypercholesterolemia, and F. Lanugo The patient described meets criteria for classic anorexia nervosa, restricting subtype. Common medical complications include bradycardia, hypotension, and arrhythmias and these patients are at increased risk of death, mainly from cardiac complications. Hypothermia, decreased gastric emptying, and leukopenia are other associated findings with malnutrition. Despite decreased cholesterol intake, due to liver damage from the malnutrition, cholesterol is typically increased. (470, 471)"
     },
     {
         "id":  "k-13.3",
@@ -5327,7 +5327,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Elevated growth hormone",
-        "explanation":  "Often patients with anorexia nervosa lose their menses due to low levels of luteinizing hormone, follicle- stimulating hormone, and low estrogen. Testosterone is suppressed in males with anorexia. Growth hormone increases to help the body compensate. Cortisol, a marker of stress, is also increased. Elevated prolactin is also found. Thyroid hormone changes include low, or a normal thyroxine level, and low triiodothyronine, along with increased reverse triiodothyronine. (471)"
+        "explanation":  "Elevated growth hormone Often patients with anorexia nervosa lose their menses due to low levels of luteinizing hormone, follicle- stimulating hormone, and low estrogen. Testosterone is suppressed in males with anorexia. Growth hormone increases to help the body compensate. Cortisol, a marker of stress, is also increased. Elevated prolactin is also found. Thyroid hormone changes include low, or a normal thyroxine level, and low triiodothyronine, along with increased reverse triiodothyronine. (471)"
     },
     {
         "id":  "k-13.4",
@@ -5351,7 +5351,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Severely low weight",
-        "explanation":  "In both anorexia and bulimia nervosa, body image concerns are present, and the binge/purge subtype of anorexia can look like bulimia nervosa except for that those with anorexia nervosa are of a severely low weight, whereas typically those with bulimia nervosa are of normal weight (though some may be under- or overweight). Excessive exercising is considered a type of compensatory behavior that would go under purging. The absence of menses is a nonspecific sign and was eliminated in changing from the DSM-IV to DSM-5 criteria for anorexia nervosa. (471, 472)"
+        "explanation":  "Severely low weight In both anorexia and bulimia nervosa, body image concerns are present, and the binge/purge subtype of anorexia can look like bulimia nervosa except for that those with anorexia nervosa are of a severely low weight, whereas typically those with bulimia nervosa are of normal weight (though some may be under- or overweight). Excessive exercising is considered a type of compensatory behavior that would go under purging. The absence of menses is a nonspecific sign and was eliminated in changing from the DSM-IV to DSM-5 criteria for anorexia nervosa. (471, 472)"
     },
     {
         "id":  "k-13.5",
@@ -5375,7 +5375,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Eating an excessive amount of food in under 2 hours",
-        "explanation":  "Often, patients with anorexia will report subjective binges of overeating after periods of restriction and feeling out of control though calorie wise and timing wise, these episodes do not necessarily count as actual binges. A true binge per DSM-5 is defined as eating a large quantity of food (i.e., more than 2,000 kcals) in under 2 hours and a feeling of a loss of control during these episodes, along with at least three of the following criteria: eating quicker than normal, eating until uncomfortably full, eating in spite of not feeling hungry, eating alone to avoid embarrassment, and feeling guilty or disgusted afterward. These episodes need to occur at least once a week for 3 months in order to meet criteria. (473)"
+        "explanation":  "Eating an excessive amount of food in under 2 hours Often, patients with anorexia will report subjective binges of overeating after periods of restriction and feeling out of control though calorie wise and timing wise, these episodes do not necessarily count as actual binges. A true binge per DSM-5 is defined as eating a large quantity of food (i.e., more than 2,000 kcals) in under 2 hours and a feeling of a loss of control during these episodes, along with at least three of the following criteria: eating quicker than normal, eating until uncomfortably full, eating in spite of not feeling hungry, eating alone to avoid embarrassment, and feeling guilty or disgusted afterward. These episodes need to occur at least once a week for 3 months in order to meet criteria. (473)"
     },
     {
         "id":  "k-13.6",
@@ -5399,7 +5399,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Reports of decreased appetite",
-        "explanation":  "While those with depression could potentially have increased appetite, often decreased appetite is commonly reported and it can help distinguish between depression versus anorexia nervosa since in anorexia nervosa, a normal appetite or hunger are commonly reported. With anorexia nervosa, behaviors to curb the hunger are noted, along with a preoccupation with food, recipes, cooking, etc. Psychomotor retardation or hyperactivity can be seen in both depression and anorexia, though in anorexia, the hyperactivity is typically planned and ritualistic and the focus is on weight loss and there is an intense fear of weight gain and body image disturbance. With both malnutrition and depression, focusing issues can be seen. (474)"
+        "explanation":  "Reports of decreased appetite While those with depression could potentially have increased appetite, often decreased appetite is commonly reported and it can help distinguish between depression versus anorexia nervosa since in anorexia nervosa, a normal appetite or hunger are commonly reported. With anorexia nervosa, behaviors to curb the hunger are noted, along with a preoccupation with food, recipes, cooking, etc. Psychomotor retardation or hyperactivity can be seen in both depression and anorexia, though in anorexia, the hyperactivity is typically planned and ritualistic and the focus is on weight loss and there is an intense fear of weight gain and body image disturbance. With both malnutrition and depression, focusing issues can be seen. (474)"
     },
     {
         "id":  "k-13.7",
@@ -5423,7 +5423,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Borderline",
-        "explanation":  "The patient described above has bulimia nervosa, characterized by binging and purging at least once a week for 3 months, along with a focus on body/shape/weight concerns and unlike anorexia nervosa, binge/purge subtype, for bulimia, the weight is typically normal. Patients with bulimia often engage in impulsive behaviors other than purging including substance use, compulsive shopping, self-harm, etc. They often meet criteria for borderline personality disorder and at times can also meet criteria for bipolar II disorder. (474)"
+        "explanation":  "Borderline The patient described above has bulimia nervosa, characterized by binging and purging at least once a week for 3 months, along with a focus on body/shape/weight concerns and unlike anorexia nervosa, binge/purge subtype, for bulimia, the weight is typically normal. Patients with bulimia often engage in impulsive behaviors other than purging including substance use, compulsive shopping, self-harm, etc. They often meet criteria for borderline personality disorder and at times can also meet criteria for bipolar II disorder. (474)"
     },
     {
         "id":  "k-13.8",
@@ -5447,7 +5447,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Lack of concern about body image and weight",
-        "explanation":  "With many eating disorders, such as anorexia and bulimia nervosa, body image, along with weight and shape concerns are a key feature. While eating large quantities of food can occur in both bulimia and night eating syndrome, those with night eating syndrome do not have body image concerns or a fear of weight gain. Another distinguishing feature is that the binges in bulimia typically involve a higher number of calories consumed compared to night eating syndrome. Timing differs in that for night eating syndrome, these involuntary episodes typically occur after the patient has gone to sleep, and the eating can occur even when asleep or unconscious. Eating nonfood items can happen in night eating syndrome as well as other eating disorders. (474)"
+        "explanation":  "Lack of concern about body image and weight With many eating disorders, such as anorexia and bulimia nervosa, body image, along with weight and shape concerns are a key feature. While eating large quantities of food can occur in both bulimia and night eating syndrome, those with night eating syndrome do not have body image concerns or a fear of weight gain. Another distinguishing feature is that the binges in bulimia typically involve a higher number of calories consumed compared to night eating syndrome. Timing differs in that for night eating syndrome, these involuntary episodes typically occur after the patient has gone to sleep, and the eating can occur even when asleep or unconscious. Eating nonfood items can happen in night eating syndrome as well as other eating disorders. (474)"
     },
     {
         "id":  "k-13.9",
@@ -5471,7 +5471,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Depression",
-        "explanation":  "Anorexia nervosa is highly comorbid with other psychiatric disorders, with depression being the most common at 50%. Social phobia is also commonly comorbid at around 22% and comorbidity with obsessive-compulsive disorder is around 35%. (473)"
+        "explanation":  "Depression Anorexia nervosa is highly comorbid with other psychiatric disorders, with depression being the most common at 50%. Social phobia is also commonly comorbid at around 22% and comorbidity with obsessive-compulsive disorder is around 35%. (473)"
     },
     {
         "id":  "k-13.10",
@@ -5495,7 +5495,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Bulimia nervosa",
-        "explanation":  "Patients with bulimia nervosa have higher histories of sexual abuse and PTSD. It is thought that over 26% of those with bulimia have a comorbid PTSD, compared to over 8% for anorexia, and over 13% for binge eating disorder. (475)"
+        "explanation":  "Bulimia nervosa Patients with bulimia nervosa have higher histories of sexual abuse and PTSD. It is thought that over 26% of those with bulimia have a comorbid PTSD, compared to over 8% for anorexia, and over 13% for binge eating disorder. (475)"
     },
     {
         "id":  "k-13.11",
@@ -5519,7 +5519,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Full weight restoration",
-        "explanation":  "Overall, patients with anorexia nervosa have recovery rates of 30% to 50%. Mortality rates for individuals with anorexia are six times higher than the general population. Adolescents with a shorter duration of illness tend to have the best prognosis. Individuals who are fully weight-restored on an inpatient unit, along with weight maintenance for a month after discharge are positive signs of a good prognosis, along with those who can have a large variety in their diet and consume high-kcal items. A lower body mass index (BMI) and weight loss after discharge are factors associated with a poor long-term outcome. (476)"
+        "explanation":  "Full weight restoration Overall, patients with anorexia nervosa have recovery rates of 30% to 50%. Mortality rates for individuals with anorexia are six times higher than the general population. Adolescents with a shorter duration of illness tend to have the best prognosis. Individuals who are fully weight-restored on an inpatient unit, along with weight maintenance for a month after discharge are positive signs of a good prognosis, along with those who can have a large variety in their diet and consume high-kcal items. A lower body mass index (BMI) and weight loss after discharge are factors associated with a poor long-term outcome. (476)"
     },
     {
         "id":  "k-13.12",
@@ -5543,7 +5543,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Have parents prepare, plate, and supervise meals",
-        "explanation":  "Cognitive and behavioral principles can be helpful in treating anorexia nervosa, such as monitoring thoughts, feelings, and emotions and monitoring interpersonal relations, and working on cognitive restructuring for core beliefs. However, in adolescents under 18 years old with anorexia nervosa, a family-based treatment approach (FBT) has been shown to be most helpful. Phase 1 of treatment involves a focus on restoration of the patient\u0027s physical health, with the parents making the decisions regarding what the patient should eat. Psychodynamic therapy might involve building an alliance with the patient and empathizing with the patient\u0027s point of view rather than directly trying to get them to change their eating behavior. (477)"
+        "explanation":  "Have parents prepare, plate, and supervise meals Cognitive and behavioral principles can be helpful in treating anorexia nervosa, such as monitoring thoughts, feelings, and emotions and monitoring interpersonal relations, and working on cognitive restructuring for core beliefs. However, in adolescents under 18 years old with anorexia nervosa, a family-based treatment approach (FBT) has been shown to be most helpful. Phase 1 of treatment involves a focus on restoration of the patient\u0027s physical health, with the parents making the decisions regarding what the patient should eat. Psychodynamic therapy might involve building an alliance with the patient and empathizing with the patient\u0027s point of view rather than directly trying to get them to change their eating behavior. (477)"
     },
     {
         "id":  "k-13.13",
@@ -5567,7 +5567,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Meta-analyses have not supported their use",
-        "explanation":  "No pharmacologic treatment has been shown to lead to definitive improvement for the treatment of anorexia nervosa. Some studies have looked at atypical antipsychotics, mainly olanzapine, for weight gain, though meta-analyses and large studies have not supported its use. Added cardiac and metabolic complications can be found when using the atypical antipsychotics in this already medically compromised population. (477)"
+        "explanation":  "Meta-analyses have not supported their use No pharmacologic treatment has been shown to lead to definitive improvement for the treatment of anorexia nervosa. Some studies have looked at atypical antipsychotics, mainly olanzapine, for weight gain, though meta-analyses and large studies have not supported its use. Added cardiac and metabolic complications can be found when using the atypical antipsychotics in this already medically compromised population. (477)"
     },
     {
         "id":  "k-13.14",
@@ -5591,7 +5591,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Cognitive behavioral therapy (CBT)",
-        "explanation":  "The patient described above has bulimia nervosa, given the presentation of binging, purging, and being of a normal weight. CBT is first-line treatment for bulimia nervosa. FBT and dialectical behavioral therapy (DBT) might also be effective for bulimia, though are not as well studied. While fluoxetine is U.S. Food and Drug Administration (FDA) approved for the treatment of bulimia and topiramate might have some efficacy in reducing binging episodes, CBT should be initiated first. (477, 478)"
+        "explanation":  "Cognitive behavioral therapy (CBT) The patient described above has bulimia nervosa, given the presentation of binging, purging, and being of a normal weight. CBT is first-line treatment for bulimia nervosa. FBT and dialectical behavioral therapy (DBT) might also be effective for bulimia, though are not as well studied. While fluoxetine is U.S. Food and Drug Administration (FDA) approved for the treatment of bulimia and topiramate might have some efficacy in reducing binging episodes, CBT should be initiated first. (477, 478)"
     },
     {
         "id":  "k-13.15",
@@ -5615,7 +5615,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Cognitive behavioral therapy (CBT) combined with SSRIs",
-        "explanation":  "CBT is the most effective treatment for binge eating disorder and should be considered first-line treatment. When combined with SSRIs and other medications, studies have shown better results than CBT alone. Stimulants, such as lisdexamfetamine can help with weight loss and decrease binging. Anticonvulsants, such as topiramate, can help improve binge eating disorder and lead to more weight loss. Interpersonal psychotherapy and dialectical behavioral therapy might also be effective in helping to treat binge eating disorder, though CBT with the addition of an SSRI is thought to be the most effective. (478)"
+        "explanation":  "Cognitive behavioral therapy (CBT) combined with SSRIs CBT is the most effective treatment for binge eating disorder and should be considered first-line treatment. When combined with SSRIs and other medications, studies have shown better results than CBT alone. Stimulants, such as lisdexamfetamine can help with weight loss and decrease binging. Anticonvulsants, such as topiramate, can help improve binge eating disorder and lead to more weight loss. Interpersonal psychotherapy and dialectical behavioral therapy might also be effective in helping to treat binge eating disorder, though CBT with the addition of an SSRI is thought to be the most effective. (478)"
     },
     {
         "id":  "k-13.16",
@@ -5639,7 +5639,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "High ability to delay rewards",
-        "explanation":  "While those with anorexia or bulimia nervosa can both engage in self-harm and have elevated harm avoidance, along with increased negative emotionality, typically an increased ability to delay rewards is a unique phycologic predisposing factor to anorexia nervosa. (479)"
+        "explanation":  "High ability to delay rewards While those with anorexia or bulimia nervosa can both engage in self-harm and have elevated harm avoidance, along with increased negative emotionality, typically an increased ability to delay rewards is a unique phycologic predisposing factor to anorexia nervosa. (479)"
     },
     {
         "id":  "k-14.1",
@@ -5663,7 +5663,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Constipation",
-        "explanation":  "Either constipation or overflow incontinence are specifiers that should be used in the DSM-5 when making a diagnosis of encopresis. Patients without abnormalities in sphincter tone are more likely to respond to laxatives, though it is not included as a specifier. Anger and anxiety can be emotional factors that contribute to encopresis, though are not included as specifiers in the DSM. (481)"
+        "explanation":  "Constipation Either constipation or overflow incontinence are specifiers that should be used in the DSM-5 when making a diagnosis of encopresis. Patients without abnormalities in sphincter tone are more likely to respond to laxatives, though it is not included as a specifier. Anger and anxiety can be emotional factors that contribute to encopresis, though are not included as specifiers in the DSM. (481)"
     },
     {
         "id":  "k-14.2",
@@ -5687,7 +5687,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "A 5-year-old child with constipation, diarrhea, and soiling himself for 3 months",
-        "explanation":  "For a diagnosis of encopresis to be made, eliminating feces on the clothes or floor, whether voluntary or unintentional, must occur in someone who is greater than or equal to 4 years old and the episodes have to occur at least once a month for a period of 3 or more months. (482)"
+        "explanation":  "A 5-year-old child with constipation, diarrhea, and soiling himself for 3 months For a diagnosis of encopresis to be made, eliminating feces on the clothes or floor, whether voluntary or unintentional, must occur in someone who is greater than or equal to 4 years old and the episodes have to occur at least once a month for a period of 3 or more months. (482)"
     },
     {
         "id":  "k-14.3",
@@ -5711,7 +5711,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Timed, regular toileting intervals",
-        "explanation":  "For encopresis with constipation, often daily laxatives, such as PEG are utilized and in severe cases, surgical disimpaction under general anesthesia is initiated prior to the laxative use. When encopresis without constipation is noted, the typical first step is a cognitive behavioral intervention to help institute regular, timed intervals on the toilet. This can also be helpful in cases of encopresis with constipation. Supportive psychotherapy can be helpful in children with comorbid anxiety and self-esteem issue. Family interventions can help when children are smearing feces. (482)"
+        "explanation":  "Timed, regular toileting intervals For encopresis with constipation, often daily laxatives, such as PEG are utilized and in severe cases, surgical disimpaction under general anesthesia is initiated prior to the laxative use. When encopresis without constipation is noted, the typical first step is a cognitive behavioral intervention to help institute regular, timed intervals on the toilet. This can also be helpful in cases of encopresis with constipation. Supportive psychotherapy can be helpful in children with comorbid anxiety and self-esteem issue. Family interventions can help when children are smearing feces. (482)"
     },
     {
         "id":  "k-14.4",
@@ -5735,7 +5735,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Withholding feces via sphincter tightening due to pain",
-        "explanation":  "In 90% of cases of childhood encopresis, children will withhold feces by contracting their gluteal muscles, holding their legs, and then tightening their external anal sphincter, typically as a response to previously painful bowel movements due to constipation. A specific phobia of using the toilet is a less common cause of encopresis. In only about 5% to 10% of cases are medical conditions, such as Hirschsprung disease and spinal cord damage, contributing factors. One study found sexual abuse is higher in a sample of children with encopresis compared to healthy controls, though this disorder is by no means a specific indicator of sexual abuse. (483)"
+        "explanation":  "Withholding feces via sphincter tightening due to pain In 90% of cases of childhood encopresis, children will withhold feces by contracting their gluteal muscles, holding their legs, and then tightening their external anal sphincter, typically as a response to previously painful bowel movements due to constipation. A specific phobia of using the toilet is a less common cause of encopresis. In only about 5% to 10% of cases are medical conditions, such as Hirschsprung disease and spinal cord damage, contributing factors. One study found sexual abuse is higher in a sample of children with encopresis compared to healthy controls, though this disorder is by no means a specific indicator of sexual abuse. (483)"
     },
     {
         "id":  "k-14.5",
@@ -5759,7 +5759,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Attention deficit hyperactivity",
-        "explanation":  "The patient described above has enuresis, which is defined in DSM-5 as episodes of urinating onto the bed or clothing, either voluntarily or unintentionally for at least 2 weeks for 3 or more months in children 5 years or older. Nocturnal, diurnal, or both should be indicated as specifiers. Children with enuresis are at a higher risk of attention-deficit/hyperactivity disorder (ADHD) compared to the general population. (483)"
+        "explanation":  "Attention deficit hyperactivity The patient described above has enuresis, which is defined in DSM-5 as episodes of urinating onto the bed or clothing, either voluntarily or unintentionally for at least 2 weeks for 3 or more months in children 5 years or older. Nocturnal, diurnal, or both should be indicated as specifiers. Children with enuresis are at a higher risk of attention-deficit/hyperactivity disorder (ADHD) compared to the general population. (483)"
     },
     {
         "id":  "k-14.6",
@@ -5783,7 +5783,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Spontaneous remission",
-        "explanation":  "Medical causes of enuresis should be ruled out including urinary tract infections, bladder dysfunction, spina bifida, cystitis, etc. However, most sophisticated radiographic medical tests are deferred unless there are signs of repeat infections. The most common scenario is that enuresis is self-limited and spontaneous remission is seen. Enuresis most commonly occurs in those without ever having a period of dryness first (80%). The age of onset is older (i.e., 5 to 8) in those in which a year period of dryness occurred first. Relapses can occur. The course is often complicated in those with comorbid ADHD. (484)"
+        "explanation":  "Spontaneous remission Medical causes of enuresis should be ruled out including urinary tract infections, bladder dysfunction, spina bifida, cystitis, etc. However, most sophisticated radiographic medical tests are deferred unless there are signs of repeat infections. The most common scenario is that enuresis is self-limited and spontaneous remission is seen. Enuresis most commonly occurs in those without ever having a period of dryness first (80%). The age of onset is older (i.e., 5 to 8) in those in which a year period of dryness occurred first. Relapses can occur. The course is often complicated in those with comorbid ADHD. (484)"
     },
     {
         "id":  "k-14.7",
@@ -5807,7 +5807,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "6",
-        "explanation":  "A bed alarm has been the mainstay of treatment for enuresis. It alerts a child when they start to void during sleep. The device is attached to the child\u0027s underwear and then sounds a loud noise to awaken the child to go to the toilet. At the age of 6 or 7 years, it is thought that the child is old enough to respond optimally to the alarm. (484)"
+        "explanation":  "6 A bed alarm has been the mainstay of treatment for enuresis. It alerts a child when they start to void during sleep. The device is attached to the child\u0027s underwear and then sounds a loud noise to awaken the child to go to the toilet. At the age of 6 or 7 years, it is thought that the child is old enough to respond optimally to the alarm. (484)"
     },
     {
         "id":  "k-14.8",
@@ -5855,7 +5855,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "A hyponatremic seizure",
-        "explanation":  "Desmopressin, a nasal spray that acts as an antidiuretic compound, is used to treat enuresis when it is causing significant social or functional impairment for the child. The most common side effects of desmopressin are headaches, nasal congestion, epistaxis, and stomachaches. A rare complication of a hyponatremic seizure has been documented with use of desmopressin for enuresis treatment. (484)"
+        "explanation":  "A hyponatremic seizure Desmopressin, a nasal spray that acts as an antidiuretic compound, is used to treat enuresis when it is causing significant social or functional impairment for the child. The most common side effects of desmopressin are headaches, nasal congestion, epistaxis, and stomachaches. A rare complication of a hyponatremic seizure has been documented with use of desmopressin for enuresis treatment. (484)"
     },
     {
         "id":  "k-14.10",
@@ -5879,7 +5879,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Reboxetine",
-        "explanation":  "Antidepressants with anticholinergic side effects, such as imipramine, were initially used for the treatment of enuresis. However, due to its considerable side effect profile, such as cardiotoxicity, it has fallen out of favor. Reboxetine, though not currently available in the United States, is a norepinephrine reuptake inhibitor that is a safer alternative to imipramine for the treatment of enuresis, without the potential for cardiac toxicity. (484)"
+        "explanation":  "Reboxetine Antidepressants with anticholinergic side effects, such as imipramine, were initially used for the treatment of enuresis. However, due to its considerable side effect profile, such as cardiotoxicity, it has fallen out of favor. Reboxetine, though not currently available in the United States, is a norepinephrine reuptake inhibitor that is a safer alternative to imipramine for the treatment of enuresis, without the potential for cardiac toxicity. (484)"
     },
     {
         "id":  "k-14.11",
@@ -5903,7 +5903,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Nocturnal",
-        "explanation":  "The three main types of enuresis are diurnal, nocturnal, and a combination of diurnal and nocturnal. In general, enuresis is most commonly present in 5-year-olds (i.e., 5% to 10%). Among the types, nocturnal enuresis accounts for about 80% of children with enuresis. Adolescent onset is rare around 1%. Structural abnormalities, such as genitourinary pathology, are less common and typically present with both diurnal and nocturnal enuresis. (484)"
+        "explanation":  "Nocturnal The three main types of enuresis are diurnal, nocturnal, and a combination of diurnal and nocturnal. In general, enuresis is most commonly present in 5-year-olds (i.e., 5% to 10%). Among the types, nocturnal enuresis accounts for about 80% of children with enuresis. Adolescent onset is rare around 1%. Structural abnormalities, such as genitourinary pathology, are less common and typically present with both diurnal and nocturnal enuresis. (484)"
     },
     {
         "id":  "k-15.1",
@@ -5927,7 +5927,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Hypersomnolence disorder",
-        "explanation":  "The patient in this case easily falls asleep and reports no difficulty staying asleep or having early morning awakening, thus ruling out insomnia disorder. She does not report sudden periods of sleep during the day or drop attacks of cataplexy. Though her BMI and lack of snoring do not eliminate sleep apnea as a possibility, they make the diagnosis less likely. She is sleeping at night as she desires, and though the lack of improvement with light therapy does not preclude a diagnosis of circadian rhythm sleep disorder, it makes it much less likely. Her symptoms fit best with hypersomnolence disorder, as she reports reduced attention and excessive daytime sleepiness and time spent asleep. (486)"
+        "explanation":  "Hypersomnolence disorder The patient in this case easily falls asleep and reports no difficulty staying asleep or having early morning awakening, thus ruling out insomnia disorder. She does not report sudden periods of sleep during the day or drop attacks of cataplexy. Though her BMI and lack of snoring do not eliminate sleep apnea as a possibility, they make the diagnosis less likely. She is sleeping at night as she desires, and though the lack of improvement with light therapy does not preclude a diagnosis of circadian rhythm sleep disorder, it makes it much less likely. Her symptoms fit best with hypersomnolence disorder, as she reports reduced attention and excessive daytime sleepiness and time spent asleep. (486)"
     },
     {
         "id":  "k-15.2",
@@ -5951,7 +5951,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Suprachiasmatic nucleus",
-        "explanation":  "The nucleus accumbens mediates motivational and emotional processes and is considered the neural interface between motivation and action. The caudate nucleus is a part of the basal ganglia that is involved in working memory and executive functioning. The nucleus basalis is involved in cortical activation and memory function. The arcuate and suprachiasmatic nuclei are both located in the hypothalamus. The function of the arcuate nucleus is control of the anterior pituitary and feeding, while the function of the suprachiasmatic nucleus is regulation of biologic rhythms, such as the circadian rhythm. (486)"
+        "explanation":  "Suprachiasmatic nucleus The nucleus accumbens mediates motivational and emotional processes and is considered the neural interface between motivation and action. The caudate nucleus is a part of the basal ganglia that is involved in working memory and executive functioning. The nucleus basalis is involved in cortical activation and memory function. The arcuate and suprachiasmatic nuclei are both located in the hypothalamus. The function of the arcuate nucleus is control of the anterior pituitary and feeding, while the function of the suprachiasmatic nucleus is regulation of biologic rhythms, such as the circadian rhythm. (486)"
     },
     {
         "id":  "k-15.3",
@@ -5999,7 +5999,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "They will spontaneously remit after adolescence",
-        "explanation":  "Sleepwalking most commonly affects children ages 4 to 8 years. Episodes do not usually require treatment, aside from making sure the environment is safe (locking doors and windows, keeping dangerous objects out of reach, not letting the child sleep in a bunk bed, etc.). For most children, sleepwalking spontaneously remits after puberty. (497)"
+        "explanation":  "They will spontaneously remit after adolescence Sleepwalking most commonly affects children ages 4 to 8 years. Episodes do not usually require treatment, aside from making sure the environment is safe (locking doors and windows, keeping dangerous objects out of reach, not letting the child sleep in a bunk bed, etc.). For most children, sleepwalking spontaneously remits after puberty. (497)"
     },
     {
         "id":  "k-15.5",
@@ -6023,7 +6023,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Arousal-induced sleep cycle fragmentation",
-        "explanation":  "Alcohol is believed to lead to insomnia due to arousals during the sleep cycle, which lead to a decreased proportion of time spent in REM sleep. Alcohol can exacerbate obstructive sleep apnea, but a strong correlation between alcohol and central sleep apnea has not been shown. Alcohol usually decreases sleep latency and anxiety in the short term, which can fool people into thinking that it is helpful for insomnia. (491)"
+        "explanation":  "Arousal-induced sleep cycle fragmentation Alcohol is believed to lead to insomnia due to arousals during the sleep cycle, which lead to a decreased proportion of time spent in REM sleep. Alcohol can exacerbate obstructive sleep apnea, but a strong correlation between alcohol and central sleep apnea has not been shown. Alcohol usually decreases sleep latency and anxiety in the short term, which can fool people into thinking that it is helpful for insomnia. (491)"
     },
     {
         "id":  "k-15.6",
@@ -6047,7 +6047,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Narcolepsy",
-        "explanation":  "A polysomnogram can be used in the evaluation of sleep apnea, REM sleep behavior disorder, narcolepsy, and other causes of daytime sleepiness. If after assessing sleep quality and quantity during the polysomnogram narcolepsy is still suspected, an MSLT will be performed. The MSLT involves five, 20-minute opportunities for a patient to nap. If the patient falls asleep and REM sleep waves are detected on two occasions (or one occasion if the previous polysomnogram revealed REM sleep within 15 minutes of sleep onset), the diagnosis of narcolepsy is made. (503)"
+        "explanation":  "Narcolepsy A polysomnogram can be used in the evaluation of sleep apnea, REM sleep behavior disorder, narcolepsy, and other causes of daytime sleepiness. If after assessing sleep quality and quantity during the polysomnogram narcolepsy is still suspected, an MSLT will be performed. The MSLT involves five, 20-minute opportunities for a patient to nap. If the patient falls asleep and REM sleep waves are detected on two occasions (or one occasion if the previous polysomnogram revealed REM sleep within 15 minutes of sleep onset), the diagnosis of narcolepsy is made. (503)"
     },
     {
         "id":  "k-15.7",
@@ -6071,7 +6071,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Cognitive behavioral therapy for insomnia (CBTi)",
-        "explanation":  "CBTi has repeatedly shown sustained improvement, up to at least 36 months in some studies, in insomnia. While it does not work as quickly as pharmacologic means, there is no apparent rebound effect from discontinuation, thus making pharmacologic treatments less effective long term, even those approved for long- term use such as eszopiclone. Sleep hygiene is a component of CBTi, and by itself is not as effective. Relaxation therapy can be helpful for those who experience tension prior to bedtime, and is often paired with other insomnia treatments such as sleep hygiene. (510-512)"
+        "explanation":  "Cognitive behavioral therapy for insomnia (CBTi) CBTi has repeatedly shown sustained improvement, up to at least 36 months in some studies, in insomnia. While it does not work as quickly as pharmacologic means, there is no apparent rebound effect from discontinuation, thus making pharmacologic treatments less effective long term, even those approved for long- term use such as eszopiclone. Sleep hygiene is a component of CBTi, and by itself is not as effective. Relaxation therapy can be helpful for those who experience tension prior to bedtime, and is often paired with other insomnia treatments such as sleep hygiene. (510-512)"
     },
     {
         "id":  "k-15.8",
@@ -6095,7 +6095,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Suppression of REM sleep",
-        "explanation":  "Medications such as tricyclic antidepressants and selective serotonin reuptake inhibitors (SSRIs) are used in the treatment of cataplexy for their ability to suppress REM sleep, not sleep hormones. Inhibition of muscle atony occurs in REM sleep behavior disorder. CNS stimulation, which occurs with psychostimulants, can be helpful for narcolepsy, though not cataplexy. CNS depressants such as sodium oxybate can be helpful for cataplexy. There have been case reports of muscle relaxants used for cataplexy, but this is not first line and should be avoided when sodium oxybate is used. (513)"
+        "explanation":  "Suppression of REM sleep Medications such as tricyclic antidepressants and selective serotonin reuptake inhibitors (SSRIs) are used in the treatment of cataplexy for their ability to suppress REM sleep, not sleep hormones. Inhibition of muscle atony occurs in REM sleep behavior disorder. CNS stimulation, which occurs with psychostimulants, can be helpful for narcolepsy, though not cataplexy. CNS depressants such as sodium oxybate can be helpful for cataplexy. There have been case reports of muscle relaxants used for cataplexy, but this is not first line and should be avoided when sodium oxybate is used. (513)"
     },
     {
         "id":  "k-15.9",
@@ -6119,7 +6119,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Ferritin level",
-        "explanation":  "About 15% of patients with restless leg syndrome have an iron deficiency, with a serum ferritin level of \u003c50 mcg/L. In these patients, in addition to first-line, dopaminergic agonists such as pramipexole, rotigotine, and ropinirole, iron supplementation can be helpful. (501)"
+        "explanation":  "Ferritin level About 15% of patients with restless leg syndrome have an iron deficiency, with a serum ferritin level of \u003c50 mcg/L. In these patients, in addition to first-line, dopaminergic agonists such as pramipexole, rotigotine, and ropinirole, iron supplementation can be helpful. (501)"
     },
     {
         "id":  "k-15.10",
@@ -6143,7 +6143,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "H3 receptor antagonism/inverse agonism",
-        "explanation":  "Pitolisant, an U.S. Food and Drug Administration (FDA)- approved treatment for narcolepsy, is a selective H3 receptor agonist/inverse agonist. Another FDA-approved medication for narcolepsy, solriamfetol, acts through norepinephrine-dopamine reuptake inhibition, as do stimulants, which are often used. Modafinil and armodafinil block dopamine reuptake. (512-513)"
+        "explanation":  "H3 receptor antagonism/inverse agonism Pitolisant, an U.S. Food and Drug Administration (FDA)- approved treatment for narcolepsy, is a selective H3 receptor agonist/inverse agonist. Another FDA-approved medication for narcolepsy, solriamfetol, acts through norepinephrine-dopamine reuptake inhibition, as do stimulants, which are often used. Modafinil and armodafinil block dopamine reuptake. (512-513)"
     },
     {
         "id":  "k-16.1",
@@ -6165,7 +6165,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "No diagnosis",
-        "explanation":  "The patient meets all of the criteria for lifelong male hypoactive sexual desire disorder except for the lack of psychosocial impact of marked distress, which is a requirement of all sexual dysfunction diagnoses. He is satisfied with his relationships and expresses no desire for sexual activity. Therefore, no diagnosis would be given. (519, 520)"
+        "explanation":  "No diagnosis The patient meets all of the criteria for lifelong male hypoactive sexual desire disorder except for the lack of psychosocial impact of marked distress, which is a requirement of all sexual dysfunction diagnoses. He is satisfied with his relationships and expresses no desire for sexual activity. Therefore, no diagnosis would be given. (519, 520)"
     },
     {
         "id":  "k-16.2",
@@ -6189,7 +6189,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Vaginal lubrication and congestion",
-        "explanation":  "Vaginal lubrication is not necessarily caused by arousal, and can be present in women with or without female sexual interest/arousal disorder. Relationship problems, substances or medications, and medical or psychiatric conditions that can lead to the decreased desire must be excluded before making the diagnosis. (520)"
+        "explanation":  "Vaginal lubrication and congestion Vaginal lubrication is not necessarily caused by arousal, and can be present in women with or without female sexual interest/arousal disorder. Relationship problems, substances or medications, and medical or psychiatric conditions that can lead to the decreased desire must be excluded before making the diagnosis. (520)"
     },
     {
         "id":  "k-16.3",
@@ -6213,7 +6213,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Masturbation",
-        "explanation":  "The patient is describing symptoms of delayed ejaculation. This rarely occurs during masturbation, and most often occurs during coitus, which would include anal sex. Sildenafil could be useful for treatment of erectile dysfunction. Use of an SSRI is often a cause, not a cure, of delayed ejaculation. Though his girlfriend\u0027s profession of love for him may create additional anxiety, the problem has been present with all his partners, so neither his current anxiety nor a change of partners will likely make a difference. (522)"
+        "explanation":  "Masturbation The patient is describing symptoms of delayed ejaculation. This rarely occurs during masturbation, and most often occurs during coitus, which would include anal sex. Sildenafil could be useful for treatment of erectile dysfunction. Use of an SSRI is often a cause, not a cure, of delayed ejaculation. Though his girlfriend\u0027s profession of love for him may create additional anxiety, the problem has been present with all his partners, so neither his current anxiety nor a change of partners will likely make a difference. (522)"
     },
     {
         "id":  "k-16.4",
@@ -6237,7 +6237,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "1 minute",
-        "explanation":  "The diagnosis of premature (early) ejaculation can be given if the time from penetration until ejaculation is 1 minute or less. Severity is considered mild if ejaculation occurs between 30 and 60 seconds, moderate when between 15 and 30 seconds, and severe when less than 15 seconds. (524)"
+        "explanation":  "1 minute The diagnosis of premature (early) ejaculation can be given if the time from penetration until ejaculation is 1 minute or less. Severity is considered mild if ejaculation occurs between 30 and 60 seconds, moderate when between 15 and 30 seconds, and severe when less than 15 seconds. (524)"
     },
     {
         "id":  "k-16.5",
@@ -6259,7 +6259,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Acetylcholine",
-        "explanation":  "Anticholinergic effects of antidepressants such as tricyclics can lead to problems with erections and delayed ejaculation. Enhanced dopaminergic activity and increased norepinephrine production by some antidepressants such as bupropion may increase sex drive. GABA enhancement, such as in novel antidepressants under development and in benzodiazepines, can lead to less anxiety and sometimes improved sexual function. (528, 529)"
+        "explanation":  "Acetylcholine Anticholinergic effects of antidepressants such as tricyclics can lead to problems with erections and delayed ejaculation. Enhanced dopaminergic activity and increased norepinephrine production by some antidepressants such as bupropion may increase sex drive. GABA enhancement, such as in novel antidepressants under development and in benzodiazepines, can lead to less anxiety and sometimes improved sexual function. (528, 529)"
     },
     {
         "id":  "k-16.6",
@@ -6283,7 +6283,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Nitroglycerin",
-        "explanation":  "The patient is experiencing episodes of angina, for which antianginals such as aspirin, nitrates, beta-blockers, statins, calcium channel blockers, and ranolazine can be used. In patients on sildenafil, nitrates are contraindicated, as the combination can cause a dangerous, and sometimes fatal, drop in blood pressure. (529)"
+        "explanation":  "Nitroglycerin The patient is experiencing episodes of angina, for which antianginals such as aspirin, nitrates, beta-blockers, statins, calcium channel blockers, and ranolazine can be used. In patients on sildenafil, nitrates are contraindicated, as the combination can cause a dangerous, and sometimes fatal, drop in blood pressure. (529)"
     },
     {
         "id":  "k-16.7",
@@ -6307,7 +6307,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Vaginal lubrication",
-        "explanation":  "Sildenafil can result in vaginal lubrication, but not increased arousal or orgasm. Pelvic pain from vaginismus is caused by involuntary pelvic floor muscle tightening, which sildenafil does not affect. (529)"
+        "explanation":  "Vaginal lubrication Sildenafil can result in vaginal lubrication, but not increased arousal or orgasm. Pelvic pain from vaginismus is caused by involuntary pelvic floor muscle tightening, which sildenafil does not affect. (529)"
     },
     {
         "id":  "k-16.8",
@@ -6353,7 +6353,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Decreased libido",
-        "explanation":  "Estrogen therapy, regardless of purpose of use, can lead to decreased libido, and is sometimes used to treat compulsive sexual behavior in men. However, it prevents vaginal mucous membrane thinning and facilitates lubrication, the latter of which can be a cause of dyspareunia. Androgens, such as testosterone, can help with the decreased libido caused by estrogen. (530, 531)"
+        "explanation":  "Decreased libido Estrogen therapy, regardless of purpose of use, can lead to decreased libido, and is sometimes used to treat compulsive sexual behavior in men. However, it prevents vaginal mucous membrane thinning and facilitates lubrication, the latter of which can be a cause of dyspareunia. Androgens, such as testosterone, can help with the decreased libido caused by estrogen. (530, 531)"
     },
     {
         "id":  "k-16.10",
@@ -6377,7 +6377,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Behavior therapy",
-        "explanation":  "Much like with the treatment of phobias, behavior therapy can be helpful for patients who fear sexual interaction. The patient will first learn relaxation techniques to decrease anxiety, then progress to exposure and response prevention. Dual-sex therapy focuses on communication between partners who are both in a sexually distressing situation. Group therapy provides support for patients who share similar sexual problems, and sometimes uses behavioral techniques within the groups for treatment of sexual problems. Mindfulness is a cognitive technique used to center on sensations that lead to arousal or orgasm. Analytically oriented sex therapy helps patients learn or relearn sexual satisfaction, and is sometimes combined with behavioral treatments to treat sexual dysfunctions. (532, 533)"
+        "explanation":  "Behavior therapy Much like with the treatment of phobias, behavior therapy can be helpful for patients who fear sexual interaction. The patient will first learn relaxation techniques to decrease anxiety, then progress to exposure and response prevention. Dual-sex therapy focuses on communication between partners who are both in a sexually distressing situation. Group therapy provides support for patients who share similar sexual problems, and sometimes uses behavioral techniques within the groups for treatment of sexual problems. Mindfulness is a cognitive technique used to center on sensations that lead to arousal or orgasm. Analytically oriented sex therapy helps patients learn or relearn sexual satisfaction, and is sometimes combined with behavioral treatments to treat sexual dysfunctions. (532, 533)"
     },
     {
         "id":  "k-16.11",
@@ -6401,7 +6401,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Intense sexual arousal from the fantasy or impulse",
-        "explanation":  "All paraphilic disorders require at least 6 months of \"recurrent and intense sexual arousal\" from the sexual fantasy or impulse. They do not all involve a nonconsenting person (such as with fetishistic disorder or sexual masochism disorder) or result in a criminal offense if acted upon (such as with fetishistic disorder or transvestic disorder). Simply having a sexual fantasy or impulse outside of typical erotic stimuli (a paraphilia) is necessary but not sufficient for a diagnosis of a paraphilic disorder. A person with a paraphilic disorder often has a lack of a sexual response to normophilic sexual interests, but this is not a criterion for the diagnosis. (533)"
+        "explanation":  "Intense sexual arousal from the fantasy or impulse All paraphilic disorders require at least 6 months of \"recurrent and intense sexual arousal\" from the sexual fantasy or impulse. They do not all involve a nonconsenting person (such as with fetishistic disorder or sexual masochism disorder) or result in a criminal offense if acted upon (such as with fetishistic disorder or transvestic disorder). Simply having a sexual fantasy or impulse outside of typical erotic stimuli (a paraphilia) is necessary but not sufficient for a diagnosis of a paraphilic disorder. A person with a paraphilic disorder often has a lack of a sexual response to normophilic sexual interests, but this is not a criterion for the diagnosis. (533)"
     },
     {
         "id":  "k-16.12",
@@ -6449,7 +6449,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Being in a sexual relationship",
-        "explanation":  "Though paraphilic disorders are challenging to treat, some factors, such as engaging in regular sexual activity, having a single paraphilia, and self-referral, are good treatment predictors. Poor prognostic indicators include the presence of substance abuse and early age of onset. (538)"
+        "explanation":  "Being in a sexual relationship Though paraphilic disorders are challenging to treat, some factors, such as engaging in regular sexual activity, having a single paraphilia, and self-referral, are good treatment predictors. Poor prognostic indicators include the presence of substance abuse and early age of onset. (538)"
     },
     {
         "id":  "k-16.14",
@@ -6473,7 +6473,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Substance use disorder",
-        "explanation":  "Sex addiction has many of the same signs as an addiction due to a substance use disorder, which is the most common comorbidity. Treatment can also follow a similar course by way of 12-step groups such as Sexaholics Anonymous, Love Addicts Anonymous, and Sex Addicts Anonymous. (540)"
+        "explanation":  "Substance use disorder Sex addiction has many of the same signs as an addiction due to a substance use disorder, which is the most common comorbidity. Treatment can also follow a similar course by way of 12-step groups such as Sexaholics Anonymous, Love Addicts Anonymous, and Sex Addicts Anonymous. (540)"
     },
     {
         "id":  "k-16.15",
@@ -6497,7 +6497,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "2 to 3 years",
-        "explanation":  "By 2 to 3 years of age, most children who have an unambiguous sexual identity have developed a secure identification of being male or female. (542)"
+        "explanation":  "2 to 3 years By 2 to 3 years of age, most children who have an unambiguous sexual identity have developed a secure identification of being male or female. (542)"
     },
     {
         "id":  "k-16.16",
@@ -6521,7 +6521,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Spinal cord",
-        "explanation":  "Both sexual arousal and orgasm are organized at the spinal level, though many parts of the nervous system are involved in sexual behavior. The orbitofrontal cortex is involved in the emotion of sexual behavior. Caudate nucleus activity is a factor in whether sexual activity follows arousal. The left anterior cingulate cortex is involved in hormone control and sexual arousal. Structures of the limbic system that are activated by emotions such as fear and anxiety are hypoactive during orgasms in women. (543)"
+        "explanation":  "Spinal cord Both sexual arousal and orgasm are organized at the spinal level, though many parts of the nervous system are involved in sexual behavior. The orbitofrontal cortex is involved in the emotion of sexual behavior. Caudate nucleus activity is a factor in whether sexual activity follows arousal. The left anterior cingulate cortex is involved in hormone control and sexual arousal. Structures of the limbic system that are activated by emotions such as fear and anxiety are hypoactive during orgasms in women. (543)"
     },
     {
         "id":  "k-16.17",
@@ -6545,7 +6545,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "1.5 years",
-        "explanation":  "Children discover the pleasurable feelings from self- stimulation between 15 and 19 months old. They also begin to develop a normal, healthy curiosity about the genitals of others around that time. (543)"
+        "explanation":  "1.5 years Children discover the pleasurable feelings from self- stimulation between 15 and 19 months old. They also begin to develop a normal, healthy curiosity about the genitals of others around that time. (543)"
     },
     {
         "id":  "k-17.1",
@@ -6569,7 +6569,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Transexual",
-        "explanation":  "The individual can be described as transgender, the term referring to someone who identifies with a gender different than their assigned gender. However, the term transexual is a better fit, as he wants to have the body of a male. Genderqueer refers to someone who feels that they are between genders, are both genders, or are neither gender. Cross-dressing is wearing the clothes typically associated with a different gender than the one assigned at birth, but maintaining the identity of the assigned gender. Given that he identifies as a male and is attracted to females, his sexual orientation is heterosexual, not homosexual. (547)"
+        "explanation":  "Transexual The individual can be described as transgender, the term referring to someone who identifies with a gender different than their assigned gender. However, the term transexual is a better fit, as he wants to have the body of a male. Genderqueer refers to someone who feels that they are between genders, are both genders, or are neither gender. Cross-dressing is wearing the clothes typically associated with a different gender than the one assigned at birth, but maintaining the identity of the assigned gender. Given that he identifies as a male and is attracted to females, his sexual orientation is heterosexual, not homosexual. (547)"
     },
     {
         "id":  "k-17.2",
@@ -6591,7 +6591,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "He will identify as a male",
-        "explanation":  "Several studies have shown that a majority of children with gender dysphoria identify with their birth-assigned gender as adults. Most who continue to identify as a different gender do not have gender reassignment surgery. (549)"
+        "explanation":  "He will identify as a male Several studies have shown that a majority of children with gender dysphoria identify with their birth-assigned gender as adults. Most who continue to identify as a different gender do not have gender reassignment surgery. (549)"
     },
     {
         "id":  "k-17.3",
@@ -6615,7 +6615,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Hemoglobin/hematocrit",
-        "explanation":  "Testosterone supplementation can lead to an increase in red blood cell counts which can lead to stroke, so hemoglobin and hematocrit should be monitored routinely. Liver function tests should also be monitored because testosterone is metabolized by the liver. Glucose and lipids should be monitored as well, as testosterone can increase the chance of lipid abnormalities and diabetes. (550)"
+        "explanation":  "Hemoglobin/hematocrit Testosterone supplementation can lead to an increase in red blood cell counts which can lead to stroke, so hemoglobin and hematocrit should be monitored routinely. Liver function tests should also be monitored because testosterone is metabolized by the liver. Glucose and lipids should be monitored as well, as testosterone can increase the chance of lipid abnormalities and diabetes. (550)"
     },
     {
         "id":  "k-17.4",
@@ -6637,7 +6637,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Default female--becomes male from Y chromosome-induced androgens",
-        "explanation":  "The default state of mammalian embryos is female. Androgens produced by the presence of the Y chromosome convert the tissue into male. (551)"
+        "explanation":  "Default female--becomes male from Y chromosome-induced androgens The default state of mammalian embryos is female. Androgens produced by the presence of the Y chromosome convert the tissue into male. (551)"
     },
     {
         "id":  "k-18.1",
@@ -6661,7 +6661,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Increasing tension prior to the incident",
-        "explanation":  "The disruptive, impulse-control disorders of IED, kleptomania, and pyromania are all similar in that there is a sense of rising tension prior to the incident, followed by a decrease in tension afterward. Guilt usually occurs in IED, may occur in kleptomania, and often does not occur in pyromania. The incidents do not necessarily result in legal trouble. The object stolen in kleptomania may have little to no value to the person, just as in pyromania there is no personal benefit, financial or otherwise, from the fire. The acts are not caused by a desire to harm, but to relieve the tension that builds up. (553, 554)"
+        "explanation":  "Increasing tension prior to the incident The disruptive, impulse-control disorders of IED, kleptomania, and pyromania are all similar in that there is a sense of rising tension prior to the incident, followed by a decrease in tension afterward. Guilt usually occurs in IED, may occur in kleptomania, and often does not occur in pyromania. The incidents do not necessarily result in legal trouble. The object stolen in kleptomania may have little to no value to the person, just as in pyromania there is no personal benefit, financial or otherwise, from the fire. The acts are not caused by a desire to harm, but to relieve the tension that builds up. (553, 554)"
     },
     {
         "id":  "k-18.2",
@@ -6685,7 +6685,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "The patient must be at least 6 years old",
-        "explanation":  "Intermittent explosive disorder is one of the few disruptive, impulse-control disorders with an age requirement. A diagnosis cannot be made in an individual until they are at least 6 years old. (554)"
+        "explanation":  "The patient must be at least 6 years old Intermittent explosive disorder is one of the few disruptive, impulse-control disorders with an age requirement. A diagnosis cannot be made in an individual until they are at least 6 years old. (554)"
     },
     {
         "id":  "k-18.3",
@@ -6709,7 +6709,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Perform a medical workup",
-        "explanation":  "The patient and his parents are reporting symptoms of intermittent explosive disorder (IED). Since IED is a diagnosis of exclusion, medical causes of his symptoms, such as substance use, brain tumors, endocrine disorders, etc. should first be ruled out, so a full medical workup should be performed. There is no current indication for hospital admission. Recommending or starting treatment would be premature before the other diagnoses are ruled out. (555)"
+        "explanation":  "Perform a medical workup The patient and his parents are reporting symptoms of intermittent explosive disorder (IED). Since IED is a diagnosis of exclusion, medical causes of his symptoms, such as substance use, brain tumors, endocrine disorders, etc. should first be ruled out, so a full medical workup should be performed. There is no current indication for hospital admission. Recommending or starting treatment would be premature before the other diagnoses are ruled out. (555)"
     },
     {
         "id":  "k-18.4",
@@ -6733,7 +6733,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "It will wax and wane",
-        "explanation":  "Kleptomania tends to be a chronic disorder, with the frequency of stealing ranging from less than one to several episodes a month. The course waxes and wanes over time. (557)"
+        "explanation":  "It will wax and wane Kleptomania tends to be a chronic disorder, with the frequency of stealing ranging from less than one to several episodes a month. The course waxes and wanes over time. (557)"
     },
     {
         "id":  "k-18.5",
@@ -6807,7 +6807,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "A categorical approach is used",
-        "explanation":  "The categorical approach to personality disorders in DSM-5 is thought to be problematic to describe complex personality disorders in a few symptoms. A dimensional approach is better supported by research, incorporating temperament and functional impairment. (561)"
+        "explanation":  "A categorical approach is used The categorical approach to personality disorders in DSM-5 is thought to be problematic to describe complex personality disorders in a few symptoms. A dimensional approach is better supported by research, incorporating temperament and functional impairment. (561)"
     },
     {
         "id":  "k-19.3",
@@ -6831,7 +6831,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Paranoid",
-        "explanation":  "Those with paranoid personality disorder present as formal and tense on mental status examination and often have a humorless mannerism. Speech is often goal- directed and logical though thought content shows evidence or projection and often ideas of reference. A patient with schizotypal personality disorder often presents as inappropriate with psychotic symptoms. Avoidant personality disorder presents as an anxious patient with a tense manner, along with vulnerability to the interviewer\u0027s comments, feeling criticized at times. A patient with dependent personality disorder often presents as complaint and often looks for guidance. Obsessive compulsive personality disorder is notable for a stiff demeanor, constricted affect with a serious mood, and defense mechanism of rationalization, isolation, intellectualization, and undoing are utilized. (562-566)"
+        "explanation":  "Paranoid Those with paranoid personality disorder present as formal and tense on mental status examination and often have a humorless mannerism. Speech is often goal- directed and logical though thought content shows evidence or projection and often ideas of reference. A patient with schizotypal personality disorder often presents as inappropriate with psychotic symptoms. Avoidant personality disorder presents as an anxious patient with a tense manner, along with vulnerability to the interviewer\u0027s comments, feeling criticized at times. A patient with dependent personality disorder often presents as complaint and often looks for guidance. Obsessive compulsive personality disorder is notable for a stiff demeanor, constricted affect with a serious mood, and defense mechanism of rationalization, isolation, intellectualization, and undoing are utilized. (562-566)"
     },
     {
         "id":  "k-19.4",
@@ -6879,7 +6879,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Projective identification",
-        "explanation":  "The patient described above most likely has borderline personality disorder. Patients with this disorder can present as argumentative and have episodes of psychosis and depression with unpredictable, self-destructive behavior, including self-harm. Feelings of anger, numbness, loneliness, and emptiness are characteristic of this disorder. Projective identification, in which the patient projects their own intolerable aspects of themselves onto others, is a classic defense mechanism for this disorder. (564)"
+        "explanation":  "Projective identification The patient described above most likely has borderline personality disorder. Patients with this disorder can present as argumentative and have episodes of psychosis and depression with unpredictable, self-destructive behavior, including self-harm. Feelings of anger, numbness, loneliness, and emptiness are characteristic of this disorder. Projective identification, in which the patient projects their own intolerable aspects of themselves onto others, is a classic defense mechanism for this disorder. (564)"
     },
     {
         "id":  "k-19.6",
@@ -6903,7 +6903,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Dissociation",
-        "explanation":  "The patient described above has histrionic personality disorder. Traits include attention-seeking behavior along with seductive behavior. They can present as suggestible and emotionally labile. The major defenses these patients utilize are dissociation and repression. (564, 565)"
+        "explanation":  "Dissociation The patient described above has histrionic personality disorder. Traits include attention-seeking behavior along with seductive behavior. They can present as suggestible and emotionally labile. The major defenses these patients utilize are dissociation and repression. (564, 565)"
     },
     {
         "id":  "k-19.7",
@@ -6927,7 +6927,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Narcissistic",
-        "explanation":  "In DSM-5, narcissistic personality disorder is defined as those persons with a grandiose sense of self-importance, characterized by strained relationships, often exploiting others, lacking empathy, jealousy, and having a fragile self-esteem. In the ICD-10, it is not included as a separate personality disorder, rather it is listed under an \"other specified personality disorder.\" (565)"
+        "explanation":  "Narcissistic In DSM-5, narcissistic personality disorder is defined as those persons with a grandiose sense of self-importance, characterized by strained relationships, often exploiting others, lacking empathy, jealousy, and having a fragile self-esteem. In the ICD-10, it is not included as a separate personality disorder, rather it is listed under an \"other specified personality disorder.\" (565)"
     },
     {
         "id":  "k-19.8",
@@ -6975,7 +6975,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Hallucinations",
-        "explanation":  "Paranoid personality disorder differs from schizophrenia in that no hallucinations or formal thought disorders are noted. All of the other features mentioned above can be symptoms of either schizophrenia or a paranoid personality disorder. (567)"
+        "explanation":  "Hallucinations Paranoid personality disorder differs from schizophrenia in that no hallucinations or formal thought disorders are noted. All of the other features mentioned above can be symptoms of either schizophrenia or a paranoid personality disorder. (567)"
     },
     {
         "id":  "k-19.10",
@@ -7071,7 +7071,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Greater relationship stability is achieved in one\u0027s 40s and 50s",
-        "explanation":  "Functional improvement in borderline personality disorder is often not noted until the fourth and fifth decades of life. While brief psychotic episodes can be a component of borderline personality disorder, comorbid psychotic disorders are rare. While death from suicide is a risk of this disorder, the suicide and self-harm risks are highest in the young adult years and wane as time goes on. A history of multiple arrests is more common with antisocial personality disorder. (570)"
+        "explanation":  "Greater relationship stability is achieved in one\u0027s 40s and 50s Functional improvement in borderline personality disorder is often not noted until the fourth and fifth decades of life. While brief psychotic episodes can be a component of borderline personality disorder, comorbid psychotic disorders are rare. While death from suicide is a risk of this disorder, the suicide and self-harm risks are highest in the young adult years and wane as time goes on. A history of multiple arrests is more common with antisocial personality disorder. (570)"
     },
     {
         "id":  "k-19.14",
@@ -7095,7 +7095,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Contingency management",
-        "explanation":  "Those with antisocial personality disorder are thought to have a limited response to therapy. A limited evidence base supports that these patients repose better to contingency management and rewards-based interventions, compared to cognitive behavioral therapy. (571)"
+        "explanation":  "Contingency management Those with antisocial personality disorder are thought to have a limited response to therapy. A limited evidence base supports that these patients repose better to contingency management and rewards-based interventions, compared to cognitive behavioral therapy. (571)"
     },
     {
         "id":  "k-19.15",
@@ -7143,7 +7143,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Citalopram",
-        "explanation":  "Limited evidence for medication management in treating obsessive compulsive personality disorder suggests that citalopram may be helpful in treating those with comorbid depression. In one study comparing citalopram and sertraline, which both reduced symptoms, citalopram performed better than sertraline. Some studies have suggested benefits from fluvoxamine and carbamazepine as well, though citalopram has specifically been shown to target depression in this population. (574)"
+        "explanation":  "Citalopram Limited evidence for medication management in treating obsessive compulsive personality disorder suggests that citalopram may be helpful in treating those with comorbid depression. In one study comparing citalopram and sertraline, which both reduced symptoms, citalopram performed better than sertraline. Some studies have suggested benefits from fluvoxamine and carbamazepine as well, though citalopram has specifically been shown to target depression in this population. (574)"
     },
     {
         "id":  "k-19.17",
@@ -7191,7 +7191,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Schizotypal",
-        "explanation":  "Biologic factors have been examined in personality disorders often to help examine inheritance or best guide treatment. Smooth pursuit eye movements are found to be saccadic, or jumpy, in those with introversion, withdrawal, and schizotypal personality disorder. Low platelet monoamine oxidase (MAO) levels have also been found in some patients with schizotypal personality disorder. (575)"
+        "explanation":  "Schizotypal Biologic factors have been examined in personality disorders often to help examine inheritance or best guide treatment. Smooth pursuit eye movements are found to be saccadic, or jumpy, in those with introversion, withdrawal, and schizotypal personality disorder. Low platelet monoamine oxidase (MAO) levels have also been found in some patients with schizotypal personality disorder. (575)"
     },
     {
         "id":  "k-19.19",
@@ -7215,7 +7215,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Schizoid",
-        "explanation":  "Common defense mechanisms to each personality disorder can be found, helping the patient to resolve inner conflicts. Awareness of these defense mechanisms can help the psychiatrist in treating the patient. Those with schizoid personality disorder utilize fantasy and retreat to imaginary lives to help with feelings of loneliness and fear. Those with borderline often use dissociation. Isolation is common in those with obsessive compulsive personality disorder. Those with paranoid personality disorder utilize projection, while those with histrionic personality disorder often utilize dissociation. (376)"
+        "explanation":  "Schizoid Common defense mechanisms to each personality disorder can be found, helping the patient to resolve inner conflicts. Awareness of these defense mechanisms can help the psychiatrist in treating the patient. Those with schizoid personality disorder utilize fantasy and retreat to imaginary lives to help with feelings of loneliness and fear. Those with borderline often use dissociation. Isolation is common in those with obsessive compulsive personality disorder. Those with paranoid personality disorder utilize projection, while those with histrionic personality disorder often utilize dissociation. (376)"
     },
     {
         "id":  "k-19.20",
@@ -7239,7 +7239,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Serotonin",
-        "explanation":  "Temperament, biases in the modulation of conditioned behavioral response to physical stimuli, plays a role in personality formation. Four temperaments of harm avoidance, novelty seeking, reward dependence, and persistence have been studied. The anterior serotonergic cells in the dorsal raphe nucleus and the dopaminergic cells of the ventral tegmental area innervate the same structures and provide opposing influences to modulate approach and avoidance behaviors. When given serotonin drugs, harm avoidance behavior is decreased. (578)"
+        "explanation":  "Serotonin Temperament, biases in the modulation of conditioned behavioral response to physical stimuli, plays a role in personality formation. Four temperaments of harm avoidance, novelty seeking, reward dependence, and persistence have been studied. The anterior serotonergic cells in the dorsal raphe nucleus and the dopaminergic cells of the ventral tegmental area innervate the same structures and provide opposing influences to modulate approach and avoidance behaviors. When given serotonin drugs, harm avoidance behavior is decreased. (578)"
     },
     {
         "id":  "k-19.21",
@@ -7287,7 +7287,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Other conditions that may be a focus of clinical attention",
-        "explanation":  "Malingering, a deliberate falsifying of physical or psychological symptoms to achieve a secondary gain (i.e., avoiding work, obtaining financial compensation, avoiding criminal prosecution, etc.) is not considered a mental health disorder, rather is listed in a section in the DSM-5 called \"Other conditions that may be a focus of clinical attention.\" (580)"
+        "explanation":  "Other conditions that may be a focus of clinical attention Malingering, a deliberate falsifying of physical or psychological symptoms to achieve a secondary gain (i.e., avoiding work, obtaining financial compensation, avoiding criminal prosecution, etc.) is not considered a mental health disorder, rather is listed in a section in the DSM-5 called \"Other conditions that may be a focus of clinical attention.\" (580)"
     },
     {
         "id":  "k-20.2",
@@ -7337,7 +7337,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Behave as clingy and dependent",
-        "explanation":  "Malingering should be differentiated between conversion disorder with both, objective signs cannot account for their subjective experience. Those with conversion disorder are often dependent, clingy, friendly, and cooperative, compared to those with malingering who are suspicious and aloof. While those with conversion disorder want an answer and search for evaluations, those with malingering avoid them. Malingerers often avoid employment opportunities as well to circumvent their disability. Those with conversion disorder often have vague descriptions of their illness and inaccuracies and gaps in their history but those with malingering often provide excessively detailed accounts of events leading to their disability. (582)"
+        "explanation":  "Behave as clingy and dependent Malingering should be differentiated between conversion disorder with both, objective signs cannot account for their subjective experience. Those with conversion disorder are often dependent, clingy, friendly, and cooperative, compared to those with malingering who are suspicious and aloof. While those with conversion disorder want an answer and search for evaluations, those with malingering avoid them. Malingerers often avoid employment opportunities as well to circumvent their disability. Those with conversion disorder often have vague descriptions of their illness and inaccuracies and gaps in their history but those with malingering often provide excessively detailed accounts of events leading to their disability. (582)"
     },
     {
         "id":  "k-20.4",
@@ -7361,7 +7361,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Significant psychomotor retardation",
-        "explanation":  "Signs of normal bereavement can include sadness, irritability, insomnia, tearfulness, and difficulty carrying out daily activities, though if prolonged marked functional impairment, it is more consistent with a major depressive disorder. Excessive guilt about things (other than actions taken around the time of the loved one\u0027s death), along with thoughts of dying (other than wanting to be with the loved one) are symptoms consistent with a major depressive disorder. Significant psychomotor retardation and worthlessness, along with hallucinations that don\u0027t just involve the lost loved one, can also point toward a diagnosis of a major depressive disorder, rather than just grief. (582)"
+        "explanation":  "Significant psychomotor retardation Signs of normal bereavement can include sadness, irritability, insomnia, tearfulness, and difficulty carrying out daily activities, though if prolonged marked functional impairment, it is more consistent with a major depressive disorder. Excessive guilt about things (other than actions taken around the time of the loved one\u0027s death), along with thoughts of dying (other than wanting to be with the loved one) are symptoms consistent with a major depressive disorder. Significant psychomotor retardation and worthlessness, along with hallucinations that don\u0027t just involve the lost loved one, can also point toward a diagnosis of a major depressive disorder, rather than just grief. (582)"
     },
     {
         "id":  "k-20.5",
@@ -7385,7 +7385,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Abnormal EEGs",
-        "explanation":  "Neurologic conditions are often associated with adult antisocial behavior. Abnormal EEGs are commonly found in violent offenders, with studies estimating around 50% of aggressive criminals have abnormal EEG findings. Complex partial seizures should be ruled out in those with antisocial behavior. In cases of epilepsy or encephalitis, careful examination should be done to examine the extent those disorders are contributing to the behavior. (584)"
+        "explanation":  "Abnormal EEGs Neurologic conditions are often associated with adult antisocial behavior. Abnormal EEGs are commonly found in violent offenders, with studies estimating around 50% of aggressive criminals have abnormal EEG findings. Complex partial seizures should be ruled out in those with antisocial behavior. In cases of epilepsy or encephalitis, careful examination should be done to examine the extent those disorders are contributing to the behavior. (584)"
     },
     {
         "id":  "k-20.6",
@@ -7409,7 +7409,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Work problems",
-        "explanation":  "Though all the symptoms noted above can be features of antisocial behavior in adults, work problems are thought to be the most prominent symptoms (around 85%) followed by marital, financial dependency, and arrests, along with alcohol abuse. Less common symptoms include somatic complaints (11%), drug abuse (15%), suicide attempts (11%), and pathologic lying (16%). (585)"
+        "explanation":  "Work problems Though all the symptoms noted above can be features of antisocial behavior in adults, work problems are thought to be the most prominent symptoms (around 85%) followed by marital, financial dependency, and arrests, along with alcohol abuse. Less common symptoms include somatic complaints (11%), drug abuse (15%), suicide attempts (11%), and pathologic lying (16%). (585)"
     },
     {
         "id":  "k-20.7",
@@ -7433,7 +7433,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Group therapy and therapeutic communities",
-        "explanation":  "Though often outcomes for treating adult antisocial behavior are poor, in general, it is thought that behavior seems to decrease after 40 years old. Psychological therapy and medication treatment are typically not very effective, though for incarcerated criminals in institutional settings, some forms of group therapy have been shown to help and therapeutic communities are also thought to be helpful. (585)"
+        "explanation":  "Group therapy and therapeutic communities Though often outcomes for treating adult antisocial behavior are poor, in general, it is thought that behavior seems to decrease after 40 years old. Psychological therapy and medication treatment are typically not very effective, though for incarcerated criminals in institutional settings, some forms of group therapy have been shown to help and therapeutic communities are also thought to be helpful. (585)"
     },
     {
         "id":  "k-20.8",
@@ -7457,7 +7457,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Minorities",
-        "explanation":  "Phases of life problems can occur at any age. Common problems include divorce of parents, illness, having children, etc. Men appear to handle these phases of life problems better externally, whereas women, those of lower socioeconomic status, and minorities appear most vulnerable to the negative experiences, resulting in anxiety and depression. Positive attitudes, family relationships, mature defense mechanisms, with use of sublimation, creativity, and flexibility appear to be protective factors against depression and anxiety from these phases of life problems. (587)"
+        "explanation":  "Minorities Phases of life problems can occur at any age. Common problems include divorce of parents, illness, having children, etc. Men appear to handle these phases of life problems better externally, whereas women, those of lower socioeconomic status, and minorities appear most vulnerable to the negative experiences, resulting in anxiety and depression. Positive attitudes, family relationships, mature defense mechanisms, with use of sublimation, creativity, and flexibility appear to be protective factors against depression and anxiety from these phases of life problems. (587)"
     },
     {
         "id":  "k-20.9",
@@ -7505,7 +7505,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Psychiatrists have the highest rate of divorce",
-        "explanation":  "Physicians have the highest risk of divorce compared to other occupation groups, with psychiatrists having the highest rates (50%), followed by surgeons (33%), internist pediatricians, and pathologists. Stress of work, including dealing with life-death situations, long hours, malpractice risks, and increased risk of depression and substance use are likely factors that contribute to the high divorce rate. (589) B Treatment Across the Lifespan"
+        "explanation":  "Psychiatrists have the highest rate of divorce Physicians have the highest risk of divorce compared to other occupation groups, with psychiatrists having the highest rates (50%), followed by surgeons (33%), internist pediatricians, and pathologists. Stress of work, including dealing with life-death situations, long hours, malpractice risks, and increased risk of depression and substance use are likely factors that contribute to the high divorce rate. (589) B Treatment Across the Lifespan"
     },
     {
         "id":  "k-21.1",
@@ -7529,7 +7529,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Begin benztropine",
-        "explanation":  "The patient is displaying symptoms of neuroleptic- induced parkinsonism, for which the treatment of choice is an anticholinergic agent such as benztropine, amantadine or diphenhydramine. Neuroleptic malignant syndrome, for which dantrolene or bromocriptine would be used, would present with autonomic instability such as hyperthermia and increased pulse and blood pressure. As she has shown marked improvement in the original symptoms with the quetiapine, it would be best to try to treat the side effect as opposed to starting a new medication which may or may not be effective, and which can lead to the same side effect. Propranolol would be used for akathisia, which would present with hyperkinesis as opposed to bradykinesis, while tetrabenazine would be used for tardive dyskinesia, which likely would not appear this quickly, and would involve choreoathetoid movements. Antihistamines such as diphenhydramine can also be used as an alternative to anticholinergics. (594, 703)"
+        "explanation":  "Begin benztropine The patient is displaying symptoms of neuroleptic- induced parkinsonism, for which the treatment of choice is an anticholinergic agent such as benztropine, amantadine or diphenhydramine. Neuroleptic malignant syndrome, for which dantrolene or bromocriptine would be used, would present with autonomic instability such as hyperthermia and increased pulse and blood pressure. As she has shown marked improvement in the original symptoms with the quetiapine, it would be best to try to treat the side effect as opposed to starting a new medication which may or may not be effective, and which can lead to the same side effect. Propranolol would be used for akathisia, which would present with hyperkinesis as opposed to bradykinesis, while tetrabenazine would be used for tardive dyskinesia, which likely would not appear this quickly, and would involve choreoathetoid movements. Antihistamines such as diphenhydramine can also be used as an alternative to anticholinergics. (594, 703)"
     },
     {
         "id":  "k-21.2",
@@ -7553,7 +7553,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Acute dystonia",
-        "explanation":  "Of all of the common neuroleptic-induced mood disorders, medication-induced acute dystonia is more likely to occur in men, particularly those under age 30 years. Neuroleptic-induced parkinsonism is more likely to affect older women, NMS is more likely to affect younger women, and acute akathisia and TD are most likely to affect middle-aged women. (594-597)"
+        "explanation":  "Acute dystonia Of all of the common neuroleptic-induced mood disorders, medication-induced acute dystonia is more likely to occur in men, particularly those under age 30 years. Neuroleptic-induced parkinsonism is more likely to affect older women, NMS is more likely to affect younger women, and acute akathisia and TD are most likely to affect middle-aged women. (594-597)"
     },
     {
         "id":  "k-21.3",
@@ -7577,7 +7577,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Begin valbenazine",
-        "explanation":  "The patient has a moderate level of tardive dyskinesia (TD) which is causing him a moderate amount of distress. The first approach considered should be to lower the dose of the offending agent. However, given the patient\u0027s history of hospitalizations and his stated preference not to adjust his current regimen, neither a decrease in dose nor a change to another agent would be the best choice. If the risperidone becomes ineffective in the future, clozapine would be a strong consideration, as it is unlikely to cause TD and can even decrease it. Benztropine is not helpful for TD. A VMAT2 inhibitor such as valbenazine would be first-line treatment. (598)"
+        "explanation":  "Begin valbenazine The patient has a moderate level of tardive dyskinesia (TD) which is causing him a moderate amount of distress. The first approach considered should be to lower the dose of the offending agent. However, given the patient\u0027s history of hospitalizations and his stated preference not to adjust his current regimen, neither a decrease in dose nor a change to another agent would be the best choice. If the risperidone becomes ineffective in the future, clozapine would be a strong consideration, as it is unlikely to cause TD and can even decrease it. Benztropine is not helpful for TD. A VMAT2 inhibitor such as valbenazine would be first-line treatment. (598)"
     },
     {
         "id":  "k-21.4",
@@ -7649,7 +7649,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Send him to the emergency department",
-        "explanation":  "The patient is showing classic signs and symptoms of Stevens-Johnson syndrome. Though it can be caused by any medication, it is linked to lamotrigine and can manifest at any time the medication is used, not just during titration. The presence of valproic acid raises the blood level of lamotrigine, so if the two are used simultaneously, the lamotrigine either should be reduced, or titrated very slowly. As Stevens-Johnson is a potentially life-threatening condition, those who show symptoms should go to the emergency department immediately. He will need to permanently stop the lamotrigine. (600)"
+        "explanation":  "Send him to the emergency department The patient is showing classic signs and symptoms of Stevens-Johnson syndrome. Though it can be caused by any medication, it is linked to lamotrigine and can manifest at any time the medication is used, not just during titration. The presence of valproic acid raises the blood level of lamotrigine, so if the two are used simultaneously, the lamotrigine either should be reduced, or titrated very slowly. As Stevens-Johnson is a potentially life-threatening condition, those who show symptoms should go to the emergency department immediately. He will need to permanently stop the lamotrigine. (600)"
     },
     {
         "id":  "k-21.7",
@@ -7673,7 +7673,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Sodium",
-        "explanation":  "Symptoms of confusion, agitation, and lethargy can be caused by hyponatremia, which can occur in individuals taking oxcarbazepine, especially the elderly. Acute hyperglycemia can cause confusion and lethargy, but his A1c would be expected to have been higher a month ago if he were having several repeated episodes of glucose spikes. Infection could cause similar symptoms, but a fever would be expected. Fatigue can be a symptom of both low hemoglobin and low potassium (from HCTZ), but confusion and agitation are usually not. (600)"
+        "explanation":  "Sodium Symptoms of confusion, agitation, and lethargy can be caused by hyponatremia, which can occur in individuals taking oxcarbazepine, especially the elderly. Acute hyperglycemia can cause confusion and lethargy, but his A1c would be expected to have been higher a month ago if he were having several repeated episodes of glucose spikes. Infection could cause similar symptoms, but a fever would be expected. Fatigue can be a symptom of both low hemoglobin and low potassium (from HCTZ), but confusion and agitation are usually not. (600)"
     },
     {
         "id":  "k-21.8",
@@ -7697,7 +7697,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Hemodialysis",
-        "explanation":  "The patient is experiencing acute lithium toxicity caused by increased blood levels secondary to dehydration. This can occur when someone perspires more than usual and does not properly rehydrate. The first-line treatment for acute lithium intoxication is hemodialysis, though gastric lavage could be considered in the case of regular-release preparations, and whole-bowel irrigation for sustained- release preparations. Lithium does not adhere well to activated charcoal. The lithium needs to be removed, not just diluted by IV saline, as lithium toxicity can be fatal. (601)"
+        "explanation":  "Hemodialysis The patient is experiencing acute lithium toxicity caused by increased blood levels secondary to dehydration. This can occur when someone perspires more than usual and does not properly rehydrate. The first-line treatment for acute lithium intoxication is hemodialysis, though gastric lavage could be considered in the case of regular-release preparations, and whole-bowel irrigation for sustained- release preparations. Lithium does not adhere well to activated charcoal. The lithium needs to be removed, not just diluted by IV saline, as lithium toxicity can be fatal. (601)"
     },
     {
         "id":  "k-21.9",
@@ -7721,7 +7721,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Inhibition of sodium current into myocardial cells",
-        "explanation":  "Tricyclic antidepressants (TCAs) have largely been replaced by SSRIs due to the safety profile of the latter. A concern with TCAs is suicide by overdose, with death being caused by cardiac toxicity. The overall mechanism of death is hypotension caused by a reduction in peripheral resistance and QRS complex prolongation due to an inhibition of sodium into myocardial cells. Acute hypothalamic dopamine blockade is the mechanism behind neuroleptic malignant syndrome. Stimulation of postsynaptic 5-HT1A and 5-HT2A receptors is the mechanism behind serotonin syndrome. Acute norepinephrine release following tyramine ingestion is the mechanism of a hypertensive crisis caused by some monoamine oxidase inhibitors (MAOIs). A delayed type IV hypersensitivity reaction is a theoretical mechanism of Stevens-Johnson syndrome. https://emj.bmj.com/content/18/4/236 (600)"
+        "explanation":  "Inhibition of sodium current into myocardial cells Tricyclic antidepressants (TCAs) have largely been replaced by SSRIs due to the safety profile of the latter. A concern with TCAs is suicide by overdose, with death being caused by cardiac toxicity. The overall mechanism of death is hypotension caused by a reduction in peripheral resistance and QRS complex prolongation due to an inhibition of sodium into myocardial cells. Acute hypothalamic dopamine blockade is the mechanism behind neuroleptic malignant syndrome. Stimulation of postsynaptic 5-HT1A and 5-HT2A receptors is the mechanism behind serotonin syndrome. Acute norepinephrine release following tyramine ingestion is the mechanism of a hypertensive crisis caused by some monoamine oxidase inhibitors (MAOIs). A delayed type IV hypersensitivity reaction is a theoretical mechanism of Stevens-Johnson syndrome. https://emj.bmj.com/content/18/4/236 (600)"
     },
     {
         "id":  "k-21.10",
@@ -7745,7 +7745,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Barbiturates",
-        "explanation":  "Though the muscle aches, abdominal cramping, agitation, GI upset, and other unpleasant symptoms of opioid withdrawal can make people wish they were dead, the process is not life-threatening. Stimulant withdrawal can lead to fatigue, vivid dreams, sleep disturbances, hyperphagia, and psychomotor changes, but is not deadly. Stopping tricyclics and MAOIs can lead to a nonfatal discontinuation syndrome consisting of flu-like symptoms, insomnia, nausea, imbalance, sensory disturbances, and hyperarousal. Barbiturate withdrawal includes anxiety, restlessness, tremor, dizziness, psychosis, and seizures. If left untreated, withdrawal can lead to hyperthermia, circulatory failure, and death. (604)"
+        "explanation":  "Barbiturates Though the muscle aches, abdominal cramping, agitation, GI upset, and other unpleasant symptoms of opioid withdrawal can make people wish they were dead, the process is not life-threatening. Stimulant withdrawal can lead to fatigue, vivid dreams, sleep disturbances, hyperphagia, and psychomotor changes, but is not deadly. Stopping tricyclics and MAOIs can lead to a nonfatal discontinuation syndrome consisting of flu-like symptoms, insomnia, nausea, imbalance, sensory disturbances, and hyperarousal. Barbiturate withdrawal includes anxiety, restlessness, tremor, dizziness, psychosis, and seizures. If left untreated, withdrawal can lead to hyperthermia, circulatory failure, and death. (604)"
     },
     {
         "id":  "k-21.11",
@@ -7769,7 +7769,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Paroxetine",
-        "explanation":  "Carbamazepine and valproic acid both can lead to neural tube defects. Lamotrigine may cause oral clefts. Citalopram can cause QT interval prolongation and ventral tachycardia at high doses in the person taking the medication, but is not known to be associated with birth defects. In 2005, the FDA issued an alert that paroxetine increases the risk of heart defects when taken during the first trimester. (606, 626)"
+        "explanation":  "Paroxetine Carbamazepine and valproic acid both can lead to neural tube defects. Lamotrigine may cause oral clefts. Citalopram can cause QT interval prolongation and ventral tachycardia at high doses in the person taking the medication, but is not known to be associated with birth defects. In 2005, the FDA issued an alert that paroxetine increases the risk of heart defects when taken during the first trimester. (606, 626)"
     },
     {
         "id":  "k-21.12",
@@ -7793,7 +7793,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Begin aripiprazole",
-        "explanation":  "Irritability can be a core symptom of depression in children. However, given that he no longer displays any of the other symptoms of depression, his current behaviors are likely not a relapse or exacerbation, so increasing sertraline would be of little benefit. There are currently no indications for a head CT. He is not at present a danger to himself or others, so hospitalization is not indicated. Aripiprazole, as is risperidone, is indicated for irritability in children and adolescents with autism spectrum disorder. Given that they have tried many other measures, and behaviors are intensifying, a medication intervention is warranted. A decrease in irritability and aggression may help him engage more in therapy. Given that his current symptoms are not limited to just the therapist, and that his therapist is trying new techniques, changing to a different therapist would likely be of little benefit. (612)"
+        "explanation":  "Begin aripiprazole Irritability can be a core symptom of depression in children. However, given that he no longer displays any of the other symptoms of depression, his current behaviors are likely not a relapse or exacerbation, so increasing sertraline would be of little benefit. There are currently no indications for a head CT. He is not at present a danger to himself or others, so hospitalization is not indicated. Aripiprazole, as is risperidone, is indicated for irritability in children and adolescents with autism spectrum disorder. Given that they have tried many other measures, and behaviors are intensifying, a medication intervention is warranted. A decrease in irritability and aggression may help him engage more in therapy. Given that his current symptoms are not limited to just the therapist, and that his therapist is trying new techniques, changing to a different therapist would likely be of little benefit. (612)"
     },
     {
         "id":  "k-21.13",
@@ -7817,7 +7817,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Olanzapine",
-        "explanation":  "Though all atypicals can cause weight gain, olanzapine consistently leads to more weight gain more frequently. The weight gain is not dose related and continues over time. Clozapine is also consistent in leading to weight gain. (611)"
+        "explanation":  "Olanzapine Though all atypicals can cause weight gain, olanzapine consistently leads to more weight gain more frequently. The weight gain is not dose related and continues over time. Clozapine is also consistent in leading to weight gain. (611)"
     },
     {
         "id":  "k-21.14",
@@ -7841,7 +7841,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Quetiapine",
-        "explanation":  "The patient has had extrapyramidal side effects (EPS) with two first-generation antipsychotics and a serotonin-dopamine antagonist (albeit risperidone, which behaves most like a first-generation medication in regards to EPS), which shows how sensitive he is to this particular side effect. Quetiapine would be the next best option given that it is the serotonin-dopamine antagonist least likely to lead to EPS. Though chlorpromazine is a low potency, highly anticholinergic medication, first-generation antipsychotics lead to more EPS in general, so it should be avoided as well. (611)"
+        "explanation":  "Quetiapine The patient has had extrapyramidal side effects (EPS) with two first-generation antipsychotics and a serotonin-dopamine antagonist (albeit risperidone, which behaves most like a first-generation medication in regards to EPS), which shows how sensitive he is to this particular side effect. Quetiapine would be the next best option given that it is the serotonin-dopamine antagonist least likely to lead to EPS. Though chlorpromazine is a low potency, highly anticholinergic medication, first-generation antipsychotics lead to more EPS in general, so it should be avoided as well. (611)"
     },
     {
         "id":  "k-21.15",
@@ -7865,7 +7865,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Ziprasidone",
-        "explanation":  "Bioavailability of ziprasidone doubles when taken with food of at least 500 calories. Though it was originally believed that the calories had to be high in fat, that was not supported in studies. https://pubmed.ncbi.nlm.nih.gov/18007569/ (612)"
+        "explanation":  "Ziprasidone Bioavailability of ziprasidone doubles when taken with food of at least 500 calories. Though it was originally believed that the calories had to be high in fat, that was not supported in studies. https://pubmed.ncbi.nlm.nih.gov/18007569/ (612)"
     },
     {
         "id":  "k-21.16",
@@ -7889,7 +7889,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Aripiprazole",
-        "explanation":  "Though any serotonin-dopamine antagonist antipsychotic can elevate prolactin levels, asenapine, like risperidone, can cause galactorrhea and gynecomastia. It also, like quetiapine, iloperidone, and ziprasidone, can increase QTc interval and should be avoided in patients on antiarrhythmics, such as amiodarone, that prolong QTc. Even if he were not on an antiarrhythmic, a diagnosis of congenital heart disease should give pause to the prescription of a medication that is known to prolong QTc interval. Aripiprazole does not cause significant QTc interval changes and does not usually cause significant weight gain or prolactin elevation. (612-614)"
+        "explanation":  "Aripiprazole Though any serotonin-dopamine antagonist antipsychotic can elevate prolactin levels, asenapine, like risperidone, can cause galactorrhea and gynecomastia. It also, like quetiapine, iloperidone, and ziprasidone, can increase QTc interval and should be avoided in patients on antiarrhythmics, such as amiodarone, that prolong QTc. Even if he were not on an antiarrhythmic, a diagnosis of congenital heart disease should give pause to the prescription of a medication that is known to prolong QTc interval. Aripiprazole does not cause significant QTc interval changes and does not usually cause significant weight gain or prolactin elevation. (612-614)"
     },
     {
         "id":  "k-21.17",
@@ -7913,7 +7913,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Affirm that the medication cannot be dispensed",
-        "explanation":  "Clozapine absolutely cannot be dispensed without current lab results sent to the pharmacy, so sending a prescription to another pharmacy, or writing a prescription for one dose, would be of no use. As this rule in inviolable, explaining the situation to the pharmacy or the lab will also prove fruitless. The parents will need to be told that the medication cannot be dispensed. Missing a blood draw also means that he has to restart the 6 months of weekly blood draws before he can move to biweekly draws. (614)"
+        "explanation":  "Affirm that the medication cannot be dispensed Clozapine absolutely cannot be dispensed without current lab results sent to the pharmacy, so sending a prescription to another pharmacy, or writing a prescription for one dose, would be of no use. As this rule in inviolable, explaining the situation to the pharmacy or the lab will also prove fruitless. The parents will need to be told that the medication cannot be dispensed. Missing a blood draw also means that he has to restart the 6 months of weekly blood draws before he can move to biweekly draws. (614)"
     },
     {
         "id":  "k-21.18",
@@ -7937,7 +7937,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Orthostatic hypotension",
-        "explanation":  "While sedation and tachycardia are common side effects of iloperidone, the medication must be titrated slowly in order to avoid orthostatic hypotension. Titration speed does not affect the QTc prolongation that may occur at doses of 12 mg bid. The rate of akathisia is similar to that of placebo. (614)"
+        "explanation":  "Orthostatic hypotension While sedation and tachycardia are common side effects of iloperidone, the medication must be titrated slowly in order to avoid orthostatic hypotension. Titration speed does not affect the QTc prolongation that may occur at doses of 12 mg bid. The rate of akathisia is similar to that of placebo. (614)"
     },
     {
         "id":  "k-21.19",
@@ -7985,7 +7985,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "An antidepressant and an antipsychotic medication",
-        "explanation":  "The patient is experiencing MDD with psychotic features, as the psychosis emerged during the most severe of her depressive episodes. Had she had steady psychotic symptoms with intermittent episodes of depression, the diagnosis would be schizoaffective disorder, depressive type. First-line treatment for MDD with psychotic features consists of treating both the depression with an antidepressant and the psychosis with an antipsychotic. Though treatment with only an antidepressant should eventually lead to resolution of the psychosis once the depression remits, this would likely take weeks, and she is having command hallucinations of suicide, which warrants aggressive treatment. ECT is also effective for this diagnosis, but given that she is medication na-ve and not in imminent danger of self-harm, medication should be tried first. (617)"
+        "explanation":  "An antidepressant and an antipsychotic medication The patient is experiencing MDD with psychotic features, as the psychosis emerged during the most severe of her depressive episodes. Had she had steady psychotic symptoms with intermittent episodes of depression, the diagnosis would be schizoaffective disorder, depressive type. First-line treatment for MDD with psychotic features consists of treating both the depression with an antidepressant and the psychosis with an antipsychotic. Though treatment with only an antidepressant should eventually lead to resolution of the psychosis once the depression remits, this would likely take weeks, and she is having command hallucinations of suicide, which warrants aggressive treatment. ECT is also effective for this diagnosis, but given that she is medication na-ve and not in imminent danger of self-harm, medication should be tried first. (617)"
     },
     {
         "id":  "k-21.21",
@@ -8009,7 +8009,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Alpha-1 receptor blockade",
-        "explanation":  "Orthostatic hypotension is a result of alpha-1 receptor blockade. H1 receptor blockade leads to sedation. D2 receptor antagonism is the mechanism that leads to symptom relief in psychotic disorders, as well as Parkinsonian and prolactin side effects. Acetylcholine antagonism, which is stronger in low-potency, first- generation antipsychotics, includes side effects such as dry mouth, blurred vision, constipation, and urinary retention. Beta-2 receptor agonism can lead to trembling, increased heart rate, nervousness, and headache. (619, 620)"
+        "explanation":  "Alpha-1 receptor blockade Orthostatic hypotension is a result of alpha-1 receptor blockade. H1 receptor blockade leads to sedation. D2 receptor antagonism is the mechanism that leads to symptom relief in psychotic disorders, as well as Parkinsonian and prolactin side effects. Acetylcholine antagonism, which is stronger in low-potency, first- generation antipsychotics, includes side effects such as dry mouth, blurred vision, constipation, and urinary retention. Beta-2 receptor agonism can lead to trembling, increased heart rate, nervousness, and headache. (619, 620)"
     },
     {
         "id":  "k-21.22",
@@ -8031,7 +8031,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Tuberoinfundibular",
-        "explanation":  "Prolactin secretion is usually kept in check via dopamine release. Once that dopamine release is blocked by antipsychotics, prolactin increases. Dopamine blockade in the mesocortical pathway leads to a blockade of reward and pleasure, as well as an increase in negative symptoms. Dopamine blockade in the nigrostriatal pathway can lead to Parkinsonian symptoms. Blockade in the mesolimbic system leads to the desired reduction in positive symptoms. (620)"
+        "explanation":  "Tuberoinfundibular Prolactin secretion is usually kept in check via dopamine release. Once that dopamine release is blocked by antipsychotics, prolactin increases. Dopamine blockade in the mesocortical pathway leads to a blockade of reward and pleasure, as well as an increase in negative symptoms. Dopamine blockade in the nigrostriatal pathway can lead to Parkinsonian symptoms. Blockade in the mesolimbic system leads to the desired reduction in positive symptoms. (620)"
     },
     {
         "id":  "k-21.23",
@@ -8055,7 +8055,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Indefinitely",
-        "explanation":  "After one psychotic episode, a patient should be maintained on an antipsychotic for about 1 to 2 years, and after the second episode, about 5 years. After the third episode, medication should be maintained indefinitely, with possible attempts to decrease the dosage every 6 to 12 months, depending on the patient\u0027s history. (622)"
+        "explanation":  "Indefinitely After one psychotic episode, a patient should be maintained on an antipsychotic for about 1 to 2 years, and after the second episode, about 5 years. After the third episode, medication should be maintained indefinitely, with possible attempts to decrease the dosage every 6 to 12 months, depending on the patient\u0027s history. (622)"
     },
     {
         "id":  "k-21.24",
@@ -8079,7 +8079,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Continue current dose",
-        "explanation":  "OCD typically takes a higher dose of an SSRI for a longer amount of time than when treating depression. Whereas maximum effect at a certain dose for depression may be reached around 6 weeks, maximum effect for OCD may not be achieved for several months. The patient continues to improve at every 4-week visit, and the medication is at the highest dose. Therefore, the medication should be continued at the current dose. Though there is some evidence for supratherapeutic dosing in some individuals, that is not considered best practice. This also would speak against adding risperidone, as would her current diagnosis of diabetes, and also speaks against changing to a new medication when the one she is on is effective. (627)"
+        "explanation":  "Continue current dose OCD typically takes a higher dose of an SSRI for a longer amount of time than when treating depression. Whereas maximum effect at a certain dose for depression may be reached around 6 weeks, maximum effect for OCD may not be achieved for several months. The patient continues to improve at every 4-week visit, and the medication is at the highest dose. Therefore, the medication should be continued at the current dose. Though there is some evidence for supratherapeutic dosing in some individuals, that is not considered best practice. This also would speak against adding risperidone, as would her current diagnosis of diabetes, and also speaks against changing to a new medication when the one she is on is effective. (627)"
     },
     {
         "id":  "k-21.25",
@@ -8103,7 +8103,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Sexual dysfunction",
-        "explanation":  "Nausea is a common side effect of SSRIs due to activation of 5HT3 gut receptors. However, this usually resolves in a few weeks. SSRIs are often used for headache, especially migraine prophylaxis, and result in an incidence of headaches of about 20%, similar to that of placebo. Some SSRIs can lead to initial anxiety or worsening of anxiety, which can be often mitigated by starting at a lower dose and titrating slowly, and usually resolves in a few weeks. About 25% of people taking an SSRI report sleep difficulty such as insomnia or somnolence. Between 50% and 80% of people who take SSRIs report sexual side effects such as anorgasmia, delayed orgasm, and premature ejaculation. Sexual dysfunction tends not to remit with time, and may lead to changing to a non-SSRI such as bupropion or mirtazapine. (628, 629)"
+        "explanation":  "Sexual dysfunction Nausea is a common side effect of SSRIs due to activation of 5HT3 gut receptors. However, this usually resolves in a few weeks. SSRIs are often used for headache, especially migraine prophylaxis, and result in an incidence of headaches of about 20%, similar to that of placebo. Some SSRIs can lead to initial anxiety or worsening of anxiety, which can be often mitigated by starting at a lower dose and titrating slowly, and usually resolves in a few weeks. About 25% of people taking an SSRI report sleep difficulty such as insomnia or somnolence. Between 50% and 80% of people who take SSRIs report sexual side effects such as anorgasmia, delayed orgasm, and premature ejaculation. Sexual dysfunction tends not to remit with time, and may lead to changing to a non-SSRI such as bupropion or mirtazapine. (628, 629)"
     },
     {
         "id":  "k-21.26",
@@ -8151,7 +8151,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "A sharp increase in plasma serotonin",
-        "explanation":  "Addition of an SSRI to lithium can lead to serotonin syndrome, which can occur when the SSRI is first added or when the dose is increased. Symptoms usually begin hours after taking the medication and start with diarrhea, restlessness, and agitation, and can progress to symptoms including autonomic instability, hyperthermia, delirium, coma, and death if left untreated. The first order of treatment is to immediately stop taking the SSRI. If symptoms progress, she should go to the nearest emergency department. Diarrhea is not a symptom of anxiety disorders, atypical depression, or mania. Co-administration of SSRIs does not raise the lithium level, as lithium is not metabolized by the liver. (630)"
+        "explanation":  "A sharp increase in plasma serotonin Addition of an SSRI to lithium can lead to serotonin syndrome, which can occur when the SSRI is first added or when the dose is increased. Symptoms usually begin hours after taking the medication and start with diarrhea, restlessness, and agitation, and can progress to symptoms including autonomic instability, hyperthermia, delirium, coma, and death if left untreated. The first order of treatment is to immediately stop taking the SSRI. If symptoms progress, she should go to the nearest emergency department. Diarrhea is not a symptom of anxiety disorders, atypical depression, or mania. Co-administration of SSRIs does not raise the lithium level, as lithium is not metabolized by the liver. (630)"
     },
     {
         "id":  "k-21.28",
@@ -8175,7 +8175,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Half-life",
-        "explanation":  "The likelihood of developing SSRI discontinuation syndrome is based on the half-life of the medication. For this reason paroxetine, with a half-life of 21 hours, is most likely to lead to discontinuation syndrome, while fluoxetine, with a half-life of 4 to 6 days of the parent drug and 9.3 days of the active metabolite, is least likely. Therefore, one strategy to mitigate withdrawal effects caused by the termination of other SSRIs is to change the person\u0027s medication to fluoxetine, then taper off of that. (630)"
+        "explanation":  "Half-life The likelihood of developing SSRI discontinuation syndrome is based on the half-life of the medication. For this reason paroxetine, with a half-life of 21 hours, is most likely to lead to discontinuation syndrome, while fluoxetine, with a half-life of 4 to 6 days of the parent drug and 9.3 days of the active metabolite, is least likely. Therefore, one strategy to mitigate withdrawal effects caused by the termination of other SSRIs is to change the person\u0027s medication to fluoxetine, then taper off of that. (630)"
     },
     {
         "id":  "k-21.29",
@@ -8199,7 +8199,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Blood pressure",
-        "explanation":  "Venlafaxine, most notably the instant release formulation, can lead to a dose-related sustained increase in blood pressure. Unlike serotonin-dopamine antagonists, venlafaxine is not known to lead to changes in weight, blood glucose, or serum lipids. Impaired oxygenation could result from the smoking history, not venlafaxine. (633)"
+        "explanation":  "Blood pressure Venlafaxine, most notably the instant release formulation, can lead to a dose-related sustained increase in blood pressure. Unlike serotonin-dopamine antagonists, venlafaxine is not known to lead to changes in weight, blood glucose, or serum lipids. Impaired oxygenation could result from the smoking history, not venlafaxine. (633)"
     },
     {
         "id":  "k-21.30",
@@ -8223,7 +8223,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Lack of serotonin reuptake inhibition",
-        "explanation":  "Sexual side effects of antidepressants are mostly mediated by serotonin, though the exact mechanism is still unknown. Bupropion does not act on serotonin, which is thought to be the reason that it leads to low sexual dysfunction. Bupropion both ultimately stimulates dopamine reward pathways and norepinephrine receptors, as the medication inhibits the reuptake of both neurotransmitters. Those actions do not correlate with sexual dysfunction, though increased reward pathway stimulation could lead to increased libido. Bupropion is usually administered in the morning, leading to decreased evening plasma levels, but this is unrelated to sexual dysfunction, as is the half-life of the medication. (635)"
+        "explanation":  "Lack of serotonin reuptake inhibition Sexual side effects of antidepressants are mostly mediated by serotonin, though the exact mechanism is still unknown. Bupropion does not act on serotonin, which is thought to be the reason that it leads to low sexual dysfunction. Bupropion both ultimately stimulates dopamine reward pathways and norepinephrine receptors, as the medication inhibits the reuptake of both neurotransmitters. Those actions do not correlate with sexual dysfunction, though increased reward pathway stimulation could lead to increased libido. Bupropion is usually administered in the morning, leading to decreased evening plasma levels, but this is unrelated to sexual dysfunction, as is the half-life of the medication. (635)"
     },
     {
         "id":  "k-21.31",
@@ -8247,7 +8247,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Epilepsy",
-        "explanation":  "Bupropion confers a dose-dependent risk of seizures of 0.05% at 300 mg/day and 0.1% at 400 mg/day, and is contraindicated for persons with epilepsy. Hypertension may occur in some patients, so it should be used with caution in those with that condition. Likewise, it should be used with caution in individuals with severe cirrhosis or hepatic impairment, or renal impairment, but is not contraindicated. Bupropion is not known to affect QTc interval. (636)"
+        "explanation":  "Epilepsy Bupropion confers a dose-dependent risk of seizures of 0.05% at 300 mg/day and 0.1% at 400 mg/day, and is contraindicated for persons with epilepsy. Hypertension may occur in some patients, so it should be used with caution in those with that condition. Likewise, it should be used with caution in individuals with severe cirrhosis or hepatic impairment, or renal impairment, but is not contraindicated. Bupropion is not known to affect QTc interval. (636)"
     },
     {
         "id":  "k-21.32",
@@ -8271,7 +8271,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Antagonism of presynaptic alpha-2 receptors",
-        "explanation":  "Mirtazapine is unique in that it increases the amount of serotonin and norepinephrine via antagonism of presynaptic alpha-2 adrenergic receptors, which inhibit release of those two neurotransmitters. Inhibition of serotonin and norepinephrine reuptake is the mechanism of action of SNRIs such as venlafaxine and duloxetine. Inhibition of serotonin and dopamine reuptake is the mechanism of action of bupropion. Stimulation of serotonin 5HT1A receptors is one of the mechanisms of vilazodone and buspirone. Serotonin- dopamine antagonism is the mechanism of action of \"atypical\" antipsychotics such as risperidone, ziprasidone, and olanzapine. (637)"
+        "explanation":  "Antagonism of presynaptic alpha-2 receptors Mirtazapine is unique in that it increases the amount of serotonin and norepinephrine via antagonism of presynaptic alpha-2 adrenergic receptors, which inhibit release of those two neurotransmitters. Inhibition of serotonin and norepinephrine reuptake is the mechanism of action of SNRIs such as venlafaxine and duloxetine. Inhibition of serotonin and dopamine reuptake is the mechanism of action of bupropion. Stimulation of serotonin 5HT1A receptors is one of the mechanisms of vilazodone and buspirone. Serotonin- dopamine antagonism is the mechanism of action of \"atypical\" antipsychotics such as risperidone, ziprasidone, and olanzapine. (637)"
     },
     {
         "id":  "k-21.33",
@@ -8295,7 +8295,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Mirtazapine",
-        "explanation":  "The patient is showing symptoms of depression and depression-related cognitive dysfunction (also known as pseudodementia). As opposed to primary dementia, the progression of memory loss was rapid, she is distressed by the memory loss, and she does not try hard on the mental status examination, as opposed to trying and getting answers wrong. Also, her symptoms do not follow a pattern of worsening in the evening, which would be suggestive of sundowning, a delirium that is sometimes present in those with dementia. In this patient, the cognitive symptoms are in addition to the regular symptoms of major depressive disorder, so she should be treated with an antidepressant. Mirtazapine would be an especially good choice due to its side effects of appetite stimulation and somnolence. Memantine would be given for a true dementia. Risperidone could be given if she were sundowning. An antibiotic could be given if she were shown to have a UTI or other infection which could lead to delirium. Though hydroxyzine can be helpful for sleep, it would not help with the primary problem of depression, and should be used with caution, as should any anticholinergic medication in the elderly. (237, 637)"
+        "explanation":  "Mirtazapine The patient is showing symptoms of depression and depression-related cognitive dysfunction (also known as pseudodementia). As opposed to primary dementia, the progression of memory loss was rapid, she is distressed by the memory loss, and she does not try hard on the mental status examination, as opposed to trying and getting answers wrong. Also, her symptoms do not follow a pattern of worsening in the evening, which would be suggestive of sundowning, a delirium that is sometimes present in those with dementia. In this patient, the cognitive symptoms are in addition to the regular symptoms of major depressive disorder, so she should be treated with an antidepressant. Mirtazapine would be an especially good choice due to its side effects of appetite stimulation and somnolence. Memantine would be given for a true dementia. Risperidone could be given if she were sundowning. An antibiotic could be given if she were shown to have a UTI or other infection which could lead to delirium. Though hydroxyzine can be helpful for sleep, it would not help with the primary problem of depression, and should be used with caution, as should any anticholinergic medication in the elderly. (237, 637)"
     },
     {
         "id":  "k-21.34",
@@ -8319,7 +8319,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Liver function",
-        "explanation":  "Brand-name nefazodone (Serzone) has been discontinued in the United States since 2004. However, generic formulations are still available. The medication can cause severe elevation of hepatic enzymes, which in rare cases has led to death. Patients on the medication should have serial hepatic function tests. (638)"
+        "explanation":  "Liver function Brand-name nefazodone (Serzone) has been discontinued in the United States since 2004. However, generic formulations are still available. The medication can cause severe elevation of hepatic enzymes, which in rare cases has led to death. Patients on the medication should have serial hepatic function tests. (638)"
     },
     {
         "id":  "k-21.35",
@@ -8343,7 +8343,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Priapism",
-        "explanation":  "Though rare at a rate of about one in 10,000, trazodone can lead to priapism, usually within the first 4 weeks of treatment. This is a medical emergency that can require an injection of an alpha-1 agonist agent into the cavernosum of the penis. In some cases, surgery is required. (640)"
+        "explanation":  "Priapism Though rare at a rate of about one in 10,000, trazodone can lead to priapism, usually within the first 4 weeks of treatment. This is a medical emergency that can require an injection of an alpha-1 agonist agent into the cavernosum of the penis. In some cases, surgery is required. (640)"
     },
     {
         "id":  "k-21.36",
@@ -8367,7 +8367,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Serotonin and norepinephrine reuptake inhibition",
-        "explanation":  "TCAs work by blocking reuptake of serotonin and norepinephrine in a similar manner to medications such as venlafaxine and duloxetine. However, TCAs have greater anticholinergic and antihistaminergic side effects due to their antagonism of cholinergic muscarinic receptors. They also antagonize H1 receptors, which leads to sedation. In addition, they block alpha-1 receptors, which leads to orthostatic hypotension, the most common cardiovascular autonomic side effect. Serotonin, norepinephrine, and dopamine reuptake inhibition are part of the mechanism of monoamine oxidase inhibitors (MAOIs). (641, 642)"
+        "explanation":  "Serotonin and norepinephrine reuptake inhibition TCAs work by blocking reuptake of serotonin and norepinephrine in a similar manner to medications such as venlafaxine and duloxetine. However, TCAs have greater anticholinergic and antihistaminergic side effects due to their antagonism of cholinergic muscarinic receptors. They also antagonize H1 receptors, which leads to sedation. In addition, they block alpha-1 receptors, which leads to orthostatic hypotension, the most common cardiovascular autonomic side effect. Serotonin, norepinephrine, and dopamine reuptake inhibition are part of the mechanism of monoamine oxidase inhibitors (MAOIs). (641, 642)"
     },
     {
         "id":  "k-21.37",
@@ -8415,7 +8415,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Amitriptyline",
-        "explanation":  "Though all of the medications are possible treatments for depression, tricyclic antidepressants (TCAs) should be avoided in patients with narrow-angle glaucoma, as their anticholinergic effects can exacerbate the condition. (702)"
+        "explanation":  "Amitriptyline Though all of the medications are possible treatments for depression, tricyclic antidepressants (TCAs) should be avoided in patients with narrow-angle glaucoma, as their anticholinergic effects can exacerbate the condition. (702)"
     },
     {
         "id":  "k-21.39",
@@ -8439,7 +8439,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Heart disease",
-        "explanation":  "Tricyclic antidepressants (TCAs) can cause a myriad of side effects and can exacerbate problems from preexisting conditions. They can possibly induce seizures in patients with epilepsy, but such persons can still use TCAs with a \"start low, go slow\" initiation and titration. There is not a definitive link between TCAs and birth defects, though TCAs should be discontinued 1 week before delivery, if possible, as they cross the placenta and neonatal withdrawal can occur. TCAs can cause increases in serum transaminases, and in a small percentage, fulminant acute hepatitis. However, they can still be used in patients with liver disease. There is no contraindication in persons with renal disease, as it is metabolized in the liver with little to no excretion in the urine. TCAs, at usual therapeutic doses, can cause tachycardia, flattened T waves, prolonged QT intervals, and depressed ST segments, and should be used in persons with any heart disease only after SSRIs and other antidepressants have been deemed ineffective. They are contraindicated in persons with a QTc greater than 450 ms. (642)"
+        "explanation":  "Heart disease Tricyclic antidepressants (TCAs) can cause a myriad of side effects and can exacerbate problems from preexisting conditions. They can possibly induce seizures in patients with epilepsy, but such persons can still use TCAs with a \"start low, go slow\" initiation and titration. There is not a definitive link between TCAs and birth defects, though TCAs should be discontinued 1 week before delivery, if possible, as they cross the placenta and neonatal withdrawal can occur. TCAs can cause increases in serum transaminases, and in a small percentage, fulminant acute hepatitis. However, they can still be used in patients with liver disease. There is no contraindication in persons with renal disease, as it is metabolized in the liver with little to no excretion in the urine. TCAs, at usual therapeutic doses, can cause tachycardia, flattened T waves, prolonged QT intervals, and depressed ST segments, and should be used in persons with any heart disease only after SSRIs and other antidepressants have been deemed ineffective. They are contraindicated in persons with a QTc greater than 450 ms. (642)"
     },
     {
         "id":  "k-21.40",
@@ -8463,7 +8463,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "The body to synthesize new monoamine oxidase",
-        "explanation":  "Irreversible MAOIs work by permanently inhibiting monoamine oxidase. The body takes about 2 weeks to synthesize new, uninhibited enzyme. (646)"
+        "explanation":  "The body to synthesize new monoamine oxidase Irreversible MAOIs work by permanently inhibiting monoamine oxidase. The body takes about 2 weeks to synthesize new, uninhibited enzyme. (646)"
     },
     {
         "id":  "k-21.41",
@@ -8487,7 +8487,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Thyroid function",
-        "explanation":  "The patient is describing classic symptoms of depression, for which hypothyroidism can be a cause, and therefore should be a part of a standard depression workup. Colchicine is not known to cause depression either in standard doses or in overdose. Likewise, gout itself, which can lead to an increase in uric acid, is also not known to primarily cause depression, though in some studies people with recurrent attacks of gout were more likely to be depressed compared with the general population. There is no indication in the history for a urinalysis or CBC, which are not typical labs drawn during the workup for depression. (648)"
+        "explanation":  "Thyroid function The patient is describing classic symptoms of depression, for which hypothyroidism can be a cause, and therefore should be a part of a standard depression workup. Colchicine is not known to cause depression either in standard doses or in overdose. Likewise, gout itself, which can lead to an increase in uric acid, is also not known to primarily cause depression, though in some studies people with recurrent attacks of gout were more likely to be depressed compared with the general population. There is no indication in the history for a urinalysis or CBC, which are not typical labs drawn during the workup for depression. (648)"
     },
     {
         "id":  "k-21.42",
@@ -8511,7 +8511,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Antagonist",
-        "explanation":  "The putative antidepressant mechanism of ketamine and esketamine is the antagonism of NMDA receptors. (648)"
+        "explanation":  "Antagonist The putative antidepressant mechanism of ketamine and esketamine is the antagonism of NMDA receptors. (648)"
     },
     {
         "id":  "k-21.43",
@@ -8535,7 +8535,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Normal lithium side effect",
-        "explanation":  "A fine motor tremor is not uncommon at a therapeutic lithium dose. However, a course tremor could indicate lithium toxicity or overdose. Though lithium has been known to cause both hyper and hypothyroidism, the latter of which could cause a tremor, neither would likely develop within 4 weeks. Lithium withdrawal does not cause tremor, and with a half-life of 18 to 24 hours in young adults, he would not be withdrawing after only 7 hours. (651, 652)"
+        "explanation":  "Normal lithium side effect A fine motor tremor is not uncommon at a therapeutic lithium dose. However, a course tremor could indicate lithium toxicity or overdose. Though lithium has been known to cause both hyper and hypothyroidism, the latter of which could cause a tremor, neither would likely develop within 4 weeks. Lithium withdrawal does not cause tremor, and with a half-life of 18 to 24 hours in young adults, he would not be withdrawing after only 7 hours. (651, 652)"
     },
     {
         "id":  "k-21.44",
@@ -8559,7 +8559,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Ebstein anomaly",
-        "explanation":  "Neural tube defects and anencephaly are associated with valproate use during pregnancy. Spina bifida is associated with carbamazepine and valproate. Ebstein anomaly is associated with lithium. (653, 657)"
+        "explanation":  "Ebstein anomaly Neural tube defects and anencephaly are associated with valproate use during pregnancy. Spina bifida is associated with carbamazepine and valproate. Ebstein anomaly is associated with lithium. (653, 657)"
     },
     {
         "id":  "k-21.45",
@@ -8607,7 +8607,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Beginning folic acid supplementation",
-        "explanation":  "As with any pregnancy and mental illness, the risk of an exacerbation or relapse must be weighed against the risk of harm to the fetus. In this case, given six hospitalizations for acute mania in 2 years despite trying several other medications, the risk of relapse, and possible fetal harm due to actions taken while manic, is high. The patient also states that she does not want to risk relapse. She has already been on numerous other antiepileptic and antipsychotic medications, so the likelihood of another proving to be as effective and without intolerable side effects within the next year is relatively low. Though one should \"treat the patient and not the lab results,\" a valproate level below 50 -g/mL is considered to be subtherapeutic, and would be risky for someone who easily becomes manic. Likewise, discontinuing the medication until she gets pregnant and gets through the first trimester is risky. Daily folic acid supplementation of 1 to 4 mg daily can decrease the risk of valproate-induced neural tube defects. If after preconceptual education about this option she wishes to continue with the plan for pregnancy, this would be the safest course for her. (657)"
+        "explanation":  "Beginning folic acid supplementation As with any pregnancy and mental illness, the risk of an exacerbation or relapse must be weighed against the risk of harm to the fetus. In this case, given six hospitalizations for acute mania in 2 years despite trying several other medications, the risk of relapse, and possible fetal harm due to actions taken while manic, is high. The patient also states that she does not want to risk relapse. She has already been on numerous other antiepileptic and antipsychotic medications, so the likelihood of another proving to be as effective and without intolerable side effects within the next year is relatively low. Though one should \"treat the patient and not the lab results,\" a valproate level below 50 -g/mL is considered to be subtherapeutic, and would be risky for someone who easily becomes manic. Likewise, discontinuing the medication until she gets pregnant and gets through the first trimester is risky. Daily folic acid supplementation of 1 to 4 mg daily can decrease the risk of valproate-induced neural tube defects. If after preconceptual education about this option she wishes to continue with the plan for pregnancy, this would be the safest course for her. (657)"
     },
     {
         "id":  "k-21.47",
@@ -8631,7 +8631,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Liver function",
-        "explanation":  "Valproate can lead to thrombocytopenia, so a CBC should be drawn at 1 month and every 6 to 24 months afterward. Valproate can also lead to hepatotoxicity, so liver function tests (LFTs) should be drawn on the same schedule. Thyroid and renal function tests should be drawn periodically for patients on lithium. Glucose and lipid panels should be drawn periodically for patients on atypical antipsychotics. (658)"
+        "explanation":  "Liver function Valproate can lead to thrombocytopenia, so a CBC should be drawn at 1 month and every 6 to 24 months afterward. Valproate can also lead to hepatotoxicity, so liver function tests (LFTs) should be drawn on the same schedule. Thyroid and renal function tests should be drawn periodically for patients on lithium. Glucose and lipid panels should be drawn periodically for patients on atypical antipsychotics. (658)"
     },
     {
         "id":  "k-21.48",
@@ -8653,7 +8653,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Restart the titration from the beginning (day 1)",
-        "explanation":  "Due to the possibility of Stevens-Johnson syndrome when lamotrigine is titrated too rapidly, if more than four consecutive doses are missed, titration should be restarted from the beginning. (659)"
+        "explanation":  "Restart the titration from the beginning (day 1) Due to the possibility of Stevens-Johnson syndrome when lamotrigine is titrated too rapidly, if more than four consecutive doses are missed, titration should be restarted from the beginning. (659)"
     },
     {
         "id":  "k-21.49",
@@ -8677,7 +8677,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Increase in carbamazepine metabolism",
-        "explanation":  "Carbamazepine induces its own metabolism over time by autoinducing the hepatic enzymes that metabolize it, leading to a decrease in half-life from an average of 26 hours to an average of 12 hours. The enzyme induction reaches its maximum level after 3 to 5 weeks. Four months of therapy is likely too early for \"poop out,\" especially since she has been on the current dose for only 2 months. The patient is not giving indications of noncompliance. Carbamazepine does not interact with thyroid hormone, and its antimanic effects are often augmented by thyroid hormone. Thyroid hormone is not known to induce mania. (660, 661)"
+        "explanation":  "Increase in carbamazepine metabolism Carbamazepine induces its own metabolism over time by autoinducing the hepatic enzymes that metabolize it, leading to a decrease in half-life from an average of 26 hours to an average of 12 hours. The enzyme induction reaches its maximum level after 3 to 5 weeks. Four months of therapy is likely too early for \"poop out,\" especially since she has been on the current dose for only 2 months. The patient is not giving indications of noncompliance. Carbamazepine does not interact with thyroid hormone, and its antimanic effects are often augmented by thyroid hormone. Thyroid hormone is not known to induce mania. (660, 661)"
     },
     {
         "id":  "k-21.50",
@@ -8749,7 +8749,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Benzodiazepines",
-        "explanation":  "Flumazenil can be used to reverse the adverse psychomotor, amnestic, and sedative effects of benzodiazepines. It does not reverse the effects of ethanol, barbiturates, or opioids, and in patients who have also overdosed on other drugs, such tricyclics, the reversal of benzodiazepine effects on those drugs can lead to their toxic effects, such as seizures and cardiac arrhythmias. (671)"
+        "explanation":  "Benzodiazepines Flumazenil can be used to reverse the adverse psychomotor, amnestic, and sedative effects of benzodiazepines. It does not reverse the effects of ethanol, barbiturates, or opioids, and in patients who have also overdosed on other drugs, such tricyclics, the reversal of benzodiazepine effects on those drugs can lead to their toxic effects, such as seizures and cardiac arrhythmias. (671)"
     },
     {
         "id":  "k-21.53",
@@ -8771,7 +8771,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Respirations",
-        "explanation":  "The combination of a benzodiazepine and alcohol or other central nervous system (CNS) depressant can lead to severe and possibly fatal respiratory depression. Some stimulants such as cocaine can raise blood pressure and lead to tachycardia, while others such as MDMA can raise body temperature. (672)"
+        "explanation":  "Respirations The combination of a benzodiazepine and alcohol or other central nervous system (CNS) depressant can lead to severe and possibly fatal respiratory depression. Some stimulants such as cocaine can raise blood pressure and lead to tachycardia, while others such as MDMA can raise body temperature. (672)"
     },
     {
         "id":  "k-21.54",
@@ -8795,7 +8795,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Generalized anxiety disorder",
-        "explanation":  "Buspirone has only shown effectiveness as a primary agent in the treatment of generalized anxiety disorder. It has also shown some effectiveness in major depressive disorder, but only as an augmenting agent. It has not been shown to be effective in the treatment of panic disorder, OCD, or social phobia. (673)"
+        "explanation":  "Generalized anxiety disorder Buspirone has only shown effectiveness as a primary agent in the treatment of generalized anxiety disorder. It has also shown some effectiveness in major depressive disorder, but only as an augmenting agent. It has not been shown to be effective in the treatment of panic disorder, OCD, or social phobia. (673)"
     },
     {
         "id":  "k-21.55",
@@ -8819,7 +8819,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Propranolol",
-        "explanation":  "The patient is describing social anxiety, for which the treatment of choice is an SSRI, though an SNRI could also be used. For more immediate relief, a benzodiazepine or a beta blocker is often used. Hydroxyzine would be less useful for such a situation due to its sedative properties. A beta blocker is relatively contraindicated in someone with diabetes, as it can antagonize the normal physiologic response to hypoglycemia. However, there are times during which the benefit of treatment with a beta blocker can outweigh the risk. (675)"
+        "explanation":  "Propranolol The patient is describing social anxiety, for which the treatment of choice is an SSRI, though an SNRI could also be used. For more immediate relief, a benzodiazepine or a beta blocker is often used. Hydroxyzine would be less useful for such a situation due to its sedative properties. A beta blocker is relatively contraindicated in someone with diabetes, as it can antagonize the normal physiologic response to hypoglycemia. However, there are times during which the benefit of treatment with a beta blocker can outweigh the risk. (675)"
     },
     {
         "id":  "k-21.56",
@@ -8843,7 +8843,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Amobarbital",
-        "explanation":  "Signs and symptoms of overdose of barbiturates such as amobarbital include confusion, nystagmus, ataxia, areflexia or hyporeflexia, delirium, and respiratory depression. In decades past, they were commonly prescribed for sleep, but their use has fallen out of favor with the advent of much safer alternatives. (677)"
+        "explanation":  "Amobarbital Signs and symptoms of overdose of barbiturates such as amobarbital include confusion, nystagmus, ataxia, areflexia or hyporeflexia, delirium, and respiratory depression. In decades past, they were commonly prescribed for sleep, but their use has fallen out of favor with the advent of much safer alternatives. (677)"
     },
     {
         "id":  "k-21.57",
@@ -8891,7 +8891,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Dizziness",
-        "explanation":  "Though not FDA approved for treating nightmares, prazosin is often used for that purpose, especially in patients with PTSD. As it is an alpha-2 antagonist that lowers blood pressure in standing and supine positions, dizziness is the most common side effect. Priapism can be caused by trazodone, but that is relatively rare. Amnesia and automatic behaviors can be caused by zolpidem. Some use an atypical antipsychotic for insomnia, which should not routinely be done as the risk of weight gain and metabolic problems is not necessarily dose related. (681)"
+        "explanation":  "Dizziness Though not FDA approved for treating nightmares, prazosin is often used for that purpose, especially in patients with PTSD. As it is an alpha-2 antagonist that lowers blood pressure in standing and supine positions, dizziness is the most common side effect. Priapism can be caused by trazodone, but that is relatively rare. Amnesia and automatic behaviors can be caused by zolpidem. Some use an atypical antipsychotic for insomnia, which should not routinely be done as the risk of weight gain and metabolic problems is not necessarily dose related. (681)"
     },
     {
         "id":  "k-21.59",
@@ -8915,7 +8915,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Change the medication to mixed amphetamine salts",
-        "explanation":  "Both methylphenidate and amphetamine preparations of stimulants are effective about 75% of the time. In patients who do not respond to one of the medications, about 70% will respond to the other, which should be tried unless there is a contraindication. Atomoxetine is considered second-line therapy for ADHD, and alpha-2 agonists and bupropion are further down. If there has been a negligible therapeutic effect at 20 mg twice a day, yet the patient is experiencing side effects, increasing the dose further is unlikely to be of much benefit. (682)"
+        "explanation":  "Change the medication to mixed amphetamine salts Both methylphenidate and amphetamine preparations of stimulants are effective about 75% of the time. In patients who do not respond to one of the medications, about 70% will respond to the other, which should be tried unless there is a contraindication. Atomoxetine is considered second-line therapy for ADHD, and alpha-2 agonists and bupropion are further down. If there has been a negligible therapeutic effect at 20 mg twice a day, yet the patient is experiencing side effects, increasing the dose further is unlikely to be of much benefit. (682)"
     },
     {
         "id":  "k-21.60",
@@ -8939,7 +8939,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Methylphenidate",
-        "explanation":  "The first-line pharmacologic treatment for ADHD, inattentive type is a stimulant. It had long been thought that stimulants can exacerbate tics, but current research has shown that this is not an absolute, with some research showing that tics may improve after stimulant treatment. However, some tics may worsen with methylphenidate, but this is not a contraindication to attempting a stimulant. The other treatments may be effective, but they are not first line. (683)"
+        "explanation":  "Methylphenidate The first-line pharmacologic treatment for ADHD, inattentive type is a stimulant. It had long been thought that stimulants can exacerbate tics, but current research has shown that this is not an absolute, with some research showing that tics may improve after stimulant treatment. However, some tics may worsen with methylphenidate, but this is not a contraindication to attempting a stimulant. The other treatments may be effective, but they are not first line. (683)"
     },
     {
         "id":  "k-21.61",
@@ -8963,7 +8963,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Weight",
-        "explanation":  "Stimulant medications can cause the heart rate and blood pressure to increase, not decrease. Though growth suppression is often a concern, studies do not support long-term growth suppression as a side effect. Even if it were to occur, the child would not lose height, just not gain as much as projected. A notorious and common side effect of stimulants is anorexia, which can lead to a measurable weight loss. This can sometimes be mitigated by giving the medication after a meal or by adding caloric supplements during the day. (683, 684)"
+        "explanation":  "Weight Stimulant medications can cause the heart rate and blood pressure to increase, not decrease. Though growth suppression is often a concern, studies do not support long-term growth suppression as a side effect. Even if it were to occur, the child would not lose height, just not gain as much as projected. A notorious and common side effect of stimulants is anorexia, which can lead to a measurable weight loss. This can sometimes be mitigated by giving the medication after a meal or by adding caloric supplements during the day. (683, 684)"
     },
     {
         "id":  "k-21.62",
@@ -8987,7 +8987,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Norepinephrine reuptake inhibition",
-        "explanation":  "Atomoxetine works by inhibiting the presynaptic norepinephrine transporter, thus decreasing norepinephrine reuptake. Clonidine and guanfacine are alpha-agonists used in the treatment of ADHD. Bupropion works by inhibiting norepinephrine and dopamine reuptake. Stimulants increase dopamine and norepinephrine release. Flumazenil is a GABA inhibitor used to reverse the effects of benzodiazepines. (686)"
+        "explanation":  "Norepinephrine reuptake inhibition Atomoxetine works by inhibiting the presynaptic norepinephrine transporter, thus decreasing norepinephrine reuptake. Clonidine and guanfacine are alpha-agonists used in the treatment of ADHD. Bupropion works by inhibiting norepinephrine and dopamine reuptake. Stimulants increase dopamine and norepinephrine release. Flumazenil is a GABA inhibitor used to reverse the effects of benzodiazepines. (686)"
     },
     {
         "id":  "k-21.63",
@@ -9013,7 +9013,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Methadone \u003e buprenorphine \u003e naltrexone",
-        "explanation":  "Methadone is a full --opioid receptor agonist which is used for short- and long-term opioid detoxification as well as maintenance. Buprenorphine is a partial --opioid receptor agonist, and therefore produces a milder withdrawal than a full agonist. Naltrexone is a --opioid antagonist that reverses the effects of opioid receptor agonists and precipitates a withdrawal reaction. (687, 689)"
+        "explanation":  "Methadone \u003e buprenorphine \u003e naltrexone Methadone is a full --opioid receptor agonist which is used for short- and long-term opioid detoxification as well as maintenance. Buprenorphine is a partial --opioid receptor agonist, and therefore produces a milder withdrawal than a full agonist. Naltrexone is a --opioid antagonist that reverses the effects of opioid receptor agonists and precipitates a withdrawal reaction. (687, 689)"
     },
     {
         "id":  "k-21.64",
@@ -9037,7 +9037,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Clonidine",
-        "explanation":  "The patient is experiencing classic withdrawal from a -- opioid agonist. Given that he has expressed a desire to come off of such drugs/medications, restarting methadone, or starting buprenorphine or tramadol, would be counter to his wishes. Naloxone could make him feel worse, as it would displace any residual methadone. Clonidine is used to mitigate the adrenergic effects of withdrawal, such as jitteriness and anxiety. However, it will not help the gastrointestinal (GI) symptoms. (689)"
+        "explanation":  "Clonidine The patient is experiencing classic withdrawal from a -- opioid agonist. Given that he has expressed a desire to come off of such drugs/medications, restarting methadone, or starting buprenorphine or tramadol, would be counter to his wishes. Naloxone could make him feel worse, as it would displace any residual methadone. Clonidine is used to mitigate the adrenergic effects of withdrawal, such as jitteriness and anxiety. However, it will not help the gastrointestinal (GI) symptoms. (689)"
     },
     {
         "id":  "k-21.65",
@@ -9061,7 +9061,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Naltrexone",
-        "explanation":  "The patient cites alcohol cravings as the main reason for relapse, which opioid receptor antagonists can reduce, especially when paired with an SSRI, according to some studies. Diazepam, like alprazolam and chlordiazepoxide, is often used in protocols such as the Clinical Institute Withdrawal Assessment Alcohol Scale Revised to treat agitation from withdrawal and prevent seizures. Clonidine is used in the treatment of some acute symptoms of opioid withdrawal. The COMBINE study did not show evidence for an increased benefit from acamprosate over naltrexone. Disulfiram does not help with cravings. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC29458 72/ (691, 693)"
+        "explanation":  "Naltrexone The patient cites alcohol cravings as the main reason for relapse, which opioid receptor antagonists can reduce, especially when paired with an SSRI, according to some studies. Diazepam, like alprazolam and chlordiazepoxide, is often used in protocols such as the Clinical Institute Withdrawal Assessment Alcohol Scale Revised to treat agitation from withdrawal and prevent seizures. Clonidine is used in the treatment of some acute symptoms of opioid withdrawal. The COMBINE study did not show evidence for an increased benefit from acamprosate over naltrexone. Disulfiram does not help with cravings. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC29458 72/ (691, 693)"
     },
     {
         "id":  "k-21.66",
@@ -9085,7 +9085,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Aldehyde dehydrogenase inhibition",
-        "explanation":  "Disulfiram exerts its therapeutic effect of causing adverse physiologic reactions after the consumption of alcohol by inhibiting aldehyde dehydrogenase, which therefore blocks alcohol metabolism. This subsequently causes an increase in blood acetaldehyde which leads to nausea, headache, vomiting, flushing, and many other unpleasant reactions. Acamprosate theoretically works by increasing GABA transmission and decreasing glutamate transmission. Though opioid receptor antagonists such as naloxone can be used in the treatment of alcohol use disorder, that mechanism is not present in disulfiram. Disulfiram does not compete with ethanol\u0027s binding to GABA receptors (in the way that flumazenil works by blocking GABA benzodiazepine receptors). (693)"
+        "explanation":  "Aldehyde dehydrogenase inhibition Disulfiram exerts its therapeutic effect of causing adverse physiologic reactions after the consumption of alcohol by inhibiting aldehyde dehydrogenase, which therefore blocks alcohol metabolism. This subsequently causes an increase in blood acetaldehyde which leads to nausea, headache, vomiting, flushing, and many other unpleasant reactions. Acamprosate theoretically works by increasing GABA transmission and decreasing glutamate transmission. Though opioid receptor antagonists such as naloxone can be used in the treatment of alcohol use disorder, that mechanism is not present in disulfiram. Disulfiram does not compete with ethanol\u0027s binding to GABA receptors (in the way that flumazenil works by blocking GABA benzodiazepine receptors). (693)"
     },
     {
         "id":  "k-21.67",
@@ -9109,7 +9109,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Clonidine",
-        "explanation":  "The child is exhibiting signs and symptoms of clonidine withdrawal, which can begin about 20 hours after the last dose, or if one to two doses have been missed. The child likely took the medication for ADHD at night, and therefore would have last taken it on Thursday night and missed it on Friday and Saturday nights. Discontinuation syndrome consists of anxiety, restlessness, agitation, tremor, abdominal pain, and increased heart rate, blood pressure, and respirations, all of which would be expected with rebound alpha-2 agonist disinhibition. Once he restarts the clonidine, his blood pressure should return to normal. (696)"
+        "explanation":  "Clonidine The child is exhibiting signs and symptoms of clonidine withdrawal, which can begin about 20 hours after the last dose, or if one to two doses have been missed. The child likely took the medication for ADHD at night, and therefore would have last taken it on Thursday night and missed it on Friday and Saturday nights. Discontinuation syndrome consists of anxiety, restlessness, agitation, tremor, abdominal pain, and increased heart rate, blood pressure, and respirations, all of which would be expected with rebound alpha-2 agonist disinhibition. Once he restarts the clonidine, his blood pressure should return to normal. (696)"
     },
     {
         "id":  "k-21.68",
@@ -9133,7 +9133,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Memantine",
-        "explanation":  "The patient\u0027s disease has progressed in severity to the point that she needs constant, supervised care. She is also forgetting some of the most well-known people in her life. Donepezil, rivastigmine, galantamine, and tacrine are all cholinesterase inhibitors that are indicated for mild to moderate Alzheimer disease. Only memantine, an NMDA blocker, is indicated for moderate to severe disease. (697)"
+        "explanation":  "Memantine The patient\u0027s disease has progressed in severity to the point that she needs constant, supervised care. She is also forgetting some of the most well-known people in her life. Donepezil, rivastigmine, galantamine, and tacrine are all cholinesterase inhibitors that are indicated for mild to moderate Alzheimer disease. Only memantine, an NMDA blocker, is indicated for moderate to severe disease. (697)"
     },
     {
         "id":  "k-21.69",
@@ -9157,7 +9157,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "He is not sexually attracted to his girlfriend",
-        "explanation":  "Sildenafil ultimately works by inhibiting phosphodiesterase (PDE)-5, which regulates the concentration of cyclic guanosine monophosphate (cGMP). cGMP causes smooth muscle relaxation in the corpus cavernosum of the penis, which allows for blood flow, leading to turgidity and tumescence. The whole cascade starts with nitric oxide (NO) increasing cGMP synthesis. NO is only released with sexual stimulation. Therefore, if someone is not sexually stimulated for whatever reason, NO will not be released, and the sildenafil will have no substance upon which it can act. (699)"
+        "explanation":  "He is not sexually attracted to his girlfriend Sildenafil ultimately works by inhibiting phosphodiesterase (PDE)-5, which regulates the concentration of cyclic guanosine monophosphate (cGMP). cGMP causes smooth muscle relaxation in the corpus cavernosum of the penis, which allows for blood flow, leading to turgidity and tumescence. The whole cascade starts with nitric oxide (NO) increasing cGMP synthesis. NO is only released with sexual stimulation. Therefore, if someone is not sexually stimulated for whatever reason, NO will not be released, and the sildenafil will have no substance upon which it can act. (699)"
     },
     {
         "id":  "k-21.70",
@@ -9181,7 +9181,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Neuroleptic malignant syndrome (NMS)",
-        "explanation":  "The patient is showing classic signs and symptoms of NMS brought on by haloperidol. Malignant hyperthermia can have a similar presentation, but is precipitated by anesthetic agents and succinylcholine. Malignant catatonia can also present in a similar fashion, but is usually heralded by a prodrome of several weeks of psychosis, agitation, and catatonic excitement. Serotonin syndrome usually includes shivering, ataxia, nausea, and vomiting, which are not present in NMS. EPS does not include the autonomic instability of NMS. https://www.uptodate.com/contents/neuroleptic- malignant-syndrome? search=neuroleptic%20malignant%20syndrome\u0026source =search_result\u0026selectedTitle=1150\u0026usage_type=defa ult\u0026display_rank=1#H11 (594, 595)"
+        "explanation":  "Neuroleptic malignant syndrome (NMS) The patient is showing classic signs and symptoms of NMS brought on by haloperidol. Malignant hyperthermia can have a similar presentation, but is precipitated by anesthetic agents and succinylcholine. Malignant catatonia can also present in a similar fashion, but is usually heralded by a prodrome of several weeks of psychosis, agitation, and catatonic excitement. Serotonin syndrome usually includes shivering, ataxia, nausea, and vomiting, which are not present in NMS. EPS does not include the autonomic instability of NMS. https://www.uptodate.com/contents/neuroleptic- malignant-syndrome? search=neuroleptic%20malignant%20syndrome\u0026source =search_result\u0026selectedTitle=1150\u0026usage_type=defa ult\u0026display_rank=1#H11 (594, 595)"
     },
     {
         "id":  "k-22.1",
@@ -9203,7 +9203,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Generalized",
-        "explanation":  "The induction of a generalized seizure is necessary to obtain the beneficial effects of ECT. Bilateral seizure activity is necessary, which by definition means it cannot be a partial seizure. Therapeutic efficacy also requires tonic-clonic movements or contractions (without muscle relaxants), which means it cannot be an absence seizure. (730, 734)"
+        "explanation":  "Generalized The induction of a generalized seizure is necessary to obtain the beneficial effects of ECT. Bilateral seizure activity is necessary, which by definition means it cannot be a partial seizure. Therapeutic efficacy also requires tonic-clonic movements or contractions (without muscle relaxants), which means it cannot be an absence seizure. (730, 734)"
     },
     {
         "id":  "k-22.2",
@@ -9227,7 +9227,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Electroconvulsive therapy (ECT)",
-        "explanation":  "ECT is the most effective treatment available for major depressive disorder, but due to side effects and stigma, it is rarely used first line. It is now usually used when patients have failed multiple medication trials, are acutely suicidal, have melancholic features, or refuse to eat. (729, 731)"
+        "explanation":  "Electroconvulsive therapy (ECT) ECT is the most effective treatment available for major depressive disorder, but due to side effects and stigma, it is rarely used first line. It is now usually used when patients have failed multiple medication trials, are acutely suicidal, have melancholic features, or refuse to eat. (729, 731)"
     },
     {
         "id":  "k-22.3",
@@ -9251,7 +9251,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Lithium",
-        "explanation":  "ECT should not be used for a patient who is on lithium, as the medication can both lower seizure threshold and predispose the patient to postictal delirium. As an antiepileptic medication, divalproex would raise the seizure threshold, making the induction of a therapeutic seizure more difficult. Aripiprazole, both forms of quetiapine, and olanzapine are fine to use in combination with ECT. (731, 732)"
+        "explanation":  "Lithium ECT should not be used for a patient who is on lithium, as the medication can both lower seizure threshold and predispose the patient to postictal delirium. As an antiepileptic medication, divalproex would raise the seizure threshold, making the induction of a therapeutic seizure more difficult. Aripiprazole, both forms of quetiapine, and olanzapine are fine to use in combination with ECT. (731, 732)"
     },
     {
         "id":  "k-22.4",
@@ -9275,7 +9275,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Succinylcholine",
-        "explanation":  "The risk of bone fractures during ECT comes from muscle contractions during the seizure. To minimize that risk, muscle relaxants such as succinylcholine are used. Atropine and glycopyrrolate are anticholinergic muscarinic drugs that are sometimes used prior to ECT to minimize oral and respiratory secretions, and to block bradycardia and asystole. Methohexital and etomidate are anesthetics that can be used prior to the procedure. (732, 733)"
+        "explanation":  "Succinylcholine The risk of bone fractures during ECT comes from muscle contractions during the seizure. To minimize that risk, muscle relaxants such as succinylcholine are used. Atropine and glycopyrrolate are anticholinergic muscarinic drugs that are sometimes used prior to ECT to minimize oral and respiratory secretions, and to block bradycardia and asystole. Methohexital and etomidate are anesthetics that can be used prior to the procedure. (732, 733)"
     },
     {
         "id":  "k-22.5",
@@ -9297,7 +9297,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Conclude the session",
-        "explanation":  "A seizure needs to last at least 25 seconds to be effective. If the seizure is too short, up to four more attempts may be tried during the session. If it lasts over 180 seconds, the patient is in status epilepticus, and more of the anesthetic agent or IV diazepam can be given to break the seizure. A seizure length of 50 seconds falls within the therapeutic safe range, so the session should end. (734)"
+        "explanation":  "Conclude the session A seizure needs to last at least 25 seconds to be effective. If the seizure is too short, up to four more attempts may be tried during the session. If it lasts over 180 seconds, the patient is in status epilepticus, and more of the anesthetic agent or IV diazepam can be given to break the seizure. A seizure length of 50 seconds falls within the therapeutic safe range, so the session should end. (734)"
     },
     {
         "id":  "k-22.6",
@@ -9321,7 +9321,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Retry ECT with an increased dose",
-        "explanation":  "If a patient has not improved after 6 to 10 sessions of ECT, bilateral placement and treatment at three times the seizure threshold should be tried next before ECT can be deemed a failure. Treatment frequency is usually two to three times a week. More frequent treatments are associated with greater memory impairment, but not necessarily greater efficacy. Previous medications can be retried after ECT has failed, as anecdotally, they may now be helpful after a course of ECT. (734)"
+        "explanation":  "Retry ECT with an increased dose If a patient has not improved after 6 to 10 sessions of ECT, bilateral placement and treatment at three times the seizure threshold should be tried next before ECT can be deemed a failure. Treatment frequency is usually two to three times a week. More frequent treatments are associated with greater memory impairment, but not necessarily greater efficacy. Previous medications can be retried after ECT has failed, as anecdotally, they may now be helpful after a course of ECT. (734)"
     },
     {
         "id":  "k-22.7",
@@ -9367,7 +9367,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Memory will return to baseline",
-        "explanation":  "Memory impairment is the most common complaint from patients following ECT. Anterograde amnesia often resolves within a couple months. Within 6 months, the patient is likely to be back at their cognitive baseline. (735)"
+        "explanation":  "Memory will return to baseline Memory impairment is the most common complaint from patients following ECT. Anterograde amnesia often resolves within a couple months. Within 6 months, the patient is likely to be back at their cognitive baseline. (735)"
     },
     {
         "id":  "k-22.9",
@@ -9391,7 +9391,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "An electrical effect on neurons",
-        "explanation":  "TMS involves the induction of electricity through magnetic stimulation. As such, there are no electrodes to place bilaterally. Instead, the TMS device delivers magnetic pulses via a coil that is held on the scalp. The procedure is noninvasive and does not require anesthesia. Seizures are the most severe side effect of TMS, not a therapeutic requirement. (736, 737)"
+        "explanation":  "An electrical effect on neurons TMS involves the induction of electricity through magnetic stimulation. As such, there are no electrodes to place bilaterally. Instead, the TMS device delivers magnetic pulses via a coil that is held on the scalp. The procedure is noninvasive and does not require anesthesia. Seizures are the most severe side effect of TMS, not a therapeutic requirement. (736, 737)"
     },
     {
         "id":  "k-22.10",
@@ -9415,7 +9415,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Major depressive disorder",
-        "explanation":  "Vagus nerve stimulation is indicated for long-term adjunctive treatment of chronic or recurrent depression in adults. The depression episode being treated can be due to a unipolar or bipolar disorder. The efficacy in other disorders is unknown. (739)"
+        "explanation":  "Major depressive disorder Vagus nerve stimulation is indicated for long-term adjunctive treatment of chronic or recurrent depression in adults. The depression episode being treated can be due to a unipolar or bipolar disorder. The efficacy in other disorders is unknown. (739)"
     },
     {
         "id":  "k-22.11",
@@ -9439,7 +9439,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Obsessive compulsive disorder (OCD)",
-        "explanation":  "Surgical intervention is predominantly used only in intractable cases of major depression and OCD. Even then, approval must go through a multidisciplinary committee. Current techniques can yield improvement in 40% to 70% of cases. (739)"
+        "explanation":  "Obsessive compulsive disorder (OCD) Surgical intervention is predominantly used only in intractable cases of major depression and OCD. Even then, approval must go through a multidisciplinary committee. Current techniques can yield improvement in 40% to 70% of cases. (739)"
     },
     {
         "id":  "k-22.12",
@@ -9463,7 +9463,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Refusal to give informed consent",
-        "explanation":  "There are several relative contraindications to psychiatric neurosurgery for the treatment of mental illness, including cardiopulmonary comorbidities, severe personality disorders, and not having tried a wide variety of previous treatments. A patient must have access to follow-up, postoperative care following the surgery. This patient has been on numerous trials of medication throughout the years, and would have adequate follow- up through the ACT team. Living in a boarding home is not in itself a contraindication if the patient is able to follow up with postop care. Borderline personality disorder and hypertension are relative, not absolute, contraindications. The single absolute contraindication is if informed consent is not given, as psychiatric neurosurgery should never be performed on an unwilling patient. (740)"
+        "explanation":  "Refusal to give informed consent There are several relative contraindications to psychiatric neurosurgery for the treatment of mental illness, including cardiopulmonary comorbidities, severe personality disorders, and not having tried a wide variety of previous treatments. A patient must have access to follow-up, postoperative care following the surgery. This patient has been on numerous trials of medication throughout the years, and would have adequate follow- up through the ACT team. Living in a boarding home is not in itself a contraindication if the patient is able to follow up with postop care. Borderline personality disorder and hypertension are relative, not absolute, contraindications. The single absolute contraindication is if informed consent is not given, as psychiatric neurosurgery should never be performed on an unwilling patient. (740)"
     },
     {
         "id":  "k-22.13",
@@ -9487,7 +9487,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "6 months",
-        "explanation":  "Results from ablative surgeries are not expected to show until at least 6 months, and may take up to 2 years. (742)"
+        "explanation":  "6 months Results from ablative surgeries are not expected to show until at least 6 months, and may take up to 2 years. (742)"
     },
     {
         "id":  "k-23.1",
@@ -9511,7 +9511,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Having a high frustration tolerance",
-        "explanation":  "Good candidates for psychoanalysis must truly wish to understand themselves and not need urgent symptom relief. Being able to withstand frustration and anxiety without acting out are important characteristics to possess in order for psychoanalysis to be successful. Some level of suffering is needed for the therapy to be effective. Antisocial personality disorder, low intelligence, and being in the middle of a major life crisis (i.e., divorce or loss of a job or being diagnosed with a major medical condition) are all potential contraindications to psychoanalysis. (745)"
+        "explanation":  "Having a high frustration tolerance Good candidates for psychoanalysis must truly wish to understand themselves and not need urgent symptom relief. Being able to withstand frustration and anxiety without acting out are important characteristics to possess in order for psychoanalysis to be successful. Some level of suffering is needed for the therapy to be effective. Antisocial personality disorder, low intelligence, and being in the middle of a major life crisis (i.e., divorce or loss of a job or being diagnosed with a major medical condition) are all potential contraindications to psychoanalysis. (745)"
     },
     {
         "id":  "k-23.2",
@@ -9535,7 +9535,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Psychoanalysis",
-        "explanation":  "Health, intelligence, good financial means, and being able to commit to long-term treatment are some factors which can lead to success in psychoanalysis. An absence of need for urgent symptom relief and a lack of safety concerns would also make this patient a good candidate. Psychanalysis is suitable for those with depression, anxiety, sexual dysfunction, and some personality disorders, along with those with chronic suffering, as described in the case. (745, 747)"
+        "explanation":  "Psychoanalysis Health, intelligence, good financial means, and being able to commit to long-term treatment are some factors which can lead to success in psychoanalysis. An absence of need for urgent symptom relief and a lack of safety concerns would also make this patient a good candidate. Psychanalysis is suitable for those with depression, anxiety, sexual dysfunction, and some personality disorders, along with those with chronic suffering, as described in the case. (745, 747)"
     },
     {
         "id":  "k-23.3",
@@ -9583,7 +9583,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Face-to-face sessions",
-        "explanation":  "Psychoanalytic psychotherapy is derived from psychoanalysis. It uses insight-oriented methods such as expressive techniques along with supportive ones. It is shorter compared to psychoanalysis and the brief treatment is focused on a select problem. Instead of utilization of the couch, sessions are done with the therapist and patient looking at one another face-to-face to help prevent regression and to aid with receiving cues. Free association is rarely used. (749)"
+        "explanation":  "Face-to-face sessions Psychoanalytic psychotherapy is derived from psychoanalysis. It uses insight-oriented methods such as expressive techniques along with supportive ones. It is shorter compared to psychoanalysis and the brief treatment is focused on a select problem. Instead of utilization of the couch, sessions are done with the therapist and patient looking at one another face-to-face to help prevent regression and to aid with receiving cues. Free association is rarely used. (749)"
     },
     {
         "id":  "k-23.5",
@@ -9607,7 +9607,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "A focused understanding of problems is achieved by modifying ego function",
-        "explanation":  "While both expressive psychotherapy and psychoanalysis increase awareness, expressive psychotherapy does so by improving object relationship and exploring current interpersonal events. Structural changes in ego function and defenses are achieved in expressive psychotherapy. Unlike psychanalysis which uncovers hidden and past motives dating back to origins in infancy, expressive psychotherapy focuses on how the preconscious or conscious conflicts manifest in the present day. (750)"
+        "explanation":  "A focused understanding of problems is achieved by modifying ego function While both expressive psychotherapy and psychoanalysis increase awareness, expressive psychotherapy does so by improving object relationship and exploring current interpersonal events. Structural changes in ego function and defenses are achieved in expressive psychotherapy. Unlike psychanalysis which uncovers hidden and past motives dating back to origins in infancy, expressive psychotherapy focuses on how the preconscious or conscious conflicts manifest in the present day. (750)"
     },
     {
         "id":  "k-23.6",
@@ -9655,7 +9655,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "A new diagnosis of paranoid schizophrenia with active delusions",
-        "explanation":  "There are relatively few contraindications to participating in group therapy. A patient with active delusions, who incorporate the group into the delusions, and a patient who is threatening with frequent outbursts are some examples of patients who should be excluded from the group setting. Bipolar disorder, or mania, is not contraindication to group therapy if manic symptoms are controlled on medication. Those patients with depression and suicidal thoughts can benefit from group therapy. However, if any acute safety concerns are present, individual treatment should be conducted as well. Those with antisocial personality disorder might struggle in a group setting unless other patients with the same diagnosis are in the group, since these patients are thought to respond better to their peers than authority figures. (755, 756)"
+        "explanation":  "A new diagnosis of paranoid schizophrenia with active delusions There are relatively few contraindications to participating in group therapy. A patient with active delusions, who incorporate the group into the delusions, and a patient who is threatening with frequent outbursts are some examples of patients who should be excluded from the group setting. Bipolar disorder, or mania, is not contraindication to group therapy if manic symptoms are controlled on medication. Those patients with depression and suicidal thoughts can benefit from group therapy. However, if any acute safety concerns are present, individual treatment should be conducted as well. Those with antisocial personality disorder might struggle in a group setting unless other patients with the same diagnosis are in the group, since these patients are thought to respond better to their peers than authority figures. (755, 756)"
     },
     {
         "id":  "k-23.8",
@@ -9775,7 +9775,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Overgeneralization",
-        "explanation":  "Cognitive distortions, also known as automatic thoughts, are the thoughts that occur between external events and a person\u0027s emotional reaction to the event. The vignette above is an example of overgeneralization in which an overwhelmingly negative conclusion is drawn from a relatively minor event. All-or-nothing thinking is also known as black-and-white thinking and involves putting a situation into only two categories instead of on a continuum or seeing the gray area in the middle. Labeling is putting a fixed label on yourself or others without examining the evidence fully which could lead to a less disastrous conclusion. Mind reading involves believing you know what others are thinking and not considering more likely possibilities. Tunnel vision involves seeing only the negative aspect of a situation. (769)"
+        "explanation":  "Overgeneralization Cognitive distortions, also known as automatic thoughts, are the thoughts that occur between external events and a person\u0027s emotional reaction to the event. The vignette above is an example of overgeneralization in which an overwhelmingly negative conclusion is drawn from a relatively minor event. All-or-nothing thinking is also known as black-and-white thinking and involves putting a situation into only two categories instead of on a continuum or seeing the gray area in the middle. Labeling is putting a fixed label on yourself or others without examining the evidence fully which could lead to a less disastrous conclusion. Mind reading involves believing you know what others are thinking and not considering more likely possibilities. Tunnel vision involves seeing only the negative aspect of a situation. (769)"
     },
     {
         "id":  "k-23.13",
@@ -9799,7 +9799,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Cognitive behavioral therapy",
-        "explanation":  "Behavioral techniques can help challenge maladaptive cognition. One of the first behavioral techniques in cognitive therapy for the treatment of depression is to have the patient schedule activities on an hourly basis and keep records of them and rate mastery and pleasure. Often, this leads the patient to realize they had more pleasure than they thought while doing the activity and it helps them to experience a sense of mastery. (770, 771)"
+        "explanation":  "Cognitive behavioral therapy Behavioral techniques can help challenge maladaptive cognition. One of the first behavioral techniques in cognitive therapy for the treatment of depression is to have the patient schedule activities on an hourly basis and keep records of them and rate mastery and pleasure. Often, this leads the patient to realize they had more pleasure than they thought while doing the activity and it helps them to experience a sense of mastery. (770, 771)"
     },
     {
         "id":  "k-23.14",
@@ -9847,7 +9847,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Participant modeling",
-        "explanation":  "Just as a person can develop fears by learning, the principle of participant modeling is that these fears can be unlearned by observing a fearless model confront the feared object. In participant modeling, the patient can learn a new behavior by imitation by observation, without having to perform the behavior until they feel ready. Children respond well to this technique of watching other peers enjoy a feared situation and it is particularly useful therapy for agoraphobia when the therapist accompanies the patient to various places. (772, 773)"
+        "explanation":  "Participant modeling Just as a person can develop fears by learning, the principle of participant modeling is that these fears can be unlearned by observing a fearless model confront the feared object. In participant modeling, the patient can learn a new behavior by imitation by observation, without having to perform the behavior until they feel ready. Children respond well to this technique of watching other peers enjoy a feared situation and it is particularly useful therapy for agoraphobia when the therapist accompanies the patient to various places. (772, 773)"
     },
     {
         "id":  "k-23.16",
@@ -9871,7 +9871,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Paranoia",
-        "explanation":  "Some risks of hypnosis can include developing a strong transference or attachment. On the other hand, negative emotions can also surface in patients with poor reality testing. As a result, caution should be used in performing hypnosis in those with paranoia, or a high need for control. Patients who lack capacity for basic trust are not good hypnosis candidates. Self-hypnosis can be used to treat post-traumatic stress disorder (PTSD) and can help with memory retrieval. (778)"
+        "explanation":  "Paranoia Some risks of hypnosis can include developing a strong transference or attachment. On the other hand, negative emotions can also surface in patients with poor reality testing. As a result, caution should be used in performing hypnosis in those with paranoia, or a high need for control. Patients who lack capacity for basic trust are not good hypnosis candidates. Self-hypnosis can be used to treat post-traumatic stress disorder (PTSD) and can help with memory retrieval. (778)"
     },
     {
         "id":  "k-23.17",
@@ -9895,7 +9895,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Interpersonal psychotherapy (ITP)",
-        "explanation":  "ITP is a time-limited treatment for major depressive disorder that helps to eliminate symptoms and improve the quality of the patient\u0027s interpersonal relations and social functioning. The initial phase focuses on assigning the patient to be in the sick role and describing the diagnosis and treatment expectations. The patient is given permission and responsibility to recover. An interpersonal inventory is conducted, and a formulation is made linking the patient\u0027s symptoms to one of four problem areas--grief, interpersonal deficits, interpersonal role disputes, or role transitions. (778)"
+        "explanation":  "Interpersonal psychotherapy (ITP) ITP is a time-limited treatment for major depressive disorder that helps to eliminate symptoms and improve the quality of the patient\u0027s interpersonal relations and social functioning. The initial phase focuses on assigning the patient to be in the sick role and describing the diagnosis and treatment expectations. The patient is given permission and responsibility to recover. An interpersonal inventory is conducted, and a formulation is made linking the patient\u0027s symptoms to one of four problem areas--grief, interpersonal deficits, interpersonal role disputes, or role transitions. (778)"
     },
     {
         "id":  "k-23.18",
@@ -9919,7 +9919,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Intermediate phase of interpersonal psychotherapy (ITP)",
-        "explanation":  "Group therapy for ITP has many benefits versus individual treatment. It helps the patient feel that they are not the only one with a psychiatric disorder and gives them a social environment to interact with others with like symptoms. The intermediate phase is where the work is done to facilitate connections among the members and helps them to practice their newly acquired social skills by doing activities with others outside of the session and to share their experience in the group setting. The therapist connects the relationships the patients have in the group with their outside relationships and their psychiatric symptoms. (781)"
+        "explanation":  "Intermediate phase of interpersonal psychotherapy (ITP) Group therapy for ITP has many benefits versus individual treatment. It helps the patient feel that they are not the only one with a psychiatric disorder and gives them a social environment to interact with others with like symptoms. The intermediate phase is where the work is done to facilitate connections among the members and helps them to practice their newly acquired social skills by doing activities with others outside of the session and to share their experience in the group setting. The therapist connects the relationships the patients have in the group with their outside relationships and their psychiatric symptoms. (781)"
     },
     {
         "id":  "k-23.19",
@@ -9943,7 +9943,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Be a good listener and connect empathically with the patient\u0027s story",
-        "explanation":  "Narrative medicine focuses on an open-ended invitation to tell a story to help recognize and interpret and be moved by the story of the patient\u0027s illness. The major task of the therapist is being a good listener and connecting empathically with the patient\u0027s story. The main goal is to truly understand the patient and the story to help bring the clinician and patient together into a shared experience of the patient\u0027s world. (781, 782)"
+        "explanation":  "Be a good listener and connect empathically with the patient\u0027s story Narrative medicine focuses on an open-ended invitation to tell a story to help recognize and interpret and be moved by the story of the patient\u0027s illness. The major task of the therapist is being a good listener and connecting empathically with the patient\u0027s story. The main goal is to truly understand the patient and the story to help bring the clinician and patient together into a shared experience of the patient\u0027s world. (781, 782)"
     },
     {
         "id":  "k-23.20",
@@ -9967,7 +9967,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Mentalization-based treatment (MBT)",
-        "explanation":  "MBT is a psychotherapy developed for the treatment of borderline personality disorder. It focuses on the mentalizing vulnerabilities of the patient in helping them to understand the attachment process. it involves learning the ability to understand the actions of others and oneself in terms of mental states, thoughts, feelings, wishes, and desires. (786)"
+        "explanation":  "Mentalization-based treatment (MBT) MBT is a psychotherapy developed for the treatment of borderline personality disorder. It focuses on the mentalizing vulnerabilities of the patient in helping them to understand the attachment process. it involves learning the ability to understand the actions of others and oneself in terms of mental states, thoughts, feelings, wishes, and desires. (786)"
     },
     {
         "id":  "k-23.21",
@@ -9991,7 +9991,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Psychoeducation",
-        "explanation":  "The description above of helping the patient and family to understand the psychiatric illness, treatment options, prognosis, and recovery, is best consistent with psychoeducation. Psychoeducation also involves providing interventions to help the patient and family strategize how to adjust to living with the illness, and also covers common areas including treatment adherence, identifying signs of relapse, and instructions on how to help manage a crisis situation. (787)"
+        "explanation":  "Psychoeducation The description above of helping the patient and family to understand the psychiatric illness, treatment options, prognosis, and recovery, is best consistent with psychoeducation. Psychoeducation also involves providing interventions to help the patient and family strategize how to adjust to living with the illness, and also covers common areas including treatment adherence, identifying signs of relapse, and instructions on how to help manage a crisis situation. (787)"
     },
     {
         "id":  "k-24.1",
@@ -10063,7 +10063,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Role-playing",
-        "explanation":  "Social skills rehabilitation can help improve social perceptions, or receiving skills, social cognitions, or processing skills, and behavioral responses, or expressive skills, via focusing on role-playing of simulated conversations. A trainer provides instruction on how to perform the skills and models them. The trainer then encourages the patient to engage in role-play and provides feedback and positive reinforcement. (792)"
+        "explanation":  "Role-playing Social skills rehabilitation can help improve social perceptions, or receiving skills, social cognitions, or processing skills, and behavioral responses, or expressive skills, via focusing on role-playing of simulated conversations. A trainer provides instruction on how to perform the skills and models them. The trainer then encourages the patient to engage in role-play and provides feedback and positive reinforcement. (792)"
     },
     {
         "id":  "k-24.4",
@@ -10087,7 +10087,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Social perception",
-        "explanation":  "Acquiring good social perception is considered the first step in effective interpersonal problem solving. Training someone to perceive and interpret social and cognitive cues can help with more specific communication and coping skills. (793)"
+        "explanation":  "Social perception Acquiring good social perception is considered the first step in effective interpersonal problem solving. Training someone to perceive and interpret social and cognitive cues can help with more specific communication and coping skills. (793)"
     },
     {
         "id":  "k-24.5",
@@ -10111,7 +10111,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Evaluate efficacy and choose an alternative",
-        "explanation":  "The information-processing model of training helps the patient take on different cognitive perspectives. It involves a six-step approach to help one overcome an interpersonal dilemma. The steps include (1) adopting a problem-solving attitude, (2) identifying the problem, (3) brainstorming solutions, (4) evaluating solutions and picking one to implement, (5) planning the implementation and carrying it out, and (6) evaluating the efficacy of the effort, and if ineffective, choose another alternative. (794)"
+        "explanation":  "Evaluate efficacy and choose an alternative The information-processing model of training helps the patient take on different cognitive perspectives. It involves a six-step approach to help one overcome an interpersonal dilemma. The steps include (1) adopting a problem-solving attitude, (2) identifying the problem, (3) brainstorming solutions, (4) evaluating solutions and picking one to implement, (5) planning the implementation and carrying it out, and (6) evaluating the efficacy of the effort, and if ineffective, choose another alternative. (794)"
     },
     {
         "id":  "k-24.6",
@@ -10135,7 +10135,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "To be a shared decision maker",
-        "explanation":  "Psychiatric rehabilitation strategies involve maintaining confidentiality and making sure to not infantilize patients. The patients should be viewed as adults who can make their own choices in terms of where to live, whether to work or not, and whether to use substance. The practitioner\u0027s role is to be in a partnership with the patient to help improve their quality of life and collaborate with them and to work as a shared decision maker, rather than a parental or authority figure. (794)"
+        "explanation":  "To be a shared decision maker Psychiatric rehabilitation strategies involve maintaining confidentiality and making sure to not infantilize patients. The patients should be viewed as adults who can make their own choices in terms of where to live, whether to work or not, and whether to use substance. The practitioner\u0027s role is to be in a partnership with the patient to help improve their quality of life and collaborate with them and to work as a shared decision maker, rather than a parental or authority figure. (794)"
     },
     {
         "id":  "k-24.7",
@@ -10159,7 +10159,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "The genome",
-        "explanation":  "The concept of complex disease replaced the term, \"multifactorial\" as an etiologic category for common disorders. It considers the interplay of the genome and environment. The concept includes biologic and physiologic mechanisms of evolution and development within societies and cultures. It is thought that various genomic and environmental risk factors can trigger developmental, growth, and maturational differences and increase the risk of psychiatric illnesses. (795)"
+        "explanation":  "The genome The concept of complex disease replaced the term, \"multifactorial\" as an etiologic category for common disorders. It considers the interplay of the genome and environment. The concept includes biologic and physiologic mechanisms of evolution and development within societies and cultures. It is thought that various genomic and environmental risk factors can trigger developmental, growth, and maturational differences and increase the risk of psychiatric illnesses. (795)"
     },
     {
         "id":  "k-24.8",
@@ -10183,7 +10183,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "No long-term adverse effects",
-        "explanation":  "While on one hand physicians don\u0027t want to make light of the negative psychological impact that can sometimes occur with testing, physicians do think it is an important point to know that the majority of the times the info is well received with no negative consequences. (797)"
+        "explanation":  "No long-term adverse effects While on one hand physicians don\u0027t want to make light of the negative psychological impact that can sometimes occur with testing, physicians do think it is an important point to know that the majority of the times the info is well received with no negative consequences. (797)"
     },
     {
         "id":  "k-25.1",
@@ -10207,7 +10207,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "It implied the disorders were all in the individual\u0027s head",
-        "explanation":  "The term psychosomatic is derived from the Greek words for psyche (soul) and soma (body). It refers to how the mind affects the body. The term psychosomatic ended up having a negative connotation in those with medical complaints where no physical cause could be found, implying that they were crazy, and the symptoms were all in their head. In 2018, the Academy of Psychosomatic Medicine changed its name to the Academy of Consultation-Liaison Psychiatry and the American Board of Psychiatry and Neurology (ABPN) changed the name of psychosomatic medicine as a specialty to consultation-liaison psychiatry. (799)"
+        "explanation":  "It implied the disorders were all in the individual\u0027s head The term psychosomatic is derived from the Greek words for psyche (soul) and soma (body). It refers to how the mind affects the body. The term psychosomatic ended up having a negative connotation in those with medical complaints where no physical cause could be found, implying that they were crazy, and the symptoms were all in their head. In 2018, the Academy of Psychosomatic Medicine changed its name to the Academy of Consultation-Liaison Psychiatry and the American Board of Psychiatry and Neurology (ABPN) changed the name of psychosomatic medicine as a specialty to consultation-liaison psychiatry. (799)"
     },
     {
         "id":  "k-25.2",
@@ -10231,7 +10231,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Males over 45 years old",
-        "explanation":  "Suicide rates are highest in males over 45 years of age. Other risk factors include those with medical illnesses, a history of alcohol dependence, decreased social support, severe pain, and previous suicide attempts. (801)"
+        "explanation":  "Males over 45 years old Suicide rates are highest in males over 45 years of age. Other risk factors include those with medical illnesses, a history of alcohol dependence, decreased social support, severe pain, and previous suicide attempts. (801)"
     },
     {
         "id":  "k-25.3",
@@ -10255,7 +10255,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Antipsychotic medications",
-        "explanation":  "Antipsychotic medication may be beneficial for excessive agitation in hospitalized patients with various disorders, including cognitive disorders, or those withdrawing from substances. Physical restraints should be used as a last resort. While sedation is typically safer than physical restraints, opioids should be avoided in a patient with a history of substance use. (801)"
+        "explanation":  "Antipsychotic medications Antipsychotic medication may be beneficial for excessive agitation in hospitalized patients with various disorders, including cognitive disorders, or those withdrawing from substances. Physical restraints should be used as a last resort. While sedation is typically safer than physical restraints, opioids should be avoided in a patient with a history of substance use. (801)"
     },
     {
         "id":  "k-25.4",
@@ -10279,7 +10279,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Ataxia",
-        "explanation":  "Benzodiazepines and other sedatives can worsen delirium, leading to sundowner syndrome. Symptoms include ataxia and disorientation, along with agitation, anxiety, and confusion. While benzodiazepines are sedatives and can cause lethargy, often when used in patients with delirium, they can worsen confusion and lead to agitation. (801)"
+        "explanation":  "Ataxia Benzodiazepines and other sedatives can worsen delirium, leading to sundowner syndrome. Symptoms include ataxia and disorientation, along with agitation, anxiety, and confusion. While benzodiazepines are sedatives and can cause lethargy, often when used in patients with delirium, they can worsen confusion and lead to agitation. (801)"
     },
     {
         "id":  "k-25.5",
@@ -10303,7 +10303,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Normal pressure hydrocephalus (NPH)",
-        "explanation":  "Central nervous system disorders, such as NPH can cause delirium and is an urgent medical issue that surgery may cure. The classic triad for presentation of NPH is gait disturbance, incontinence, and dementia. Normal renal labs and a uranalysis would rule out a urinary tract infection and hydronephrosis, which might also cause confusion in the elderly. While a subdural hematoma and hyperthyroidism could also cause some confusion and memory impairment, incontinence is not typical for those disorders. (802)"
+        "explanation":  "Normal pressure hydrocephalus (NPH) Central nervous system disorders, such as NPH can cause delirium and is an urgent medical issue that surgery may cure. The classic triad for presentation of NPH is gait disturbance, incontinence, and dementia. Normal renal labs and a uranalysis would rule out a urinary tract infection and hydronephrosis, which might also cause confusion in the elderly. While a subdural hematoma and hyperthyroidism could also cause some confusion and memory impairment, incontinence is not typical for those disorders. (802)"
     },
     {
         "id":  "k-25.6",
@@ -10327,7 +10327,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Group therapy",
-        "explanation":  "A study by David Spiegel showed that women with breast cancer receiving weekly group psychotherapy lived an average of 18 months longer, compared to control patients. Other studies on those with cancer show increased activity of NK cells in those receiving a group behavioral intervention for breast cancer and also for patients with malignant melanoma. (803)"
+        "explanation":  "Group therapy A study by David Spiegel showed that women with breast cancer receiving weekly group psychotherapy lived an average of 18 months longer, compared to control patients. Other studies on those with cancer show increased activity of NK cells in those receiving a group behavioral intervention for breast cancer and also for patients with malignant melanoma. (803)"
     },
     {
         "id":  "k-25.7",
@@ -10351,7 +10351,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Adjustment disorder",
-        "explanation":  "About half of all cancer patients have a psychiatric disorder, with an adjustment disorder being the most common, at around 68%. Major depressive disorder is the next most common comorbid diagnosis (i.e., around 13%), followed by delirium (8%). (804)"
+        "explanation":  "Adjustment disorder About half of all cancer patients have a psychiatric disorder, with an adjustment disorder being the most common, at around 68%. Major depressive disorder is the next most common comorbid diagnosis (i.e., around 13%), followed by delirium (8%). (804)"
     },
     {
         "id":  "k-25.8",
@@ -10375,7 +10375,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "A slightly higher risk of completed suicides",
-        "explanation":  "Though suicidal thoughts are frequent in cancer patients, compared to the general population, the risk of suicide is only slightly higher. (804)"
+        "explanation":  "A slightly higher risk of completed suicides Though suicidal thoughts are frequent in cancer patients, compared to the general population, the risk of suicide is only slightly higher. (804)"
     },
     {
         "id":  "k-25.9",
@@ -10399,7 +10399,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Elderly Caucasian males",
-        "explanation":  "The prevalence of major depressive disorder is lower in the elderly compared to younger age groups. However, the incidence of suicide is the highest among elderly persons, in particular, for elderly white males. (804)"
+        "explanation":  "Elderly Caucasian males The prevalence of major depressive disorder is lower in the elderly compared to younger age groups. However, the incidence of suicide is the highest among elderly persons, in particular, for elderly white males. (804)"
     },
     {
         "id":  "k-25.10",
@@ -10423,7 +10423,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Arthritis",
-        "explanation":  "Only arthritis is a more common cause of disability among those aged 65 years and older than dementia. Dementia increases with age, with about 20% having severe dementia by 80 years old. (805)"
+        "explanation":  "Arthritis Only arthritis is a more common cause of disability among those aged 65 years and older than dementia. Dementia increases with age, with about 20% having severe dementia by 80 years old. (805)"
     },
     {
         "id":  "k-25.11",
@@ -10447,7 +10447,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Melancholic",
-        "explanation":  "Elderly patients with depression present differently from that seen in younger patients. Typically, there is more of an emphasis placed on somatic complaints in the elderly. Depression with melancholic features is common in the elderly. Some common features of depression with melancholia include hypochondriasis, low self-esteem, worthlessness, self-accusatory trends, paranoia, and suicidal ideation. (805)"
+        "explanation":  "Melancholic Elderly patients with depression present differently from that seen in younger patients. Typically, there is more of an emphasis placed on somatic complaints in the elderly. Depression with melancholic features is common in the elderly. Some common features of depression with melancholia include hypochondriasis, low self-esteem, worthlessness, self-accusatory trends, paranoia, and suicidal ideation. (805)"
     },
     {
         "id":  "k-25.12",
@@ -10471,7 +10471,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Persecutory",
-        "explanation":  "While delusional disorder is most common between 40 and 55 years old, it can occur at any time, including in the elderly. Delusions can be seen with medical issues such as Alzheimer disease and can occur with psychiatric illnesses, including schizophrenia and depression. Persecutory delusions are the most common type. (806)"
+        "explanation":  "Persecutory While delusional disorder is most common between 40 and 55 years old, it can occur at any time, including in the elderly. Delusions can be seen with medical issues such as Alzheimer disease and can occur with psychiatric illnesses, including schizophrenia and depression. Persecutory delusions are the most common type. (806)"
     },
     {
         "id":  "k-25.13",
@@ -10519,7 +10519,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Meclizine",
-        "explanation":  "Vertigo, or dizziness, is a common complaint in the elderly. Various medical causes include anemia, cardiac arrhythmias, Meniere disease, etc. Most cases have a psychological component as well. Anxiolytics and other medications that cause dizziness and daytime somnolence should be avoided. Meclizine 25 mg to 100 mg daily can be helpful in treating vertigo in the elderly. (808)"
+        "explanation":  "Meclizine Vertigo, or dizziness, is a common complaint in the elderly. Various medical causes include anemia, cardiac arrhythmias, Meniere disease, etc. Most cases have a psychological component as well. Anxiolytics and other medications that cause dizziness and daytime somnolence should be avoided. Meclizine 25 mg to 100 mg daily can be helpful in treating vertigo in the elderly. (808)"
     },
     {
         "id":  "k-25.15",
@@ -10543,7 +10543,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Decreased presence of lean body mass",
-        "explanation":  "Dose adjustment should be made in the elderly when utilizing psychiatric meds due to increased renal and hepatic clearance, along with decreased cardiac output and decreased gastric secretions and absorption. Orthostasis is common, especially from psychotropic meds in the elderly, and often necessitates a decrease in the dose. In general, pretreatment medical clearance and an electrocardiogram (EKG) are recommended before starting psychiatric medications in the elderly. (809)"
+        "explanation":  "Decreased presence of lean body mass Dose adjustment should be made in the elderly when utilizing psychiatric meds due to increased renal and hepatic clearance, along with decreased cardiac output and decreased gastric secretions and absorption. Orthostasis is common, especially from psychotropic meds in the elderly, and often necessitates a decrease in the dose. In general, pretreatment medical clearance and an electrocardiogram (EKG) are recommended before starting psychiatric medications in the elderly. (809)"
     },
     {
         "id":  "k-25.16",
@@ -10567,7 +10567,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Pervasive hopelessness",
-        "explanation":  "A clinician evaluating a patient in a psychiatric ER setting should always ask the patient about suicidal ideation and assess suicide risk. Some examples of factors that increase the risk of suicide include pervasive hopelessness or pessimism, along with family history of suicide, verbalization of suicidal ideation, and previous attempts. (812)"
+        "explanation":  "Pervasive hopelessness A clinician evaluating a patient in a psychiatric ER setting should always ask the patient about suicidal ideation and assess suicide risk. Some examples of factors that increase the risk of suicide include pervasive hopelessness or pessimism, along with family history of suicide, verbalization of suicidal ideation, and previous attempts. (812)"
     },
     {
         "id":  "k-25.17",
@@ -10591,7 +10591,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Clozapine",
-        "explanation":  "The patient described above with a high fever, pharyngitis, and oral and perianal ulceration likely has clozapine-induced agranulocytosis. When the number of absolute neutrophil count (ANC) is low, it can cause life- threatening infections. (815)"
+        "explanation":  "Clozapine The patient described above with a high fever, pharyngitis, and oral and perianal ulceration likely has clozapine-induced agranulocytosis. When the number of absolute neutrophil count (ANC) is low, it can cause life- threatening infections. (815)"
     },
     {
         "id":  "k-25.18",
@@ -10615,7 +10615,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Granulocyte colony-stimulating factor",
-        "explanation":  "The first step in the treatment of Clozaril-induced agranulocytosis, as described in the previous case, is discontinuing the medication immediately. After that, administration of granulocyte colony-stimulating factor may be helpful. Though it is similar to a blood infusion, granulocytes, not red blood cells, can be infused in rare cases of agranulocytosis. (815)"
+        "explanation":  "Granulocyte colony-stimulating factor The first step in the treatment of Clozaril-induced agranulocytosis, as described in the previous case, is discontinuing the medication immediately. After that, administration of granulocyte colony-stimulating factor may be helpful. Though it is similar to a blood infusion, granulocytes, not red blood cells, can be infused in rare cases of agranulocytosis. (815)"
     },
     {
         "id":  "k-25.19",
@@ -10639,7 +10639,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Benzodiazepines",
-        "explanation":  "Benzodiazepine intoxication can present with sedation, somnolence, and ataxia, as described in the case above. Risks of intoxication include suppression of blood pressure, heart rate, and respiratory rate. LSD and PCP are hallucinogens that can affect perception. LSD intoxication can present with hypertension, mydriasis, and diaphoresis. PCP intoxication presents with nystagmus, hypertension, and dissociative symptoms and agitation. Unlike benzodiazepines, which are sedatives, amphetamines and stimulants, can cause agitation, tachycardia, hypertension, and dilated pupils. Lithium toxicity causes nausea, vomiting, confusion, and tremors. (816)"
+        "explanation":  "Benzodiazepines Benzodiazepine intoxication can present with sedation, somnolence, and ataxia, as described in the case above. Risks of intoxication include suppression of blood pressure, heart rate, and respiratory rate. LSD and PCP are hallucinogens that can affect perception. LSD intoxication can present with hypertension, mydriasis, and diaphoresis. PCP intoxication presents with nystagmus, hypertension, and dissociative symptoms and agitation. Unlike benzodiazepines, which are sedatives, amphetamines and stimulants, can cause agitation, tachycardia, hypertension, and dilated pupils. Lithium toxicity causes nausea, vomiting, confusion, and tremors. (816)"
     },
     {
         "id":  "k-25.20",
@@ -10663,7 +10663,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Flumazenil",
-        "explanation":  "Supportive measures and administration of Flumazenil can be helpful in reversing benzodiazepine overdoses, if skilled personnel are delivering it and resuscitation equipment is nearby. (816)"
+        "explanation":  "Flumazenil Supportive measures and administration of Flumazenil can be helpful in reversing benzodiazepine overdoses, if skilled personnel are delivering it and resuscitation equipment is nearby. (816)"
     },
     {
         "id":  "k-25.21",
@@ -10687,7 +10687,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Lithium",
-        "explanation":  "The patient described in the case has lithium toxicity, which can often occur with dehydration, such as that caused by the recent sickness in the case above, given Lithium has a small therapeutic window and fluid shifts can lead to toxicity. Sings of toxicity include vomiting, ab pain, diarrhea, tremor, ataxia, and in more severe cases, seizures, focal neurologic signs, and a coma. (817)"
+        "explanation":  "Lithium The patient described in the case has lithium toxicity, which can often occur with dehydration, such as that caused by the recent sickness in the case above, given Lithium has a small therapeutic window and fluid shifts can lead to toxicity. Sings of toxicity include vomiting, ab pain, diarrhea, tremor, ataxia, and in more severe cases, seizures, focal neurologic signs, and a coma. (817)"
     },
     {
         "id":  "k-25.22",
@@ -10711,7 +10711,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "ICU transfer and osmotic diuresis",
-        "explanation":  "The previous case describes lithium toxicity. Lithium toxicity can be deadly and often requires an ICU admission. Osmotic diuresis and lavage with a wide-bore tube can help reverse the toxicity. (817)"
+        "explanation":  "ICU transfer and osmotic diuresis The previous case describes lithium toxicity. Lithium toxicity can be deadly and often requires an ICU admission. Osmotic diuresis and lavage with a wide-bore tube can help reverse the toxicity. (817)"
     },
     {
         "id":  "k-25.23",
@@ -10735,7 +10735,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Electrocardiogram (EKG)",
-        "explanation":  "Mitral valve prolapse can be associated with panic disorder, as it can cause heart palpitations, dyspnea, fear, and anxiety. An EKG should be obtained to rule out mitral valve prolapse in cases of panic disorder. (818)"
+        "explanation":  "Electrocardiogram (EKG) Mitral valve prolapse can be associated with panic disorder, as it can cause heart palpitations, dyspnea, fear, and anxiety. An EKG should be obtained to rule out mitral valve prolapse in cases of panic disorder. (818)"
     },
     {
         "id":  "k-25.24",
@@ -10759,7 +10759,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Fluoxetine",
-        "explanation":  "While short-acting benzodiazepines might be useful for short-term management of panic disorder, the best long- term management medication wise is an antidepressant, such as fluoxetine, which is U.S. Food and Drug Administration (FDA) approved to treat panic disorder. In cases of mitral valve prolapse-induced panic symptoms, propranolol could be helpful. (818)"
+        "explanation":  "Fluoxetine While short-acting benzodiazepines might be useful for short-term management of panic disorder, the best long- term management medication wise is an antidepressant, such as fluoxetine, which is U.S. Food and Drug Administration (FDA) approved to treat panic disorder. In cases of mitral valve prolapse-induced panic symptoms, propranolol could be helpful. (818)"
     },
     {
         "id":  "k-25.25",
@@ -10783,7 +10783,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Continue to decrease and taper off the medication",
-        "explanation":  "The patient above likely has tardive dyskinesia. Abnormal movements of the mouth, tongue, face, neck, and trunk are common. The elderly and those with underlying brain damage are most at risk. Often, the symptoms come about after the antipsychotic dose is lowered after long-term treatment. No effective medication can treat tardive dyskinesia, but the patient should be managed on the lowest dose possible. Ideally, the medication should be discontinued, or if need be, switched to an antipsychotic less likely to cause tardive dyskinesia in the future. The older typical antipsychotics, such as fluphenazine and haloperidol, are most likely to cause tardive dyskinesia. Increasing the dose might mask the tardive dyskinesia short term, but it is not the best long-term solution. (820)"
+        "explanation":  "Continue to decrease and taper off the medication The patient above likely has tardive dyskinesia. Abnormal movements of the mouth, tongue, face, neck, and trunk are common. The elderly and those with underlying brain damage are most at risk. Often, the symptoms come about after the antipsychotic dose is lowered after long-term treatment. No effective medication can treat tardive dyskinesia, but the patient should be managed on the lowest dose possible. Ideally, the medication should be discontinued, or if need be, switched to an antipsychotic less likely to cause tardive dyskinesia in the future. The older typical antipsychotics, such as fluphenazine and haloperidol, are most likely to cause tardive dyskinesia. Increasing the dose might mask the tardive dyskinesia short term, but it is not the best long-term solution. (820)"
     },
     {
         "id":  "k-25.26",
@@ -10807,7 +10807,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Conduct disorder",
-        "explanation":  "While it used to be thought of that fire setting is associated with a triad of symptoms, fire setting, enuresis, and cruelty to animals, it is now known that no evidence exists indicating that these symptoms are linked. However, conduct disorder has been found to be the most frequent psychiatrist disorder co-occurring with pathologic fire setting. (821)"
+        "explanation":  "Conduct disorder While it used to be thought of that fire setting is associated with a triad of symptoms, fire setting, enuresis, and cruelty to animals, it is now known that no evidence exists indicating that these symptoms are linked. However, conduct disorder has been found to be the most frequent psychiatrist disorder co-occurring with pathologic fire setting. (821)"
     },
     {
         "id":  "k-25.27",
@@ -10831,7 +10831,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Brain",
-        "explanation":  "In children, the brain is often a primary site for HIV infection, leading to decreased brain development and often presenting with encephalitis, memory, concentration, and attentional issues. The virus often presents itself in the cerebrospinal fluid before it shows up in the blood. Mood disorders, personality changes, and psychosis can also occur with HIV infections. (822)"
+        "explanation":  "Brain In children, the brain is often a primary site for HIV infection, leading to decreased brain development and often presenting with encephalitis, memory, concentration, and attentional issues. The virus often presents itself in the cerebrospinal fluid before it shows up in the blood. Mood disorders, personality changes, and psychosis can also occur with HIV infections. (822)"
     },
     {
         "id":  "k-25.28",
@@ -10855,7 +10855,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Failure to meet expected weight gain must occur, though one does not have to lose weight",
-        "explanation":  "While weight loss is commonly a feature of anorexia nervosa, and a suggested body weight less than 85% was noted in the DSM-IV, in the current DSM-5, there is no required cut-off for a percentage of weight that must be lost to meet criteria. While prior versions of the DSM required amenorrhea as a criterion, we now know that even those of very low weight still get their periods at times. This led to the elimination of the amenorrhea criterion from the DSM-5. (822)"
+        "explanation":  "Failure to meet expected weight gain must occur, though one does not have to lose weight While weight loss is commonly a feature of anorexia nervosa, and a suggested body weight less than 85% was noted in the DSM-IV, in the current DSM-5, there is no required cut-off for a percentage of weight that must be lost to meet criteria. While prior versions of the DSM required amenorrhea as a criterion, we now know that even those of very low weight still get their periods at times. This led to the elimination of the amenorrhea criterion from the DSM-5. (822)"
     },
     {
         "id":  "k-26.1",
@@ -10903,7 +10903,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Funding of local mental health centers to minimize long-term institutionalization",
-        "explanation":  "In the 1960s, most psychiatric care took place in hospitals. The social justice movement and push for government-funded alternatives to institutionalization occurred in the 1960s. The Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963 led to the establishment of a grant program for states to fund local mental health centers under the overview of the National Institutes of Health. The goal was to build community-based mental health centers to help minimize long-term institutionalization. (825)"
+        "explanation":  "Funding of local mental health centers to minimize long-term institutionalization In the 1960s, most psychiatric care took place in hospitals. The social justice movement and push for government-funded alternatives to institutionalization occurred in the 1960s. The Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963 led to the establishment of a grant program for states to fund local mental health centers under the overview of the National Institutes of Health. The goal was to build community-based mental health centers to help minimize long-term institutionalization. (825)"
     },
     {
         "id":  "k-26.3",
@@ -10927,7 +10927,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Residential",
-        "explanation":  "An inpatient medical admission is not necessary since the patient is medically stable. Inpatient psychiatry on an eating disorder unit is not necessary as she is not a significantly low weight and there are no acute safety concerns. Given the patient struggles with self-harm, purging, and substance use, a residential setting is indicated. Another benefit to a residential level of care is that she can be monitored closely while her medication is adjusted. Though she doesn\u0027t have a huge amount of weight to gain and there are no imminent safety concerns, given the history of school refusal, compliance with attendance of a partial or intensive outpatient program is unlikely. In a partial or intensive outpatient settings cessation of vomiting, while remaining abstinent from other substances, would also likely be challenging. (827) C Other Issues Relevant to Psychiatry"
+        "explanation":  "Residential An inpatient medical admission is not necessary since the patient is medically stable. Inpatient psychiatry on an eating disorder unit is not necessary as she is not a significantly low weight and there are no acute safety concerns. Given the patient struggles with self-harm, purging, and substance use, a residential setting is indicated. Another benefit to a residential level of care is that she can be monitored closely while her medication is adjusted. Though she doesn\u0027t have a huge amount of weight to gain and there are no imminent safety concerns, given the history of school refusal, compliance with attendance of a partial or intensive outpatient program is unlikely. In a partial or intensive outpatient settings cessation of vomiting, while remaining abstinent from other substances, would also likely be challenging. (827) C Other Issues Relevant to Psychiatry"
     },
     {
         "id":  "k-27.1",
@@ -10949,7 +10949,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Autonomy",
-        "explanation":  "Though the patient could likely benefit from an LAI, he is given the choice between an LAI and an oral medication. He chose oral, and the psychaitrist obliged his wishes. This situation demonstrates the ethical principle of autonomy. Had his wishes been overridden, that could be seen by some as a demonstration of beneficence, whether or not such an action was legally allowed. The principles of nonmaleficence and justice are not relevant in this scenario, as presumably the LAI would not harm the patient and distribution of social benefits is not in question. (829)"
+        "explanation":  "Autonomy Though the patient could likely benefit from an LAI, he is given the choice between an LAI and an oral medication. He chose oral, and the psychaitrist obliged his wishes. This situation demonstrates the ethical principle of autonomy. Had his wishes been overridden, that could be seen by some as a demonstration of beneficence, whether or not such an action was legally allowed. The principles of nonmaleficence and justice are not relevant in this scenario, as presumably the LAI would not harm the patient and distribution of social benefits is not in question. (829)"
     },
     {
         "id":  "k-27.2",
@@ -10971,7 +10971,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Beneficence",
-        "explanation":  "Complying with the son\u0027s request would be in accordance with the ethical principle of autonomy. However, it would be a breach of beneficence, which involves acting in the patient\u0027s best interests. In this case, the IV antibiotics are deemed medically necessary, and to not give them when she is acutely ill would be a breach of fiduciary responsibility to the patient. The ethical course would be to override the patient\u0027s autonomy until no longer medically necessary, or until she has a rational understanding of the need for treatment and its risks and benefits. (829)"
+        "explanation":  "Beneficence Complying with the son\u0027s request would be in accordance with the ethical principle of autonomy. However, it would be a breach of beneficence, which involves acting in the patient\u0027s best interests. In this case, the IV antibiotics are deemed medically necessary, and to not give them when she is acutely ill would be a breach of fiduciary responsibility to the patient. The ethical course would be to override the patient\u0027s autonomy until no longer medically necessary, or until she has a rational understanding of the need for treatment and its risks and benefits. (829)"
     },
     {
         "id":  "k-27.3",
@@ -11017,7 +11017,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Sexual relations with a patient are never acceptable",
-        "explanation":  "The APA code of ethics states, \"Sexual activity with a current or former patient is unethical.\" Under that code, there are no circumstances in which sexual activity with a patient is acceptable. (830)"
+        "explanation":  "Sexual relations with a patient are never acceptable The APA code of ethics states, \"Sexual activity with a current or former patient is unethical.\" Under that code, there are no circumstances in which sexual activity with a patient is acceptable. (830)"
     },
     {
         "id":  "k-27.5",
@@ -11041,7 +11041,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "\"Thank you for asking, but it is unethical for me to date a family member of a patient.\"",
-        "explanation":  "According to The APA\u0027s Principles of Medical Ethics with Annotations Especially Applicable to Psychiatry , sexual activity with a patient\u0027s family member is as unethical as sexual activity with a patient. Child and adolescent psychiatrists usually consider treatment of the family as part of the treatment of the patient, so ethical guidelines would apply to sexual relationships with family members as well. The time course of treatment of the patient is irrelevant, as the Principles states that \"Sexual activity with a current or former patient is unethical.\" (830)"
+        "explanation":  "\"Thank you for asking, but it is unethical for me to date a family member of a patient.\" According to The APA\u0027s Principles of Medical Ethics with Annotations Especially Applicable to Psychiatry , sexual activity with a patient\u0027s family member is as unethical as sexual activity with a patient. Child and adolescent psychiatrists usually consider treatment of the family as part of the treatment of the patient, so ethical guidelines would apply to sexual relationships with family members as well. The time course of treatment of the patient is irrelevant, as the Principles states that \"Sexual activity with a current or former patient is unethical.\" (830)"
     },
     {
         "id":  "k-27.6",
@@ -11065,7 +11065,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "The physician benefits at the patient\u0027s expense",
-        "explanation":  "A boundary violation is a boundary crossing that is exploitative, in which the doctor\u0027s needs are gratified at the expense of the patient. A boundary violation does not have to include patient harm. If a physician enters into a business relationship with a patient, that is usually considered a boundary violation, even though the patient is ostensibly unharmed and may even benefit. While sexual activity with a patient is always a boundary violation, there are violations in which sex is not involved. Not all violations would lead to legal consequences, such as with the business relationship described above. A boundary violation does not necessarily involve breaking clinic or hospital policy, and vice versa. (830)"
+        "explanation":  "The physician benefits at the patient\u0027s expense A boundary violation is a boundary crossing that is exploitative, in which the doctor\u0027s needs are gratified at the expense of the patient. A boundary violation does not have to include patient harm. If a physician enters into a business relationship with a patient, that is usually considered a boundary violation, even though the patient is ostensibly unharmed and may even benefit. While sexual activity with a patient is always a boundary violation, there are violations in which sex is not involved. Not all violations would lead to legal consequences, such as with the business relationship described above. A boundary violation does not necessarily involve breaking clinic or hospital policy, and vice versa. (830)"
     },
     {
         "id":  "k-27.7",
@@ -11089,7 +11089,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Withhold any information unless given permission by driver\u0027s next of kin",
-        "explanation":  "Patient confidentiality extends even after the patient has died. Release of information decisions then falls to the next of kin. (831)"
+        "explanation":  "Withhold any information unless given permission by driver\u0027s next of kin Patient confidentiality extends even after the patient has died. Release of information decisions then falls to the next of kin. (831)"
     },
     {
         "id":  "k-27.8",
@@ -11113,7 +11113,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Report the colleague to the state medical board",
-        "explanation":  "An impaired physician should be reported to the proper authority (state medical board, office manager, department chair, etc.) and relieved of duty in order to reduce the risk of harm to patients. Though many physicians say that they will only talk with the colleague first when presented with a similar scenario, the ethical obligation is to report. (832)"
+        "explanation":  "Report the colleague to the state medical board An impaired physician should be reported to the proper authority (state medical board, office manager, department chair, etc.) and relieved of duty in order to reduce the risk of harm to patients. Though many physicians say that they will only talk with the colleague first when presented with a similar scenario, the ethical obligation is to report. (832)"
     },
     {
         "id":  "k-27.9",
@@ -11137,7 +11137,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Ask for a peer-to-peer consultation to make an appeal for the paliperidone palmitate",
-        "explanation":  "The American Medical Association (AMA) Council of Ethical and Judicial Affairs states that physicians have an obligation to advocate for patient care that they deem appropriate. In this case, advocacy should first come in the form of appealing the insurance company\u0027s decision by asking for a peer-to-peer conversation. Though the patient has technically been exposed to IM haloperidol, to report that as having been exposed to the decanoate formulation would be deceptive. Likewise, it is unknown if the patient would relapse if given haloperidol decanoate instead of paliperidone palmitate. Simply changing to haloperidol decanoate, though possibly effective, is not advocating for the patient for whom the current medication regimen has proven effective. Speaking with the patient\u0027s elected representative could be helpful but is not likely to be in the time frame needed. (831)"
+        "explanation":  "Ask for a peer-to-peer consultation to make an appeal for the paliperidone palmitate The American Medical Association (AMA) Council of Ethical and Judicial Affairs states that physicians have an obligation to advocate for patient care that they deem appropriate. In this case, advocacy should first come in the form of appealing the insurance company\u0027s decision by asking for a peer-to-peer conversation. Though the patient has technically been exposed to IM haloperidol, to report that as having been exposed to the decanoate formulation would be deceptive. Likewise, it is unknown if the patient would relapse if given haloperidol decanoate instead of paliperidone palmitate. Simply changing to haloperidol decanoate, though possibly effective, is not advocating for the patient for whom the current medication regimen has proven effective. Speaking with the patient\u0027s elected representative could be helpful but is not likely to be in the time frame needed. (831)"
     },
     {
         "id":  "k-28.1",
@@ -11185,7 +11185,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "As often as the psychiatrist feels is clinically indicated",
-        "explanation":  "There are no standard rules or regulations set regarding how frequently patients should be monitored while on psychiatric medications. However, the longer time interval between visits can mean the higher likelihood of adverse drug reactions or new developments of clinical concerns. Though probably patients on medication should not go more than 6 months without being seen, psychiatrists should monitor patients for follow-up visits according to the patient\u0027s individual needs. (836)"
+        "explanation":  "As often as the psychiatrist feels is clinically indicated There are no standard rules or regulations set regarding how frequently patients should be monitored while on psychiatric medications. However, the longer time interval between visits can mean the higher likelihood of adverse drug reactions or new developments of clinical concerns. Though probably patients on medication should not go more than 6 months without being seen, psychiatrists should monitor patients for follow-up visits according to the patient\u0027s individual needs. (836)"
     },
     {
         "id":  "k-28.3",
@@ -11209,7 +11209,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Military courts",
-        "explanation":  "Privilege, the right to maintain secrecy or confidentiality in the face of a subpoena, does not exist in the military courts, regardless of whether the physician is in the military. Privileged communications include husband- wife, priest-penitent, and doctor/therapist-patient relationships. (837)"
+        "explanation":  "Military courts Privilege, the right to maintain secrecy or confidentiality in the face of a subpoena, does not exist in the military courts, regardless of whether the physician is in the military. Privileged communications include husband- wife, priest-penitent, and doctor/therapist-patient relationships. (837)"
     },
     {
         "id":  "k-28.4",
@@ -11233,7 +11233,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Foreseeable",
-        "explanation":  "The law assumes that suicide is preventable if it is foreseeable. Courts scrutinize suicide cases to determine if the patient\u0027s suicide was foreseeable. It does not imply or require clinicians to be able to predict suicide or prevent it. (838)"
+        "explanation":  "Foreseeable The law assumes that suicide is preventable if it is foreseeable. Courts scrutinize suicide cases to determine if the patient\u0027s suicide was foreseeable. It does not imply or require clinicians to be able to predict suicide or prevent it. (838)"
     },
     {
         "id":  "k-28.5",
@@ -11257,7 +11257,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Notify the victim and report the intended homicide",
-        "explanation":  "The 1976 case Tarasoff v. Regents of the University of California involved a patient reporting intent to kill a student. He was kept for 72 hours in an emergency room and the campus police were notified but upon release, he carried out the act and the girls\u0027 parents sued the university for negligence. The Tarasoff I ruling requires the therapist to report the intended homicide, and to notify the intended victim or others that they are in danger. This can include notifying the police to warn the intended victim. (839)"
+        "explanation":  "Notify the victim and report the intended homicide The 1976 case Tarasoff v. Regents of the University of California involved a patient reporting intent to kill a student. He was kept for 72 hours in an emergency room and the campus police were notified but upon release, he carried out the act and the girls\u0027 parents sued the university for negligence. The Tarasoff I ruling requires the therapist to report the intended homicide, and to notify the intended victim or others that they are in danger. This can include notifying the police to warn the intended victim. (839)"
     },
     {
         "id":  "k-28.6",
@@ -11281,7 +11281,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Protect",
-        "explanation":  "While the Tarasoff I ruling requires the psychiatrist to warn the intended victim, the Tarasoff II law has broadened the previous ruling requiring the duty to protect as well. The ruling prioritizes public safety over individual privacy. The duty to protect typically involves involuntary hospitalizations. Other steps such as calling the police and notifying family members can be involved with the first Tarasoff ruling. Though concerns that the patient won\u0027t be able to trust the doctor if confidentiality is maintained, if there is concern of imminent, serious harm, public safety trumps confidentiality. (839)"
+        "explanation":  "Protect While the Tarasoff I ruling requires the psychiatrist to warn the intended victim, the Tarasoff II law has broadened the previous ruling requiring the duty to protect as well. The ruling prioritizes public safety over individual privacy. The duty to protect typically involves involuntary hospitalizations. Other steps such as calling the police and notifying family members can be involved with the first Tarasoff ruling. Though concerns that the patient won\u0027t be able to trust the doctor if confidentiality is maintained, if there is concern of imminent, serious harm, public safety trumps confidentiality. (839)"
     },
     {
         "id":  "k-28.7",
@@ -11305,7 +11305,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "The patient cannot be held for typically more than 15 days",
-        "explanation":  "Temporary admissions are utilized when a patient is confused and so impaired from a psychiatric standpoint that they need to be admitted on an emergency basis for their safety. One physician can recommend admission, whereas two physicians are required for an involuntary admission. After a temporary admission, the hospital staff must confirm the need for admission and that patients cannot be held against their will for a set period, typically 15 days. However, for an involuntary admission, the person can be held for a lengthy period as defined by the state, often around 60 days. The next of kin must be notified in writing of an involuntary hospitalization. The person can file for petition for a writ of habeas corpus to be released and the court must hear the case immediately. (840)"
+        "explanation":  "The patient cannot be held for typically more than 15 days Temporary admissions are utilized when a patient is confused and so impaired from a psychiatric standpoint that they need to be admitted on an emergency basis for their safety. One physician can recommend admission, whereas two physicians are required for an involuntary admission. After a temporary admission, the hospital staff must confirm the need for admission and that patients cannot be held against their will for a set period, typically 15 days. However, for an involuntary admission, the person can be held for a lengthy period as defined by the state, often around 60 days. The next of kin must be notified in writing of an involuntary hospitalization. The person can file for petition for a writ of habeas corpus to be released and the court must hear the case immediately. (840)"
     },
     {
         "id":  "k-28.8",
@@ -11353,7 +11353,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "A written order should be documented by a medical official",
-        "explanation":  "For seclusion and restraints, a medical official must write an order and it should be time specified and the patient\u0027s condition must be regularly reviewed and documented. Extension must be reordered. These measures should only be implemented when the patient is at risk of harming themselves or others. Unless continuously monitored with constant direct observation, those patients with overtly suicidal behaviors should not be in seclusion or restraints. A contradiction to restraints include extremely unstable medical and psychiatric conditions. (841)"
+        "explanation":  "A written order should be documented by a medical official For seclusion and restraints, a medical official must write an order and it should be time specified and the patient\u0027s condition must be regularly reviewed and documented. Extension must be reordered. These measures should only be implemented when the patient is at risk of harming themselves or others. Unless continuously monitored with constant direct observation, those patients with overtly suicidal behaviors should not be in seclusion or restraints. A contradiction to restraints include extremely unstable medical and psychiatric conditions. (841)"
     },
     {
         "id":  "k-28.10",
@@ -11377,7 +11377,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "There is no requirement for an expert witness",
-        "explanation":  "Negligence to obtain informed consent is the one area of claim in which there is no requirement for expert testimony. While typically an expert witness is needed to prove departure from accepted medical practice, given the claim involves consent for treatment only, technically the outcome of the treatment does not need to be considered and there is no need to prove that the accepted standard of treatment was met. However, practically unless the treatment has adverse consequences, the complaint of failure to obtain consent typically does not get far. (842)"
+        "explanation":  "There is no requirement for an expert witness Negligence to obtain informed consent is the one area of claim in which there is no requirement for expert testimony. While typically an expert witness is needed to prove departure from accepted medical practice, given the claim involves consent for treatment only, technically the outcome of the treatment does not need to be considered and there is no need to prove that the accepted standard of treatment was met. However, practically unless the treatment has adverse consequences, the complaint of failure to obtain consent typically does not get far. (842)"
     },
     {
         "id":  "k-28.11",
@@ -11401,7 +11401,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "A disclaimer that the patient is free to withdraw at any time",
-        "explanation":  "Essential elements of a consent form include information about the procedure, purpose, identification of any experimental procedures, discomfort, and risks of the treatment as well as reasonable benefits to expect, alternatives to the procedure, and that the patient is free to withdraw consent and discontinue participation at any time. While more than one patient identifier on the form and a signature by a witness can be included, they are not essential features required for all consent forms. (842)"
+        "explanation":  "A disclaimer that the patient is free to withdraw at any time Essential elements of a consent form include information about the procedure, purpose, identification of any experimental procedures, discomfort, and risks of the treatment as well as reasonable benefits to expect, alternatives to the procedure, and that the patient is free to withdraw consent and discontinue participation at any time. While more than one patient identifier on the form and a signature by a witness can be included, they are not essential features required for all consent forms. (842)"
     },
     {
         "id":  "k-28.12",
@@ -11425,7 +11425,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "A judge\u0027s ruling in a court of law",
-        "explanation":  "Competence is determined based on a person\u0027s ability to make a sound judgment, which include weighing in on the decision, reasoning, and making a reasonable decision. Competence is task specific. While physicians, typically psychiatrists, can give opinions of a person\u0027s competence, only a ruling by a judge can declare someone competent or incompetent. The diagnosis of a mental disorder alone is not sufficient to warrant incompetence, rather impairment must be noted. While a guardian is often appointed if someone is deemed incompetent, it is not mandatory to have one prior to declaring patient incompetent. (842)"
+        "explanation":  "A judge\u0027s ruling in a court of law Competence is determined based on a person\u0027s ability to make a sound judgment, which include weighing in on the decision, reasoning, and making a reasonable decision. Competence is task specific. While physicians, typically psychiatrists, can give opinions of a person\u0027s competence, only a ruling by a judge can declare someone competent or incompetent. The diagnosis of a mental disorder alone is not sufficient to warrant incompetence, rather impairment must be noted. While a guardian is often appointed if someone is deemed incompetent, it is not mandatory to have one prior to declaring patient incompetent. (842)"
     },
     {
         "id":  "k-28.13",
@@ -11449,7 +11449,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Durable power of attorney",
-        "explanation":  "A durable power of attorney is when a person appoints someone else to make decisions for them in anticipation of their loss of decision-making capacity. The patient documents a substitute decision maker that can act on their behalf without needing to involve a court proceeding. (843)"
+        "explanation":  "Durable power of attorney A durable power of attorney is when a person appoints someone else to make decisions for them in anticipation of their loss of decision-making capacity. The patient documents a substitute decision maker that can act on their behalf without needing to involve a court proceeding. (843)"
     },
     {
         "id":  "k-28.14",
@@ -11497,7 +11497,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "The sentence is still imposed, and psychiatric treatment is delivered in prison",
-        "explanation":  "As an alternative to the verdict of guilty by reason of insanity, some states have established an alternative verdict of guilty, but mentally ill. However, the verdict if proven guilty but mentally ill is the same for other prisoners, in that if convinced, the accused will receive psychiatric treatment in prison, which is available to all prisoners as well. (844)"
+        "explanation":  "The sentence is still imposed, and psychiatric treatment is delivered in prison As an alternative to the verdict of guilty by reason of insanity, some states have established an alternative verdict of guilty, but mentally ill. However, the verdict if proven guilty but mentally ill is the same for other prisoners, in that if convinced, the accused will receive psychiatric treatment in prison, which is available to all prisoners as well. (844)"
     },
     {
         "id":  "k-28.16",
@@ -11521,7 +11521,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Remain neutral and adhere to treatment boundaries",
-        "explanation":  "There have been cases of therapist being sued for inducing false memories of sexual abuse. A fundamental allegation is that the therapist abandoned a position of neutrality to suggest or implant false childhood sexual memories. The guiding principle of clinical risk management in recovered memory cases is the maintenance of therapist neutrality and establishment of sound treatment boundaries. (844, 845)"
+        "explanation":  "Remain neutral and adhere to treatment boundaries There have been cases of therapist being sued for inducing false memories of sexual abuse. A fundamental allegation is that the therapist abandoned a position of neutrality to suggest or implant false childhood sexual memories. The guiding principle of clinical risk management in recovered memory cases is the maintenance of therapist neutrality and establishment of sound treatment boundaries. (844, 845)"
     },
     {
         "id":  "k-28.17",
@@ -11545,7 +11545,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Written notice of their rights",
-        "explanation":  "The Privacy Rule, as administered by the Office for Civil Rights, mandates that physician must give the patient written notice of their privacy rights. Other mandates of this rule include that a patient can obtain copies of their medical records and that a physician can\u0027t limit a patient signing a release for records for nonroutine use. Patients have the right to complain if this rule is violated to the doctor, their health plan, or to the Secretary of HHS (the Federal Department of Health and Human Services). Patients are not permitted to obtain copies of their psychotherapy notes. Patients do not need to sign consent for release of information to health care plans for payment. (845)"
+        "explanation":  "Written notice of their rights The Privacy Rule, as administered by the Office for Civil Rights, mandates that physician must give the patient written notice of their privacy rights. Other mandates of this rule include that a patient can obtain copies of their medical records and that a physician can\u0027t limit a patient signing a release for records for nonroutine use. Patients have the right to complain if this rule is violated to the doctor, their health plan, or to the Secretary of HHS (the Federal Department of Health and Human Services). Patients are not permitted to obtain copies of their psychotherapy notes. Patients do not need to sign consent for release of information to health care plans for payment. (845)"
     },
     {
         "id":  "k-29.1",
@@ -11569,7 +11569,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Depression and possibly suicidal ideation can occur",
-        "explanation":  "The stages of death and dying, as identified by Elizabeth K-bler-Ross include the following: 1. Shock and Denial, 2. Anger, 3. Bargaining, 4. Depression, and 5. Acceptance. In the stage of depression, patients can show clinical signs of a major depressive disorder including withdrawal, psychomotor retardation, and suicidal ideation. It should be noted that a dying patient rarely follows these stages in order and that not all patients experience all five stages. (847, 848)"
+        "explanation":  "Depression and possibly suicidal ideation can occur The stages of death and dying, as identified by Elizabeth K-bler-Ross include the following: 1. Shock and Denial, 2. Anger, 3. Bargaining, 4. Depression, and 5. Acceptance. In the stage of depression, patients can show clinical signs of a major depressive disorder including withdrawal, psychomotor retardation, and suicidal ideation. It should be noted that a dying patient rarely follows these stages in order and that not all patients experience all five stages. (847, 848)"
     },
     {
         "id":  "k-29.2",
@@ -11593,7 +11593,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Accidents, homicides, and suicides",
-        "explanation":  "Almost half of the children who die between 1 to 14 years old, and nearly 75% of those who die in late adolescence and early adulthood do so from a combination of accidents, homicides, and suicides. (848)"
+        "explanation":  "Accidents, homicides, and suicides Almost half of the children who die between 1 to 14 years old, and nearly 75% of those who die in late adolescence and early adulthood do so from a combination of accidents, homicides, and suicides. (848)"
     },
     {
         "id":  "k-29.3",
@@ -11617,7 +11617,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Preschool",
-        "explanation":  "At the preschool age, the preoperational stage of cognitive development predominates. Preschoolers still see death as incomplete and reversible. Separation from the primary caregiver is the main fear. Terminally ill children often feel guilty and responsible for their own death and don\u0027t relate treatment to the illness and view it as punishment and feel family separation as rejection. School-aged children in the concrete operational cognitive stage can realize the finality of death but see it as something that happens to older people. Adolescents often struggle with loss of independence and fears of abandonment by friends. Teenagers are capable and should typically be involved in all decision-making processes surrounding their deaths. Adults have various fears including losing control, being a burden to others, pain, fear of afterlife, etc. Late-aged adults often can accept death. (849)"
+        "explanation":  "Preschool At the preschool age, the preoperational stage of cognitive development predominates. Preschoolers still see death as incomplete and reversible. Separation from the primary caregiver is the main fear. Terminally ill children often feel guilty and responsible for their own death and don\u0027t relate treatment to the illness and view it as punishment and feel family separation as rejection. School-aged children in the concrete operational cognitive stage can realize the finality of death but see it as something that happens to older people. Adolescents often struggle with loss of independence and fears of abandonment by friends. Teenagers are capable and should typically be involved in all decision-making processes surrounding their deaths. Adults have various fears including losing control, being a burden to others, pain, fear of afterlife, etc. Late-aged adults often can accept death. (849)"
     },
     {
         "id":  "k-29.4",
@@ -11641,7 +11641,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Loneliness",
-        "explanation":  "The most lasting manifestation of grief, especially after spousal bereavement, is loneliness. Typically, it can last for up to many years. Grief often becomes circumscribed throughout time and reemerges when specific triggers are present. The other symptoms listed are indicative of a major depressive disorder, which if present, would typically resolve with treatment. (850)"
+        "explanation":  "Loneliness The most lasting manifestation of grief, especially after spousal bereavement, is loneliness. Typically, it can last for up to many years. Grief often becomes circumscribed throughout time and reemerges when specific triggers are present. The other symptoms listed are indicative of a major depressive disorder, which if present, would typically resolve with treatment. (850)"
     },
     {
         "id":  "k-29.5",
@@ -11665,7 +11665,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Psychomotor retardation",
-        "explanation":  "Symptoms associated with a major depressive disorder, as opposed to bereavement include classic DSM-5 symptoms such as guilt, worthlessness, suicidal ideation, or psychomotor retardation. Dysphoria independent of thoughts of the deceased is typical for a major depressive disorder and the depression causes clinically significant impairment and distress. With bereavement, the functional impairment is transient and mild, with symptoms lasting for less than 2 months, and the onset is within the first 2 months of the loss. (850)"
+        "explanation":  "Psychomotor retardation Symptoms associated with a major depressive disorder, as opposed to bereavement include classic DSM-5 symptoms such as guilt, worthlessness, suicidal ideation, or psychomotor retardation. Dysphoria independent of thoughts of the deceased is typical for a major depressive disorder and the depression causes clinically significant impairment and distress. With bereavement, the functional impairment is transient and mild, with symptoms lasting for less than 2 months, and the onset is within the first 2 months of the loss. (850)"
     },
     {
         "id":  "k-29.6",
@@ -11689,7 +11689,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Alcohol consumption",
-        "explanation":  "An increased mortality rate is seen after bereavement, especially for men. Higher mortality rates for men are due to an increased risk of death by suicide. Accidents, ischemic heart disease, and some infectious diseases are also more common among men. In both sexes, increased alcohol consumption, smoking, and use of over-the- counter (OTC) medications can be exacerbated. (851)"
+        "explanation":  "Alcohol consumption An increased mortality rate is seen after bereavement, especially for men. Higher mortality rates for men are due to an increased risk of death by suicide. Accidents, ischemic heart disease, and some infectious diseases are also more common among men. In both sexes, increased alcohol consumption, smoking, and use of over-the- counter (OTC) medications can be exacerbated. (851)"
     },
     {
         "id":  "k-29.7",
@@ -11713,7 +11713,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Positive emotions",
-        "explanation":  "Grief involves both positive and negative emotions. Grief is fluid and gradually lessens over time as the negative feelings lessen and positive ones take their place. With grief, the person can eventually find comfort in memories of their loved one and can resume a satisfying life. Major depressive disorder consists of a protracted course, with enduring low mood and impairment in work and social functioning. (852)"
+        "explanation":  "Positive emotions Grief involves both positive and negative emotions. Grief is fluid and gradually lessens over time as the negative feelings lessen and positive ones take their place. With grief, the person can eventually find comfort in memories of their loved one and can resume a satisfying life. Major depressive disorder consists of a protracted course, with enduring low mood and impairment in work and social functioning. (852)"
     },
     {
         "id":  "k-29.8",
@@ -11737,7 +11737,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "A mild sedative",
-        "explanation":  "Most people don\u0027t end up seeing a psychiatrist for grief, as it is accepted as a normal reaction. However, the most common request for help with grief often involves a request for sleeping medication from a primary care doctor. A mild sedative might be helpful in certain situations. However, antidepressant medication, antianxiety agents, and narcotics are not indicted and can interfere with the normal grief process. (853)"
+        "explanation":  "A mild sedative Most people don\u0027t end up seeing a psychiatrist for grief, as it is accepted as a normal reaction. However, the most common request for help with grief often involves a request for sleeping medication from a primary care doctor. A mild sedative might be helpful in certain situations. However, antidepressant medication, antianxiety agents, and narcotics are not indicted and can interfere with the normal grief process. (853)"
     },
     {
         "id":  "k-29.9",
@@ -11761,7 +11761,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Changes in appetite",
-        "explanation":  "The Endicott Substitution Criteria can help diagnose depression in those with advanced disease. The criteria have been found to perform as well as the DSM criteria. The physical/somatic symptoms listed include changes in appetite or weight, sleep disturbances, fatigue, loss of energy, and memory and concentration deficits. Psychological symptoms include tearfulness, despair, withdrawal, self-pity, a lack of mood reactivity, etc. (854)"
+        "explanation":  "Changes in appetite The Endicott Substitution Criteria can help diagnose depression in those with advanced disease. The criteria have been found to perform as well as the DSM criteria. The physical/somatic symptoms listed include changes in appetite or weight, sleep disturbances, fatigue, loss of energy, and memory and concentration deficits. Psychological symptoms include tearfulness, despair, withdrawal, self-pity, a lack of mood reactivity, etc. (854)"
     },
     {
         "id":  "k-29.10",
@@ -11785,7 +11785,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Smiling, frowning, and yawning can be noted",
-        "explanation":  "A persistent vegetative state is a condition in which no awareness exists of the self or environment and is associated with severe neurologic damage. Brainstem or hypothalamic autonomic functions permit survival and various cranial nerves, and spinal reflexes are preserved, and patients can even smile, frown, or yawn and sleep- wake cycles can return. No meaningful response to a stimulant or receptive or expressive language is possible, and medical treatment proves no benefits to patients in persistent vegetative states. Brain death is accepted criterion for death and involves a loss of all higher and lower brain stem functions, respiration, and no brain waves are seen on electroencephalographies (EEGs). (858)"
+        "explanation":  "Smiling, frowning, and yawning can be noted A persistent vegetative state is a condition in which no awareness exists of the self or environment and is associated with severe neurologic damage. Brainstem or hypothalamic autonomic functions permit survival and various cranial nerves, and spinal reflexes are preserved, and patients can even smile, frown, or yawn and sleep- wake cycles can return. No meaningful response to a stimulant or receptive or expressive language is possible, and medical treatment proves no benefits to patients in persistent vegetative states. Brain death is accepted criterion for death and involves a loss of all higher and lower brain stem functions, respiration, and no brain waves are seen on electroencephalographies (EEGs). (858)"
     },
     {
         "id":  "k-29.11",
@@ -11809,7 +11809,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Hydromorphone",
-        "explanation":  "Opioids can cause delirium and hallucinations. Psychotoxicity can occur when these drugs or metabolites accumulate because the duration of the analgesics is shorter than their plasma half-lives. Morphine, levorphanol, and methadone are drugs that can accumulate easily whereas hydromorphone has a half-life close to its analgesic duration. Meperidine\u0027s active metabolite, normeperidine, can accumulate in the body. (860, 861)"
+        "explanation":  "Hydromorphone Opioids can cause delirium and hallucinations. Psychotoxicity can occur when these drugs or metabolites accumulate because the duration of the analgesics is shorter than their plasma half-lives. Morphine, levorphanol, and methadone are drugs that can accumulate easily whereas hydromorphone has a half-life close to its analgesic duration. Meperidine\u0027s active metabolite, normeperidine, can accumulate in the body. (860, 861)"
     },
     {
         "id":  "k-29.12",
@@ -11833,7 +11833,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Autonomy",
-        "explanation":  "Most medical, religious, and legal groups in the United States are against active euthanasia and it is considered illegal. Those in support of euthanasia argue the ethical principle of autonomy and a right to a dignified death. Passive euthanasia, a patient requesting the withdrawal of life-sustaining treatment, should be abided by if the patient is competent. (864)"
+        "explanation":  "Autonomy Most medical, religious, and legal groups in the United States are against active euthanasia and it is considered illegal. Those in support of euthanasia argue the ethical principle of autonomy and a right to a dignified death. Passive euthanasia, a patient requesting the withdrawal of life-sustaining treatment, should be abided by if the patient is competent. (864)"
     },
     {
         "id":  "k-29.13",
@@ -11857,7 +11857,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Intolerable pain",
-        "explanation":  "In almost every case in which a patient asks to be put to death, the triad of depression, an incurable medical condition, and intolerable pain exists. Every effort should be made to provide treatment with antidepressants or stimulants, opioids for pain control, along with therapy and spiritual counseling and family support. (865)"
+        "explanation":  "Intolerable pain In almost every case in which a patient asks to be put to death, the triad of depression, an incurable medical condition, and intolerable pain exists. Every effort should be made to provide treatment with antidepressants or stimulants, opioids for pain control, along with therapy and spiritual counseling and family support. (865)"
     },
     {
         "id":  "k-29.14",
@@ -11881,7 +11881,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Two doctors must confirm the patient is terminally ill and acting of their own free will",
-        "explanation":  "In 1994, Oregon was the first state to pass the legalization of physician-assisted suicide, known as the Death with Dignity Act. Washington, Montana, and Vermont have also since made it legal. Oregon\u0027s physician-assisted suicide laws include that two doctors must agree the patient is terminally ill and acting of their own free will and that the patient is capable of making health care decisions and can change their mind at any time. The patient must make one written request and two spoken ones. While the doctor must ask the patient to tell the next of kin, the patient can decide not to. Other parts of the Law include the person must live in Oregon. Pharmacists must be told of the medication\u0027s use. It should be noted that all health care providers are not under any obligation to participate in the act. (865)"
+        "explanation":  "Two doctors must confirm the patient is terminally ill and acting of their own free will In 1994, Oregon was the first state to pass the legalization of physician-assisted suicide, known as the Death with Dignity Act. Washington, Montana, and Vermont have also since made it legal. Oregon\u0027s physician-assisted suicide laws include that two doctors must agree the patient is terminally ill and acting of their own free will and that the patient is capable of making health care decisions and can change their mind at any time. The patient must make one written request and two spoken ones. While the doctor must ask the patient to tell the next of kin, the patient can decide not to. Other parts of the Law include the person must live in Oregon. Pharmacists must be told of the medication\u0027s use. It should be noted that all health care providers are not under any obligation to participate in the act. (865)"
     },
     {
         "id":  "k-30.1",
@@ -11905,7 +11905,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Preventing disease",
-        "explanation":  "Public health consists of organized community efforts with the goals of prevention of disease and promotion of health. Lobbying for government funds to support not- for-profit community health care delivery systems is necessary, but not a main mission of public health programs themselves. Similarly, training providers to work in the local area and increasing research are important, but not part of the main mission. (867)"
+        "explanation":  "Preventing disease Public health consists of organized community efforts with the goals of prevention of disease and promotion of health. Lobbying for government funds to support not- for-profit community health care delivery systems is necessary, but not a main mission of public health programs themselves. Similarly, training providers to work in the local area and increasing research are important, but not part of the main mission. (867)"
     },
     {
         "id":  "k-30.2",
@@ -11929,7 +11929,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "The child will be seen by a psychiatrist at the school",
-        "explanation":  "In an ideal collaborative care model, a psychiatrist would be present at the school to serve as a consultant for the faculty and staff there. This psychiatrist would likely not work for the school full time, but may have weekly or monthly hours there. Another example of a collaborative care model would be to have a psychiatrist working in the same office as the pediatrician. However, this would add another step in getting the child evaluated, so it is not as ideal as an in-school psychiatrist. (867)"
+        "explanation":  "The child will be seen by a psychiatrist at the school In an ideal collaborative care model, a psychiatrist would be present at the school to serve as a consultant for the faculty and staff there. This psychiatrist would likely not work for the school full time, but may have weekly or monthly hours there. Another example of a collaborative care model would be to have a psychiatrist working in the same office as the pediatrician. However, this would add another step in getting the child evaluated, so it is not as ideal as an in-school psychiatrist. (867)"
     },
     {
         "id":  "k-30.3",
@@ -11951,7 +11951,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Selective",
-        "explanation":  "Screening every patient is an example of universal intervention, while attempting to prevent depression from occurring in those who may be at higher risk as indicated by the screening tool is an example of selective intervention. If some of the patients progress to develop depression, treatment would be an indicated intervention. A multimodal intervention would involve the patients, their families, peers, school, and the larger community in the intervention effort. (868)"
+        "explanation":  "Selective Screening every patient is an example of universal intervention, while attempting to prevent depression from occurring in those who may be at higher risk as indicated by the screening tool is an example of selective intervention. If some of the patients progress to develop depression, treatment would be an indicated intervention. A multimodal intervention would involve the patients, their families, peers, school, and the larger community in the intervention effort. (868)"
     },
     {
         "id":  "k-30.4",
@@ -11975,7 +11975,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "He will receive no addiction treatment",
-        "explanation":  "For many low-income and/or minority individuals, the jail/prison system provides the most reliable access to mental health and addiction treatment. An overwhelming majority of individuals with addiction disorders will not receive steady addiction treatment once released from incarceration. (868)"
+        "explanation":  "He will receive no addiction treatment For many low-income and/or minority individuals, the jail/prison system provides the most reliable access to mental health and addiction treatment. An overwhelming majority of individuals with addiction disorders will not receive steady addiction treatment once released from incarceration. (868)"
     },
     {
         "id":  "k-30.5",
@@ -11999,7 +11999,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Reuniting him with his son",
-        "explanation":  "The success of a public community psychiatry multidisciplinary team depends on successful, effective communication with the patient, with a focus on the patient\u0027s stated goals. This ensures that the treatment is patient centered and is most likely to lead to maximum engagement and buy-in by the patient to the services provided. As being a part of his son\u0027s life is his stated priority, that should be the focus of the team, which can point out that housing, symptom control, employment, and staying out of the hospital can greatly enhance the probability of him realizing his goal. (870)"
+        "explanation":  "Reuniting him with his son The success of a public community psychiatry multidisciplinary team depends on successful, effective communication with the patient, with a focus on the patient\u0027s stated goals. This ensures that the treatment is patient centered and is most likely to lead to maximum engagement and buy-in by the patient to the services provided. As being a part of his son\u0027s life is his stated priority, that should be the focus of the team, which can point out that housing, symptom control, employment, and staying out of the hospital can greatly enhance the probability of him realizing his goal. (870)"
     },
     {
         "id":  "k-30.6",
@@ -12021,7 +12021,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Agencies have a common plan of care for treatment of the child and their family",
-        "explanation":  "The systems of care model consists of an interagency structure which can include child welfare, juvenile justice, the school system, and medical services which form a consortium to respond to the needs of the child and their family. The consortium agencies agree on a common plan of care and pool their resources to provide the most optimal treatment. Team members are employed by their respective agencies and come together, as needed, during patient and family encounters to care for the child and family. (871)"
+        "explanation":  "Agencies have a common plan of care for treatment of the child and their family The systems of care model consists of an interagency structure which can include child welfare, juvenile justice, the school system, and medical services which form a consortium to respond to the needs of the child and their family. The consortium agencies agree on a common plan of care and pool their resources to provide the most optimal treatment. Team members are employed by their respective agencies and come together, as needed, during patient and family encounters to care for the child and family. (871)"
     },
     {
         "id":  "k-30.7",
@@ -12045,7 +12045,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "24/7 team member availability to the patient",
-        "explanation":  "Both standard outpatient multidisciplinary treatment teams and ACT teams employ psychiatrists to evaluate and pharmacologically treat the patient. They also both develop individualized treatment plans based on patient goals, assist with job placement as needed, and can have a working relationship with other community agencies. A differentiating feature of an ACT team is the relatively small caseloads and 24/7 on-call availability of a member of the team to the patient. (871)"
+        "explanation":  "24/7 team member availability to the patient Both standard outpatient multidisciplinary treatment teams and ACT teams employ psychiatrists to evaluate and pharmacologically treat the patient. They also both develop individualized treatment plans based on patient goals, assist with job placement as needed, and can have a working relationship with other community agencies. A differentiating feature of an ACT team is the relatively small caseloads and 24/7 on-call availability of a member of the team to the patient. (871)"
     },
     {
         "id":  "k-31.1",
@@ -12069,7 +12069,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "25",
-        "explanation":  "More than 25% of individuals worldwide develop one or more mental disorders in their lifetime. Depression and generalized anxiety disorder are the most prevalent diagnoses. Though disorders differ in prevalence depending on sex, there were no sex differences in the proportion of people having at least one mental disorder. (875)"
+        "explanation":  "25 More than 25% of individuals worldwide develop one or more mental disorders in their lifetime. Depression and generalized anxiety disorder are the most prevalent diagnoses. Though disorders differ in prevalence depending on sex, there were no sex differences in the proportion of people having at least one mental disorder. (875)"
     },
     {
         "id":  "k-31.2",
@@ -12117,7 +12117,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Bipolar disorder",
-        "explanation":  "According to the Disorder-Specific Global Sheehan Disability Scale Ratings for commonly occurring mental and chronic physical disorders in developed and developing countries, bipolar disorder and depression are the top two mental disorders rated the highest for being severely disabling. (876)"
+        "explanation":  "Bipolar disorder According to the Disorder-Specific Global Sheehan Disability Scale Ratings for commonly occurring mental and chronic physical disorders in developed and developing countries, bipolar disorder and depression are the top two mental disorders rated the highest for being severely disabling. (876)"
     },
     {
         "id":  "k-31.4",
@@ -12165,7 +12165,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "A woman in the family setting",
-        "explanation":  "A study carried out in India by the World Psychiatric Association (WPA) found that women and people living in urban areas were the most stigmatized. Men experienced more discrimination in the job area, whereas women experienced more discrimination within the family and social areas. (878)"
+        "explanation":  "A woman in the family setting A study carried out in India by the World Psychiatric Association (WPA) found that women and people living in urban areas were the most stigmatized. Men experienced more discrimination in the job area, whereas women experienced more discrimination within the family and social areas. (878)"
     },
     {
         "id":  "k-31.6",
@@ -12189,7 +12189,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Psychotic",
-        "explanation":  "Those with mental disorders have a higher prevalence of physical disease compared with the general population. Even after controlling for comorbid substance use disorders, those patients with psychotic disorders were found to be more likely than others to develop diabetes, hypertension, heart disease, asthma, gastrointestinal disorders, skin infections, malignant neoplasms, and acute respiratory disorders. (879)"
+        "explanation":  "Psychotic Those with mental disorders have a higher prevalence of physical disease compared with the general population. Even after controlling for comorbid substance use disorders, those patients with psychotic disorders were found to be more likely than others to develop diabetes, hypertension, heart disease, asthma, gastrointestinal disorders, skin infections, malignant neoplasms, and acute respiratory disorders. (879)"
     },
     {
         "id":  "k-31.7",
@@ -12213,7 +12213,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Myocardial infarctions",
-        "explanation":  "A strong prospective association exists between depression and coronary heart disease, including fatal myocardial infarctions. It should also be noted though that after having a myocardial infarction, the risk of depression increases. (879) D Contributions from the Sciences and Social Sciences to Psychiatry"
+        "explanation":  "Myocardial infarctions A strong prospective association exists between depression and coronary heart disease, including fatal myocardial infarctions. It should also be noted though that after having a myocardial infarction, the risk of depression increases. (879) D Contributions from the Sciences and Social Sciences to Psychiatry"
     },
     {
         "id":  "k-32.1",
@@ -12237,7 +12237,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "8",
-        "explanation":  "The prenatal period involves the development of the embryo and fetus. After implantation when the egg divides it becomes an embryo. Rapid growth occurs and by the end of 8 weeks, the embryo can be recognized as human and is referred to as a fetus. (883)"
+        "explanation":  "8 The prenatal period involves the development of the embryo and fetus. After implantation when the egg divides it becomes an embryo. Rapid growth occurs and by the end of 8 weeks, the embryo can be recognized as human and is referred to as a fetus. (883)"
     },
     {
         "id":  "k-32.2",
@@ -12261,7 +12261,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Detection of fetal movement",
-        "explanation":  "Women usually detect fetal movements between 16 to 20 weeks into the pregnancy. Taste and smell development occur in the fetus around 7 months. The sucking reflex typically does not appear until 28 weeks. The cerebral cortex layers typically don\u0027t appear until 6 months of pregnancy. (883, 884)"
+        "explanation":  "Detection of fetal movement Women usually detect fetal movements between 16 to 20 weeks into the pregnancy. Taste and smell development occur in the fetus around 7 months. The sucking reflex typically does not appear until 28 weeks. The cerebral cortex layers typically don\u0027t appear until 6 months of pregnancy. (883, 884)"
     },
     {
         "id":  "k-32.3",
@@ -12285,7 +12285,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "More neurons are generated",
-        "explanation":  "The fetus develops more neurons than it needs for adult life and pruning occurs to get rid of these neurons and apoptosis, or cell death occurs. White matter in the fetal brain, especially before 22 weeks, is more sensitive to damage, such as from hypoxia. At birth, the number of new neurons is negligible, and the branching of dendrites and new connections will occur afterward. The cerebral cortex does not begin to form layers until 6 months of pregnancy. (884, 885)"
+        "explanation":  "More neurons are generated The fetus develops more neurons than it needs for adult life and pruning occurs to get rid of these neurons and apoptosis, or cell death occurs. White matter in the fetal brain, especially before 22 weeks, is more sensitive to damage, such as from hypoxia. At birth, the number of new neurons is negligible, and the branching of dendrites and new connections will occur afterward. The cerebral cortex does not begin to form layers until 6 months of pregnancy. (884, 885)"
     },
     {
         "id":  "k-32.4",
@@ -12309,7 +12309,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Attention deficit hyperactivity disorder",
-        "explanation":  "The infant above has symptoms characteristic of fetal alcohol syndrome. It affects about one-third of infants born to alcoholic women and symptoms include growth retardation and dysmorphic faces with microcephaly, hypertelorism (large distance between the eyes), microphthalmia (small eyeballs), short palpebral fissures, inner epicanthal folds, short palpebral fissures, short philtrum, thin upper lip, short, upturned notes, etc. Cardiac defects and central nervous system (CNS) manifestations, including seizures, are often present. Other psychiatric symptoms or central nervous system (CNS) manifestations include hyperactivity, attention deficit, and learning and intellectual disabilities. (886)"
+        "explanation":  "Attention deficit hyperactivity disorder The infant above has symptoms characteristic of fetal alcohol syndrome. It affects about one-third of infants born to alcoholic women and symptoms include growth retardation and dysmorphic faces with microcephaly, hypertelorism (large distance between the eyes), microphthalmia (small eyeballs), short palpebral fissures, inner epicanthal folds, short palpebral fissures, short philtrum, thin upper lip, short, upturned notes, etc. Cardiac defects and central nervous system (CNS) manifestations, including seizures, are often present. Other psychiatric symptoms or central nervous system (CNS) manifestations include hyperactivity, attention deficit, and learning and intellectual disabilities. (886)"
     },
     {
         "id":  "k-32.5",
@@ -12333,7 +12333,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Plantar (Babinski)",
-        "explanation":  "Reflexes present at birth include rooting, grasp reflex, the plantar (Babinski), the knee and abdominal reflexes, and the startle (Moro) reflex along with the tonic neck reflex. In healthy children, by 4 months old, the grasp, startle, and tonic neck reflex disappear. It takes until 12 months for the Babinski reflex to disappear. (887)"
+        "explanation":  "Plantar (Babinski) Reflexes present at birth include rooting, grasp reflex, the plantar (Babinski), the knee and abdominal reflexes, and the startle (Moro) reflex along with the tonic neck reflex. In healthy children, by 4 months old, the grasp, startle, and tonic neck reflex disappear. It takes until 12 months for the Babinski reflex to disappear. (887)"
     },
     {
         "id":  "k-32.6",
@@ -12381,7 +12381,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Reassurance that these behaviors are normal for her age and in another year, most of those milestones should be met",
-        "explanation":  "At 2 years old, a toddler should be able to pull on simple clothing items and say \"no\" to their mother. Parallel play, in which they play side by side without interacting with other children is normal for this age. Typically, a 2- year-old can build a tower of six or seven cubes. By 3 years old, a child should be able to do the other things mentioned in the vignette such as put on shoes, feed themselves well, understand taking turns, and build a tower of more blocks (9 or 10) cubes. (888)"
+        "explanation":  "Reassurance that these behaviors are normal for her age and in another year, most of those milestones should be met At 2 years old, a toddler should be able to pull on simple clothing items and say \"no\" to their mother. Parallel play, in which they play side by side without interacting with other children is normal for this age. Typically, a 2- year-old can build a tower of six or seven cubes. By 3 years old, a child should be able to do the other things mentioned in the vignette such as put on shoes, feed themselves well, understand taking turns, and build a tower of more blocks (9 or 10) cubes. (888)"
     },
     {
         "id":  "k-32.8",
@@ -12405,7 +12405,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "4 months",
-        "explanation":  "While an endogenous smile can be noted at birth, the spontaneous social smile, or exogenous smile, does not typically occur until around 4 weeks of life. (888)"
+        "explanation":  "4 months While an endogenous smile can be noted at birth, the spontaneous social smile, or exogenous smile, does not typically occur until around 4 weeks of life. (888)"
     },
     {
         "id":  "k-32.9",
@@ -12429,7 +12429,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "2 years old",
-        "explanation":  "A 2-year-old should be able to put two words together for a simple utterance and start to use three-word telegraphic utterances, with only around half being intelligible. A 2-year-old should also refer to themselves by name. (889)"
+        "explanation":  "2 years old A 2-year-old should be able to put two words together for a simple utterance and start to use three-word telegraphic utterances, with only around half being intelligible. A 2-year-old should also refer to themselves by name. (889)"
     },
     {
         "id":  "k-32.10",
@@ -12477,7 +12477,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "3 weeks",
-        "explanation":  "By as young as 3 weeks old, infants can imitate facial movements of adult caregivers. They can open their mouths and thrust their tongues when adults do the same. By the third and fourth months, this behavior is easily elicited, and the exogenous social smile occurs. (890)"
+        "explanation":  "3 weeks By as young as 3 weeks old, infants can imitate facial movements of adult caregivers. They can open their mouths and thrust their tongues when adults do the same. By the third and fourth months, this behavior is easily elicited, and the exogenous social smile occurs. (890)"
     },
     {
         "id":  "k-32.12",
@@ -12501,7 +12501,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Approval seeking",
-        "explanation":  "In terms of emotional development, in early childhood (3 to 6 years old) a child can display empathy, and aggression turns into competition at this age. Self- regulation begins to occur, and children become less reactive. By 5 years old, children typically show sensitivity to criticism and care about the feelings of others. By middle childhood (7 to 11 years old), altruism can be displaced and the superego dominates. At 1 to 2 years old, some indications of empathy are starting, though attention seeking and the need for approval predominate. (891)"
+        "explanation":  "Approval seeking In terms of emotional development, in early childhood (3 to 6 years old) a child can display empathy, and aggression turns into competition at this age. Self- regulation begins to occur, and children become less reactive. By 5 years old, children typically show sensitivity to criticism and care about the feelings of others. By middle childhood (7 to 11 years old), altruism can be displaced and the superego dominates. At 1 to 2 years old, some indications of empathy are starting, though attention seeking and the need for approval predominate. (891)"
     },
     {
         "id":  "k-32.13",
@@ -12525,7 +12525,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Occurrence when the infant is still in the mother\u0027s arms",
-        "explanation":  "Stranger anxiety is a developmentally normal fear that starts around 26 weeks of life, whereas separation anxiety typically begins later around 10 to 18 months. When babies are approached by strangers, they cry and cling to their mothers. Babies with only one caregiver are more likely to have stranger anxiety. Stranger anxiety occurs when the infant is in the mother\u0027s arms, whereas with separation anxiety, the anxiety occurs when the person the infant is attached to separates. (892)"
+        "explanation":  "Occurrence when the infant is still in the mother\u0027s arms Stranger anxiety is a developmentally normal fear that starts around 26 weeks of life, whereas separation anxiety typically begins later around 10 to 18 months. When babies are approached by strangers, they cry and cling to their mothers. Babies with only one caregiver are more likely to have stranger anxiety. Stranger anxiety occurs when the infant is in the mother\u0027s arms, whereas with separation anxiety, the anxiety occurs when the person the infant is attached to separates. (892)"
     },
     {
         "id":  "k-32.14",
@@ -12573,7 +12573,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "2 to 2.5 years old",
-        "explanation":  "It used to be thought that gender identity, the conviction of being male or female, was a function of social learning. It is now known that rearing does not affect gender identity. Gender identity begins to manifest at 18 months and is typically fixed by 24 to 30 months old. (894)"
+        "explanation":  "2 to 2.5 years old It used to be thought that gender identity, the conviction of being male or female, was a function of social learning. It is now known that rearing does not affect gender identity. Gender identity begins to manifest at 18 months and is typically fixed by 24 to 30 months old. (894)"
     },
     {
         "id":  "k-32.16",
@@ -12597,7 +12597,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "High intelligence",
-        "explanation":  "Imaginary companions most commonly occur in the preschool years and are typically found in those with high intelligence. Typically, they disappear by age 12 years and occur in up to 50% of children. Though the significance is not clear, it is thought to reduce anxiety and the companions are typically described as friendly figures. (895)"
+        "explanation":  "High intelligence Imaginary companions most commonly occur in the preschool years and are typically found in those with high intelligence. Typically, they disappear by age 12 years and occur in up to 50% of children. Though the significance is not clear, it is thought to reduce anxiety and the companions are typically described as friendly figures. (895)"
     },
     {
         "id":  "k-32.17",
@@ -12621,7 +12621,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Interest in relations outside of the family",
-        "explanation":  "During the middle years, age 6 to puberty, peer interactions assume significant importance. Interest in relationships outside of the family predominate during the middle years and the children form a special relationship with the same-sex parent and view them as a role model. Peer rivalry and struggles with aggressive impulses and taking turns typically occur in the preschool years. Distinguishing reality from fantasy and focusing on play is also characteristic of the preschool, not the middle years. The middle years typically were thought of as the latency period, including exploration of sexual play. It is now known that a considerable amount of sexual interest does occur throughout these years. (895)"
+        "explanation":  "Interest in relations outside of the family During the middle years, age 6 to puberty, peer interactions assume significant importance. Interest in relationships outside of the family predominate during the middle years and the children form a special relationship with the same-sex parent and view them as a role model. Peer rivalry and struggles with aggressive impulses and taking turns typically occur in the preschool years. Distinguishing reality from fantasy and focusing on play is also characteristic of the preschool, not the middle years. The middle years typically were thought of as the latency period, including exploration of sexual play. It is now known that a considerable amount of sexual interest does occur throughout these years. (895)"
     },
     {
         "id":  "k-32.18",
@@ -12645,7 +12645,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Visions of being killed or injured",
-        "explanation":  "By 5 or 6 years old, children often dream of being killed or injured, fear of flying, being in cars, or of ghosts. At 5 years old, children realize their dreams are not real. At 3 years old, children believe their dreams are shared by more than one person. Sleep disorders, such as parasomnias and enuresis or bedwetting, though common are not part of normal dreaming and actually occur during stage 4 sleep when dreaming is minimal. (896)"
+        "explanation":  "Visions of being killed or injured By 5 or 6 years old, children often dream of being killed or injured, fear of flying, being in cars, or of ghosts. At 5 years old, children realize their dreams are not real. At 3 years old, children believe their dreams are shared by more than one person. Sleep disorders, such as parasomnias and enuresis or bedwetting, though common are not part of normal dreaming and actually occur during stage 4 sleep when dreaming is minimal. (896)"
     },
     {
         "id":  "k-32.19",
@@ -12669,7 +12669,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Suicide",
-        "explanation":  "Children of divorced families have much higher suicide rates compared to intact families. Antisocial personality disorder, conduct disorder, and attention- deficit/hyperactivity disorder (ADHD) are more common in children in homes with absent fathers. Children from divorced homes have more struggles with academic achievement and social relations and are more withdrawn, lonely, anxious, and insecure. Aggression, especially onset boys is common. They also have higher rates of medical issues including injury, asthma, and headaches. (897)"
+        "explanation":  "Suicide Children of divorced families have much higher suicide rates compared to intact families. Antisocial personality disorder, conduct disorder, and attention- deficit/hyperactivity disorder (ADHD) are more common in children in homes with absent fathers. Children from divorced homes have more struggles with academic achievement and social relations and are more withdrawn, lonely, anxious, and insecure. Aggression, especially onset boys is common. They also have higher rates of medical issues including injury, asthma, and headaches. (897)"
     },
     {
         "id":  "k-32.20",
@@ -12693,7 +12693,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Perception of attractive physical appearance",
-        "explanation":  "The most important correlates of a good self-esteem, a measure of one\u0027s sense of self-worth, has been shown to be one\u0027s perception of attractive physical appearance and high value to peers and family. Secondary features include academic achievement, athletic ability, and unique talents. Positive feedback from peers also contributes to self-esteem. In general, girls have more issues maintaining a positive self-esteem than boys do. (902)"
+        "explanation":  "Perception of attractive physical appearance The most important correlates of a good self-esteem, a measure of one\u0027s sense of self-worth, has been shown to be one\u0027s perception of attractive physical appearance and high value to peers and family. Secondary features include academic achievement, athletic ability, and unique talents. Positive feedback from peers also contributes to self-esteem. In general, girls have more issues maintaining a positive self-esteem than boys do. (902)"
     },
     {
         "id":  "k-32.21",
@@ -12717,7 +12717,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Homicides",
-        "explanation":  "Violent crimes by young offenders are on the increase in the United States. Homicides are the second leading cause of death among people aged 15 to 25 years, with accidents being the first cause, and suicide the third. (903)"
+        "explanation":  "Homicides Violent crimes by young offenders are on the increase in the United States. Homicides are the second leading cause of death among people aged 15 to 25 years, with accidents being the first cause, and suicide the third. (903)"
     },
     {
         "id":  "k-32.22",
@@ -12741,7 +12741,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Serious physical fights with peers or family",
-        "explanation":  "members According to Center for Disease Control and Prevention (CDC), in 2010, approximately 2% of deaths occurred due to school violence. Imminent warning signs include serious physical fights with peers or family, severe destruction of property, serious rage, detailed threats of violence, poison, or firearms. Early warning signs include feelings of isolation or withdrawal, rejection, being a victim of violence, having a history of discipline problems, drug and alcohol (EtOH) use, gang affiliation, and threats of violence. (904)"
+        "explanation":  "Serious physical fights with peers or family members According to Center for Disease Control and Prevention (CDC), in 2010, approximately 2% of deaths occurred due to school violence. Imminent warning signs include serious physical fights with peers or family, severe destruction of property, serious rage, detailed threats of violence, poison, or firearms. Early warning signs include feelings of isolation or withdrawal, rejection, being a victim of violence, having a history of discipline problems, drug and alcohol (EtOH) use, gang affiliation, and threats of violence. (904)"
     },
     {
         "id":  "k-32.23",
@@ -12765,7 +12765,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Generativity versus stagnation; middle adulthood",
-        "explanation":  "Erikson described middle adulthood (40 to 65 years old) as being characterized by generativity or stagnation. The person can help guide future generations and improve society by helping others, being reactive, etc. or they can end up being stagnant and stop developing. They can end up feeling isolated and focusing on themselves and struggle more with old age. Integrity versus despair occurs in old age and involves the process of reviewing one\u0027s life and coming to a sense of peace with how one\u0027s life was lived and struggling to do so can cause despair. Identify formation versus diffusion is the developmental task Erikson described for adolescence through early adulthood. It involves defining a sense of self, belonging, hobbies, etc., and continued identify refinement. (909)"
+        "explanation":  "Generativity versus stagnation; middle adulthood Erikson described middle adulthood (40 to 65 years old) as being characterized by generativity or stagnation. The person can help guide future generations and improve society by helping others, being reactive, etc. or they can end up being stagnant and stop developing. They can end up feeling isolated and focusing on themselves and struggle more with old age. Integrity versus despair occurs in old age and involves the process of reviewing one\u0027s life and coming to a sense of peace with how one\u0027s life was lived and struggling to do so can cause despair. Identify formation versus diffusion is the developmental task Erikson described for adolescence through early adulthood. It involves defining a sense of self, belonging, hobbies, etc., and continued identify refinement. (909)"
     },
     {
         "id":  "k-32.24",
@@ -12789,7 +12789,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Learning takes longer, but still occurs",
-        "explanation":  "Neuropsychiatric changes with aging include it taking longer to learn new material but learning new information can still occur. IQ remains stable until 80 years old. Verbal ability is maintained with age in terms of memory, though encoding ability diminishes (i.e., transfer of short- to long-term memory and vice versa). Simple recall declines, though recognition of right answers on multiple choice tests remains intact with aging. (915)"
+        "explanation":  "Learning takes longer, but still occurs Neuropsychiatric changes with aging include it taking longer to learn new material but learning new information can still occur. IQ remains stable until 80 years old. Verbal ability is maintained with age in terms of memory, though encoding ability diminishes (i.e., transfer of short- to long-term memory and vice versa). Simple recall declines, though recognition of right answers on multiple choice tests remains intact with aging. (915)"
     },
     {
         "id":  "k-33.1",
@@ -12813,7 +12813,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Ventricular enlargement",
-        "explanation":  "An endophenotype is an internal phenotype based on neuropsychological, neuroanatomical, cognitive, neurophysiologic, biochemical, and brain imaging data. To qualify as an endophenotype, the biologic marker associated with illness in the population must be heritable, seen in people with and without the active illness (which rules out all answer choices but ventricular enlargement), co-segregates with illness within families, and is present at a higher rate in unaffected family members than in the general population. Endophenotypes are not synonymous with symptoms (which also eliminates all answer choices except for ventricular enlargement). The use of endophenotypes in psychiatric studies assumes that a type of biologic marker is simpler to detect and be determined by fewer genes than that of a whole disease, such as schizophrenia. (923)"
+        "explanation":  "Ventricular enlargement An endophenotype is an internal phenotype based on neuropsychological, neuroanatomical, cognitive, neurophysiologic, biochemical, and brain imaging data. To qualify as an endophenotype, the biologic marker associated with illness in the population must be heritable, seen in people with and without the active illness (which rules out all answer choices but ventricular enlargement), co-segregates with illness within families, and is present at a higher rate in unaffected family members than in the general population. Endophenotypes are not synonymous with symptoms (which also eliminates all answer choices except for ventricular enlargement). The use of endophenotypes in psychiatric studies assumes that a type of biologic marker is simpler to detect and be determined by fewer genes than that of a whole disease, such as schizophrenia. (923)"
     },
     {
         "id":  "k-33.2",
@@ -12835,7 +12835,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Microglia",
-        "explanation":  "Astrocytes, the most common type of glial cell, serve as nutrition for neurons, deactivate certain neurotransmitters and integrate with the blood-brain barrier. Dendrocytes and Schwann cells create myelin sheaths in the central and peripheral nervous systems, respectively. Microglia are involved in removing cellular debris after neuronal death. (924)"
+        "explanation":  "Microglia Astrocytes, the most common type of glial cell, serve as nutrition for neurons, deactivate certain neurotransmitters and integrate with the blood-brain barrier. Dendrocytes and Schwann cells create myelin sheaths in the central and peripheral nervous systems, respectively. Microglia are involved in removing cellular debris after neuronal death. (924)"
     },
     {
         "id":  "k-33.3",
@@ -12859,7 +12859,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Thalamus",
-        "explanation":  "The signals for pain, temperature, coarse touch, and deep pressure travel along the spinothalamic tract while the signals for proprioception, vibration, and light touch travel along the fasciculus gracilis and cuneatus. All neurons for all somatosensory modalities synapse in the thalamus. However, had this been a reflex arc, such as would occur with the child placing his hand on a hot stove and jerking it away, the synapse would be in the spinal cord. (925)"
+        "explanation":  "Thalamus The signals for pain, temperature, coarse touch, and deep pressure travel along the spinothalamic tract while the signals for proprioception, vibration, and light touch travel along the fasciculus gracilis and cuneatus. All neurons for all somatosensory modalities synapse in the thalamus. However, had this been a reflex arc, such as would occur with the child placing his hand on a hot stove and jerking it away, the synapse would be in the spinal cord. (925)"
     },
     {
         "id":  "k-33.4",
@@ -12881,7 +12881,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Temporal",
-        "explanation":  "The primary visual cortex cells, located in the occipital lobe, respond specifically to line orientation. Those cells project to the secondary visual cortex, also in the occipital lobe, which responds to angles and movement of lines. The temporal lobe detects shape, form, and color while the parietal lobe detects motion, location, and distance. (926)"
+        "explanation":  "Temporal The primary visual cortex cells, located in the occipital lobe, respond specifically to line orientation. Those cells project to the secondary visual cortex, also in the occipital lobe, which responds to angles and movement of lines. The temporal lobe detects shape, form, and color while the parietal lobe detects motion, location, and distance. (926)"
     },
     {
         "id":  "k-33.5",
@@ -12905,7 +12905,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Tympanic membrane",
-        "explanation":  "The processing of sound begins with changes in ambient air pressure, which are picked up by the tympanic membrane, which then vibrates. The vibrations are transmitted to the ossicles, endolymph of the cochlear spiral, and cilia on hair cells which generate neuronal impulses that travel to the cochlear nerve. (927)"
+        "explanation":  "Tympanic membrane The processing of sound begins with changes in ambient air pressure, which are picked up by the tympanic membrane, which then vibrates. The vibrations are transmitted to the ossicles, endolymph of the cochlear spiral, and cilia on hair cells which generate neuronal impulses that travel to the cochlear nerve. (927)"
     },
     {
         "id":  "k-33.6",
@@ -12929,7 +12929,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Corticospinal",
-        "explanation":  "The patient has most likely suffered a stroke which affected the corticospinal tract. The limb spasticity and hyperreflexia indicate an upper motor neuron lesion in a descending tract. The corticospinal tract, which controls fine motor movements, is the only descending one. The others are ascending. Spasticity usually occurs more often in the upper limbs than the lower ones, and more often following a hemorrhagic stroke than an ischemic one. (928, 929)"
+        "explanation":  "Corticospinal The patient has most likely suffered a stroke which affected the corticospinal tract. The limb spasticity and hyperreflexia indicate an upper motor neuron lesion in a descending tract. The corticospinal tract, which controls fine motor movements, is the only descending one. The others are ascending. Spasticity usually occurs more often in the upper limbs than the lower ones, and more often following a hemorrhagic stroke than an ischemic one. (928, 929)"
     },
     {
         "id":  "k-33.7",
@@ -12953,7 +12953,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Caudate",
-        "explanation":  "The caudate shrinks in Huntington disease, which is what this patient has. The substantia nigra is affected in Parkinson disease. Lesions in the subthalamic nucleus can lead to intense ballistic movements, which are different than the rigidity and choreiform movements of Huntington. Damage to the globus pallidus can lead to dystonic posturing and limb flapping. (929)"
+        "explanation":  "Caudate The caudate shrinks in Huntington disease, which is what this patient has. The substantia nigra is affected in Parkinson disease. Lesions in the subthalamic nucleus can lead to intense ballistic movements, which are different than the rigidity and choreiform movements of Huntington. Damage to the globus pallidus can lead to dystonic posturing and limb flapping. (929)"
     },
     {
         "id":  "k-33.8",
@@ -12977,7 +12977,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Hypothalamus",
-        "explanation":  "The hypothalamus is responsible for mediating the fight or flight response to danger through the autonomic motor system. This involves an increased heart rate, shunting of blood away from the viscera, and increased respirations. The basal ganglia appear to mediate postural tone. The primitive reflex circuit mediates motor movement without immediate conscious awareness, such as quickly pulling a hand away from a hot stove. The motor cortex cells cause contraction of individual muscles. The cerebellum modulates muscle tone. (929, 930)"
+        "explanation":  "Hypothalamus The hypothalamus is responsible for mediating the fight or flight response to danger through the autonomic motor system. This involves an increased heart rate, shunting of blood away from the viscera, and increased respirations. The basal ganglia appear to mediate postural tone. The primitive reflex circuit mediates motor movement without immediate conscious awareness, such as quickly pulling a hand away from a hot stove. The motor cortex cells cause contraction of individual muscles. The cerebellum modulates muscle tone. (929, 930)"
     },
     {
         "id":  "k-33.9",
@@ -12999,7 +12999,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Frontal",
-        "explanation":  "Continuous performance tests measure attention and are used at times to aid in the diagnosis of attention-deficit hyperactivity disorder (ADHD). An intact right frontal lobe is necessary to do well on this test. Of note, there have not been consistent pathologic findings in individuals with ADHD who have no known brain injury. (932)"
+        "explanation":  "Frontal Continuous performance tests measure attention and are used at times to aid in the diagnosis of attention-deficit hyperactivity disorder (ADHD). An intact right frontal lobe is necessary to do well on this test. Of note, there have not been consistent pathologic findings in individuals with ADHD who have no known brain injury. (932)"
     },
     {
         "id":  "k-33.10",
@@ -13021,7 +13021,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Frontal",
-        "explanation":  "The frontal lobe is responsible for executive functions such as cognition, personality, and social behavior. Damage to this lobe can therefore lead to personality change, such as from a preinjury mild-mannered person to a postinjury difficult and abusive person. Temporal lobe damage can result in, among other things, difficulty with words, attention, memory, and identification of objects. Parietal lobe damage can result in difficulty drawing objects, distinguishing left from right, difficulty reading, and spatial disorientation. Occipital lobe damage can lead to vision defects and inability to recognize written words. (935)"
+        "explanation":  "Frontal The frontal lobe is responsible for executive functions such as cognition, personality, and social behavior. Damage to this lobe can therefore lead to personality change, such as from a preinjury mild-mannered person to a postinjury difficult and abusive person. Temporal lobe damage can result in, among other things, difficulty with words, attention, memory, and identification of objects. Parietal lobe damage can result in difficulty drawing objects, distinguishing left from right, difficulty reading, and spatial disorientation. Occipital lobe damage can lead to vision defects and inability to recognize written words. (935)"
     },
     {
         "id":  "k-33.11",
@@ -13043,7 +13043,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "First",
-        "explanation":  "Synaptogenesis peaks within the first 2 years of life and continues at its highest rate during the first 10 years. Though there have been recent discoveries of neurogenesis in specific brain regions in adults, it is well below the amount seen in young children. (936)"
+        "explanation":  "First Synaptogenesis peaks within the first 2 years of life and continues at its highest rate during the first 10 years. Though there have been recent discoveries of neurogenesis in specific brain regions in adults, it is well below the amount seen in young children. (936)"
     },
     {
         "id":  "k-33.12",
@@ -13067,7 +13067,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "It will silence the gene",
-        "explanation":  "A purpose of miRNA is to regulate gene expression through RNA silencing by cleaving the target mRNA. miRNA therefore downregulates, not upregulates, gene expression. Repair proteins, not miRNA, excise bases. (946)"
+        "explanation":  "It will silence the gene A purpose of miRNA is to regulate gene expression through RNA silencing by cleaving the target mRNA. miRNA therefore downregulates, not upregulates, gene expression. Repair proteins, not miRNA, excise bases. (946)"
     },
     {
         "id":  "k-33.13",
@@ -13091,7 +13091,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Hippocampus",
-        "explanation":  "Neuroimaging studies have shown decreased volume of the prefrontal cortex and hippocampus in the brains of people with schizophrenia. In contrast, the ventricles are enlarged. Interestingly, neuroimaging does not show signs of neurodegeneration. (950)"
+        "explanation":  "Hippocampus Neuroimaging studies have shown decreased volume of the prefrontal cortex and hippocampus in the brains of people with schizophrenia. In contrast, the ventricles are enlarged. Interestingly, neuroimaging does not show signs of neurodegeneration. (950)"
     },
     {
         "id":  "k-33.14",
@@ -13115,7 +13115,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Accelerated growth from the end of the first year to age 4 years",
-        "explanation":  "The brain doubles in size in the first year, reaches 80% of its adult size by age 3, and 90% of its adult size by age 5. The brains of children with ASD most likely start with average size at birth, then grow at an accelerated rate between the end of the first year and ages 2 to 4 years. Most of the differences are seen in the frontal and parietal cortex, cerebellar hemispheres, and amygdala. The mechanism for this difference is not currently known. (951)"
+        "explanation":  "Accelerated growth from the end of the first year to age 4 years The brain doubles in size in the first year, reaches 80% of its adult size by age 3, and 90% of its adult size by age 5. The brains of children with ASD most likely start with average size at birth, then grow at an accelerated rate between the end of the first year and ages 2 to 4 years. Most of the differences are seen in the frontal and parietal cortex, cerebellar hemispheres, and amygdala. The mechanism for this difference is not currently known. (951)"
     },
     {
         "id":  "k-33.15",
@@ -13139,7 +13139,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Raphe nuclei",
-        "explanation":  "Serotonergic nuclei cell bodies are found in the midline raphe nuclei of the brainstem. The rostral raphe nuclei send projections up throughout the brain, while the caudal raphe nuclei send projections down to the medulla, cerebellum, and spinal cord. The ventral tegmental area is where, along with the substantia nigra, dopamine neurons reside. Norepinephrine-producing neurons are in the locus ceruleus and lateral tegmental noradrenergic nuclei. The basal forebrain and mesopontine complexes are where acetylcholine projection neurons are found. Histaminergic cell bodies are located in the tuberomammillary nucleus. (954-956)"
+        "explanation":  "Raphe nuclei Serotonergic nuclei cell bodies are found in the midline raphe nuclei of the brainstem. The rostral raphe nuclei send projections up throughout the brain, while the caudal raphe nuclei send projections down to the medulla, cerebellum, and spinal cord. The ventral tegmental area is where, along with the substantia nigra, dopamine neurons reside. Norepinephrine-producing neurons are in the locus ceruleus and lateral tegmental noradrenergic nuclei. The basal forebrain and mesopontine complexes are where acetylcholine projection neurons are found. Histaminergic cell bodies are located in the tuberomammillary nucleus. (954-956)"
     },
     {
         "id":  "k-33.16",
@@ -13163,7 +13163,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Mesoaccumbens",
-        "explanation":  "The mesoaccumbens dopamine pathway plays a central role in the feelings of reward and pleasure and is activated by drugs of abuse. The mesolimbic pathway is believed to mediate positive symptoms of schizophrenia. The mesocortical pathway is believed to play a role in negative symptoms of schizophrenia. The tuberohypophyseal system mediates prolactin release, and the nigrostriatal pathway modulates motor control. (955)"
+        "explanation":  "Mesoaccumbens The mesoaccumbens dopamine pathway plays a central role in the feelings of reward and pleasure and is activated by drugs of abuse. The mesolimbic pathway is believed to mediate positive symptoms of schizophrenia. The mesocortical pathway is believed to play a role in negative symptoms of schizophrenia. The tuberohypophyseal system mediates prolactin release, and the nigrostriatal pathway modulates motor control. (955)"
     },
     {
         "id":  "k-33.17",
@@ -13187,7 +13187,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Tyrosine",
-        "explanation":  "Dopamine, like norepinephrine and epinephrine, is a catecholamine, all of which are synthesized from the amino acid tyrosine. Serotonin is synthesized from tryptophan, while histamine is synthesized from histidine. GABA is synthesized from glutamic acid. Glycine is both an amino acid and inhibitory neurotransmitter. (957-958, 962, 963)"
+        "explanation":  "Tyrosine Dopamine, like norepinephrine and epinephrine, is a catecholamine, all of which are synthesized from the amino acid tyrosine. Serotonin is synthesized from tryptophan, while histamine is synthesized from histidine. GABA is synthesized from glutamic acid. Glycine is both an amino acid and inhibitory neurotransmitter. (957-958, 962, 963)"
     },
     {
         "id":  "k-33.18",
@@ -13231,7 +13231,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Hypothalamus, anterior pituitary gland, adrenal gland",
-        "explanation":  "A consistent finding in major depressive disorder is hyperactivity of the hypothalamic pituitary adrenal axis (HPA), which consists of the hypothalamus, anterior pituitary gland, and adrenal gland. The hyperactivity leads to hypercortisolemia and resistance to dexamethasone suppression of cortisol secretion. The hippocampus, amygdala, thalamus, and hypothalamus form the limbic system. The addition of the fornix, mammillary bodies, and posterior cingulate gyrus form the Papez circuit, which mediates fear and aggression, feeding, and other homeostatic activities. The suprachiasmatic nucleus, superior cervical ganglia, retinohypothalamic tract, and pineal gland mediate the release and feedback loop of melatonin. (934, 968, 980)"
+        "explanation":  "Hypothalamus, anterior pituitary gland, adrenal gland A consistent finding in major depressive disorder is hyperactivity of the hypothalamic pituitary adrenal axis (HPA), which consists of the hypothalamus, anterior pituitary gland, and adrenal gland. The hyperactivity leads to hypercortisolemia and resistance to dexamethasone suppression of cortisol secretion. The hippocampus, amygdala, thalamus, and hypothalamus form the limbic system. The addition of the fornix, mammillary bodies, and posterior cingulate gyrus form the Papez circuit, which mediates fear and aggression, feeding, and other homeostatic activities. The suprachiasmatic nucleus, superior cervical ganglia, retinohypothalamic tract, and pineal gland mediate the release and feedback loop of melatonin. (934, 968, 980)"
     },
     {
         "id":  "k-33.20",
@@ -13279,7 +13279,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Cortisone",
-        "explanation":  "The patient is displaying signs and symptoms of primary adrenal insufficiency, or Addison disease. The illness has several psychiatric/behavioral manifestations such as apathy, impaired sleep, fatigue, and decreased appetite. Because these symptoms are secondary to the underlying cause, she should be treated with steroids such as cortisone as opposed to antidepressants or therapy. Though getting enough salt in the diet is helpful, it will not solve the underlying problem. (980)"
+        "explanation":  "Cortisone The patient is displaying signs and symptoms of primary adrenal insufficiency, or Addison disease. The illness has several psychiatric/behavioral manifestations such as apathy, impaired sleep, fatigue, and decreased appetite. Because these symptoms are secondary to the underlying cause, she should be treated with steroids such as cortisone as opposed to antidepressants or therapy. Though getting enough salt in the diet is helpful, it will not solve the underlying problem. (980)"
     },
     {
         "id":  "k-33.22",
@@ -13327,7 +13327,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Internal locus of control",
-        "explanation":  "The ability to see stressors as somewhat under one\u0027s control (internal vs. external locus of control) has been shown to be protective against stress-induced immune alterations. This can be accomplished through reframing techniques in cognitive behavioral therapy. Group therapy can provide social support, which has also been identified as a protective factor. (986)"
+        "explanation":  "Internal locus of control The ability to see stressors as somewhat under one\u0027s control (internal vs. external locus of control) has been shown to be protective against stress-induced immune alterations. This can be accomplished through reframing techniques in cognitive behavioral therapy. Group therapy can provide social support, which has also been identified as a protective factor. (986)"
     },
     {
         "id":  "k-33.24",
@@ -13351,7 +13351,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "The disease is 20% more likely to have a genetic etiology",
-        "explanation":  "Relative risk is the rate of occurrence of a disease among family members of an affected individual divided by the rate of occurrence in the general population. If the number is greater than one, the disease occurs more often in the family than it does in the general population. Therefore, the disease is more likely to be genetic. In this case, the disease is 20% more likely to have a genetic contribution. (987, 988)"
+        "explanation":  "The disease is 20% more likely to have a genetic etiology Relative risk is the rate of occurrence of a disease among family members of an affected individual divided by the rate of occurrence in the general population. If the number is greater than one, the disease occurs more often in the family than it does in the general population. Therefore, the disease is more likely to be genetic. In this case, the disease is 20% more likely to have a genetic contribution. (987, 988)"
     },
     {
         "id":  "k-33.25",
@@ -13373,7 +13373,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Association",
-        "explanation":  "An association study examines whether or not a certain allele occurs more frequently than expected in affected individuals in a population. The researcher will collect DNA samples from those with Disease X and those without, then look for certain single-nucleotide polymorphisms (SNPs) to see if they occur significantly more frequently in those with the disease phenotype. If they do, the SNPs are associated with the disease. Linkage studies attempt to find the relationship between a genetic variation and a disease, but within a family or families, not compared to a population. Sib-pair analysis compares the frequency of a trait between siblings to that expected in a random segregation. A pedigree analysis determines if two or more genetic loci are cosegregating within a pedigree. (989, 990)"
+        "explanation":  "Association An association study examines whether or not a certain allele occurs more frequently than expected in affected individuals in a population. The researcher will collect DNA samples from those with Disease X and those without, then look for certain single-nucleotide polymorphisms (SNPs) to see if they occur significantly more frequently in those with the disease phenotype. If they do, the SNPs are associated with the disease. Linkage studies attempt to find the relationship between a genetic variation and a disease, but within a family or families, not compared to a population. Sib-pair analysis compares the frequency of a trait between siblings to that expected in a random segregation. A pedigree analysis determines if two or more genetic loci are cosegregating within a pedigree. (989, 990)"
     },
     {
         "id":  "k-33.26",
@@ -13397,7 +13397,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Defining and assessing phenotypes of psychiatric illnesses is inconsistent",
-        "explanation":  "Genetic mapping studies depend on consistent phenotyping algorithms. Psychiatric illnesses are diagnosed most often using the DSM-5-TR, which depends on subjective clinical evaluation and leads to less interrater reliability and variable assignment of participants to a certain disease phenotype. In addition, because the DSM-5-TR is menu based, individuals with the same disease phenotype can have different sets of symptoms, which may have different genetic etiologies. Psychiatric illnesses are among the most common conditions affecting individuals of all ages. Antipsychotic medications do not change DNA sample viability. Psychiatric illnesses do not alter most people\u0027s ability to give informed consent to participate in studies, range in heritability, and are often multifactorial, just as most other medical illnesses are. Even if they were not, the purpose of mapping studies is to look for genetic contributors to the disease. (991)"
+        "explanation":  "Defining and assessing phenotypes of psychiatric illnesses is inconsistent Genetic mapping studies depend on consistent phenotyping algorithms. Psychiatric illnesses are diagnosed most often using the DSM-5-TR, which depends on subjective clinical evaluation and leads to less interrater reliability and variable assignment of participants to a certain disease phenotype. In addition, because the DSM-5-TR is menu based, individuals with the same disease phenotype can have different sets of symptoms, which may have different genetic etiologies. Psychiatric illnesses are among the most common conditions affecting individuals of all ages. Antipsychotic medications do not change DNA sample viability. Psychiatric illnesses do not alter most people\u0027s ability to give informed consent to participate in studies, range in heritability, and are often multifactorial, just as most other medical illnesses are. Even if they were not, the purpose of mapping studies is to look for genetic contributors to the disease. (991)"
     },
     {
         "id":  "k-33.27",
@@ -13421,7 +13421,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Alzheimer disease",
-        "explanation":  "The apoE-e4 allele has been established through genome- wide association studies as being linked to the development of late-onset Alzheimer disease. The GRB- associated binding protein 2 ( GAB2 ) allele has also been shown to increase the risk of developing the disease. (994)"
+        "explanation":  "Alzheimer disease The apoE-e4 allele has been established through genome- wide association studies as being linked to the development of late-onset Alzheimer disease. The GRB- associated binding protein 2 ( GAB2 ) allele has also been shown to increase the risk of developing the disease. (994)"
     },
     {
         "id":  "k-33.28",
@@ -13443,7 +13443,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "7",
-        "explanation":  "Chromosome 7q has shown the most consistent evidence for linkage in autism families. Genes include RELN on chromosome 7q and WNT2 on 7q31. The FMR1 gene on the X chromosome is linked to Fragile X syndrome. Chromosome 15q11-13 plays a vital role in Angelman and Prader-Willi syndromes, but has not shown strong support for autism. There has been a small amount of linkage between autism and the SHANK3 gene on chromosome 22q13. (994, 995)"
+        "explanation":  "7 Chromosome 7q has shown the most consistent evidence for linkage in autism families. Genes include RELN on chromosome 7q and WNT2 on 7q31. The FMR1 gene on the X chromosome is linked to Fragile X syndrome. Chromosome 15q11-13 plays a vital role in Angelman and Prader-Willi syndromes, but has not shown strong support for autism. There has been a small amount of linkage between autism and the SHANK3 gene on chromosome 22q13. (994, 995)"
     },
     {
         "id":  "k-33.29",
@@ -13467,7 +13467,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Have her hyperventilate for 3 minutes",
-        "explanation":  "In addition to photic stimulation, hyperventilation is used to increase the probability that abnormal discharges will occur. This is done by having the patient take exaggerated deep breaths for 1 to 4 minutes, and is considered one of the safest methods for EEG activation. Barring a contraindication for someone with cardiopulmonary disease or cerebrovascular pathophysiology, this activation technique would be tried before ending the evaluation. Insulin therapy was used prior to ECT to cause therapeutic seizures and has no place in current psychiatric treatment. Fexofenadine is not known to alter EEG findings. (998)"
+        "explanation":  "Have her hyperventilate for 3 minutes In addition to photic stimulation, hyperventilation is used to increase the probability that abnormal discharges will occur. This is done by having the patient take exaggerated deep breaths for 1 to 4 minutes, and is considered one of the safest methods for EEG activation. Barring a contraindication for someone with cardiopulmonary disease or cerebrovascular pathophysiology, this activation technique would be tried before ending the evaluation. Insulin therapy was used prior to ECT to cause therapeutic seizures and has no place in current psychiatric treatment. Fexofenadine is not known to alter EEG findings. (998)"
     },
     {
         "id":  "k-33.30",
@@ -13489,7 +13489,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Delta",
-        "explanation":  "Alpha waves are the most common waveform seen during a normal awake EEG with the eyes closed. Fast-frequency beta waves can also be seen in awake EEGs. Theta waves are seen mostly in the drowsy state, though they can appear sporadically in the wake state. Excessive appearances of theta should raise suspicion for a pathophysiologic process. Delta waves should only be seen during deep sleep and should not be present during a normal awake EEG. (998, 999)"
+        "explanation":  "Delta Alpha waves are the most common waveform seen during a normal awake EEG with the eyes closed. Fast-frequency beta waves can also be seen in awake EEGs. Theta waves are seen mostly in the drowsy state, though they can appear sporadically in the wake state. Excessive appearances of theta should raise suspicion for a pathophysiologic process. Delta waves should only be seen during deep sleep and should not be present during a normal awake EEG. (998, 999)"
     },
     {
         "id":  "k-33.31",
@@ -13513,7 +13513,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Increased beta activity",
-        "explanation":  "Some psychotropic medications produce EEG changes, but usually not at nontoxic doses. Benzodiazepines are an exception, and always generate an increase in beta activity. (999)"
+        "explanation":  "Increased beta activity Some psychotropic medications produce EEG changes, but usually not at nontoxic doses. Benzodiazepines are an exception, and always generate an increase in beta activity. (999)"
     },
     {
         "id":  "k-34.1",
@@ -13537,7 +13537,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Conservation",
-        "explanation":  "The child has not yet understood the concept of conservation, which is the principle that an object maintains its overall size or volume even if the shape or distribution changes. Reversibility is the understanding that some things can be changed into another state, then back again, such as ice to water. A child who has developed operational thought is able to see things from the point of view of someone else. Deductive reasoning involves using logic to go from the general to the specific, while inductive reasoning moves in the opposite direction. (1008, 1009)"
+        "explanation":  "Conservation The child has not yet understood the concept of conservation, which is the principle that an object maintains its overall size or volume even if the shape or distribution changes. Reversibility is the understanding that some things can be changed into another state, then back again, such as ice to water. A child who has developed operational thought is able to see things from the point of view of someone else. Deductive reasoning involves using logic to go from the general to the specific, while inductive reasoning moves in the opposite direction. (1008, 1009)"
     },
     {
         "id":  "k-34.2",
@@ -13561,7 +13561,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "The child realizes her father is still there even when his hands are closed",
-        "explanation":  "A child learns object permanence between 7 and 8 months old. Prior to that time, a child does not understand that something still exists even though she cannot see it. Once they develop object permanence, her father revealing his face behind his hands is no longer a surprise, so the game then has little meaning. (1007)"
+        "explanation":  "The child realizes her father is still there even when his hands are closed A child learns object permanence between 7 and 8 months old. Prior to that time, a child does not understand that something still exists even though she cannot see it. Once they develop object permanence, her father revealing his face behind his hands is no longer a surprise, so the game then has little meaning. (1007)"
     },
     {
         "id":  "k-34.3",
@@ -13585,7 +13585,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Cognitive therapy",
-        "explanation":  "One of the aims of cognitive therapy is to get to the patient\u0027s core belief, which is thought to be the ultimate driving force of thoughts, behaviors, and emotions. Patients can talk about feelings of being a failure, but only in cognitive therapy is it called the core belief and is a focus of treatment. (1010)"
+        "explanation":  "Cognitive therapy One of the aims of cognitive therapy is to get to the patient\u0027s core belief, which is thought to be the ultimate driving force of thoughts, behaviors, and emotions. Patients can talk about feelings of being a failure, but only in cognitive therapy is it called the core belief and is a focus of treatment. (1010)"
     },
     {
         "id":  "k-34.4",
@@ -13609,7 +13609,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Withdrawal",
-        "explanation":  "Harry Harlow\u0027s famous monkey experiment showed that when monkeys were separated from their mother at birth, they became withdrawn, unable to mate or relate to peers, and incapable of caring for their offspring. Similarly, human babies become depressed and withdrawn when separated from their mother, as was described by Ren- Spitz when he studied children who were hospitalized or institutionalized. (1013)"
+        "explanation":  "Withdrawal Harry Harlow\u0027s famous monkey experiment showed that when monkeys were separated from their mother at birth, they became withdrawn, unable to mate or relate to peers, and incapable of caring for their offspring. Similarly, human babies become depressed and withdrawn when separated from their mother, as was described by Ren- Spitz when he studied children who were hospitalized or institutionalized. (1013)"
     },
     {
         "id":  "k-34.5",
@@ -13631,7 +13631,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Conditioned stimulus",
-        "explanation":  "In classical conditioning, two stimuli, in this case the medication and the newspaper, lead to the same response, vomiting. The natural (unconditioned) stimulus is the medication, which causes the natural (unconditioned) response, vomiting. Newspapers do not usually trigger vomiting, and only do so in this man because it has been consistently paired with the natural trigger prior to the unconditioned response. He has become conditioned to the newspaper (the conditioned stimulus), which now produces a response that does not usually occur, making vomiting specifically to the newspaper a conditioned response. (1014)"
+        "explanation":  "Conditioned stimulus In classical conditioning, two stimuli, in this case the medication and the newspaper, lead to the same response, vomiting. The natural (unconditioned) stimulus is the medication, which causes the natural (unconditioned) response, vomiting. Newspapers do not usually trigger vomiting, and only do so in this man because it has been consistently paired with the natural trigger prior to the unconditioned response. He has become conditioned to the newspaper (the conditioned stimulus), which now produces a response that does not usually occur, making vomiting specifically to the newspaper a conditioned response. (1014)"
     },
     {
         "id":  "k-34.6",
@@ -13653,7 +13653,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Negative reinforcement",
-        "explanation":  "Reinforcement always increases a behavior, and punishment decreases it. Positive is applying something and negative is taking it away. In this case, the behavior of doing the homework is reinforced by taking something negative (the nagging) away, so it is negative reinforcement. Positive reinforcement would be giving her extra money or privileges for doing her homework, which would also increase the likelihood of her daughter getting it done. Conversely, positive punishment would be placing her on restriction (applying something) for not doing her homework, in hopes of reducing the behavior of not getting the work done. Negative punishment would be taking away her cell phone (removing something) to reduce the behavior of not doing her work. (1014, 1015)"
+        "explanation":  "Negative reinforcement Reinforcement always increases a behavior, and punishment decreases it. Positive is applying something and negative is taking it away. In this case, the behavior of doing the homework is reinforced by taking something negative (the nagging) away, so it is negative reinforcement. Positive reinforcement would be giving her extra money or privileges for doing her homework, which would also increase the likelihood of her daughter getting it done. Conversely, positive punishment would be placing her on restriction (applying something) for not doing her homework, in hopes of reducing the behavior of not getting the work done. Negative punishment would be taking away her cell phone (removing something) to reduce the behavior of not doing her work. (1014, 1015)"
     },
     {
         "id":  "k-34.7",
@@ -13677,7 +13677,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Counterconditioning",
-        "explanation":  "In this example of counterconditioning through systematic desensitization, the conditioned stimulus (shaking hands) is paired with a new stimulus (deep breathing), whereas before, the conditioned stimulus was paired with extreme anxiety. Extinction would involve unpairing the conditioned stimulus and the unconditioned stimulus through a technique such as exposure therapy. Preparedness is the concept that organisms have a predisposition to associate certain stimuli with fear or anxiety. Reinstatement occurs when the current context is associated again with the unconditioned stimulus, leading to a return in fear or anxiety. State-dependent learning is the concept that retention of information is best when tested in the same state in which it was learned. (1016, 1017)"
+        "explanation":  "Counterconditioning In this example of counterconditioning through systematic desensitization, the conditioned stimulus (shaking hands) is paired with a new stimulus (deep breathing), whereas before, the conditioned stimulus was paired with extreme anxiety. Extinction would involve unpairing the conditioned stimulus and the unconditioned stimulus through a technique such as exposure therapy. Preparedness is the concept that organisms have a predisposition to associate certain stimuli with fear or anxiety. Reinstatement occurs when the current context is associated again with the unconditioned stimulus, leading to a return in fear or anxiety. State-dependent learning is the concept that retention of information is best when tested in the same state in which it was learned. (1016, 1017)"
     },
     {
         "id":  "k-34.8",
@@ -13699,7 +13699,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Rewarding him on average every seventh time, but varying the number of times needed",
-        "explanation":  "Variable ratio reinforcement schedules, in which the desired behavior is reinforced after an average but unpredictable number of times, generate the highest rate of behavior. In a fixed ratio schedule, the reinforcement occurs after a certain number of times the behavior occurs, which leads to increasing rates of behavior up until the reinforcer is delivered, followed by a drop-off. In a fixed interval schedule, the reinforcer is delivered for the first response after a certain length of time. This leads to the lowest rate of desired behavior, as the deliverance of the reinforcer is completely predictable and only depends on the behavior being done once. In a variable interval schedule, behaviors are reinforced after an average but unpredictable length of time, leading to a higher behavior rate than on a fixed interval schedule, but lower than on a ratio schedule. (1018)"
+        "explanation":  "Rewarding him on average every seventh time, but varying the number of times needed Variable ratio reinforcement schedules, in which the desired behavior is reinforced after an average but unpredictable number of times, generate the highest rate of behavior. In a fixed ratio schedule, the reinforcement occurs after a certain number of times the behavior occurs, which leads to increasing rates of behavior up until the reinforcer is delivered, followed by a drop-off. In a fixed interval schedule, the reinforcer is delivered for the first response after a certain length of time. This leads to the lowest rate of desired behavior, as the deliverance of the reinforcer is completely predictable and only depends on the behavior being done once. In a variable interval schedule, behaviors are reinforced after an average but unpredictable length of time, leading to a higher behavior rate than on a fixed interval schedule, but lower than on a ratio schedule. (1018)"
     },
     {
         "id":  "k-34.9",
@@ -13723,7 +13723,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Tell him he can have ice cream once he eats his vegetables",
-        "explanation":  "The Premack principle states that a person may engage in a less-preferred behavior if it grants access to a more- preferred one. The child\u0027s more-preferred behavior is eating ice cream. To follow the principle, the parents should tell him that engaging in the less-preferred behavior (eating his vegetables) will result in getting ice cream. (1019)"
+        "explanation":  "Tell him he can have ice cream once he eats his vegetables The Premack principle states that a person may engage in a less-preferred behavior if it grants access to a more- preferred one. The child\u0027s more-preferred behavior is eating ice cream. To follow the principle, the parents should tell him that engaging in the less-preferred behavior (eating his vegetables) will result in getting ice cream. (1019)"
     },
     {
         "id":  "k-34.10",
@@ -13745,7 +13745,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "His sales will remain subpar",
-        "explanation":  "In the learned helplessness model, an individual repeatedly exposed to an aversive stimulus with no way to avoid it will have difficulty learning behaviors to escape the situation even when escape is possible. In this situation, the new boss presumably would not deliver the aversive stimulus of yelling if the man performs as expected. Because he has learned that his actions are not connected to the deliverance of the negative stimulus, he is much less likely to change his behavior to try to effect change. Therefore, he will continue performing at a subpar level. (1020)"
+        "explanation":  "His sales will remain subpar In the learned helplessness model, an individual repeatedly exposed to an aversive stimulus with no way to avoid it will have difficulty learning behaviors to escape the situation even when escape is possible. In this situation, the new boss presumably would not deliver the aversive stimulus of yelling if the man performs as expected. Because he has learned that his actions are not connected to the deliverance of the negative stimulus, he is much less likely to change his behavior to try to effect change. Therefore, he will continue performing at a subpar level. (1020)"
     },
     {
         "id":  "k-34.11",
@@ -13769,7 +13769,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "\"What did you have for lunch this afternoon?\"",
-        "explanation":  "Damage to the medial portion of the temporal lobe can lead to anterograde and retrograde amnesia. Retrograde deficits are often most severe for information most recently learned. Immediate memory is usually preserved, which is why he should be able to repeat three words. The most recent nonimmediate information he is asked to recall is what he had for lunch earlier in the day. The other questions involve memories that were consolidated years ago. (1024)"
+        "explanation":  "\"What did you have for lunch this afternoon?\" Damage to the medial portion of the temporal lobe can lead to anterograde and retrograde amnesia. Retrograde deficits are often most severe for information most recently learned. Immediate memory is usually preserved, which is why he should be able to repeat three words. The most recent nonimmediate information he is asked to recall is what he had for lunch earlier in the day. The other questions involve memories that were consolidated years ago. (1024)"
     },
     {
         "id":  "k-34.12",
@@ -13793,7 +13793,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Amygdala",
-        "explanation":  "The hippocampus, dentate gyrus, subiculum, parahippocampal cortices, and entorhinal cortices are all normally crucial for any memory. However, memories for emotional or arousing events include the activation of the amygdala. (1024)"
+        "explanation":  "Amygdala The hippocampus, dentate gyrus, subiculum, parahippocampal cortices, and entorhinal cortices are all normally crucial for any memory. However, memories for emotional or arousing events include the activation of the amygdala. (1024)"
     },
     {
         "id":  "k-34.13",
@@ -13817,7 +13817,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "B",
         "answerText":  "Diencephalon",
-        "explanation":  "The diencephalon, which consists of the thalamus, hypothalamus, epithalamus, and subthalamus is damaged in Korsakoff syndrome. The frontal lobe damage seen in Korsakoff syndrome produces problems with cognition as well as memory retrieval and evaluation. The diencephalon damage adds problems with being able to remember items of one type after switching categories of information to be recalled, as well as the ability to hold verbal and visual information in mind and sustaining mental control. (1025-1026)"
+        "explanation":  "Diencephalon The diencephalon, which consists of the thalamus, hypothalamus, epithalamus, and subthalamus is damaged in Korsakoff syndrome. The frontal lobe damage seen in Korsakoff syndrome produces problems with cognition as well as memory retrieval and evaluation. The diencephalon damage adds problems with being able to remember items of one type after switching categories of information to be recalled, as well as the ability to hold verbal and visual information in mind and sustaining mental control. (1025-1026)"
     },
     {
         "id":  "k-34.14",
@@ -13841,7 +13841,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "How to ride a bicycle",
-        "explanation":  "Amnesia affects only declarative (explicit), not procedural (implicit) memory. Declarative memory is divided into episodic (specific events in a person\u0027s history) and semantic memory (recall of facts and concepts). Procedural memory involves being able to carry out muscle actions without much conscious thought, such as with riding a bicycle. (1027, 1028)"
+        "explanation":  "How to ride a bicycle Amnesia affects only declarative (explicit), not procedural (implicit) memory. Declarative memory is divided into episodic (specific events in a person\u0027s history) and semantic memory (recall of facts and concepts). Procedural memory involves being able to carry out muscle actions without much conscious thought, such as with riding a bicycle. (1027, 1028)"
     },
     {
         "id":  "k-34.15",
@@ -13887,7 +13887,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Intellectual function",
-        "explanation":  "General intellectual functioning testing should be a part of any neuropsychological examination, including one focused on memory. This would give information about the patient\u0027s test-taking ability and help test certain types of memory impairment. Though disrupted sleep due to obstructive sleep apnea could impact memory, this is less likely the etiology for him as the problem is longstanding. Audiologic and visual examinations should always be performed in children with learning difficulties, as should adaptive functioning. (1030-1032)"
+        "explanation":  "Intellectual function General intellectual functioning testing should be a part of any neuropsychological examination, including one focused on memory. This would give information about the patient\u0027s test-taking ability and help test certain types of memory impairment. Though disrupted sleep due to obstructive sleep apnea could impact memory, this is less likely the etiology for him as the problem is longstanding. Audiologic and visual examinations should always be performed in children with learning difficulties, as should adaptive functioning. (1030-1032)"
     },
     {
         "id":  "k-34.17",
@@ -13911,7 +13911,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Distracting the test taker between the learning and recall phases of the test",
-        "explanation":  "Memory tests can properly assess impairment in new learning ability using one of two strategies. The first is to present more information than can be held in immediate memory. This may be asking the test taker to memorize a string of 14 digits or learn pairs of unrelated words. The second strategy is to distract the test taker between the learning and recall phases, such as is done in the mental status examination with the 5-minute recall of three words. (1032)"
+        "explanation":  "Distracting the test taker between the learning and recall phases of the test Memory tests can properly assess impairment in new learning ability using one of two strategies. The first is to present more information than can be held in immediate memory. This may be asking the test taker to memorize a string of 14 digits or learn pairs of unrelated words. The second strategy is to distract the test taker between the learning and recall phases, such as is done in the mental status examination with the 5-minute recall of three words. (1032)"
     },
     {
         "id":  "k-34.18",
@@ -13963,7 +13963,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "\"What is your name?\"",
-        "explanation":  "In contrast to an individual with psychogenic amnesia or who is malingering, patients with neurogenic amnesia do not forget their name. A patient with neurogenic amnesia would also likely remember their city of birth, which could be used as a question to detect psychogenic amnesia or malingering. However, that is not as specific as asking the person\u0027s name. (1033)"
+        "explanation":  "\"What is your name?\" In contrast to an individual with psychogenic amnesia or who is malingering, patients with neurogenic amnesia do not forget their name. A patient with neurogenic amnesia would also likely remember their city of birth, which could be used as a question to detect psychogenic amnesia or malingering. However, that is not as specific as asking the person\u0027s name. (1033)"
     },
     {
         "id":  "k-34.20",
@@ -13987,7 +13987,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Mastering generativity",
-        "explanation":  "The developmental task of generativity involves guiding the next generation, which could be accomplished by serving as a mentor. Erikson felt that this stage occurred between young adulthood and senior adulthood. The developmental task of isolation versus intimacy begins in adolescence and is centered on being able to become involved with a partner. Integrity versus despair occurs in old age and is centered on feeling whether or not one is at peace with the life they have lived. (1035, 1036)"
+        "explanation":  "Mastering generativity The developmental task of generativity involves guiding the next generation, which could be accomplished by serving as a mentor. Erikson felt that this stage occurred between young adulthood and senior adulthood. The developmental task of isolation versus intimacy begins in adolescence and is centered on being able to become involved with a partner. Integrity versus despair occurs in old age and is centered on feeling whether or not one is at peace with the life they have lived. (1035, 1036)"
     },
     {
         "id":  "k-34.21",
@@ -14011,7 +14011,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Anterior cingulate gyrus",
-        "explanation":  "The anterior cingulate gyrus is the area of the brain most responsible for making the past meaningful, and creates attachment by linking memory and the capacity to react and reunite with others. Regarding memory, the amygdala is instrumental in memories with a high arousal or emotional content. The medial portion of the temporal lobe, diencephalon, and hippocampus can all lead to amnesia if damaged. (1037)"
+        "explanation":  "Anterior cingulate gyrus The anterior cingulate gyrus is the area of the brain most responsible for making the past meaningful, and creates attachment by linking memory and the capacity to react and reunite with others. Regarding memory, the amygdala is instrumental in memories with a high arousal or emotional content. The medial portion of the temporal lobe, diencephalon, and hippocampus can all lead to amnesia if damaged. (1037)"
     },
     {
         "id":  "k-34.22",
@@ -14059,7 +14059,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Projection",
-        "explanation":  "Defense mechanisms are responses to anxiety. Healthy, or mature, defense mechanisms are conscious, rooted in reality, and are often constructive. They include humor, altruism, sublimation, suppression, and anticipation. Immature defense mechanisms are out of touch with reality, can be socially undesirable, and can lead to problems with effective coping. Examples include projection, passive aggression, regression, and somatization. (1066)"
+        "explanation":  "Projection Defense mechanisms are responses to anxiety. Healthy, or mature, defense mechanisms are conscious, rooted in reality, and are often constructive. They include humor, altruism, sublimation, suppression, and anticipation. Immature defense mechanisms are out of touch with reality, can be socially undesirable, and can lead to problems with effective coping. Examples include projection, passive aggression, regression, and somatization. (1066)"
     },
     {
         "id":  "k-34.24",
@@ -14107,7 +14107,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Physical touch",
-        "explanation":  "In one of Harry Harlow\u0027s experiments, young rhesus monkeys separated from their mother preferred a cloth- covered surrogate that provided no food to a wire surrogate that provided food. Seeing or hearing other monkeys, but not being able to touch them, did not relieve fear and anxiety, and they tended to isolate themselves. In one of Stephen Soumi\u0027s experiments, isolated monkeys could sometimes be rehabilitated if exposed to \"therapist\" monkeys who initiated gentle physical contact. (1043, 1044)"
+        "explanation":  "Physical touch In one of Harry Harlow\u0027s experiments, young rhesus monkeys separated from their mother preferred a cloth- covered surrogate that provided no food to a wire surrogate that provided food. Seeing or hearing other monkeys, but not being able to touch them, did not relieve fear and anxiety, and they tended to isolate themselves. In one of Stephen Soumi\u0027s experiments, isolated monkeys could sometimes be rehabilitated if exposed to \"therapist\" monkeys who initiated gentle physical contact. (1043, 1044)"
     },
     {
         "id":  "k-34.26",
@@ -14131,7 +14131,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Depression",
-        "explanation":  "Reserpine is a catecholamine-depleting drug that was originally used to treat hypertension, and later used as an antipsychotic. It is now rarely used because of a possible side effect of severe depression. (1046)"
+        "explanation":  "Depression Reserpine is a catecholamine-depleting drug that was originally used to treat hypertension, and later used as an antipsychotic. It is now rarely used because of a possible side effect of severe depression. (1046)"
     },
     {
         "id":  "k-34.27",
@@ -14155,7 +14155,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "\"What do you think is causing your symptoms?\"",
-        "explanation":  "For any patient, not just someone who emigrated from another country, a patient\u0027s idiom of distress can be culturally bound. The patient should be asked about their cultural identity to avoid misconceptions based on stereotypes or inadequate information. One way to obtain an explanation of a patient\u0027s illness is to ask the patient what they believe is the cause of their symptoms. (1048)"
+        "explanation":  "\"What do you think is causing your symptoms?\" For any patient, not just someone who emigrated from another country, a patient\u0027s idiom of distress can be culturally bound. The patient should be asked about their cultural identity to avoid misconceptions based on stereotypes or inadequate information. One way to obtain an explanation of a patient\u0027s illness is to ask the patient what they believe is the cause of their symptoms. (1048)"
     },
     {
         "id":  "k-34.28",
@@ -14223,7 +14223,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "Sexual",
-        "explanation":  "Freud\u0027s stages of child development were focused on sexuality and libidinal energy, which he postulated shifted to different parts of the body at different ages of an individual. The oral stage involved erotic activity from chewing biting and sucking, the anal stage focused on bowel function, and the phallic stage focused on urination. After the latent stage, in which he theorized that erotic activity was relatively dormant, came the genital stage in which erotic activity is focused on the penis, vagina, and clitoris. (1061)"
+        "explanation":  "Sexual Freud\u0027s stages of child development were focused on sexuality and libidinal energy, which he postulated shifted to different parts of the body at different ages of an individual. The oral stage involved erotic activity from chewing biting and sucking, the anal stage focused on bowel function, and the phallic stage focused on urination. After the latent stage, in which he theorized that erotic activity was relatively dormant, came the genital stage in which erotic activity is focused on the penis, vagina, and clitoris. (1061)"
     },
     {
         "id":  "k-34.31",
@@ -14247,7 +14247,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "E",
         "answerText":  "Anything she can think of to say about any subject",
-        "explanation":  "The cornerstone of psychoanalysis is free association, in which the patient says whatever comes to mind. The goal is to analyze the feelings toward the therapist, called transference, and the resultant resistance to free association. \"Tell me about your mother\" is a pop-culture punchline often associated with psychoanalysis, but by definition, would not be free association as it is directive. The same directiveness would result from asking the patient any pointed question. (1069)"
+        "explanation":  "Anything she can think of to say about any subject The cornerstone of psychoanalysis is free association, in which the patient says whatever comes to mind. The goal is to analyze the feelings toward the therapist, called transference, and the resultant resistance to free association. \"Tell me about your mother\" is a pop-culture punchline often associated with psychoanalysis, but by definition, would not be free association as it is directive. The same directiveness would result from asking the patient any pointed question. (1069)"
     },
     {
         "id":  "k-34.32",
@@ -14271,7 +14271,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Identity",
-        "explanation":  "Erik Erikson\u0027s developmental stages centered around identity, identity crisis, and identity confusion. He postulated that identity was \"in the inner core of the individual,\" and that it emerged at the end of adolescence. (1072)"
+        "explanation":  "Identity Erik Erikson\u0027s developmental stages centered around identity, identity crisis, and identity confusion. He postulated that identity was \"in the inner core of the individual,\" and that it emerged at the end of adolescence. (1072)"
     },
     {
         "id":  "k-34.33",
@@ -14295,7 +14295,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "Interpersonal relationships",
-        "explanation":  "The strongest correlation to extreme happiness is good relationships with other people, to the extent that relationships may be a necessary condition for extreme happiness. Employment and being married are robustly correlated with happiness. Education and age have a small association with happiness. (1090, 1091)"
+        "explanation":  "Interpersonal relationships The strongest correlation to extreme happiness is good relationships with other people, to the extent that relationships may be a necessary condition for extreme happiness. Employment and being married are robustly correlated with happiness. Education and age have a small association with happiness. (1090, 1091)"
     },
     {
         "id":  "k-34.34",
@@ -14317,7 +14317,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "\"That\u0027s good news. I bet your sister is thrilled!\"",
-        "explanation":  "According to positive psychology, positive communication is strongly correlated with a good relationship. In a marriage, positive communication is shown through active-constructive responses which are enthusiastic, such as \"That\u0027s good news. I bet your sister is thrilled!\" A majority of the other types of responses have been correlated with marital dissatisfaction. These include active destructive, which focuses on the potential downside; passive constructive, which are muted responses; and passive destructive, which conveys disinterest. (1091)"
+        "explanation":  "\"That\u0027s good news. I bet your sister is thrilled!\" According to positive psychology, positive communication is strongly correlated with a good relationship. In a marriage, positive communication is shown through active-constructive responses which are enthusiastic, such as \"That\u0027s good news. I bet your sister is thrilled!\" A majority of the other types of responses have been correlated with marital dissatisfaction. These include active destructive, which focuses on the potential downside; passive constructive, which are muted responses; and passive destructive, which conveys disinterest. (1091)"
     },
     {
         "id":  "k-34.35",
@@ -14341,7 +14341,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "D",
         "answerText":  "The increase lifts the individual out of extreme poverty",
-        "explanation":  "Increase in income has a small correlation to life satisfaction with one exception--when the increase allows the person to be able to meet their basic needs. Once the person is no longer in extreme poverty, employment and engagement on the job are much more strongly correlated with happiness. (1091)"
+        "explanation":  "The increase lifts the individual out of extreme poverty Increase in income has a small correlation to life satisfaction with one exception--when the increase allows the person to be able to meet their basic needs. Once the person is no longer in extreme poverty, employment and engagement on the job are much more strongly correlated with happiness. (1091)"
     },
     {
         "id":  "k-34.36",
@@ -14365,7 +14365,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "C",
         "answerText":  "Having her write out what is going well in her life",
-        "explanation":  "Positive psychology looks at strengths and areas of competence in one\u0027s life, as opposed to deficiencies, weaknesses, and problems. Therefore, therapy is not likely to focus on learning to live with depression or what she does not like about medication. Congratulating her on wanting to engage in therapy does not examine her strengths, nor does reflecting on the difference between feeling depressed and happy. Having her think about and write down what is going well in her life could be a technique employed as an intervention. As noted in the stem, the patient should first be assessed to see how open they are to therapy in general and to positive psychology specifically before beginning an intervention. (1092, 1093)"
+        "explanation":  "Having her write out what is going well in her life Positive psychology looks at strengths and areas of competence in one\u0027s life, as opposed to deficiencies, weaknesses, and problems. Therefore, therapy is not likely to focus on learning to live with depression or what she does not like about medication. Congratulating her on wanting to engage in therapy does not examine her strengths, nor does reflecting on the difference between feeling depressed and happy. Having her think about and write down what is going well in her life could be a technique employed as an intervention. As noted in the stem, the patient should first be assessed to see how open they are to therapy in general and to positive psychology specifically before beginning an intervention. (1092, 1093)"
     },
     {
         "id":  "k-34.37",
@@ -14389,7 +14389,7 @@ const QUESTIONS = ﻿[
                           ],
         "correctLetter":  "A",
         "answerText":  "The relationship between the therapist and patient",
-        "explanation":  "A person can engage in positive psychotherapy whether or not they have a mental health issue. Some techniques do not require a high propensity for introspection, such as noticing and recording things that are going well in someone\u0027s life. Helping other people can be a therapeutic technique, but is not the only technique. The common thread among positive psychotherapies is the therapeutic alliance, or relationship between the therapist and the patient. (1093) Index A Abnormal EEGs, 108 , 110 Abstract reasoning, 4 , 8 Accidents, 176 , 178 Acetylcholine, 27 , 32 , 92 , 95 Acute akathisia, 115 , 130 Acute dystonia, 115 , 130 Acute psychosis, treatment for, 120 , 132 Acyclovir, 31 , 34 Addiction treatment, 180 , 182 Adjustment disorders, 65 , 67 , 154 , 158 Adrenal gland, 196 , 200 African Americans, rates of substance use disorder, 207 , 213 Agnosia, 6 Agoraphobia, 59 , 61 participant modeling therapy, 146 , 149 Alcohol, 21 , 26 , 30 , 33 correlation between sleep apnea and, 88 , 90 dependence, treatment for, 36 rehabilitation, 36 Alcohol disorders DSM terms, 35 , 40 naltrexone for treating alcohol dependence, 36 psychiatric diagnosis, 36 Alcohol use impact on profile of NMDA and GABA receptor, 195 , 200 induced depressions, treatment for, 36 , 41 Alcohol withdrawal seizures, treatment for, 36 signs or symptoms in, 35 , 40 tremors, 35 , 40 Aldehyde dehydrogenase inhibition, 128 , 137 - 138 Alpha-1 receptor blockade, 119 , 132 Alpha waves, 198 , 202 Alzheimer disease, 64 , 197 , 201 American Indians, lifetime rate of substance abuse, 35 , 40 American Psychiatric Association\u0027s (APA\u0027s) Principles of Medical Ethics with Annotations Especially Applicable to Psychiatry, 166 , 168 Amitriptyline, 123 , 134 Ammonia, 5 , 11 Amnesia, 127 , 137 , 205 , 211 Amnestic disorder, 29 , 32 Amobarbital, 126 , 136 Amphetamine salts, 127 , 137 Amygdala, 205 , 211 Analytically oriented sex therapy, 93 , 96 Anankastic personality disorder, 103 , 105 Angelman syndrome, 12 , 201 Anorexia nervosa atypical antipsychotics for, 78 , 81 binge/purge subtype, 77 , 80 body image concerns, 77 , 80 endocrine findings, 77 , 80 phycologic predisposing factor, 79 , 82 prognosis of, 78 , 81 psychotherapeutic approach to, 78 , 81 vs bulimia nervosa, 77 , 80 weight criteria, 157 , 160 Anosognosia, 12 Anterior cingulate gyrus, 206 , 212 Anterior pituitary gland, 196 , 200 Antidepressants, 55 , 57 anticholinergic effects of, 95 sexual side effects of, 121 , 133 for somatic disorder, 73 , 76 Antipsychotic medications adequate trial of, 47 , 50 benefits of, 154 , 158 clozapine, 46 - 47 , 50 family history and, 3 lamotrigine, 52 - 53 quetiapine, 47 , 52 - 53 Antisocial behavior, treatments for, 108 , 110 Antisocial personality disorder, 36 , 41 , 102 , 105 contingency management and rewards-based interventions, 103 , 106 Aphasias, 5 apoE-e4 allele, 197 , 201 Aripiprazole, 63 - 64 , 115 , 117 - 119 , 130 - 132 Arousal-induced sleep cycle fragmentation, 88 , 90 Arsenic poisoning, 31 , 34 Arthritis, 155 , 158 Aspirin, 93 , 95 Assertive community treatment (ACT) team model, 181 - 182 Association studies, 197 , 201 Ataxia, 154 , 158 Atomoxetine, 20 , 26 mechanism of action, 127 , 137 Attention-deficit/hyperactivity disorder (ADHD), 4 , 6 , 10 , 12 , 19 , 83 , 85 , 187 , 190 atomoxetine therapy, 20 , 26 first-line therapy for, 16 , 23 Atypical neuroleptics, 71 Auditory hallucinations, 44 , 49 Auditory system, 193 , 199 Authoritarian parents, 109 , 111 Autism spectrum disorder (ASD), 14 - 15 , 23 , 195 , 200 Autogenic training, 146 , 149 Automatic behaviors, 127 , 137 Autonomy, 165 , 168 , 177 , 179 Autosomal genetic diseases, 187 , 190 Avoidant personality disorder, 102 , 105 Avoidant/restrictive food intake disorder (ARFID), 16 , 23 - 24 B Barbiturates, 38 , 42 , 117 , 131 Bath salts, 38 , 43 Bayley Scale of Infant Development, 11 Bed-wetting, treatment of, 83 - 85 Behavior modification, 36 , 41 Behavior therapy for fear of sexual interaction, 93 , 95 - 96 Beneficence, 165 , 168 Benzodiazepines, 30 , 33 , 36 , 41 , 59 - 61 , 126 , 136 , 198 , 202 intoxication, 156 , 159 side effects, 125 , 136 , 154 , 158 Benztropine, 115 , 130 Bereavement, 108 , 110 alcohol consumption and, 176 , 178 spousal, 176 , 178 Beta waves, 198 , 202 Bipolar disorder, 4 , 9 , 116 , 130 , 183 - 184 bipolar I disorder, advanced age of onset, 52 - 53 \"Black-box\" warning, 18 , 25 Body dysmorphic disorder, 62 , 64 Body image concerns, 77 - 78 , 80 - 81 Borderline personality disorder, 78 , 80 - 81 , 103 , 106 functional improvement in, 103 , 106 gender differences, 104 , 106 Boundary violation, 166 , 168 Bradycardia, 77 , 80 Brain death, 177 , 179 Brain tumor, 30 , 33 Breathlessness, 7 , 13 Brief Psychiatric Rating Scale (BPRS), 9 Broca aphasia, 5 , 10 Bromocriptine, 115 , 130 Bruxism, 38 Bulimia nervosa, 77 , 80 body image concerns, 77 , 80 PTSD in, 78 , 81 Buprenorphine, 128 , 137 Bupropion, 121 - 122 , 133 - 134 risk for epilepsy, 122 , 134 C CAGE screening tool, 8 Calcifications, 6 , 11 Cannabis, 37 , 42 induced psychotic disorder, 37 , 42 Carbamazepine, 41 , 117 , 125 , 131 , 136 Cataplexy, treatment of, 88 , 90 Catecholamines, 38 , 43 Cattell Infant Intelligence Scale, 11 Caudate nucleus activity, 96 , 194 , 199 Child Behavior Checklist (CBCL), 4 Children of divorced families, suicide rate among, 189 , 191 Chlorpromazine, 118 , 131 Cholecystokinin, 196 , 200 Chromosome 7q , 197 , 201 Chronic deterioration, 19 , 25 Cingulate cortex, 62 , 64 Citalopram, 104 , 106 , 117 , 121 , 131 , 133 Clang associations, 4 , 8 Classical conditioning, 84 - 85 Clinical diagnosis, 4 , 9 Clomipramine, 122 , 134 Clonidine, 128 , 137 - 138 Clozapine, 46 - 47 , 50 , 115 , 118 , 130 - 132 blood counts for monitoring metabolic side effects, 48 , 50 incidence of agranulocytosis, 50 induced agranulocytosis, 155 , 159 oral and perianal ulceration from, 155 , 159 CNS depressants, 90 Cognitive behavioral therapy (CBT), 17 , 19 , 24 - 25 , 41 , 55 , 57 - 58 , 78 - 79 , 81 , 146 , 149 for insomnia (CBTi), 88 , 90 Cognitive distortions, 146 , 149 Cognitive functions, 4 Cognitive processing therapy (CPT), 66 - 67 Cognitive testing, 22 Cognitive therapy, 203 , 210 Colchicine, 123 , 135 Collaborative care model, 180 , 182 Comfort, touch as source of, 207 , 212 Competency of patient, 171 , 174 Conditioned stimulus, 203 , 210 Conduct disorder, 157 , 160 Connors Rating Scale, 4 Consciousness, 32 Consent form for treatment, 171 , 174 Conservation, 203 , 210 Consortium of community agencies, 181 - 182 Consultation-liaison psychiatry, 154 , 158 Contamination fears in OCD, 62 , 64 Contingency management, 103 , 106 Conversion disorder, 72 , 75 neurologic or nonpsychiatric medical diagnosis, 73 , 76 prevalence rate, 74 , 76 symptoms of, 110 tests, 72 , 75 Cornelia de Lange syndrome, 11 - 12 Corticospinal tract, 194 , 199 Cortico-striatal-thalamic-cortical (CSTC), 63 - 64 Cortisol levels, in depressed patients, 55 , 58 Cortisone, 196 , 201 Counseling, for alcohol rehabilitation, 36 , 41 Counterconditioning, 204 , 210 Cri-du-chat syndrome, 7 , 11 - 12 Criterion validity, 10 Cross-dressing, 97 - 98 Cultural identity, 207 , 212 - 213 Cyclothymia, 51 , 53 D Death and dying, stages of, 176 , 178 Death with Dignity Act, 179 Declarative memory, 211 Deductive reasoning, 210 Default sex of human embryo, 97 - 98 Defense mechanisms, 207 , 212 Delayed reaction time, 37 , 42 Delta waves, 198 , 202 Delusional disorder, 45 , 49 Dementia of Alzheimer type, 28 , 30 , 32 - 33 features of, 28 , 32 Denial of intent, 9 Denver Developmental Screening Test, 11 Depersonalization disorder, 68 , 70 serotonin reupdate inhibitors for, 68 , 70 symptoms, 68 - 71 Depression reserpine and, 207 , 212 screening for, 180 , 182 Depressive disorder alcohol use disorder, 54 , 57 decreased appetite, 77 , 80 hippocampus and, 56 , 58 life stressor associated with, 56 , 58 symptoms of depression, 54 , 57 testing of cortisol levels, 55 , 58 Derealization disorder, 68 , 70 serotonin reupdate inhibitors for, 68 , 70 symptoms, 68 - 71 Desmopressin, 84 - 85 Desvenlafaxine, 93 , 95 Detoxification for alcoholism, 36 Diabetes, 3 , 8 Dialectical behavioral therapy (DBT), 69 , 71 , 103 , 106 , 146 , 149 Diencephalon, 205 , 211 Discriminant validity, 10 Disinhibited social engagement disorder, 17 , 24 Disposition, least restrictive alternative, 170 , 173 Disruptive mood dysregulation disorder (DMDD), 18 , 24 Dissociative amnesia, 68 , 70 symptoms, 68 , 70 Dissociative identity disorder, 68 , 70 dialectical behavioral therapy (DBT), 69 , 71 psychotherapy for, 68 , 70 somatic treatment strategy, 69 , 71 Disulfiram, 128 , 137 - 138 Divorce rate among psychiatrists, 109 , 111 Dizziness, 127 , 137 Dolutegravir/rilpivirine, 31 , 34 Dopamine, 195 , 200 Down syndrome, 12 , 14 Doxycycline, 31 , 34 Dronabinol, 37 , 42 Drowsiness, 42 Dual-sex therapy, 93 , 95 - 96 Durable power of attorney, 171 , 174 Dyscalculia, 5 , 10 Dysgraphia, 5 , 10 E Ebstein anomaly, 124 , 135 EEG evaluation, 198 , 202 Electrocardiogram (EKG), 156 , 159 Electroconvulsive therapy (ECT), 29 , 33 , 52 - 53 , 139 , 142 risk for complications, 140 , 142 Embryo development, 187 , 190 Empathy, 3 - 4 Encopresis causes of childhood, 83 , 85 constipation in, 83 , 85 diagnosis of, 83 , 85 DSM-5 criteria for, 83 , 85 initial step in treating child with, 83 , 85 minimum age for treatment of, 83 , 85 treatment of, 84 - 85 types of, 84 , 86 Endicott Substitution Criteria for depression, 177 - 178 Enlarged ventricles, 48 , 50 Enuresis, 83 , 85 Erikson, Erik, 208 , 213 Estrogen replacement therapy, 93 , 95 Ethical principles autonomy, 165 , 168 , 177 , 179 beneficence, 165 , 168 deciding seclusion or restraint for patient, 170 , 173 nonmaleficence, 165 , 168 obligation to report of impaired physician, 167 - 168 related to sexual relations with patient, 166 , 168 Ethnicity, 207 , 213 Euthanasia, 177 , 179 Oregon\u0027s Assisted Suicide Law, 177 , 179 Excoriation disorder, 63 - 64 Executive functioning, 34 Expressive psychotherapy, 144 , 148 Extinction, 204 , 210 F Face validity, 10 Factitious disorder, 73 , 75 common signs of, 73 , 76 healing of wounds, 73 , 76 history of anemia, 76 treating child with, 74 , 76 Factor validity, 10 Fantasy, 104 , 106 Feeding and eating disorders anorexia nervosa, 77 - 82 anorexia nervosa, binge/purge subtype, 77 , 80 binge eating vs overeating, 77 , 80 bulimia nervosa, 77 , 80 decreased appetite, 77 , 80 Female sexual interest/arousal disorder, 92 , 95 Ferritin level, correlation with sleeping difficulty, 89 , 91 Fexofenadine, 202 15q2 deletion, 6 , 11 Finger agnosia, 5 , 10 \"Five Ds\" in pellagra, 34 Flibanserin, 93 , 95 Fluency, 5 , 10 Flumazenil, 125 , 136 , 156 , 159 Fluoxetine, 93 , 95 , 156 , 159 - 160 Fluphenazine, side effects, 156 , 159 - 160 FMR-1 gene, 201 inactivation of, 12 mutation, 15 , 22 fMRI (functional magnetic resonance imaging), 5 , 10 Folic acid supplementation, 124 , 135 Fragile X syndrome, 201 Free association, 144 , 148 , 213 Freud, Sigmund, 208 , 213 Frontal lobe damage, 194 , 199 - 200 G Galactosemia, 12 Ganser syndrome, 68 , 70 Gender-dysphoric male, 97 - 98 Gender identity, 94 , 96 , 188 , 191 Genderqueer, 97 - 98 Generalized anxiety disorder, 59 , 61 , 126 , 136 Generativity, mastering, 206 , 212 Genetic etiology, 197 , 201 Genetic mapping studies, 201 Genomic and environmental risk factors, 152 - 153 Genomic testing, 152 - 153 Gerstmann syndrome, 5 , 10 Gesell Infant Scale, 11 Ghrelin, 87 , 90 Grammar, 15 , 23 Granulocyte colony-stimulating factor, 155 , 159 Grief, 176 , 178 medication for, 177 - 178 Group therapy, 93 , 95 , 108 , 110 , 145 , 148 , 201 for women with breast cancer, 154 , 158 Growth hormone, 87 , 90 Guilty verdict, 171 , 174 H Hallucinogens, 38 , 43 Haloperidol, 160 Hearing test, 15 , 22 Hematocrit, 97 - 98 Hemodialysis, 116 , 130 Hemoglobin, 97 - 98 Heroin withdrawal symptoms, 21 , 26 Hippocampus, 195 , 200 Histrionic personality disorder, 102 , 105 gender differences, 104 , 106 HIV/AIDS infection, 34 in children, 157 , 160 as leading cause of disability, 183 - 184 Hoarding, 62 , 64 Homicides, 176 , 178 , 189 , 192 Homosexuality, 97 - 98 H3 receptor agonism/inverse agonism, 89 , 91 Hunter syndrome, 12 Hurler syndrome, 12 Hydromorphone, 177 , 179 Hypercholesterolemia, 77 , 80 Hypersomnolence disorder, 87 , 90 Hyperthyroidism, 3 , 8 Hyperventilation, 202 Hypoglycemia, 40 Hypomagnesemia, 6 , 11 , 40 Hyponatremia, 40 Hyponatremic seizure, 84 - 85 Hypothalamic-pituitary-adrenal (HPA) axis activity, 58 Hypothalamus, 194 , 196 , 199 - 200 I Identity, 208 , 213 Iloperidone, 118 - 119 , 131 - 132 Immigrants, physician approach to, 207 , 212 - 213 Imprinting, 207 , 212 Information-processing model of training, 151 , 153 Information processing speed, 31 , 33 Inhalants, 39 , 43 effects of, 39 , 43 Insight-oriented therapy, 41 Intellectual disability, 14 - 15 , 20 , 25 in children with autism spectrum disorder, 20 , 26 seizures and, 20 , 25 Intellectual functioning, 206 , 211 Intensive outpatient program (IOP), 162 Intermittent explosive disorder (IED), 99 , 101 diagnosis of, 99 , 101 symptoms of, 99 , 101 treatment for, 100 - 101 Interpersonal psychotherapy (ITP), 146 , 150 intermediate phase of, 147 , 150 Intolerable pain, 177 , 179 Intoxication, 35 , 40 benzodiazepines, 156 , 159 legal definition, 35 , 40 lysergic acid diethylamide (LSD), 159 phencyclidine (PCP), 159 Irritability, 17 , 24 J Judgment, 4 , 8 K Ketamine, 38 , 43 , 123 , 135 Kleptomania, 99 , 101 Korsakoff syndrome, 29 , 33 , 205 , 211 K-bler-Ross, Elizabeth, 176 , 178 L Lacrimation, 37 , 42 Lamotrigine, 52 - 53 , 116 - 117 , 125 , 130 - 131 , 136 Language, 6 , 11 Lanugo, 77 , 80 Lead poisoning, 31 , 34 Learned helplessness, 204 , 211 theory of depression, 56 , 58 Learning deficits, 206 , 211 - 212 Least restrictive alternative, 170 , 173 Leptin, 87 , 90 Lesch-Nyhan syndrome, 12 Levorphanol, 177 , 179 Lewy inclusion bodies, 28 , 32 Linkage studies, 197 , 201 Lisdexamfetamine, 81 , 127 , 137 Lisinopril, 207 Lithium, 53 , 139 , 142 dosage, 124 , 135 side effects, 124 , 135 , 156 , 159 toxicity, 159 Liver function tests (LFTs), 5 , 11 Locus ceruleus, 35 , 40 Loneliness, 12 , 176 , 178 Love Addicts Anonymous, 96 Luria-Nebraska Neuropsychological Battery: Children\u0027s Revision (LNNB:C), 7 , 13 Lysergic acid diethylamide (LSD), 38 , 43 intoxication, 159 M Major depressive disorder, 54 , 57 , 176 , 196 , 201 age groups, 155 , 158 goal of treatment, 55 , 57 hyperactivity of HPA axis and, 200 melancholic, 155 , 158 psychomotor retardation in, 108 , 110 treatment for, 119 , 132 Male hypoactive sexual desire disorder, 92 , 95 Malingering, 108 , 110 causes of feigning symptoms in, 108 , 110 Malpractice, 170 , 173 4 Ds, 173 negligence to obtain informed consent, 171 , 174 Manganese poisoning, 31 , 34 Mania, 3 - 4 , 8 Manic episode emergency admission to psychiatric facility, 52 - 53 treatment duration for, 51 , 53 Manic-hypomanic episodes, differences between, 51 , 53 Marijuana, 19 , 25 Masturbation, 92 , 95 Meclizine, 155 , 159 Medical workup, 45 , 49 Medication toxicity, reversal of, 156 , 159 Memantine, 129 , 138 Memory difficulty, 206 , 211 - 212 Mental disorders as factor for discrimination, 183 - 184 prevalence estimates, 183 - 184 Mentalization-based therapy (MBT), 103 , 106 , 147 , 150 Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963, 161 - 162 Mental status examination, 3 , 12 for amnestic disorder, 29 , 32 anxiety in, 4 Meperidine, 37 , 177 , 179 Mercury poisoning, 31 , 34 Mesoaccumbens, 195 , 200 Methadone, 128 , 137 , 177 , 179 Methamphetamine, 38 , 43 Methylphenidate, 127 , 137 Metronidazole, 27 , 32 Microglia, 193 , 199 Migraines, 39 , 43 Military courts, 170 , 173 Millon Adolescent Personality Inventory (MAPI), 7 , 13 Mindfulness, 93 , 95 - 96 Minorities, negative life experiences of, 109 - 111 miRNA, 195 , 200 Mirtazapine, 122 , 134 M\u0027Naghten rule, 171 , 174 Monoamine oxidase inhibitors (MAOIs), 5 , 37 , 42 , 71 , 123 , 134 - 135 Mood, 7 , 13 Morphine, 177 , 179 Motivational interviewing, 9 , 36 , 41 Mullen Scales of Early Learning, 7 , 13 Multimodal intervention, 180 , 182 Multiple sleep latency test (MSLT), 88 , 90 Myocardial infarctions, 6 , 11 , 183 - 184 N Naloxone, 37 , 42 Naltrexone, 36 , 41 , 128 , 137 Narcissistic personality disorder, 102 , 105 Narcolepsy, 88 , 90 Narrative family therapy, 145 , 148 - 149 Narrative psychotherapy, 147 , 150 Nefazodone, 122 , 134 Negative reinforcement, 204 , 210 Neuroleptic-induced movement disorder, 115 , 130 Neuroleptic-induced parkinsonism, 115 , 130 Neuroleptic malignant syndrome (NMS), 115 , 129 - 130 , 138 Neurologic abnormality in criminals, 108 , 110 Neuropsychological testing, 31 , 33 Neurosyphilis, 34 Nicotine replacement therapy, 43 Nitroglycerin, 93 , 95 Nonmaleficence, 165 , 168 Norepinephrine reuptake inhibition, 20 , 26 Normal development and aging. See also Toddler development characteristic of normal dreams, 189 , 191 concrete operational period, 188 , 190 emotional development, 188 , 191 Erik Erikson\u0027s developmental stages, 208 , 213 Freud\u0027s stages of child development, 208 , 213 gender identity, 188 , 191 generativity vs stagnation, middle adulthood, 189 , 192 imaginary companions, 188 , 191 imitation of facial movements, 188 , 190 - 191 intelligence, 188 , 191 middle years, 188 , 191 neuropsychiatric changes with aging, 189 , 192 perception of attractive physical appearance, 189 , 192 smiling back, 188 , 190 stranger anxiety vs separation anxiety, 188 , 191 utterances and use of words, 188 , 190 verbal ability, 189 , 192 Normal pressure hydrocephalus (NPH), 154 , 158 O Objectivity, 3 Object permanence, 203 , 210 Observation, 15 , 22 Obsessional thoughts, 13 Obsessive-compulsive disorder (OCD), 19 , 70 , 78 , 81 new-onset symptoms in older individuals, 62 , 64 therapy and medication for, 63 - 64 , 120 , 122 , 132 - 134 types of obsessions with, 62 , 64 Obsessive compulsive personality disorder, 102 , 105 gender differences, 104 , 106 medication management, 104 , 106 Occipital lobe damage, 200 Olanzapine, 78 , 81 , 115 , 117 , 130 - 131 Olfactory reference syndrome, 62 , 64 -opioid agonists, 128 , 137 Opioids, 35 - 36 , 40 - 41 substitution therapy, 37 , 42 withdrawal, signs or symptoms, 37 , 42 Oregon\u0027s Assisted Suicide Law, 177 , 179 Orexin, 87 , 90 Orthostatic hypotension, 37 , 42 , 119 , 132 , 159 Overgeneralization, 146 , 149 P Paliperidone, 120 Paliperidone palmitate, 167 - 169 Panic attacks, 59 , 61 Parallel play, 190 Paranoia, 146 , 149 - 150 Paranoid personality disorder, 102 , 105 gender differences, 104 , 106 schizophrenia vs, 103 , 105 Paranoid schizophrenia with active delusions, 145 , 148 Paraphilic disorders, 94 , 96 Parental psychoeducation, 16 , 23 Parietal lobe, 5 , 10 damage, 200 Paroxetine, 65 , 67 , 117 , 131 Partial hospital programs, 161 - 162 Participant modeling therapy, 146 , 149 Patient confidentiality, 166 , 168 Patient consent, 3 Pedigree analysis, 197 , 201 Pedophilia, diagnosis of, 94 , 96 Peer-to-peer consultation, 167 - 169 Pellagra, 34 Penicillin, 31 , 34 Perceptual disturbances, 13 Permissive parenting, 109 , 111 Persecutory delusions, 155 , 158 Persistent depressive disorder, 54 , 57 Persistent vegetative state, 177 , 179 Personality cannabis-induced psychotic disorder and, 37 , 42 changes, 30 - 33 Personality disorders anankastic personality disorder, 103 , 105 borderline personality disorder, 103 , 106 categorical approach to, 102 , 105 dependent traits, 103 , 106 dissociation and repression, 102 , 105 histrionic personality disorder, 102 , 105 identity diffusion, 103 , 106 narcissistic personality disorder, 102 , 105 paranoid, 102 , 105 paranoid personality disorder, 102 - 103 , 105 reward dependence, 104 , 107 schizoid personality disorder, 102 - 103 , 105 - 106 schizotypal personality disorder, 102 , 105 Phencyclidine (PCP) intoxication, 159 Phenothiazine, 12 Phenylalanine, 7 , 12 Phenylketonuria (PKU), 12 , 22 Pheochromocytomas, 9 Phone consultation, 103 , 106 Phonology, 15 , 23 Pitolisant, 89 , 91 Plantar (Babinski) reflex, 187 , 190 Pleasurable feelings, 94 , 96 Polacrilex gum, 38 , 43 Positive emotions, 176 , 178 Positive psychology, 209 , 213 - 214 Posttraumatic stress disorder (PTSD), 17 , 24 in bulimia nervosa, 78 , 81 diagnosis of, 65 , 67 evidence-based therapy for, 66 - 67 risk factors, 66 - 67 symptoms, 65 , 67 Prader-Willi syndrome, 11 , 64 , 201 Pragmatics, 15 , 23 Prazosin, 65 , 67 , 71 Pregnancy embryo development, 187 , 190 fetal brain development, 187 , 190 milestones, 187 , 190 reflexes present at birth, 187 , 190 Premack principle, 204 , 211 Preparedness, 204 , 210 Preschoolers, 176 , 178 Priapism, 122 , 127 , 134 , 137 Privacy Rule, 172 , 174 - 175 Privileged communications, 170 , 173 Procedural memory, 211 Projection, 207 , 212 Projective identification, 102 , 105 Propranolol, 46 , 49 - 50 , 126 , 136 Prosopagnosia, 12 Psychiatric abnormality, 30 - 33 Psychiatric admission, temporary vs involuntary, 170 , 173 Psychiatric disorders, risks of, 183 - 184 Psychiatric illnesses, 197 , 201 Psychiatric interview person-centered approach, 3 steps, 3 Psychiatric medications dose adjustments in, 155 , 159 rules or regulations, 170 , 173 Psychiatric rehabilitation strategies, 151 , 153 Psychiatric symptoms, 3 Psychoanalysis free association, 144 , 148 good candidate for, 144 , 148 Psychoanalytic psychotherapy, 144 , 148 Psychoeducation, 147 , 150 Psychogenic amnesia, 206 , 212 Psychomotor retardation, 176 , 178 Psychotherapy, 9 , 41 , 197 , 201 note, 4 Psychotoxicity, 179 Public community psychiatry multidisciplinary team, 181 - 182 Public health programs, 180 , 182 Q Quetiapine, 47 , 52 - 53 , 115 , 118 , 130 - 131 R Radioactive iodine, 31 , 34 Ranolazine, 93 , 95 Raphe nuclei, 195 , 200 Rapid Alcohol Problem Screen 4 (RAPS4) screening tool, 3 Rating scales, 4 Reboxetine, 84 - 86 Reframing, 145 , 149 Reinstatement, 204 , 210 - 211 Relaxation techniques, 60 - 61 RELN gene, 201 Reserpine, 207 , 212 Residential care, 161 - 162 Retrograde deficits, 211 Reversibility, 210 Rhabdomyolysis, 39 , 43 Right-left disorientation, 5 , 10 Risperidone, 14 , 22 , 65 , 67 , 115 , 120 , 130 Role-playing, 151 , 153 Rotter Incomplete Sentences Blank Test, 7 , 13 Rubella, 20 , 25 Rubinstein-Taybi syndrome, 11 S Schizoaffective disorder, 44 , 46 , 49 Schizoid personality disorder, 102 - 103 , 105 - 106 common defense mechanisms, 104 , 106 Schizophrenia, 120 , 201 diagnosis of, 45 , 49 hospital admission, 46 , 49 suicide as cause of premature death, 44 , 49 treatment duration, 47 , 50 Schizotypal personality disorder, 102 , 105 saccadic eye movements in, 104 , 106 School resource officer (SRO), 18 School violence, 189 , 192 Scurvy, 34 Seclusion or restraint for patient ethical principles, 170 , 173 measures, 171 , 174 Sedatives, 177 - 178 Seizures, 139 , 142 alcohol abuse and, 35 , 40 intellectual disability and, 20 , 25 simple partial, 30 , 33 Selective intervention, 180 , 182 Selective serotonin reuptake inhibitors (SSRIs), 17 , 24 , 59 , 61 , 64 , 67 - 68 , 70 - 71 , 81 , 121 , 133 - 134 with benzodiazepine, 60 - 61 discontinuation syndrome, 121 , 133 for impulsivity and aggression, 101 sexual dysfunction as side effect of, 120 , 133 treatment of cataplexy, 90 Semantic memory, 30 , 33 , 211 Semantics, 15 , 23 Senile plaques, 14 , 22 Separation anxiety, 18 , 24 - 25 , 188 , 191 Serotonin, 104 , 107 , 195 , 200 Serotonin-dopamine antagonists, 115 - 116 , 130 , 132 Serotonin syndrome, 121 , 133 Sex Addicts Anonymous, 96 Sexaholics Anonymous, 96 Sexual fantasies or impulses, 93 , 96 SHANK3 gene, 202 Sib-pair analysis, 197 , 201 Sildenafil, 93 , 95 , 129 , 138 Simple partial seizure, 30 , 33 Single-nucleotide polymorphisms, 201 Sleep disorders, advanced age and, 155 , 159 Sleepwalking, 88 , 90 Social functioning, 22 Social perception, 151 , 153 Social phobia, 78 , 81 Social referencing, 188 , 191 Social skills rehabilitation, 151 , 153 Sodium, 116 , 130 Sodium oxybate, 90 Somatic disorder antidepressants for, 73 , 76 comorbidities in, 73 , 76 distinction from factitious disorder, 73 , 76 ICD-10 criteria vs DSM-5-TR criteria, 72 , 75 similarities between anxiety disorder and, 72 , 75 symptoms, 72 , 75 Specific phobia, 59 , 61 Speech therapy, 20 , 26 Spinal cord, as epicenter of orgasms, 94 , 96 Spontaneous remission in enuresis, 83 , 85 Spousal bereavement, 176 , 178 State-dependent learning, 204 , 210 Stevens-Johnson syndrome, 136 Stimulants, 15 - 16 , 23 , 38 , 43 Stranger anxiety, 188 , 191 Sublimation, 207 , 212 Substance abuse ethnicity and lifetime rate of, 35 , 40 screening tool, 3 Substance use disorder, 94 , 96 Suicidality, 18 , 25 Suicidal statement, 4 Suicide, 12 , 117 , 131 , 176 , 178 attempt, risk of, 18 , 24 , 38 , 42 as cause of premature death in schizophrenia, 44 , 49 in China, 183 - 184 emergency room (ER) screens for, 155 , 159 foreseeable, 170 , 173 pervasive hopelessness as risk factor, 155 , 159 prevalence rates in children of divorced families, 189 , 191 prevalence rates in males over 45 years of age, 154 , 158 risk in cancer patients, 155 , 158 substance abuse and, 35 , 40 Supportive employment program, 151 , 153 Supportive psychotherapy, 145 , 148 Suprachiasmatic nucleus, 87 , 90 Synaptogenesis, 194 , 200 Synthetic THC, FDA approval, 37 , 42 Systematic desensitization, 146 , 149 T Tarasoff law, 170 , 173 Tardive dyskinesia (TD), 115 , 130 , 160 Temporal lobe, 193 , 199 damage, 200 , 205 , 211 tumor, 30 , 33 Testosterone supplementation, 98 Tetrabenazine, 115 , 130 Thalamus, 193 , 199 Thematic Apperception Test (TAT), 7 , 13 Therapeutic communities, 108 , 110 Therapist-patient relationship, 209 , 214 Theta waves, 198 , 202 Thiamine deficiency, 34 , 36 , 41 Thiamine replacement, 29 , 32 - 33 Thought content, 7 , 13 Thyroid function, 123 , 135 Thyroid-stimulating hormone, 87 , 90 Tobacco dependence, 35 , 40 Toddler development, 187 - 188 , 190 social referencing, 188 , 191 Toluene, 5 , 10 - 11 , 31 , 34 Topiramate, 65 , 67 , 82 , 125 , 136 Tourette syndrome, 19 , 25 Transexual, 97 - 98 Transference, 213 Transference-focused psychotherapy (TFP), 103 , 106 Transgender, 97 - 98 Transient global amnesia, 68 , 70 Trazodone, 122 , 134 Treatment boundaries, 172 , 174 Treponema infection, 34 Trichotillomania, 62 - 64 Tricyclic antidepressants (TCAs), 71 , 73 , 76 concerns of, 131 serotonin and norepinephrine reuptake inhibition, 122 , 134 side effects, 123 , 134 - 135 therapeutic effect of, 122 , 134 Tuberoinfundibular pathway, 120 , 132 Tympanic membrane, 193 , 199 Tyrosine, 195 , 200 U Universal intervention, 180 , 182 V Valbenazine, 115 , 130 Valproic acid, 5 , 11 , 116 - 117 , 130 - 131 laboratory test, 124 , 135 - 136 Vascular dementia, 28 , 32 Venlafaxine, 65 , 67 , 121 , 133 Ventricular enlargement, 193 , 199 Vineland adaptive behavior scale, 6 , 11 Vitamin B3 (niacin), 31 , 34 Vitamin B12, 5 , 11 Vitamin deficiencies, 36 thiamine, 36 , 41 vitamin A, 34 vitamin B12, 34 vitamin C, 34 W Weight gain, 127 , 137 Wernicke encephalopathy, 36 , 40 Wernicke-Korsakoff syndrome, 34 Williams syndrome, 12 Withdrawal behavioral response, 203 , 210 X X chromosome, 201 Y Yale-Brown Obsessive-Compulsive Scale (Y-BOCS), 120 Yohimbine, 93 , 95 Z Ziprasidone, 6 , 11 , 115 , 118 , 120 , 130 - 131 Zolpidem, 126 , 136"
+        "explanation":  "The relationship between the therapist and patient A person can engage in positive psychotherapy whether or not they have a mental health issue. Some techniques do not require a high propensity for introspection, such as noticing and recording things that are going well in someone\u0027s life. Helping other people can be a therapeutic technique, but is not the only technique. The common thread among positive psychotherapies is the therapeutic alliance, or relationship between the therapist and the patient. (1093) Index A Abnormal EEGs, 108 , 110 Abstract reasoning, 4 , 8 Accidents, 176 , 178 Acetylcholine, 27 , 32 , 92 , 95 Acute akathisia, 115 , 130 Acute dystonia, 115 , 130 Acute psychosis, treatment for, 120 , 132 Acyclovir, 31 , 34 Addiction treatment, 180 , 182 Adjustment disorders, 65 , 67 , 154 , 158 Adrenal gland, 196 , 200 African Americans, rates of substance use disorder, 207 , 213 Agnosia, 6 Agoraphobia, 59 , 61 participant modeling therapy, 146 , 149 Alcohol, 21 , 26 , 30 , 33 correlation between sleep apnea and, 88 , 90 dependence, treatment for, 36 rehabilitation, 36 Alcohol disorders DSM terms, 35 , 40 naltrexone for treating alcohol dependence, 36 psychiatric diagnosis, 36 Alcohol use impact on profile of NMDA and GABA receptor, 195 , 200 induced depressions, treatment for, 36 , 41 Alcohol withdrawal seizures, treatment for, 36 signs or symptoms in, 35 , 40 tremors, 35 , 40 Aldehyde dehydrogenase inhibition, 128 , 137 - 138 Alpha-1 receptor blockade, 119 , 132 Alpha waves, 198 , 202 Alzheimer disease, 64 , 197 , 201 American Indians, lifetime rate of substance abuse, 35 , 40 American Psychiatric Association\u0027s (APA\u0027s) Principles of Medical Ethics with Annotations Especially Applicable to Psychiatry, 166 , 168 Amitriptyline, 123 , 134 Ammonia, 5 , 11 Amnesia, 127 , 137 , 205 , 211 Amnestic disorder, 29 , 32 Amobarbital, 126 , 136 Amphetamine salts, 127 , 137 Amygdala, 205 , 211 Analytically oriented sex therapy, 93 , 96 Anankastic personality disorder, 103 , 105 Angelman syndrome, 12 , 201 Anorexia nervosa atypical antipsychotics for, 78 , 81 binge/purge subtype, 77 , 80 body image concerns, 77 , 80 endocrine findings, 77 , 80 phycologic predisposing factor, 79 , 82 prognosis of, 78 , 81 psychotherapeutic approach to, 78 , 81 vs bulimia nervosa, 77 , 80 weight criteria, 157 , 160 Anosognosia, 12 Anterior cingulate gyrus, 206 , 212 Anterior pituitary gland, 196 , 200 Antidepressants, 55 , 57 anticholinergic effects of, 95 sexual side effects of, 121 , 133 for somatic disorder, 73 , 76 Antipsychotic medications adequate trial of, 47 , 50 benefits of, 154 , 158 clozapine, 46 - 47 , 50 family history and, 3 lamotrigine, 52 - 53 quetiapine, 47 , 52 - 53 Antisocial behavior, treatments for, 108 , 110 Antisocial personality disorder, 36 , 41 , 102 , 105 contingency management and rewards-based interventions, 103 , 106 Aphasias, 5 apoE-e4 allele, 197 , 201 Aripiprazole, 63 - 64 , 115 , 117 - 119 , 130 - 132 Arousal-induced sleep cycle fragmentation, 88 , 90 Arsenic poisoning, 31 , 34 Arthritis, 155 , 158 Aspirin, 93 , 95 Assertive community treatment (ACT) team model, 181 - 182 Association studies, 197 , 201 Ataxia, 154 , 158 Atomoxetine, 20 , 26 mechanism of action, 127 , 137 Attention-deficit/hyperactivity disorder (ADHD), 4 , 6 , 10 , 12 , 19 , 83 , 85 , 187 , 190 atomoxetine therapy, 20 , 26 first-line therapy for, 16 , 23 Atypical neuroleptics, 71 Auditory hallucinations, 44 , 49 Auditory system, 193 , 199 Authoritarian parents, 109 , 111 Autism spectrum disorder (ASD), 14 - 15 , 23 , 195 , 200 Autogenic training, 146 , 149 Automatic behaviors, 127 , 137 Autonomy, 165 , 168 , 177 , 179 Autosomal genetic diseases, 187 , 190 Avoidant personality disorder, 102 , 105 Avoidant/restrictive food intake disorder (ARFID), 16 , 23 - 24 B Barbiturates, 38 , 42 , 117 , 131 Bath salts, 38 , 43 Bayley Scale of Infant Development, 11 Bed-wetting, treatment of, 83 - 85 Behavior modification, 36 , 41 Behavior therapy for fear of sexual interaction, 93 , 95 - 96 Beneficence, 165 , 168 Benzodiazepines, 30 , 33 , 36 , 41 , 59 - 61 , 126 , 136 , 198 , 202 intoxication, 156 , 159 side effects, 125 , 136 , 154 , 158 Benztropine, 115 , 130 Bereavement, 108 , 110 alcohol consumption and, 176 , 178 spousal, 176 , 178 Beta waves, 198 , 202 Bipolar disorder, 4 , 9 , 116 , 130 , 183 - 184 bipolar I disorder, advanced age of onset, 52 - 53 \"Black-box\" warning, 18 , 25 Body dysmorphic disorder, 62 , 64 Body image concerns, 77 - 78 , 80 - 81 Borderline personality disorder, 78 , 80 - 81 , 103 , 106 functional improvement in, 103 , 106 gender differences, 104 , 106 Boundary violation, 166 , 168 Bradycardia, 77 , 80 Brain death, 177 , 179 Brain tumor, 30 , 33 Breathlessness, 7 , 13 Brief Psychiatric Rating Scale (BPRS), 9 Broca aphasia, 5 , 10 Bromocriptine, 115 , 130 Bruxism, 38 Bulimia nervosa, 77 , 80 body image concerns, 77 , 80 PTSD in, 78 , 81 Buprenorphine, 128 , 137 Bupropion, 121 - 122 , 133 - 134 risk for epilepsy, 122 , 134 C CAGE screening tool, 8 Calcifications, 6 , 11 Cannabis, 37 , 42 induced psychotic disorder, 37 , 42 Carbamazepine, 41 , 117 , 125 , 131 , 136 Cataplexy, treatment of, 88 , 90 Catecholamines, 38 , 43 Cattell Infant Intelligence Scale, 11 Caudate nucleus activity, 96 , 194 , 199 Child Behavior Checklist (CBCL), 4 Children of divorced families, suicide rate among, 189 , 191 Chlorpromazine, 118 , 131 Cholecystokinin, 196 , 200 Chromosome 7q , 197 , 201 Chronic deterioration, 19 , 25 Cingulate cortex, 62 , 64 Citalopram, 104 , 106 , 117 , 121 , 131 , 133 Clang associations, 4 , 8 Classical conditioning, 84 - 85 Clinical diagnosis, 4 , 9 Clomipramine, 122 , 134 Clonidine, 128 , 137 - 138 Clozapine, 46 - 47 , 50 , 115 , 118 , 130 - 132 blood counts for monitoring metabolic side effects, 48 , 50 incidence of agranulocytosis, 50 induced agranulocytosis, 155 , 159 oral and perianal ulceration from, 155 , 159 CNS depressants, 90 Cognitive behavioral therapy (CBT), 17 , 19 , 24 - 25 , 41 , 55 , 57 - 58 , 78 - 79 , 81 , 146 , 149 for insomnia (CBTi), 88 , 90 Cognitive distortions, 146 , 149 Cognitive functions, 4 Cognitive processing therapy (CPT), 66 - 67 Cognitive testing, 22 Cognitive therapy, 203 , 210 Colchicine, 123 , 135 Collaborative care model, 180 , 182 Comfort, touch as source of, 207 , 212 Competency of patient, 171 , 174 Conditioned stimulus, 203 , 210 Conduct disorder, 157 , 160 Connors Rating Scale, 4 Consciousness, 32 Consent form for treatment, 171 , 174 Conservation, 203 , 210 Consortium of community agencies, 181 - 182 Consultation-liaison psychiatry, 154 , 158 Contamination fears in OCD, 62 , 64 Contingency management, 103 , 106 Conversion disorder, 72 , 75 neurologic or nonpsychiatric medical diagnosis, 73 , 76 prevalence rate, 74 , 76 symptoms of, 110 tests, 72 , 75 Cornelia de Lange syndrome, 11 - 12 Corticospinal tract, 194 , 199 Cortico-striatal-thalamic-cortical (CSTC), 63 - 64 Cortisol levels, in depressed patients, 55 , 58 Cortisone, 196 , 201 Counseling, for alcohol rehabilitation, 36 , 41 Counterconditioning, 204 , 210 Cri-du-chat syndrome, 7 , 11 - 12 Criterion validity, 10 Cross-dressing, 97 - 98 Cultural identity, 207 , 212 - 213 Cyclothymia, 51 , 53 D Death and dying, stages of, 176 , 178 Death with Dignity Act, 179 Declarative memory, 211 Deductive reasoning, 210 Default sex of human embryo, 97 - 98 Defense mechanisms, 207 , 212 Delayed reaction time, 37 , 42 Delta waves, 198 , 202 Delusional disorder, 45 , 49 Dementia of Alzheimer type, 28 , 30 , 32 - 33 features of, 28 , 32 Denial of intent, 9 Denver Developmental Screening Test, 11 Depersonalization disorder, 68 , 70 serotonin reupdate inhibitors for, 68 , 70 symptoms, 68 - 71 Depression reserpine and, 207 , 212 screening for, 180 , 182 Depressive disorder alcohol use disorder, 54 , 57 decreased appetite, 77 , 80 hippocampus and, 56 , 58 life stressor associated with, 56 , 58 symptoms of depression, 54 , 57 testing of cortisol levels, 55 , 58 Derealization disorder, 68 , 70 serotonin reupdate inhibitors for, 68 , 70 symptoms, 68 - 71 Desmopressin, 84 - 85 Desvenlafaxine, 93 , 95 Detoxification for alcoholism, 36 Diabetes, 3 , 8 Dialectical behavioral therapy (DBT), 69 , 71 , 103 , 106 , 146 , 149 Diencephalon, 205 , 211 Discriminant validity, 10 Disinhibited social engagement disorder, 17 , 24 Disposition, least restrictive alternative, 170 , 173 Disruptive mood dysregulation disorder (DMDD), 18 , 24 Dissociative amnesia, 68 , 70 symptoms, 68 , 70 Dissociative identity disorder, 68 , 70 dialectical behavioral therapy (DBT), 69 , 71 psychotherapy for, 68 , 70 somatic treatment strategy, 69 , 71 Disulfiram, 128 , 137 - 138 Divorce rate among psychiatrists, 109 , 111 Dizziness, 127 , 137 Dolutegravir/rilpivirine, 31 , 34 Dopamine, 195 , 200 Down syndrome, 12 , 14 Doxycycline, 31 , 34 Dronabinol, 37 , 42 Drowsiness, 42 Dual-sex therapy, 93 , 95 - 96 Durable power of attorney, 171 , 174 Dyscalculia, 5 , 10 Dysgraphia, 5 , 10 E Ebstein anomaly, 124 , 135 EEG evaluation, 198 , 202 Electrocardiogram (EKG), 156 , 159 Electroconvulsive therapy (ECT), 29 , 33 , 52 - 53 , 139 , 142 risk for complications, 140 , 142 Embryo development, 187 , 190 Empathy, 3 - 4 Encopresis causes of childhood, 83 , 85 constipation in, 83 , 85 diagnosis of, 83 , 85 DSM-5 criteria for, 83 , 85 initial step in treating child with, 83 , 85 minimum age for treatment of, 83 , 85 treatment of, 84 - 85 types of, 84 , 86 Endicott Substitution Criteria for depression, 177 - 178 Enlarged ventricles, 48 , 50 Enuresis, 83 , 85 Erikson, Erik, 208 , 213 Estrogen replacement therapy, 93 , 95 Ethical principles autonomy, 165 , 168 , 177 , 179 beneficence, 165 , 168 deciding seclusion or restraint for patient, 170 , 173 nonmaleficence, 165 , 168 obligation to report of impaired physician, 167 - 168 related to sexual relations with patient, 166 , 168 Ethnicity, 207 , 213 Euthanasia, 177 , 179 Oregon\u0027s Assisted Suicide Law, 177 , 179 Excoriation disorder, 63 - 64 Executive functioning, 34 Expressive psychotherapy, 144 , 148 Extinction, 204 , 210 F Face validity, 10 Factitious disorder, 73 , 75 common signs of, 73 , 76 healing of wounds, 73 , 76 history of anemia, 76 treating child with, 74 , 76 Factor validity, 10 Fantasy, 104 , 106 Feeding and eating disorders anorexia nervosa, 77 - 82 anorexia nervosa, binge/purge subtype, 77 , 80 binge eating vs overeating, 77 , 80 bulimia nervosa, 77 , 80 decreased appetite, 77 , 80 Female sexual interest/arousal disorder, 92 , 95 Ferritin level, correlation with sleeping difficulty, 89 , 91 Fexofenadine, 202 15q2 deletion, 6 , 11 Finger agnosia, 5 , 10 \"Five Ds\" in pellagra, 34 Flibanserin, 93 , 95 Fluency, 5 , 10 Flumazenil, 125 , 136 , 156 , 159 Fluoxetine, 93 , 95 , 156 , 159 - 160 Fluphenazine, side effects, 156 , 159 - 160 FMR-1 gene, 201 inactivation of, 12 mutation, 15 , 22 fMRI (functional magnetic resonance imaging), 5 , 10 Folic acid supplementation, 124 , 135 Fragile X syndrome, 201 Free association, 144 , 148 , 213 Freud, Sigmund, 208 , 213 Frontal lobe damage, 194 , 199 - 200 G Galactosemia, 12 Ganser syndrome, 68 , 70 Gender-dysphoric male, 97 - 98 Gender identity, 94 , 96 , 188 , 191 Genderqueer, 97 - 98 Generalized anxiety disorder, 59 , 61 , 126 , 136 Generativity, mastering, 206 , 212 Genetic etiology, 197 , 201 Genetic mapping studies, 201 Genomic and environmental risk factors, 152 - 153 Genomic testing, 152 - 153 Gerstmann syndrome, 5 , 10 Gesell Infant Scale, 11 Ghrelin, 87 , 90 Grammar, 15 , 23 Granulocyte colony-stimulating factor, 155 , 159 Grief, 176 , 178 medication for, 177 - 178 Group therapy, 93 , 95 , 108 , 110 , 145 , 148 , 201 for women with breast cancer, 154 , 158 Growth hormone, 87 , 90 Guilty verdict, 171 , 174 H Hallucinogens, 38 , 43 Haloperidol, 160 Hearing test, 15 , 22 Hematocrit, 97 - 98 Hemodialysis, 116 , 130 Hemoglobin, 97 - 98 Heroin withdrawal symptoms, 21 , 26 Hippocampus, 195 , 200 Histrionic personality disorder, 102 , 105 gender differences, 104 , 106 HIV/AIDS infection, 34 in children, 157 , 160 as leading cause of disability, 183 - 184 Hoarding, 62 , 64 Homicides, 176 , 178 , 189 , 192 Homosexuality, 97 - 98 H3 receptor agonism/inverse agonism, 89 , 91 Hunter syndrome, 12 Hurler syndrome, 12 Hydromorphone, 177 , 179 Hypercholesterolemia, 77 , 80 Hypersomnolence disorder, 87 , 90 Hyperthyroidism, 3 , 8 Hyperventilation, 202 Hypoglycemia, 40 Hypomagnesemia, 6 , 11 , 40 Hyponatremia, 40 Hyponatremic seizure, 84 - 85 Hypothalamic-pituitary-adrenal (HPA) axis activity, 58 Hypothalamus, 194 , 196 , 199 - 200 I Identity, 208 , 213 Iloperidone, 118 - 119 , 131 - 132 Immigrants, physician approach to, 207 , 212 - 213 Imprinting, 207 , 212 Information-processing model of training, 151 , 153 Information processing speed, 31 , 33 Inhalants, 39 , 43 effects of, 39 , 43 Insight-oriented therapy, 41 Intellectual disability, 14 - 15 , 20 , 25 in children with autism spectrum disorder, 20 , 26 seizures and, 20 , 25 Intellectual functioning, 206 , 211 Intensive outpatient program (IOP), 162 Intermittent explosive disorder (IED), 99 , 101 diagnosis of, 99 , 101 symptoms of, 99 , 101 treatment for, 100 - 101 Interpersonal psychotherapy (ITP), 146 , 150 intermediate phase of, 147 , 150 Intolerable pain, 177 , 179 Intoxication, 35 , 40 benzodiazepines, 156 , 159 legal definition, 35 , 40 lysergic acid diethylamide (LSD), 159 phencyclidine (PCP), 159 Irritability, 17 , 24 J Judgment, 4 , 8 K Ketamine, 38 , 43 , 123 , 135 Kleptomania, 99 , 101 Korsakoff syndrome, 29 , 33 , 205 , 211 K-bler-Ross, Elizabeth, 176 , 178 L Lacrimation, 37 , 42 Lamotrigine, 52 - 53 , 116 - 117 , 125 , 130 - 131 , 136 Language, 6 , 11 Lanugo, 77 , 80 Lead poisoning, 31 , 34 Learned helplessness, 204 , 211 theory of depression, 56 , 58 Learning deficits, 206 , 211 - 212 Least restrictive alternative, 170 , 173 Leptin, 87 , 90 Lesch-Nyhan syndrome, 12 Levorphanol, 177 , 179 Lewy inclusion bodies, 28 , 32 Linkage studies, 197 , 201 Lisdexamfetamine, 81 , 127 , 137 Lisinopril, 207 Lithium, 53 , 139 , 142 dosage, 124 , 135 side effects, 124 , 135 , 156 , 159 toxicity, 159 Liver function tests (LFTs), 5 , 11 Locus ceruleus, 35 , 40 Loneliness, 12 , 176 , 178 Love Addicts Anonymous, 96 Luria-Nebraska Neuropsychological Battery: Children\u0027s Revision (LNNB:C), 7 , 13 Lysergic acid diethylamide (LSD), 38 , 43 intoxication, 159 M Major depressive disorder, 54 , 57 , 176 , 196 , 201 age groups, 155 , 158 goal of treatment, 55 , 57 hyperactivity of HPA axis and, 200 melancholic, 155 , 158 psychomotor retardation in, 108 , 110 treatment for, 119 , 132 Male hypoactive sexual desire disorder, 92 , 95 Malingering, 108 , 110 causes of feigning symptoms in, 108 , 110 Malpractice, 170 , 173 4 Ds, 173 negligence to obtain informed consent, 171 , 174 Manganese poisoning, 31 , 34 Mania, 3 - 4 , 8 Manic episode emergency admission to psychiatric facility, 52 - 53 treatment duration for, 51 , 53 Manic-hypomanic episodes, differences between, 51 , 53 Marijuana, 19 , 25 Masturbation, 92 , 95 Meclizine, 155 , 159 Medical workup, 45 , 49 Medication toxicity, reversal of, 156 , 159 Memantine, 129 , 138 Memory difficulty, 206 , 211 - 212 Mental disorders as factor for discrimination, 183 - 184 prevalence estimates, 183 - 184 Mentalization-based therapy (MBT), 103 , 106 , 147 , 150 Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963, 161 - 162 Mental status examination, 3 , 12 for amnestic disorder, 29 , 32 anxiety in, 4 Meperidine, 37 , 177 , 179 Mercury poisoning, 31 , 34 Mesoaccumbens, 195 , 200 Methadone, 128 , 137 , 177 , 179 Methamphetamine, 38 , 43 Methylphenidate, 127 , 137 Metronidazole, 27 , 32 Microglia, 193 , 199 Migraines, 39 , 43 Military courts, 170 , 173 Millon Adolescent Personality Inventory (MAPI), 7 , 13 Mindfulness, 93 , 95 - 96 Minorities, negative life experiences of, 109 - 111 miRNA, 195 , 200 Mirtazapine, 122 , 134 M\u0027Naghten rule, 171 , 174 Monoamine oxidase inhibitors (MAOIs), 5 , 37 , 42 , 71 , 123 , 134 - 135 Mood, 7 , 13 Morphine, 177 , 179 Motivational interviewing, 9 , 36 , 41 Mullen Scales of Early Learning, 7 , 13 Multimodal intervention, 180 , 182 Multiple sleep latency test (MSLT), 88 , 90 Myocardial infarctions, 6 , 11 , 183 - 184 N Naloxone, 37 , 42 Naltrexone, 36 , 41 , 128 , 137 Narcissistic personality disorder, 102 , 105 Narcolepsy, 88 , 90 Narrative family therapy, 145 , 148 - 149 Narrative psychotherapy, 147 , 150 Nefazodone, 122 , 134 Negative reinforcement, 204 , 210 Neuroleptic-induced movement disorder, 115 , 130 Neuroleptic-induced parkinsonism, 115 , 130 Neuroleptic malignant syndrome (NMS), 115 , 129 - 130 , 138 Neurologic abnormality in criminals, 108 , 110 Neuropsychological testing, 31 , 33 Neurosyphilis, 34 Nicotine replacement therapy, 43 Nitroglycerin, 93 , 95 Nonmaleficence, 165 , 168 Norepinephrine reuptake inhibition, 20 , 26 Normal development and aging. See also Toddler development characteristic of normal dreams, 189 , 191 concrete operational period, 188 , 190 emotional development, 188 , 191 Erik Erikson\u0027s developmental stages, 208 , 213 Freud\u0027s stages of child development, 208 , 213 gender identity, 188 , 191 generativity vs stagnation, middle adulthood, 189 , 192 imaginary companions, 188 , 191 imitation of facial movements, 188 , 190 - 191 intelligence, 188 , 191 middle years, 188 , 191 neuropsychiatric changes with aging, 189 , 192 perception of attractive physical appearance, 189 , 192 smiling back, 188 , 190 stranger anxiety vs separation anxiety, 188 , 191 utterances and use of words, 188 , 190 verbal ability, 189 , 192 Normal pressure hydrocephalus (NPH), 154 , 158 O Objectivity, 3 Object permanence, 203 , 210 Observation, 15 , 22 Obsessional thoughts, 13 Obsessive-compulsive disorder (OCD), 19 , 70 , 78 , 81 new-onset symptoms in older individuals, 62 , 64 therapy and medication for, 63 - 64 , 120 , 122 , 132 - 134 types of obsessions with, 62 , 64 Obsessive compulsive personality disorder, 102 , 105 gender differences, 104 , 106 medication management, 104 , 106 Occipital lobe damage, 200 Olanzapine, 78 , 81 , 115 , 117 , 130 - 131 Olfactory reference syndrome, 62 , 64 -opioid agonists, 128 , 137 Opioids, 35 - 36 , 40 - 41 substitution therapy, 37 , 42 withdrawal, signs or symptoms, 37 , 42 Oregon\u0027s Assisted Suicide Law, 177 , 179 Orexin, 87 , 90 Orthostatic hypotension, 37 , 42 , 119 , 132 , 159 Overgeneralization, 146 , 149 P Paliperidone, 120 Paliperidone palmitate, 167 - 169 Panic attacks, 59 , 61 Parallel play, 190 Paranoia, 146 , 149 - 150 Paranoid personality disorder, 102 , 105 gender differences, 104 , 106 schizophrenia vs, 103 , 105 Paranoid schizophrenia with active delusions, 145 , 148 Paraphilic disorders, 94 , 96 Parental psychoeducation, 16 , 23 Parietal lobe, 5 , 10 damage, 200 Paroxetine, 65 , 67 , 117 , 131 Partial hospital programs, 161 - 162 Participant modeling therapy, 146 , 149 Patient confidentiality, 166 , 168 Patient consent, 3 Pedigree analysis, 197 , 201 Pedophilia, diagnosis of, 94 , 96 Peer-to-peer consultation, 167 - 169 Pellagra, 34 Penicillin, 31 , 34 Perceptual disturbances, 13 Permissive parenting, 109 , 111 Persecutory delusions, 155 , 158 Persistent depressive disorder, 54 , 57 Persistent vegetative state, 177 , 179 Personality cannabis-induced psychotic disorder and, 37 , 42 changes, 30 - 33 Personality disorders anankastic personality disorder, 103 , 105 borderline personality disorder, 103 , 106 categorical approach to, 102 , 105 dependent traits, 103 , 106 dissociation and repression, 102 , 105 histrionic personality disorder, 102 , 105 identity diffusion, 103 , 106 narcissistic personality disorder, 102 , 105 paranoid, 102 , 105 paranoid personality disorder, 102 - 103 , 105 reward dependence, 104 , 107 schizoid personality disorder, 102 - 103 , 105 - 106 schizotypal personality disorder, 102 , 105 Phencyclidine (PCP) intoxication, 159 Phenothiazine, 12 Phenylalanine, 7 , 12 Phenylketonuria (PKU), 12 , 22 Pheochromocytomas, 9 Phone consultation, 103 , 106 Phonology, 15 , 23 Pitolisant, 89 , 91 Plantar (Babinski) reflex, 187 , 190 Pleasurable feelings, 94 , 96 Polacrilex gum, 38 , 43 Positive emotions, 176 , 178 Positive psychology, 209 , 213 - 214 Posttraumatic stress disorder (PTSD), 17 , 24 in bulimia nervosa, 78 , 81 diagnosis of, 65 , 67 evidence-based therapy for, 66 - 67 risk factors, 66 - 67 symptoms, 65 , 67 Prader-Willi syndrome, 11 , 64 , 201 Pragmatics, 15 , 23 Prazosin, 65 , 67 , 71 Pregnancy embryo development, 187 , 190 fetal brain development, 187 , 190 milestones, 187 , 190 reflexes present at birth, 187 , 190 Premack principle, 204 , 211 Preparedness, 204 , 210 Preschoolers, 176 , 178 Priapism, 122 , 127 , 134 , 137 Privacy Rule, 172 , 174 - 175 Privileged communications, 170 , 173 Procedural memory, 211 Projection, 207 , 212 Projective identification, 102 , 105 Propranolol, 46 , 49 - 50 , 126 , 136 Prosopagnosia, 12 Psychiatric abnormality, 30 - 33 Psychiatric admission, temporary vs involuntary, 170 , 173 Psychiatric disorders, risks of, 183 - 184 Psychiatric illnesses, 197 , 201 Psychiatric interview person-centered approach, 3 steps, 3 Psychiatric medications dose adjustments in, 155 , 159 rules or regulations, 170 , 173 Psychiatric rehabilitation strategies, 151 , 153 Psychiatric symptoms, 3 Psychoanalysis free association, 144 , 148 good candidate for, 144 , 148 Psychoanalytic psychotherapy, 144 , 148 Psychoeducation, 147 , 150 Psychogenic amnesia, 206 , 212 Psychomotor retardation, 176 , 178 Psychotherapy, 9 , 41 , 197 , 201 note, 4 Psychotoxicity, 179 Public community psychiatry multidisciplinary team, 181 - 182 Public health programs, 180 , 182 Q Quetiapine, 47 , 52 - 53 , 115 , 118 , 130 - 131 R Radioactive iodine, 31 , 34 Ranolazine, 93 , 95 Raphe nuclei, 195 , 200 Rapid Alcohol Problem Screen 4 (RAPS4) screening tool, 3 Rating scales, 4 Reboxetine, 84 - 86 Reframing, 145 , 149 Reinstatement, 204 , 210 - 211 Relaxation techniques, 60 - 61 RELN gene, 201 Reserpine, 207 , 212 Residential care, 161 - 162 Retrograde deficits, 211 Reversibility, 210 Rhabdomyolysis, 39 , 43 Right-left disorientation, 5 , 10 Risperidone, 14 , 22 , 65 , 67 , 115 , 120 , 130 Role-playing, 151 , 153 Rotter Incomplete Sentences Blank Test, 7 , 13 Rubella, 20 , 25 Rubinstein-Taybi syndrome, 11 S Schizoaffective disorder, 44 , 46 , 49 Schizoid personality disorder, 102 - 103 , 105 - 106 common defense mechanisms, 104 , 106 Schizophrenia, 120 , 201 diagnosis of, 45 , 49 hospital admission, 46 , 49 suicide as cause of premature death, 44 , 49 treatment duration, 47 , 50 Schizotypal personality disorder, 102 , 105 saccadic eye movements in, 104 , 106 School resource officer (SRO), 18 School violence, 189 , 192 Scurvy, 34 Seclusion or restraint for patient ethical principles, 170 , 173 measures, 171 , 174 Sedatives, 177 - 178 Seizures, 139 , 142 alcohol abuse and, 35 , 40 intellectual disability and, 20 , 25 simple partial, 30 , 33 Selective intervention, 180 , 182 Selective serotonin reuptake inhibitors (SSRIs), 17 , 24 , 59 , 61 , 64 , 67 - 68 , 70 - 71 , 81 , 121 , 133 - 134 with benzodiazepine, 60 - 61 discontinuation syndrome, 121 , 133 for impulsivity and aggression, 101 sexual dysfunction as side effect of, 120 , 133 treatment of cataplexy, 90 Semantic memory, 30 , 33 , 211 Semantics, 15 , 23 Senile plaques, 14 , 22 Separation anxiety, 18 , 24 - 25 , 188 , 191 Serotonin, 104 , 107 , 195 , 200 Serotonin-dopamine antagonists, 115 - 116 , 130 , 132 Serotonin syndrome, 121 , 133 Sex Addicts Anonymous, 96 Sexaholics Anonymous, 96 Sexual fantasies or impulses, 93 , 96 SHANK3 gene, 202 Sib-pair analysis, 197 , 201 Sildenafil, 93 , 95 , 129 , 138 Simple partial seizure, 30 , 33 Single-nucleotide polymorphisms, 201 Sleep disorders, advanced age and, 155 , 159 Sleepwalking, 88 , 90 Social functioning, 22 Social perception, 151 , 153 Social phobia, 78 , 81 Social referencing, 188 , 191 Social skills rehabilitation, 151 , 153 Sodium, 116 , 130 Sodium oxybate, 90 Somatic disorder antidepressants for, 73 , 76 comorbidities in, 73 , 76 distinction from factitious disorder, 73 , 76 ICD-10 criteria vs DSM-5-TR criteria, 72 , 75 similarities between anxiety disorder and, 72 , 75 symptoms, 72 , 75 Specific phobia, 59 , 61 Speech therapy, 20 , 26 Spinal cord, as epicenter of orgasms, 94 , 96 Spontaneous remission in enuresis, 83 , 85 Spousal bereavement, 176 , 178 State-dependent learning, 204 , 210 Stevens-Johnson syndrome, 136 Stimulants, 15 - 16 , 23 , 38 , 43 Stranger anxiety, 188 , 191 Sublimation, 207 , 212 Substance abuse ethnicity and lifetime rate of, 35 , 40 screening tool, 3 Substance use disorder, 94 , 96 Suicidality, 18 , 25 Suicidal statement, 4 Suicide, 12 , 117 , 131 , 176 , 178 attempt, risk of, 18 , 24 , 38 , 42 as cause of premature death in schizophrenia, 44 , 49 in China, 183 - 184 emergency room (ER) screens for, 155 , 159 foreseeable, 170 , 173 pervasive hopelessness as risk factor, 155 , 159 prevalence rates in children of divorced families, 189 , 191 prevalence rates in males over 45 years of age, 154 , 158 risk in cancer patients, 155 , 158 substance abuse and, 35 , 40 Supportive employment program, 151 , 153 Supportive psychotherapy, 145 , 148 Suprachiasmatic nucleus, 87 , 90 Synaptogenesis, 194 , 200 Synthetic THC, FDA approval, 37 , 42 Systematic desensitization, 146 , 149 T Tarasoff law, 170 , 173 Tardive dyskinesia (TD), 115 , 130 , 160 Temporal lobe, 193 , 199 damage, 200 , 205 , 211 tumor, 30 , 33 Testosterone supplementation, 98 Tetrabenazine, 115 , 130 Thalamus, 193 , 199 Thematic Apperception Test (TAT), 7 , 13 Therapeutic communities, 108 , 110 Therapist-patient relationship, 209 , 214 Theta waves, 198 , 202 Thiamine deficiency, 34 , 36 , 41 Thiamine replacement, 29 , 32 - 33 Thought content, 7 , 13 Thyroid function, 123 , 135 Thyroid-stimulating hormone, 87 , 90 Tobacco dependence, 35 , 40 Toddler development, 187 - 188 , 190 social referencing, 188 , 191 Toluene, 5 , 10 - 11 , 31 , 34 Topiramate, 65 , 67 , 82 , 125 , 136 Tourette syndrome, 19 , 25 Transexual, 97 - 98 Transference, 213 Transference-focused psychotherapy (TFP), 103 , 106 Transgender, 97 - 98 Transient global amnesia, 68 , 70 Trazodone, 122 , 134 Treatment boundaries, 172 , 174 Treponema infection, 34 Trichotillomania, 62 - 64 Tricyclic antidepressants (TCAs), 71 , 73 , 76 concerns of, 131 serotonin and norepinephrine reuptake inhibition, 122 , 134 side effects, 123 , 134 - 135 therapeutic effect of, 122 , 134 Tuberoinfundibular pathway, 120 , 132 Tympanic membrane, 193 , 199 Tyrosine, 195 , 200 U Universal intervention, 180 , 182 V Valbenazine, 115 , 130 Valproic acid, 5 , 11 , 116 - 117 , 130 - 131 laboratory test, 124 , 135 - 136 Vascular dementia, 28 , 32 Venlafaxine, 65 , 67 , 121 , 133 Ventricular enlargement, 193 , 199 Vineland adaptive behavior scale, 6 , 11 Vitamin B3 (niacin), 31 , 34 Vitamin B12, 5 , 11 Vitamin deficiencies, 36 thiamine, 36 , 41 vitamin A, 34 vitamin B12, 34 vitamin C, 34 W Weight gain, 127 , 137 Wernicke encephalopathy, 36 , 40 Wernicke-Korsakoff syndrome, 34 Williams syndrome, 12 Withdrawal behavioral response, 203 , 210 X X chromosome, 201 Y Yale-Brown Obsessive-Compulsive Scale (Y-BOCS), 120 Yohimbine, 93 , 95 Z Ziprasidone, 6 , 11 , 115 , 118 , 120 , 130 - 131 Zolpidem, 126 , 136"
     }
 ]
 ;

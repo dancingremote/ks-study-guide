@@ -43,19 +43,24 @@
 
   function migrateState(s) {
     // Older saves stored a single-letter answer/testAnswer instead of arrays.
+    // Guarantee the new shape unconditionally so a render can never throw
+    // on an unexpected/partial old entry.
     if (s.answered) {
       Object.keys(s.answered).forEach(id => {
         const a = s.answered[id];
-        if (a && !a.selectedLetters && a.selectedLetter) {
-          a.selectedLetters = [a.selectedLetter];
-          delete a.selectedLetter;
+        if (!a) { delete s.answered[id]; return; }
+        if (!Array.isArray(a.selectedLetters)) {
+          a.selectedLetters = a.selectedLetter ? [a.selectedLetter] : [];
         }
+        delete a.selectedLetter;
       });
     }
     if (s.testAnswers) {
       Object.keys(s.testAnswers).forEach(id => {
         const sel = s.testAnswers[id];
-        if (typeof sel === 'string') s.testAnswers[id] = [sel];
+        if (!Array.isArray(sel)) {
+          s.testAnswers[id] = sel ? [sel] : [];
+        }
       });
     }
     return s;
@@ -507,7 +512,7 @@
       } else if (state.mode === 'test' && !submitted) {
         if (testSelected.includes(letter)) cls += ' selected-multi';
       } else if (showAnswer) {
-        const selectedLetters = state.mode === 'test' ? testSelected : (answer ? answer.selectedLetters : []);
+        const selectedLetters = state.mode === 'test' ? testSelected : (answer && answer.selectedLetters ? answer.selectedLetters : []);
         const isCorrectChoice = q.correctLetters.includes(letter);
         const wasSelected = selectedLetters.includes(letter);
         if (isCorrectChoice && wasSelected) cls += ' correct';

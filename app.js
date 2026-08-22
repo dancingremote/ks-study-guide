@@ -41,11 +41,31 @@
     atSummary: false
   };
 
+  function migrateState(s) {
+    // Older saves stored a single-letter answer/testAnswer instead of arrays.
+    if (s.answered) {
+      Object.keys(s.answered).forEach(id => {
+        const a = s.answered[id];
+        if (a && !a.selectedLetters && a.selectedLetter) {
+          a.selectedLetters = [a.selectedLetter];
+          delete a.selectedLetter;
+        }
+      });
+    }
+    if (s.testAnswers) {
+      Object.keys(s.testAnswers).forEach(id => {
+        const sel = s.testAnswers[id];
+        if (typeof sel === 'string') s.testAnswers[id] = [sel];
+      });
+    }
+    return s;
+  }
+
   function loadState() {
     try {
       const raw = localStorage.getItem(STORAGE_KEY);
       if (!raw) throw new Error('none');
-      return Object.assign({}, defaults, JSON.parse(raw));
+      return migrateState(Object.assign({}, defaults, JSON.parse(raw)));
     } catch (e) {
       return Object.assign({}, defaults);
     }

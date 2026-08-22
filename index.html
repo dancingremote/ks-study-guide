@@ -228,6 +228,8 @@
   .choice.correct .letter { background: var(--green); border-color: var(--green); color: white; }
   .choice.incorrect { background: var(--red-bg); border-color: var(--red); }
   .choice.incorrect .letter { background: var(--red); border-color: var(--red); color: white; }
+  .choice.eliminated { opacity: 0.5; }
+  .choice.eliminated span:not(.letter) { text-decoration: line-through; }
   .actions {
     margin-top: 18px;
     display: flex;
@@ -542,7 +544,7 @@
   602 questions, answers, and explanations extracted directly from Kaplan &amp; Sadock's Study Guide and Self-Examination Review — for personal study use.
 </footer>
 </div>
-<script src="data.js?v=4"></script>
-<script src="app.js?v=4"></script>
+<script src="data.js?v=5"></script>
+<script src="app.js?v=5"></script>
 </body>
 </html>

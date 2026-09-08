@@ -145,13 +145,53 @@
       .replace(/>/g, '&gt;');
   }
 
+  function renderExplanationBody(text) {
+    if (!text) return '';
+    const paragraphs = text.split(/\n\n+/);
+    return paragraphs.map((para, i) => {
+      const lines = para.split('\n');
+      const isLastPara = i === paragraphs.length - 1;
+      const blocks = [];
+      let listBuffer = [];
+      let listType = null;
+      const flushList = () => {
+        if (!listBuffer.length) return;
+        const tag = listType;
+        blocks.push(`<${tag}>${listBuffer.map(item => `<li>${escapeHtml(item)}</li>`).join('')}</${tag}>`);
+        listBuffer = [];
+        listType = null;
+      };
+      lines.forEach(line => {
+        const bulletMatch = line.match(/^- (.*)$/);
+        const numberedMatch = line.match(/^\d+\. (.*)$/);
+        if (bulletMatch) {
+          if (listType && listType !== 'ul') flushList();
+          listType = 'ul';
+          listBuffer.push(bulletMatch[1]);
+        } else if (numberedMatch) {
+          if (listType && listType !== 'ol') flushList();
+          listType = 'ol';
+          listBuffer.push(numberedMatch[1]);
+        } else {
+          flushList();
+          if (line.trim()) blocks.push(`<p>${escapeHtml(line)}</p>`);
+        }
+      });
+      flushList();
+      const html = blocks.join('');
+      return isLastPara && paragraphs.length > 1 ? `<div class="explanation-citation">${html}</div>` : html;
+    }).join('');
+  }
+
   function formatExplanation(q) {
     const explanation = q.explanation || '';
+    let leadingHtml = '';
+    let rest = explanation;
     if (q.answerText && explanation.startsWith(q.answerText)) {
-      const rest = explanation.slice(q.answerText.length).trim();
-      return `<strong>${escapeHtml(q.answerText)}</strong>${escapeHtml(rest)}`;
+      leadingHtml = `<strong>${escapeHtml(q.answerText)}</strong>`;
+      rest = explanation.slice(q.answerText.length).trim();
     }
-    return escapeHtml(explanation);
+    return leadingHtml + renderExplanationBody(rest);
   }
 
   function populateChapterSelect() {
@@ -569,8 +609,8 @@
         <div class="card-header">
           <span class="tag">Ch ${q.chapter} · Q${q.chapter}.${q.qnum}</span>
           <div class="card-header-actions">
-            ${canRetry ? '<button type="button" class="icon-btn retry-btn" id="retryBtn">↻ Retry</button>' : ''}
-            <button type="button" class="icon-btn ${isFlagged ? 'flagged' : ''}" id="flagBtn">${isFlagged ? '⚑ Flagged' : '⚐ Flag'}</button>
+            ${canRetry ? '<button type="button" class="icon-btn retry-btn" id="retryBtn">↻ Retry (R)</button>' : ''}
+            <button type="button" class="icon-btn ${isFlagged ? 'flagged' : ''}" id="flagBtn">${isFlagged ? '⚑ Flagged (K)' : '⚐ Flag (K)'}</button>
           </div>
         </div>
         <p class="question-text">${escapeHtml(q.question)}</p>
